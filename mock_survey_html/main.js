@@ -1,30 +1,34 @@
-// Mock data to simulate API responses
-const mockMinorSoc = {
-  '11': [
-    { code: '11-1011', label: 'Chief Executives' },
-    { code: '11-1021', label: 'General and Operations Managers' }
-  ],
-  '15': [
-    { code: '15-1232', label: 'Software Developers' },
-    { code: '15-1244', label: 'Network Architects' }
-  ]
-};
+// Base URL of the deployed API
+const API_BASE = 'https://iurbinah-soc-lookup-space.hf.space';
 
-const mockForeignRates = {
-  states: { 'CA': 27.2, 'NY': 22.5 },
-  occupations: {
-    '11-1011': 15.1,
-    '11-1021': 16.8,
-    '15-1232': 28.6,
-    '15-1244': 24.3
-  },
-  automation: {
-    '11-1011': 7,
-    '11-1021': 19,
-    '15-1232': 52,
-    '15-1244': 42
-  }
-};
+// Utility functions to query the API
+async function fetchMinorSOC(major) {
+  const url = `${API_BASE}/automation_family?major=${encodeURIComponent(major)}`;
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error('minor SOC fetch failed');
+  return resp.json();
+}
+
+async function fetchStateForeign(state) {
+  const url = `${API_BASE}/foreign_rate?state=${encodeURIComponent(state)}`;
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error('state foreign fetch failed');
+  return resp.json();
+}
+
+async function fetchOccForeign(soc) {
+  const url = `${API_BASE}/occ_foreign_rate?soc=${encodeURIComponent(soc)}`;
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error('occupation foreign fetch failed');
+  return resp.json();
+}
+
+async function fetchAutomationPctile(soc) {
+  const url = `${API_BASE}/automation_percentile?soc=${encodeURIComponent(soc)}`;
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error('automation percentile fetch failed');
+  return resp.json();
+}
 
 // Simple embedded data store
 const dataStore = {};
@@ -93,24 +97,43 @@ function renderMinorSocPage() {
   const div = document.createElement('div');
   div.className = 'page active';
   const major = getEmbedded('majorSOC');
-  const options = (mockMinorSoc[major] || []).map(o => `<option value="${o.code}">${o.label}</option>`).join('');
   div.innerHTML = `
     <label for="minor">Select 6 digit SOC:</label>
     <select id="minor">
-      <option value="">--choose--</option>
-      ${options}
+      <option value="">Loading...</option>
     </select>
     <button id="next">Next</button>
   `;
-  div.querySelector('#next').onclick = () => {
-    const minor = div.querySelector('#minor').value;
+
+  const select = div.querySelector('#minor');
+  fetchMinorSOC(major)
+    .then(list => {
+      const opts = list.map(o => `<option value="${o.soc}">${o.occupation}</option>`).join('');
+      select.innerHTML = `<option value="">--choose--</option>` + opts;
+    })
+    .catch(err => {
+      console.error(err);
+      select.innerHTML = `<option value="">(failed to load)</option>`;
+    });
+
+  div.querySelector('#next').onclick = async () => {
+    const minor = select.value;
     if (!minor) return alert('Please select an occupation');
     setEmbedded('soc', minor);
-    // Simulated API calls
-    setEmbedded('stateForeignPct', mockForeignRates.states[getEmbedded('state')]);
-    setEmbedded('occForeignPct', mockForeignRates.occupations[minor]);
-    setEmbedded('automationPctile', mockForeignRates.automation[minor]);
-    nextPage();
+    try {
+      const [sData, oData, aData] = await Promise.all([
+        fetchStateForeign(getEmbedded('state')),
+        fetchOccForeign(minor),
+        fetchAutomationPctile(minor)
+      ]);
+      setEmbedded('stateForeignPct', sData.foreign_pct);
+      setEmbedded('occForeignPct', oData.foreign_pct);
+      setEmbedded('automationPctile', aData.automation_pctile);
+      nextPage();
+    } catch (err) {
+      console.error(err);
+      alert('Error contacting the API, see console for details.');
+    }
   };
   return div;
 }
