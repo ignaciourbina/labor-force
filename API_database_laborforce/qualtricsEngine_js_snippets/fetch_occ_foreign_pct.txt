@@ -1,0 +1,26 @@
+/* Snippet 4: Save foreign-born share for the selected occupation
+   ---------------------------------------------------------------
+   Queries the `/occ_foreign_rate` endpoint once the 6-digit SOC
+   code has been captured. The `foreign_pct` value is stored in the
+   `occForeignPct` embedded data field.
+
+   Replace QID456 below with the question ID that contains the chosen
+   SOC code.
+*/
+
+Qualtrics.SurveyEngine.addOnReady(async function() {
+  const soc = '${q://QID456/ChoiceTextEntryValue}'; // <-- piped six-digit SOC
+  const url = 'https://iurbinah-soc-lookup-space.hf.space/occ_foreign_rate?soc=' + encodeURIComponent(soc);
+
+  try {
+    const resp = await fetch(url);
+    if (resp.ok) {
+      const data = await resp.json();
+      Qualtrics.SurveyEngine.setEmbeddedData('occForeignPct', data.foreign_pct);
+    } else {
+      console.error('occupation foreign fetch failed', resp.status);
+    }
+  } catch (err) {
+    console.error('occupation foreign fetch error', err);
+  }
+});

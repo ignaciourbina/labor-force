@@ -1,0 +1,27 @@
+/* Snippet 1: Fetch list of six-digit SOC codes for a major SOC group
+   -----------------------------------------------------------------
+   Retrieves the major SOC value from a previous Qualtrics question
+   using piped text. Before the page loads, it queries the API for
+   all occupations in that major group and stores the array in an
+   embedded data field called `familySOCList`.
+
+   Replace QID123 below with the question ID that captures the major
+   SOC two-digit code.
+*/
+
+Qualtrics.SurveyEngine.addOnReady(async function() {
+  const major = '${q://QID123/ChoiceTextEntryValue}'; // <-- piped major code
+  const url = 'https://iurbinah-soc-lookup-space.hf.space/automation_family?major=' + encodeURIComponent(major);
+
+  try {
+    const resp = await fetch(url);
+    if (resp.ok) {
+      const list = await resp.json();
+      Qualtrics.SurveyEngine.setEmbeddedData('familySOCList', JSON.stringify(list));
+    } else {
+      console.error('family fetch failed', resp.status);
+    }
+  } catch (err) {
+    console.error('family fetch error', err);
+  }
+});
