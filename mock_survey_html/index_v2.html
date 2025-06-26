@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Labor Force Survey</title>
+    
+    <!-- Tailwind CSS for modern styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Custom styles to complement Tailwind */
+        body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Page transition animation */
+        .survey-page {
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        /* Custom focus styles for better accessibility */
+        .form-input:focus, .form-select:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.5); /* blue-300 with 50% opacity */
+            border-color: #3b82f6; /* blue-500 */
+        }
+
+        /* Tooltip styles */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip .tooltip-text {
+            visibility: hidden;
+            width: 250px;
+            background-color: #1f2937; /* gray-800 */
+            color: #fff;
+            text-align: left;
+            border-radius: 0.5rem; /* rounded-lg */
+            padding: 0.75rem; /* p-3 */
+            position: absolute;
+            z-index: 10;
+            bottom: 125%;
+            /* Changed to prevent clipping on the right edge */
+            right: 5%;
+            left: auto;
+            transform: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+        }
+        
+        .tooltip .tooltip-text::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            /* Adjusted to align with new tooltip position */
+            right: 10px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #1f2937 transparent transparent transparent;
+        }
+
+        .tooltip:hover .tooltip-text {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Spinner for loading states */
+        .loader {
+            border: 4px solid #f3f3f3; /* Light grey */
+            border-top: 4px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+    </style>
+</head>
+<body class="bg-gray-50 flex items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-2xl mx-auto">
+        
+        <!-- Survey Container -->
+        <div id="survey-container" class="bg-white rounded-xl shadow-lg overflow-hidden transition-all duration-500">
+            <div class="p-6 sm:p-8">
+                <!-- Header -->
+                <div class="flex items-start sm:items-center justify-between mb-6 flex-col sm:flex-row">
+                    <div>
+                        <h1 id="survey-title" class="text-2xl font-bold text-gray-800">Labor Force Survey</h1>
+                        <p id="survey-subtitle" class="text-gray-500 mt-1">Please answer the following questions.</p>
+                    </div>
+                    <div id="survey-logo" class="text-sm font-semibold text-gray-400 mt-2 sm:mt-0">
+                        LFS-2025
+                    </div>
+                </div>
+
+                <!-- Progress Bar -->
+                <div id="progress-container" class="mb-8">
+                    <div class="flex justify-between items-center mb-1">
+                        <span class="text-sm font-medium text-gray-600">Progress</span>
+                        <span id="progress-text" class="text-sm font-medium text-gray-600">Page 1 of 3</span>
+                    </div>
+                    <div class="w-full bg-gray-200 rounded-full h-2.5">
+                        <div id="progress-bar" class="bg-blue-600 h-2.5 rounded-full transition-all duration-500" style="width: 0%"></div>
+                    </div>
+                </div>
+
+                <!-- Dynamic Survey Content -->
+                <div id="survey-content">
+                    <!-- Questions will be injected here -->
+                </div>
+
+                <!-- Validation Message Area -->
+                <div id="validation-message" class="mt-4 text-red-600 text-sm font-medium h-5"></div>
+            </div>
+
+            <!-- Navigation -->
+            <div id="navigation-controls" class="bg-gray-100 px-6 sm:px-8 py-4 flex justify-between items-center border-t border-gray-200">
+                <button id="prev-btn" class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-300 rounded-lg shadow-sm transition-colors duration-200 disabled:opacity-50 disabled:cursor-not-allowed">
+                    Previous
+                </button>
+                <button id="next-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                    Next
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- API Script (Conceptually, api.js) -->
+    <script>
+        // --- API Configuration and Fetch Functions ---
+        const API_BASE = 'https://iurbinah-soc-lookup-space.hf.space';
+
+        /**
+         * Generic fetch wrapper that throws an error on failure.
+         * The caller is responsible for handling the UI feedback.
+         * @param {string} url - The URL to fetch.
+         * @param {string} errorMessage - The error message to throw on failure.
+         * @returns {Promise<any>} - A promise that resolves with the JSON response.
+         */
+        async function fetchAPI(url, errorMessage) {
+            const resp = await fetch(url);
+            if (!resp.ok) {
+                throw new Error(`${errorMessage} (status: ${resp.status})`);
+            }
+            return resp.json();
+        }
+
+        const fetchMinorSOC = (major) => fetchAPI(`${API_BASE}/automation_family?major=${encodeURIComponent(major)}`, 'Minor SOC fetch failed');
+        const fetchStateForeign = (state) => fetchAPI(`${API_BASE}/foreign_rate?state=${encodeURIComponent(state)}`, 'State foreign fetch failed');
+        const fetchOccForeign = (soc) => fetchAPI(`${API_BASE}/occ_foreign_rate?soc=${encodeURIComponent(soc)}`, 'Occupation foreign fetch failed');
+        const fetchAutomationPctile = (soc) => fetchAPI(`${API_BASE}/automation_percentile?soc=${encodeURIComponent(soc)}`, 'Automation percentile fetch failed');
+    </script>
+    
+    <!-- Main Application Script (Conceptually, main.js) -->
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        // --- Data Store ---
+        const dataStore = {}; // Simple embedded data store
+
+        // --- DOM Element References ---
+        const surveyContent = document.getElementById('survey-content');
+        const nextBtn = document.getElementById('next-btn');
+        const prevBtn = document.getElementById('prev-btn');
+        const progressBar = document.getElementById('progress-bar');
+        const progressText = document.getElementById('progress-text');
+        const progressContainer = document.getElementById('progress-container');
+        const validationMessage = document.getElementById('validation-message');
+        const surveyTitle = document.getElementById('survey-title');
+        const surveySubtitle = document.getElementById('survey-subtitle');
+        const navControls = document.getElementById('navigation-controls');
+
+        // --- State Management ---
+        let pageIndex = 0;
+
+        // --- Data Definitions ---
+        const states = [
+            { name: 'Alabama', abbreviation: 'AL' }, { name: 'Alaska', abbreviation: 'AK' },
+            { name: 'Arizona', abbreviation: 'AZ' }, { name: 'Arkansas', abbreviation: 'AR' },
+            { name: 'California', abbreviation: 'CA' }, { name: 'Colorado', abbreviation: 'CO' },
+            { name: 'Connecticut', abbreviation: 'CT' }, { name: 'Delaware', abbreviation: 'DE' },
+            { name: 'District of Columbia', abbreviation: 'DC' }, { name: 'Florida', abbreviation: 'FL' },
+            { name: 'Georgia', abbreviation: 'GA' }, { name: 'Hawaii', abbreviation: 'HI' },
+            { name: 'Idaho', abbreviation: 'ID' }, { name: 'Illinois', abbreviation: 'IL' },
+            { name: 'Indiana', abbreviation: 'IN' }, { name: 'Iowa', abbreviation: 'IA' },
+            { name: 'Kansas', abbreviation: 'KS' }, { name: 'Kentucky', abbreviation: 'KY' },
+            { name: 'Louisiana', abbreviation: 'LA' }, { name: 'Maine', abbreviation: 'ME' },
+            { name: 'Maryland', abbreviation: 'MD' }, { name: 'Massachusetts', abbreviation: 'MA' },
+            { name: 'Michigan', abbreviation: 'MI' }, { name: 'Minnesota', abbreviation: 'MN' },
+            { name: 'Mississippi', abbreviation: 'MS' }, { name: 'Missouri', abbreviation: 'MO' },
+            { name: 'Montana', abbreviation: 'MT' }, { name: 'Nebraska', abbreviation: 'NE' },
+            { name: 'Nevada', abbreviation: 'NV' }, { name: 'New Hampshire', abbreviation: 'NH' },
+            { name: 'New Jersey', abbreviation: 'NJ' }, { name: 'New Mexico', abbreviation: 'NM' },
+            { name: 'New York', abbreviation: 'NY' }, { name: 'North Carolina', abbreviation: 'NC' },
+            { name: 'North Dakota', abbreviation: 'ND' }, { name: 'Ohio', abbreviation: 'OH' },
+            { name: 'Oklahoma', abbreviation: 'OK' }, { name: 'Oregon', abbreviation: 'OR' },
+            { name: 'Pennsylvania', abbreviation: 'PA' }, { name: 'Rhode Island', abbreviation: 'RI' },
+            { name: 'South Carolina', abbreviation: 'SC' }, { name: 'South Dakota', abbreviation: 'SD' },
+            { name: 'Tennessee', abbreviation: 'TN' }, { name: 'Texas', abbreviation: 'TX' },
+            { name: 'Utah', abbreviation: 'UT' }, { name: 'Vermont', abbreviation: 'VT' },
+            { name: 'Virginia', abbreviation: 'VA' }, { name: 'Washington', abbreviation: 'WA' },
+            { name: 'West Virginia', abbreviation: 'WV' }, { name: 'Wisconsin', abbreviation: 'WI' },
+            { name: 'Wyoming', abbreviation: 'WY' }
+        ];
+
+        const socGroups = [
+            { code: "11-0000", label: "Management Occupations", desc: "Plan, direct, and coordinate resources and overall operations of organizations. Includes executives, managers, and administrators." },
+            { code: "13-0000", label: "Business and Financial Operations Occupations", desc: "Perform analytical, business, and financial activities such as accounting, analysis, and human‑resources planning." },
+            { code: "15-0000", label: "Computer and Mathematical Occupations", desc: "Design, develop, and test software or apply mathematical theory to data and systems problems." },
+            { code: "17-0000", label: "Architecture and Engineering Occupations", desc: "Design, build, and test structures, products, and systems. Includes architects, engineers, and drafters." },
+            { code: "19-0000", label: "Life, Physical, and Social Science Occupations", desc: "Study living organisms, the physical world, and human behavior through research, analysis, and experiments." },
+            { code: "21-0000", label: "Community and Social Service Occupations", desc: "Provide counseling, social services, and mental‑health or religious support to individuals and communities." },
+            { code: "23-0000", label: "Legal Occupations", desc: "Represent parties, interpret law, and prepare legal documents. Includes lawyers, judges, and paralegals." },
+            { code: "25-0000", label: "Educational Instruction and Library Occupations", desc: "Teach and instruct students or manage instructional resources and information services." },
+            { code: "27-0000", label: "Arts, Design, Entertainment, Sports, and Media Occupations", desc: "Create and communicate ideas through art, design, performance, sports, broadcasting, or journalism." },
+            { code: "29-0000", label: "Healthcare Practitioners and Technical Occupations", desc: "Diagnose and treat patients or provide specialized healthcare services such as therapy or technology support." },
+            { code: "31-0000", label: "Healthcare Support Occupations", desc: "Assist healthcare practitioners with basic patient care, therapy, and support services." },
+            { code: "33-0000", label: "Protective Service Occupations", desc: "Maintain public safety through law enforcement, firefighting, correctional, or security services." },
+            { code: "35-0000", label: "Food Preparation and Serving‑Related Occupations", desc: "Prepare and serve food and beverages in restaurants, cafeterias, and related establishments." },
+            { code: "37-0000", label: "Building and Grounds Cleaning and Maintenance Occupations", desc: "Keep buildings, grounds, and infrastructure clean, safe, and in good repair." },
+            { code: "39-0000", label: "Personal Care and Service Occupations", desc: "Provide personal services such as grooming, child care, recreation, and wellness assistance." },
+            { code: "41-0000", label: "Sales and Related Occupations", desc: "Sell goods and services, solicit donations, and coordinate sales operations in retail or wholesale settings." },
+            { code: "43-0000", label: "Office and Administrative Support Occupations", desc: "Perform clerical and administrative tasks that support organizational operations and recordkeeping." },
+            { code: "45-0000", label: "Farming, Fishing, and Forestry Occupations", desc: "Cultivate crops, raise animals, catch fish, and manage forests or conservation activities." },
+            { code: "47-0000", label: "Construction and Extraction Occupations", desc: "Build, repair, and demolish structures or extract natural resources via mining, drilling, and related activities." },
+            { code: "49-0000", label: "Installation, Maintenance, and Repair Occupations", desc: "Install, maintain, and repair machines, equipment, and complex systems." },
+            { code: "51-0000", label: "Production Occupations", desc: "Operate machinery and processes to manufacture goods and ensure quality control in production." },
+            { code: "53-0000", label: "Transportation and Material Moving Occupations", desc: "Transport people and goods, operate vehicles and heavy equipment, and manage warehousing tasks." },
+            { code: "55-0000", label: "Military Specific Occupations", desc: "Occupations unique to the armed forces such as infantry, artillery, and command operations." }
+        ];
+
+        // --- Utility Functions ---
+        const setEmbedded = (name, value) => { dataStore[name] = value; };
+        const getEmbedded = (name) => dataStore[name];
+        const showValidation = (msg) => { validationMessage.textContent = msg; };
+        
+        // --- Page Rendering Functions ---
+        
+        function renderStatePage() {
+            const selectedState = getEmbedded('state') || "";
+            const stateOptions = states.map(s => 
+                `<option value="${s.abbreviation}" ${selectedState === s.abbreviation ? 'selected' : ''}>${s.name}</option>`
+            ).join('');
+
+            return `
+                <label for="state" class="text-lg font-semibold text-gray-700">Select your state:</label>
+                <select id="state" name="state" class="form-select mt-2 block w-full p-3 bg-white border border-gray-300 rounded-lg shadow-sm">
+                    <option value="">--choose--</option>
+                    ${stateOptions}
+                </select>
+            `;
+        }
+
+        function renderMajorSocPage() {
+            const majorSOC = getEmbedded('majorSOC') || "";
+            const socOptions = socGroups.map(g =>
+                `<option value="${g.code.substring(0, 2)}" ${majorSOC === g.code.substring(0, 2) ? 'selected' : ''} data-desc="${g.desc}">${g.code.substring(0, 2)} - ${g.label}</option>`
+            ).join('');
+
+            return `
+                <label for="major" class="text-lg font-semibold text-gray-700">Select your 2-digit SOC (Standard Occupational Classification):</label>
+                <select id="major" name="majorSOC" class="form-select mt-2 block w-full p-3 bg-white border border-gray-300 rounded-lg shadow-sm">
+                    <option value="">--choose--</option>
+                    ${socOptions}
+                </select>
+                <div id="soc-description" class="mt-3 p-3 bg-gray-50 border border-gray-200 rounded-lg text-gray-600 min-h-[6rem]">Select a group to see its description.</div>
+            `;
+        }
+
+        function renderMinorSocPage() {
+            const major = getEmbedded('majorSOC');
+            const html = `
+                <label for="minor" class="text-lg font-semibold text-gray-700">Select your 6-digit SOC:</label>
+                <div class="flex items-center space-x-2">
+                    <select id="minor" name="soc" class="form-select mt-2 block w-full p-3 bg-white border border-gray-300 rounded-lg shadow-sm" disabled>
+                        <option value="">Loading occupations...</option>
+                    </select>
+                    <div class="tooltip mt-2">
+                         <svg class="h-6 w-6 text-gray-400 hover:text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <span id="synonymsBox" class="tooltip-text">Select an occupation to see synonyms.</span>
+                    </div>
+                </div>
+                <div id="minor-soc-description" class="mt-3 p-3 bg-gray-50 border border-gray-200 rounded-lg text-gray-600 min-h-[6rem]">Select an occupation to see job examples.</div>
+            `;
+            
+            fetchMinorSOC(major)
+                .then(list => {
+                    const select = document.getElementById('minor');
+                    if (!select) return;
+                    select.innerHTML = '<option value="">--choose--</option>';
+                    const savedSoc = getEmbedded('soc');
+                    list.forEach(o => {
+                        const isSelected = savedSoc === o.soc ? 'selected' : '';
+                        select.innerHTML += `<option value="${o.soc}" data-synonyms="${o.synonyms || ''}" ${isSelected}>${o.occupation}</option>`;
+                    });
+                    select.disabled = false;
+                })
+                .catch((err) => {
+                    console.error(err);
+                    showValidation('Failed to load occupations. Please try again.');
+                    const select = document.getElementById('minor');
+                    if (select) select.innerHTML = `<option value="">(Failed to load occupations)</option>`;
+                });
+
+            return html;
+        }
+        
+        async function renderResultsPage() {
+            surveyTitle.textContent = 'Your Results';
+            surveySubtitle.textContent = 'Based on your selections.';
+            progressContainer.classList.add('hidden');
+            navControls.classList.add('hidden');
+
+            surveyContent.innerHTML = '<div class="loader"></div>';
+            
+            const state = getEmbedded('state');
+            const soc = getEmbedded('soc');
+
+            const results = await Promise.allSettled([
+                fetchStateForeign(state),
+                fetchOccForeign(soc),
+                fetchAutomationPctile(soc)
+            ]);
+
+            const [stateResult, occResult, autoResult] = results;
+
+            const formatValue = (result, propertyName, suffix = '') => {
+                 if (result.status === 'fulfilled' && result.value && result.value[propertyName] != null) {
+                    return `${result.value[propertyName]}${suffix}`;
+                 }
+                 if (result.status === 'rejected') {
+                    console.error(`API call failed for ${propertyName}:`, result.reason);
+                 }
+                 return 'Unfortunately, official statistics do not permit to calculate this';
+            };
+            
+            const sPctText = formatValue(stateResult, 'foreign_pct', '%');
+            const oPctText = formatValue(occResult, 'foreign_pct', '%');
+            const autoText = formatValue(autoResult, 'automation_pctile');
+
+            surveyContent.innerHTML = `
+                <div class="space-y-4 text-gray-800">
+                    <div class="p-4 bg-gray-50 rounded-lg border">
+                        <p class="font-medium">Foreign-born share in your state:</p>
+                        <p class="text-2xl font-bold text-blue-600">${sPctText}</p>
+                    </div>
+                    <div class="p-4 bg-gray-50 rounded-lg border">
+                        <p class="font-medium">Foreign-born share in this occupation:</p>
+                        <p class="text-2xl font-bold text-blue-600">${oPctText}</p>
+                    </div>
+                    <div class="p-4 bg-gray-50 rounded-lg border">
+                        <p class="font-medium">Automation risk percentile:</p>
+                        <p class="text-2xl font-bold text-blue-600">${autoText}</p>
+                    </div>
+                </div>
+                <div class="mt-8 text-center">
+                    <button id="restart-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded-lg shadow-md">Restart Survey</button>
+                </div>
+            `;
+        }
+        
+        const pages = [renderStatePage, renderMajorSocPage, renderMinorSocPage, renderResultsPage];
+
+        // --- Core Logic ---
+        function renderCurrentPage() {
+            showValidation('');
+            
+            surveyContent.classList.remove('survey-page');
+            void surveyContent.offsetWidth; 
+            surveyContent.classList.add('survey-page');
+
+            const pageRenderer = pages[pageIndex];
+
+            // Use async function if it's the results page
+            if (pageRenderer.constructor.name === 'AsyncFunction') {
+                pageRenderer();
+            } else {
+                 surveyContent.innerHTML = pageRenderer();
+            }
+            
+            // Add event listeners for the current page
+            if (pageIndex === 1) { // Major SOC Page
+                const majorSelect = document.getElementById('major');
+                const descBox = document.getElementById('soc-description');
+                
+                const updateDesc = () => {
+                    const selectedOption = majorSelect.options[majorSelect.selectedIndex];
+                    descBox.innerHTML = selectedOption.value ? `<strong>${selectedOption.text.split(' - ')[1]}:</strong><br>${selectedOption.dataset.desc}` : 'Select a group to see its description.';
+                };
+
+                majorSelect.addEventListener('change', updateDesc);
+                updateDesc(); // Call once on render to show initial state
+            } else if (pageIndex === 2) { // Minor SOC Page
+                const minorSelect = document.getElementById('minor');
+                const descBox = document.getElementById('minor-soc-description');
+                const synBox = document.getElementById('synonymsBox');
+
+                const updateMinorDesc = () => {
+                    if(!minorSelect.options || minorSelect.options.length <= 1) return;
+
+                    const selectedOption = minorSelect.options[minorSelect.selectedIndex];
+                    const synonyms = selectedOption.dataset.synonyms;
+
+                    if (selectedOption.value && synonyms) {
+                        descBox.innerHTML = `<strong>Job examples:</strong><br>${synonyms}`;
+                        synBox.textContent = synonyms;
+                    } else if (selectedOption.value) {
+                         descBox.innerHTML = 'No job examples available for this occupation.';
+                         synBox.textContent = 'No synonyms available.';
+                    }
+                    else {
+                        descBox.innerHTML = 'Select an occupation to see job examples.';
+                        synBox.textContent = 'Select an occupation to see synonyms.';
+                    }
+                };
+
+                // Since the select is populated async, we need to observe when it's enabled.
+                const observer = new MutationObserver(mutations => {
+                    mutations.forEach(mutation => {
+                        if (mutation.attributeName === 'disabled' && !minorSelect.disabled) {
+                            minorSelect.addEventListener('change', updateMinorDesc);
+                            updateMinorDesc();
+                            observer.disconnect(); // Stop observing once enabled
+                        }
+                    });
+                });
+
+                observer.observe(minorSelect, { attributes: true });
+            }
+
+
+            updateNavigation();
+            updateProgressBar();
+        }
+
+        function updateNavigation() {
+            prevBtn.disabled = pageIndex === 0;
+            nextBtn.textContent = (pageIndex === pages.length - 2) ? 'Get Results' : 'Next';
+        }
+
+        function updateProgressBar() {
+            const totalPages = pages.length -1;
+            const progressPercentage = totalPages > 0 ? ((pageIndex) / totalPages) * 100 : 0;
+            progressBar.style.width = `${progressPercentage}%`;
+            progressText.textContent = `Step ${pageIndex + 1} of ${totalPages}`;
+        }
+        
+        function saveCurrentAnswer() {
+            const input = surveyContent.querySelector('select');
+            if (!input || !input.value) {
+                showValidation(`Please make a selection.`);
+                return false;
+            }
+            setEmbedded(input.name, input.value);
+            return true;
+        }
+
+        function resetSurvey() {
+            pageIndex = 0;
+            Object.keys(dataStore).forEach(key => delete dataStore[key]);
+            surveyTitle.textContent = 'Labor Force Survey';
+            surveySubtitle.textContent = 'Please answer the following questions.';
+            progressContainer.classList.remove('hidden');
+            navControls.classList.remove('hidden');
+            renderCurrentPage();
+        }
+
+        // --- Event Listeners ---
+        nextBtn.addEventListener('click', () => {
+            if (!saveCurrentAnswer()) return;
+            
+            if (pageIndex < pages.length - 1) {
+                pageIndex++;
+                renderCurrentPage();
+            }
+        });
+
+        prevBtn.addEventListener('click', () => {
+            if (pageIndex > 0) {
+                pageIndex--;
+                renderCurrentPage();
+            }
+        });
+        
+        document.addEventListener('click', (event) => {
+            if (event.target && event.target.id === 'restart-btn') {
+                resetSurvey();
+            }
+        });
+
+        // --- Initial Load ---
+        renderCurrentPage();
+    });
+    </script>
+</body>
+</html>
