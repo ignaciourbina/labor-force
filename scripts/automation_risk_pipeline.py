@@ -1,14 +1,14 @@
 """Merge automation risk scores with employment totals and compute percentiles.
 
 This version of the pipeline starts with the national employment table indexed by
-SOC 2018 codes.  We attach the corresponding SOC 2010 codes, then merge in the
-Frey–Osborne automation probabilities (indexed by SOC 2010).  Finally we compute
+SOC 2018 codes.  We attach the corresponding SOC 2010 code, merge the
+Frey–Osborne automation probabilities (indexed by SOC 2010), and finally compute
 an employment‑weighted percentile rank of the automation risk.
 
 The script writes three intermediate files:
 
 1. ``employment_with_soc2010.csv`` – national employment totals annotated with
-   the matching 2010 SOC code(s).
+   the matching 2010 SOC code.
 2. ``automation_risk_with_employment.csv`` – the above table merged with the
    automation risk scores.
 3. ``automation_risk_percentiles.csv`` – final table containing the percentile
@@ -48,14 +48,16 @@ def attach_soc2010() -> pd.DataFrame:
         dtype={"2010 SOC Code": str, "2018 SOC Code": str},
     )
 
-    # Collapse duplicates so that each 2018 code appears once with all
-    # corresponding 2010 codes joined by ';'
-    grouped = cw.groupby("2018 SOC Code", as_index=False).agg({
-        "2010 SOC Code": lambda x: ";".join(sorted(set(x.dropna()))),
-        "2010 SOC Title": lambda x: "; ".join(sorted(set(x.dropna()))),
-    })
+    # The crosswalk is designed so that every 2018 code maps to exactly one 2010
+    # code.  In case of accidental duplicates we keep the first occurrence.
+    cw_unique = cw.drop_duplicates(subset="2018 SOC Code")
 
-    merged = emp.merge(grouped, left_on="OCC_CODE", right_on="2018 SOC Code", how="left")
+    merged = emp.merge(
+        cw_unique,
+        left_on="OCC_CODE",
+        right_on="2018 SOC Code",
+        how="left",
+    )
 
     # Flag rows lacking a 2010 mapping but keep them for auditing
     merged["missing_soc2010"] = merged["2010 SOC Code"].isna()
@@ -66,36 +68,20 @@ def attach_soc2010() -> pd.DataFrame:
 
 
 def merge_frey(df: pd.DataFrame) -> pd.DataFrame:
-    """Merge the employment table with Frey–Osborne automation scores.
-
-    For 2018 codes that map to multiple 2010 codes, the automation
-    probability is averaged across the mapped codes."""
+    """Merge the employment table with Frey–Osborne automation scores."""
 
     frey = pd.read_csv(FREY_FILE, dtype={"SOC code": str})
 
-    # Expand the table by individual 2010 codes and attach probabilities
-    expanded = (
-        df.assign(**{
-            "2010 SOC Code": df["2010 SOC Code"].str.split(";")
-        })
-        .explode("2010 SOC Code")
-        .merge(frey, left_on="2010 SOC Code", right_on="SOC code", how="left")
+    merged = df.merge(
+        frey,
+        left_on="2010 SOC Code",
+        right_on="SOC code",
+        how="left",
     )
 
-    # Average probabilities for each 2018 occupation
-    grouped = expanded.groupby(["OCC_CODE", "OCC_TITLE", "TOT_EMP"], as_index=False).agg(
-        {
-            "Probability": "mean",
-            "Occupation": lambda x: "; ".join(sorted(set(x.dropna()))),
-            "2010 SOC Code": lambda x: ";".join(sorted(set(x.dropna()))),
-            "2010 SOC Title": lambda x: "; ".join(sorted(set(x.dropna()))),
-            "missing_soc2010": "first",
-        }
-    )
-
-    grouped.to_csv(OUT_MERGED, index=False)
+    merged.to_csv(OUT_MERGED, index=False)
     print(f"\u2713 Wrote {OUT_MERGED}")
-    return grouped
+    return merged
 
 
 def add_percentile(df: pd.DataFrame) -> pd.DataFrame:

@@ -8,8 +8,8 @@ This document explains how the Frey and Osborne automation-risk scores are combi
 3. `frey_and_osborne18_data/frey_osborne_automation_risk_index_clean.csv` – automation‑risk probabilities indexed by 2010 SOC codes.
 
 ## Method
-1. Start with the national employment table and append the corresponding 2010 SOC code(s) using the crosswalk. If a 2018 code lacks a mapping, it is kept and flagged in a `missing_soc2010` column. The result is saved as `data_tables/employment_with_soc2010.csv`.
-2. Merge that table with the Frey–Osborne automation scores on the 2010 SOC code. If multiple 2010 codes map to the same 2018 code their probabilities are averaged. The merged table is written to `data_tables/automation_risk_with_employment.csv`.
+1. Start with the national employment table and append the corresponding 2010 SOC code using the crosswalk. If a 2018 code lacks a mapping, it is kept and flagged in a `missing_soc2010` column. The result is saved as `data_tables/employment_with_soc2010.csv`.
+2. Merge that table with the Frey–Osborne automation scores on the 2010 SOC code. The merged table is written to `data_tables/automation_risk_with_employment.csv`.
 3. Percentile ranks are computed only for occupations with a probability. Unmatched occupations remain with `NaN` in the percentile column. The final data (retaining the original employment totals) are saved as `data_tables/automation_risk_percentiles.csv`.
 
 ## Usage

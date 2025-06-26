@@ -3,7 +3,7 @@
 - Rows without 2010 code: 12
 - Row count matches original: True
 - Employment totals match original: True
-- 2010 codes missing from automation table: 154
+- 2010 codes missing from automation table: 127
 - Rows with missing TOT_EMP: 0
-- Rows without Probability: 157
+- Rows without Probability: 158
 - Negative TOT_EMP values: 0
