@@ -15,7 +15,7 @@ DOC_DIR.mkdir(exist_ok=True)
 
 CROSSWALK_FILE = DATA_DIR / "csv_crosswalk_census18codes_to_soc18codes.csv"
 TOTALS_FILE = DATA_DIR / "cps_occ_labor_force_totals.csv"
-MERGED_FILE = DATA_DIR / "cps_occ_labor_force_totals_soc2018_xwalk.csv"
+MERGED_FILE = DATA_DIR / "soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv"
 BASE_JSON = API_DIR / "data_occup_foreign.json"
 EXT_JSON = API_DIR / "data_occup_foreign_extended.json"
 
