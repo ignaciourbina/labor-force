@@ -4,3646 +4,4167 @@
     "occ_label": "Managers, all other",
     "foreign_pct": 17.11,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "29-1141",
     "occ_label": "Registered nurses",
     "foreign_pct": 19.27,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "25-2020",
     "occ_label": "Elementary and middle school teachers",
     "foreign_pct": 8.11,
     "soc3": "25-2",
-    "foreign_pct_soc3": 9.1
+    "foreign_pct_soc3": 9.1,
+    "major": "25"
   },
   {
     "soc": "53-3030",
     "occ_label": "Driver/sales workers and truck drivers",
     "foreign_pct": 22.61,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "41-1011",
     "occ_label": "First-Line supervisors of retail sales workers",
     "foreign_pct": 15.46,
     "soc3": "41-1",
-    "foreign_pct_soc3": 16.26
+    "foreign_pct_soc3": 16.26,
+    "major": "41"
   },
   {
     "soc": "43-4051",
     "occ_label": "Customer service representatives",
     "foreign_pct": 13.32,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "41-2010",
     "occ_label": "Cashiers",
     "foreign_pct": 14.05,
     "soc3": "41-2",
-    "foreign_pct_soc3": 13.03
+    "foreign_pct_soc3": 13.03,
+    "major": "41"
   },
   {
     "soc": "41-2031",
     "occ_label": "Retail salespersons",
     "foreign_pct": 12.07,
     "soc3": "41-2",
-    "foreign_pct_soc3": 13.03
+    "foreign_pct_soc3": 13.03,
+    "major": "41"
   },
   {
     "soc": "47-2061",
     "occ_label": "Construction laborers",
     "foreign_pct": 47.53,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "37-201X",
     "occ_label": "Janitors and building cleaners",
     "foreign_pct": 34.26,
     "soc3": "37-2",
-    "foreign_pct_soc3": 43.1
+    "foreign_pct_soc3": 43.1,
+    "major": "37"
   },
   {
     "soc": "53-7062",
     "occ_label": "Laborers and freight, stock, and material movers, hand",
     "foreign_pct": 19.52,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "35-2010",
     "occ_label": "Cooks",
     "foreign_pct": 30.74,
     "soc3": "35-2",
-    "foreign_pct_soc3": 30.23
+    "foreign_pct_soc3": 30.23,
+    "major": "35"
   },
   {
     "soc": "15-1252",
     "occ_label": "Software developers",
     "foreign_pct": 39.91,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "31-1122",
     "occ_label": "Personal care aides",
     "foreign_pct": 22.48,
     "soc3": "31-1",
-    "foreign_pct_soc3": 26.2
+    "foreign_pct_soc3": 26.2,
+    "major": "31"
   },
   {
     "soc": "53-7065",
     "occ_label": "Stockers and order fillers",
     "foreign_pct": 18.54,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "13-2011",
     "occ_label": "Accountants and auditors",
     "foreign_pct": 18.47,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "35-3031",
     "occ_label": "Waiters and waitresses",
     "foreign_pct": 20.7,
     "soc3": "35-3",
-    "foreign_pct_soc3": 15.67
+    "foreign_pct_soc3": 15.67,
+    "major": "35"
   },
   {
     "soc": "11-1011",
     "occ_label": "Chief executives",
     "foreign_pct": 14.91,
     "soc3": "11-1",
-    "foreign_pct_soc3": 12.68
+    "foreign_pct_soc3": 12.68,
+    "major": "11"
   },
   {
     "soc": "37-2012",
     "occ_label": "Maids and housekeeping cleaners",
     "foreign_pct": 58.6,
     "soc3": "37-2",
-    "foreign_pct_soc3": 43.1
+    "foreign_pct_soc3": 43.1,
+    "major": "37"
   },
   {
     "soc": "25-9040",
     "occ_label": "Teaching assistants",
     "foreign_pct": 16.52,
     "soc3": "25-9",
-    "foreign_pct_soc3": 16.05
+    "foreign_pct_soc3": 16.05,
+    "major": "25"
   },
   {
     "soc": "43-6014",
     "occ_label": "Secretaries and administrative assistants, except legal, medical, and executive",
     "foreign_pct": 7.63,
     "soc3": "43-6",
-    "foreign_pct_soc3": 7.65
+    "foreign_pct_soc3": 7.65,
+    "major": "43"
   },
   {
     "soc": "31-1131",
     "occ_label": "Nursing assistants",
     "foreign_pct": 21.11,
     "soc3": "31-1",
-    "foreign_pct_soc3": 26.2
+    "foreign_pct_soc3": 26.2,
+    "major": "31"
   },
   {
     "soc": "11-3031",
     "occ_label": "Financial managers",
     "foreign_pct": 15.68,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "11-1021",
     "occ_label": "General and operations managers",
     "foreign_pct": 10.06,
     "soc3": "11-1",
-    "foreign_pct_soc3": 12.68
+    "foreign_pct_soc3": 12.68,
+    "major": "11"
   },
   {
     "soc": "43-1011",
     "occ_label": "First-Line supervisors of office and administrative support workers",
     "foreign_pct": 10.22,
     "soc3": "43-1",
-    "foreign_pct_soc3": 10.22
+    "foreign_pct_soc3": 10.22,
+    "major": "43"
   },
   {
     "soc": "43-9061",
     "occ_label": "Office clerks, general",
     "foreign_pct": 11.23,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "37-3011",
     "occ_label": "Landscaping and groundskeeping workers",
     "foreign_pct": 38.66,
     "soc3": "37-3",
-    "foreign_pct_soc3": 37.08
+    "foreign_pct_soc3": 37.08,
+    "major": "37"
   },
   {
     "soc": "43-4171",
     "occ_label": "Receptionists and information clerks",
     "foreign_pct": 12.39,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "11-9051",
     "occ_label": "Food service managers",
     "foreign_pct": 23.89,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "11-9021",
     "occ_label": "Construction managers",
     "foreign_pct": 16.25,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "51-91XX",
     "occ_label": "Other production workers",
     "foreign_pct": 26.56,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "43-3031",
     "occ_label": "Bookkeeping, accounting, and auditing clerks",
     "foreign_pct": 14.71,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "47-2031",
     "occ_label": "Carpenters",
     "foreign_pct": 36.33,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "15-1299",
     "occ_label": "Computer occupations, all other",
     "foreign_pct": 20.57,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "23-1011",
     "occ_label": "Lawyers",
     "foreign_pct": 9.01,
     "soc3": "23-1",
-    "foreign_pct_soc3": 8.93
+    "foreign_pct_soc3": 8.93,
+    "major": "23"
   },
   {
     "soc": "11-9030",
     "occ_label": "Education and childcare administrators",
     "foreign_pct": 12.13,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "13-1082",
     "occ_label": "Project management specialists",
     "foreign_pct": 14.87,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "41-9020",
     "occ_label": "Real estate brokers and sales agents",
     "foreign_pct": 18.35,
     "soc3": "41-9",
-    "foreign_pct_soc3": 17.83
+    "foreign_pct_soc3": 17.83,
+    "major": "41"
   },
   {
     "soc": "39-9011",
     "occ_label": "Childcare workers",
     "foreign_pct": 32.76,
     "soc3": "39-9",
-    "foreign_pct_soc3": 25.32
+    "foreign_pct_soc3": 25.32,
+    "major": "39"
   },
   {
     "soc": "41-4010",
     "occ_label": "Sales representatives, wholesale and manufacturing",
     "foreign_pct": 12.56,
     "soc3": "41-4",
-    "foreign_pct_soc3": 12.56
+    "foreign_pct_soc3": 12.56,
+    "major": "41"
   },
   {
     "soc": "25-30XX",
     "occ_label": "Other teachers and instructors",
     "foreign_pct": 15.81,
     "soc3": "25-3",
-    "foreign_pct_soc3": 14.65
+    "foreign_pct_soc3": 14.65,
+    "major": "25"
   },
   {
     "soc": "35-3023",
     "occ_label": "Fast food and counter workers",
     "foreign_pct": 10.1,
     "soc3": "35-3",
-    "foreign_pct_soc3": 15.67
+    "foreign_pct_soc3": 15.67,
+    "major": "35"
   },
   {
     "soc": "47-2111",
     "occ_label": "Electricians",
     "foreign_pct": 16.07,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "25-1000",
     "occ_label": "Postsecondary teachers",
     "foreign_pct": 27.86,
     "soc3": "25-1",
-    "foreign_pct_soc3": 27.86
+    "foreign_pct_soc3": 27.86,
+    "major": "25"
   },
   {
     "soc": "35-2021",
     "occ_label": "Food preparation workers",
     "foreign_pct": 29.14,
     "soc3": "35-2",
-    "foreign_pct_soc3": 30.23
+    "foreign_pct_soc3": 30.23,
+    "major": "35"
   },
   {
     "soc": "33-9030",
     "occ_label": "Security guards and gambling surveillance officers",
     "foreign_pct": 12.16,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "13-1111",
     "occ_label": "Management analysts",
     "foreign_pct": 15.04,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "41-1012",
     "occ_label": "First-Line supervisors of non-retail sales workers",
     "foreign_pct": 18.66,
     "soc3": "41-1",
-    "foreign_pct_soc3": 16.26
+    "foreign_pct_soc3": 16.26,
+    "major": "41"
   },
   {
     "soc": "51-20XX",
     "occ_label": "Other assemblers and fabricators",
     "foreign_pct": 18.67,
     "soc3": "51-2",
-    "foreign_pct_soc3": 19.08
+    "foreign_pct_soc3": 19.08,
+    "major": "51"
   },
   {
     "soc": "11-9111",
     "occ_label": "Medical and health services managers",
     "foreign_pct": 14.51,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "43-5021",
     "occ_label": "Couriers and messengers",
     "foreign_pct": 21.69,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "29-12XX",
     "occ_label": "Other physicians",
     "foreign_pct": 22.85,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "45-2090",
     "occ_label": "Miscellaneous agricultural workers",
     "foreign_pct": 49.93,
     "soc3": "45-2",
-    "foreign_pct_soc3": 49.19
+    "foreign_pct_soc3": 49.19,
+    "major": "45"
   },
   {
     "soc": "13-1070",
     "occ_label": "Human resources workers",
     "foreign_pct": 11.29,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "43-9199",
     "occ_label": "Office and administrative support workers, all other",
     "foreign_pct": 12.08,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "11-9141",
     "occ_label": "Property, real estate, and community association managers",
     "foreign_pct": 12.51,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "47-1011",
     "occ_label": "First-line supervisors of construction trades and extraction workers",
     "foreign_pct": 21.74,
     "soc3": "47-1",
-    "foreign_pct_soc3": 21.74
+    "foreign_pct_soc3": 21.74,
+    "major": "47"
   },
   {
     "soc": "51-9061",
     "occ_label": "Inspectors, testers, sorters, samplers, and weighers",
     "foreign_pct": 19.99,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "25-2030",
     "occ_label": "Secondary school teachers",
     "foreign_pct": 9.68,
     "soc3": "25-2",
-    "foreign_pct_soc3": 9.1
+    "foreign_pct_soc3": 9.1,
+    "major": "25"
   },
   {
     "soc": "31-1121",
     "occ_label": "Home health aides",
     "foreign_pct": 46.98,
     "soc3": "31-1",
-    "foreign_pct_soc3": 26.2
+    "foreign_pct_soc3": 26.2,
+    "major": "31"
   },
   {
     "soc": "39-5012",
     "occ_label": "Hairdressers, hairstylists, and cosmetologists",
     "foreign_pct": 17.89,
     "soc3": "39-5",
-    "foreign_pct_soc3": 29.29
+    "foreign_pct_soc3": 29.29,
+    "major": "39"
   },
   {
     "soc": "49-9071",
     "occ_label": "Maintenance and repair workers, general",
     "foreign_pct": 16.49,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "49-3023",
     "occ_label": "Automotive service technicians and mechanics",
     "foreign_pct": 17.11,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "25-2010",
     "occ_label": "Preschool and kindergarten teachers",
     "foreign_pct": 14.14,
     "soc3": "25-2",
-    "foreign_pct_soc3": 9.1
+    "foreign_pct_soc3": 9.1,
+    "major": "25"
   },
   {
     "soc": "17-2199",
     "occ_label": "Engineers, all other",
     "foreign_pct": 30.0,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "11-9013",
     "occ_label": "Farmers, ranchers, and other agricultural managers",
     "foreign_pct": 1.87,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "51-1011",
     "occ_label": "First-line supervisors of production and operating workers",
     "foreign_pct": 17.99,
     "soc3": "51-1",
-    "foreign_pct_soc3": 17.99
+    "foreign_pct_soc3": 17.99,
+    "major": "51"
   },
   {
     "soc": "11-3021",
     "occ_label": "Computer and information systems managers",
     "foreign_pct": 23.98,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "15-1230",
     "occ_label": "Computer support specialists",
     "foreign_pct": 16.71,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "47-2152",
     "occ_label": "Plumbers, pipefitters, and steamfitters",
     "foreign_pct": 14.75,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "53-7051",
     "occ_label": "Industrial truck and tractor operators",
     "foreign_pct": 27.42,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "31-9092",
     "occ_label": "Medical assistants",
     "foreign_pct": 13.95,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "11-2021",
     "occ_label": "Marketing managers",
     "foreign_pct": 13.11,
     "soc3": "11-2",
-    "foreign_pct_soc3": 12.62
+    "foreign_pct_soc3": 12.62,
+    "major": "11"
   },
   {
     "soc": "41-3021",
     "occ_label": "Insurance sales agents",
     "foreign_pct": 19.32,
     "soc3": "41-3",
-    "foreign_pct_soc3": 15.81
+    "foreign_pct_soc3": 15.81,
+    "major": "41"
   },
   {
     "soc": "33-3050",
     "occ_label": "Police officers",
     "foreign_pct": 3.09,
     "soc3": "33-3",
-    "foreign_pct_soc3": 5.65
+    "foreign_pct_soc3": 5.65,
+    "major": "33"
   },
   {
     "soc": "43-5071",
     "occ_label": "Shipping, receiving, and inventory clerks",
     "foreign_pct": 21.38,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "47-2140",
     "occ_label": "Painters and paperhangers",
     "foreign_pct": 53.5,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "53-3054",
     "occ_label": "Taxi drivers",
     "foreign_pct": 62.27,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "13-1199",
     "occ_label": "Business operations specialists, all other",
     "foreign_pct": 12.37,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "49-9021",
     "occ_label": "Heating, air conditioning, and refrigeration mechanics and installers",
     "foreign_pct": 20.79,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "29-2061",
     "occ_label": "Licensed practical and licensed vocational nurses",
     "foreign_pct": 14.73,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "21-1029",
     "occ_label": "Social workers, all other",
     "foreign_pct": 11.26,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "41-3091",
     "occ_label": "Sales representatives of services, except advertising, insurance, financial services, and travel",
     "foreign_pct": 16.2,
     "soc3": "41-3",
-    "foreign_pct_soc3": 15.81
+    "foreign_pct_soc3": 15.81,
+    "major": "41"
   },
   {
     "soc": "53-7064",
     "occ_label": "Packers and packagers, hand",
     "foreign_pct": 39.01,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "13-2052",
     "occ_label": "Personal financial advisors",
     "foreign_pct": 8.73,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "51-4120",
     "occ_label": "Welding, soldering, and brazing workers",
     "foreign_pct": 22.13,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "15-1211",
     "occ_label": "Computer systems analysts",
     "foreign_pct": 20.16,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "35-1012",
     "occ_label": "First-line supervisors of food preparation and serving workers",
     "foreign_pct": 9.22,
     "soc3": "35-1",
-    "foreign_pct_soc3": 25.19
+    "foreign_pct_soc3": 25.19,
+    "major": "35"
   },
   {
     "soc": "15-20XX",
     "occ_label": "Other mathematical science occupations",
     "foreign_pct": 22.01,
     "soc3": "15-2",
-    "foreign_pct_soc3": 19.16
+    "foreign_pct_soc3": 19.16,
+    "major": "15"
   },
   {
     "soc": "11-2022",
     "occ_label": "Sales managers",
     "foreign_pct": 14.31,
     "soc3": "11-2",
-    "foreign_pct_soc3": 12.62
+    "foreign_pct_soc3": 12.62,
+    "major": "11"
   },
   {
     "soc": "35-1011",
     "occ_label": "Chefs and head cooks",
     "foreign_pct": 41.43,
     "soc3": "35-1",
-    "foreign_pct_soc3": 25.19
+    "foreign_pct_soc3": 25.19,
+    "major": "35"
   },
   {
     "soc": "13-1161",
     "occ_label": "Market research analysts and marketing specialists",
     "foreign_pct": 19.42,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "17-2051",
     "occ_label": "Civil engineers",
     "foreign_pct": 20.7,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "11-9151",
     "occ_label": "Social and community service managers",
     "foreign_pct": 16.23,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "35-3011",
     "occ_label": "Bartenders",
     "foreign_pct": 10.58,
     "soc3": "35-3",
-    "foreign_pct_soc3": 15.67
+    "foreign_pct_soc3": 15.67,
+    "major": "35"
   },
   {
     "soc": "41-9099",
     "occ_label": "Sales and related workers, all other",
     "foreign_pct": 20.0,
     "soc3": "41-9",
-    "foreign_pct_soc3": 17.83
+    "foreign_pct_soc3": 17.83,
+    "major": "41"
   },
   {
     "soc": "13-2070",
     "occ_label": "Credit counselors and loan officers",
     "foreign_pct": 7.24,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "47-2070",
     "occ_label": "Construction equipment operators",
     "foreign_pct": 5.9,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "53-7061",
     "occ_label": "Cleaners of vehicles and equipment",
     "foreign_pct": 32.16,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "23-2011",
     "occ_label": "Paralegals and legal assistants",
     "foreign_pct": 12.91,
     "soc3": "23-2",
-    "foreign_pct_soc3": 10.66
+    "foreign_pct_soc3": 10.66,
+    "major": "23"
   },
   {
     "soc": "21-2011",
     "occ_label": "Clergy",
     "foreign_pct": 8.06,
     "soc3": "21-2",
-    "foreign_pct_soc3": 6.53
+    "foreign_pct_soc3": 6.53,
+    "major": "21"
   },
   {
     "soc": "43-5052",
     "occ_label": "Postal service mail carriers",
     "foreign_pct": 9.94,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "39-2021",
     "occ_label": "Animal caretakers",
     "foreign_pct": 2.89,
     "soc3": "39-2",
-    "foreign_pct_soc3": 5.36
+    "foreign_pct_soc3": 5.36,
+    "major": "39"
   },
   {
     "soc": "17-2141",
     "occ_label": "Mechanical engineers",
     "foreign_pct": 19.37,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "11-3071",
     "occ_label": "Transportation, storage, and distribution managers",
     "foreign_pct": 23.88,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "19-2099",
     "occ_label": "Physical scientists, all other",
     "foreign_pct": 47.99,
     "soc3": "19-2",
-    "foreign_pct_soc3": 34.52
+    "foreign_pct_soc3": 34.52,
+    "major": "19"
   },
   {
     "soc": "49-904X",
     "occ_label": "Industrial and refractory machinery mechanics",
     "foreign_pct": 18.35,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "17-302X",
     "occ_label": "Other engineering technologists and technicians, except drafters",
     "foreign_pct": 23.37,
     "soc3": "17-3",
-    "foreign_pct_soc3": 22.25
+    "foreign_pct_soc3": 22.25,
+    "major": "17"
   },
   {
     "soc": "35-9031",
     "occ_label": "Hosts and hostesses, restaurant, lounge, and coffee shop",
     "foreign_pct": 11.91,
     "soc3": "35-9",
-    "foreign_pct_soc3": 24.64
+    "foreign_pct_soc3": 24.64,
+    "major": "35"
   },
   {
     "soc": "13-1030",
     "occ_label": "Claims adjusters, appraisers, examiners, and investigators",
     "foreign_pct": 8.62,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "25-2050",
     "occ_label": "Special education teachers",
     "foreign_pct": 7.86,
     "soc3": "25-2",
-    "foreign_pct_soc3": 9.1
+    "foreign_pct_soc3": 9.1,
+    "major": "25"
   },
   {
     "soc": "13-2051",
     "occ_label": "Financial and investment analysts",
     "foreign_pct": 19.65,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "43-3021",
     "occ_label": "Billing and posting clerks",
     "foreign_pct": 14.42,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "33-2011",
     "occ_label": "Firefighters",
     "foreign_pct": 0.0,
     "soc3": "33-2",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "33"
   },
   {
     "soc": "49-3031",
     "occ_label": "Bus and truck mechanics and diesel engine specialists",
     "foreign_pct": 23.42,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "27-2022",
     "occ_label": "Coaches and scouts",
     "foreign_pct": 4.39,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "19-40XX",
     "occ_label": "Other life, physical, and social science technicians",
     "foreign_pct": 14.48,
     "soc3": "19-4",
-    "foreign_pct_soc3": 16.5
+    "foreign_pct_soc3": 16.5,
+    "major": "19"
   },
   {
     "soc": "37-1011",
     "occ_label": "First-line supervisors of housekeeping and janitorial workers",
     "foreign_pct": 32.59,
     "soc3": "37-1",
-    "foreign_pct_soc3": 30.2
+    "foreign_pct_soc3": 30.2,
+    "major": "37"
   },
   {
     "soc": "29-1051",
     "occ_label": "Pharmacists",
     "foreign_pct": 17.78,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "21-1012",
     "occ_label": "Educational, guidance, and career counselors and advisors",
     "foreign_pct": 6.89,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "37-1012",
     "occ_label": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
     "foreign_pct": 27.7,
     "soc3": "37-1",
-    "foreign_pct_soc3": 30.2
+    "foreign_pct_soc3": 30.2,
+    "major": "37"
   },
   {
     "soc": "27-102X",
     "occ_label": "Other designers",
     "foreign_pct": 14.52,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "29-1123",
     "occ_label": "Physical therapists",
     "foreign_pct": 15.18,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "47-2181",
     "occ_label": "Roofers",
     "foreign_pct": 52.4,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "27-1024",
     "occ_label": "Graphic designers",
     "foreign_pct": 11.87,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "35-3041",
     "occ_label": "Food servers, nonrestaurant",
     "foreign_pct": 13.94,
     "soc3": "35-3",
-    "foreign_pct_soc3": 15.67
+    "foreign_pct_soc3": 15.67,
+    "major": "35"
   },
   {
     "soc": "29-2052",
     "occ_label": "Pharmacy technicians",
     "foreign_pct": 12.6,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "27-1010",
     "occ_label": "Artists and related workers",
     "foreign_pct": 9.35,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "11-3051",
     "occ_label": "Industrial production managers",
     "foreign_pct": 14.3,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "13-1023",
     "occ_label": "Purchasing agents, except wholesale, retail, and farm products",
     "foreign_pct": 12.02,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "15-1251",
     "occ_label": "Computer programmers",
     "foreign_pct": 25.79,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "13-1041",
     "occ_label": "Compliance officers",
     "foreign_pct": 16.34,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "11-3121",
     "occ_label": "Human resources managers",
     "foreign_pct": 10.72,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "43-9021",
     "occ_label": "Data entry keyers",
     "foreign_pct": 9.97,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "51-4041",
     "occ_label": "Machinists",
     "foreign_pct": 16.71,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "33-3012",
     "occ_label": "Correctional officers and jailers",
     "foreign_pct": 7.71,
     "soc3": "33-3",
-    "foreign_pct_soc3": 5.65
+    "foreign_pct_soc3": 5.65,
+    "major": "33"
   },
   {
     "soc": "53-1000",
     "occ_label": "Supervisors of transportation and material moving workers",
     "foreign_pct": 11.75,
     "soc3": "53-1",
-    "foreign_pct_soc3": 11.75
+    "foreign_pct_soc3": 11.75,
+    "major": "53"
   },
   {
     "soc": "51-3011",
     "occ_label": "Bakers",
     "foreign_pct": 29.5,
     "soc3": "51-3",
-    "foreign_pct_soc3": 27.13
+    "foreign_pct_soc3": 27.13,
+    "major": "51"
   },
   {
     "soc": "29-2010",
     "occ_label": "Clinical laboratory technologists and technicians",
     "foreign_pct": 25.04,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "35-9011",
     "occ_label": "Dining room and cafeteria attendants and bartender helpers",
     "foreign_pct": 35.55,
     "soc3": "35-9",
-    "foreign_pct_soc3": 24.64
+    "foreign_pct_soc3": 24.64,
+    "major": "35"
   },
   {
     "soc": "53-3052",
     "occ_label": "Bus drivers, transit and intercity",
     "foreign_pct": 31.96,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "43-9041",
     "occ_label": "Insurance claims and policy processing clerks",
     "foreign_pct": 4.15,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "17-1011",
     "occ_label": "Architects, except landscape and naval",
     "foreign_pct": 16.6,
     "soc3": "17-1",
-    "foreign_pct_soc3": 14.35
+    "foreign_pct_soc3": 14.35,
+    "major": "17"
   },
   {
     "soc": "15-1212",
     "occ_label": "Information security analysts",
     "foreign_pct": 17.42,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "21-1019",
     "occ_label": "Counselors, all other",
     "foreign_pct": 5.12,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "39-9031",
     "occ_label": "Exercise trainers and group fitness instructors",
     "foreign_pct": 13.16,
     "soc3": "39-9",
-    "foreign_pct_soc3": 25.32
+    "foreign_pct_soc3": 25.32,
+    "major": "39"
   },
   {
     "soc": "51-9111",
     "occ_label": "Packaging and filling machine operators and tenders",
     "foreign_pct": 54.49,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "29-1171",
     "occ_label": "Nurse practitioners",
     "foreign_pct": 7.96,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "49-1011",
     "occ_label": "First-line supervisors of mechanics, installers, and repairers",
     "foreign_pct": 5.88,
     "soc3": "49-1",
-    "foreign_pct_soc3": 5.88
+    "foreign_pct_soc3": 5.88,
+    "major": "49"
   },
   {
     "soc": "41-9091",
     "occ_label": "Door-to-door sales workers, news and street vendors, and related workers",
     "foreign_pct": 18.7,
     "soc3": "41-9",
-    "foreign_pct_soc3": 17.83
+    "foreign_pct_soc3": 17.83,
+    "major": "41"
   },
   {
     "soc": "17-2070",
     "occ_label": "Electrical and electronics engineers",
     "foreign_pct": 22.42,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "31-909X",
     "occ_label": "Other healthcare support workers",
     "foreign_pct": 18.51,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "39-5092",
     "occ_label": "Manicurists and pedicurists",
     "foreign_pct": 70.19,
     "soc3": "39-5",
-    "foreign_pct_soc3": 29.29
+    "foreign_pct_soc3": 29.29,
+    "major": "39"
   },
   {
     "soc": "27-2012",
     "occ_label": "Producers and directors",
     "foreign_pct": 16.28,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "51-4XXX",
     "occ_label": "Other metal workers and plastic workers",
     "foreign_pct": 23.89,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "49-909X",
     "occ_label": "Other installation, maintenance, and repair workers",
     "foreign_pct": 23.06,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "43-6011",
     "occ_label": "Executive secretaries and executive administrative assistants",
     "foreign_pct": 2.46,
     "soc3": "43-6",
-    "foreign_pct_soc3": 7.65
+    "foreign_pct_soc3": 7.65,
+    "major": "43"
   },
   {
     "soc": "53-3051",
     "occ_label": "Bus drivers, school",
     "foreign_pct": 26.03,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "39-30XX",
     "occ_label": "Other entertainment attendants and related workers",
     "foreign_pct": 3.25,
     "soc3": "39-3",
-    "foreign_pct_soc3": 10.62
+    "foreign_pct_soc3": 10.62,
+    "major": "39"
   },
   {
     "soc": "33-909X",
     "occ_label": "Other protective service workers",
     "foreign_pct": 0.0,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "29-1129",
     "occ_label": "Therapists, all other",
     "foreign_pct": 9.17,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "21-1014",
     "occ_label": "Mental health counselors",
     "foreign_pct": 10.81,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "27-3043",
     "occ_label": "Writers and authors",
     "foreign_pct": 13.66,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "13-1151",
     "occ_label": "Training and development specialists",
     "foreign_pct": 3.58,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "31-9091",
     "occ_label": "Dental assistants",
     "foreign_pct": 20.9,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "17-2110",
     "occ_label": "Industrial engineers, including health and safety",
     "foreign_pct": 8.73,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "29-1292",
     "occ_label": "Dental hygienists",
     "foreign_pct": 11.11,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "29-2034",
     "occ_label": "Radiologic technologists and technicians",
     "foreign_pct": 12.18,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "27-4021",
     "occ_label": "Photographers",
     "foreign_pct": 11.58,
     "soc3": "27-4",
-    "foreign_pct_soc3": 7.89
+    "foreign_pct_soc3": 7.89,
+    "major": "27"
   },
   {
     "soc": "43-5061",
     "occ_label": "Production, planning, and expediting clerks",
     "foreign_pct": 11.82,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "35-9021",
     "occ_label": "Dishwashers",
     "foreign_pct": 29.68,
     "soc3": "35-9",
-    "foreign_pct_soc3": 24.64
+    "foreign_pct_soc3": 24.64,
+    "major": "35"
   },
   {
     "soc": "29-1127",
     "occ_label": "Speech-language pathologists",
     "foreign_pct": 10.85,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "49-3040",
     "occ_label": "Heavy vehicle and mobile equipment service technicians and mechanics",
     "foreign_pct": 13.9,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "11-3061",
     "occ_label": "Purchasing managers",
     "foreign_pct": 10.14,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "51-3020",
     "occ_label": "Butchers and other meat, poultry, and fish processing workers",
     "foreign_pct": 29.14,
     "soc3": "51-3",
-    "foreign_pct_soc3": 27.13
+    "foreign_pct_soc3": 27.13,
+    "major": "51"
   },
   {
     "soc": "29-1020",
     "occ_label": "Dentists",
     "foreign_pct": 27.51,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "13-1022",
     "occ_label": "Wholesale and retail buyers, except farm products",
     "foreign_pct": 9.53,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "43-3071",
     "occ_label": "Tellers",
     "foreign_pct": 8.03,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "13-1081",
     "occ_label": "Logisticians",
     "foreign_pct": 12.95,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "21-1011",
     "occ_label": "Substance abuse and behavioral disorder counselors",
     "foreign_pct": 15.75,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "13-1121",
     "occ_label": "Meeting, convention, and event planners",
     "foreign_pct": 6.36,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "15-1244",
     "occ_label": "Network and computer systems administrators",
     "foreign_pct": 24.42,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "25-3041",
     "occ_label": "Tutors",
     "foreign_pct": 8.14,
     "soc3": "25-3",
-    "foreign_pct_soc3": 14.65
+    "foreign_pct_soc3": 14.65,
+    "major": "25"
   },
   {
     "soc": "15-124X",
     "occ_label": "Database administrators and architects",
     "foreign_pct": 21.88,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "31-9011",
     "occ_label": "Massage therapists",
     "foreign_pct": 31.29,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "33-9021",
     "occ_label": "Private detectives and investigators",
     "foreign_pct": 20.17,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "25-4022",
     "occ_label": "Librarians and media collections specialists",
     "foreign_pct": 2.29,
     "soc3": "25-4",
-    "foreign_pct_soc3": 1.35
+    "foreign_pct_soc3": 1.35,
+    "major": "25"
   },
   {
     "soc": "11-9041",
     "occ_label": "Architectural and engineering managers",
     "foreign_pct": 29.72,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "41-3031",
     "occ_label": "Securities, commodities, and financial services sales agents",
     "foreign_pct": 9.08,
     "soc3": "41-3",
-    "foreign_pct_soc3": 15.81
+    "foreign_pct_soc3": 15.81,
+    "major": "41"
   },
   {
     "soc": "13-1051",
     "occ_label": "Cost estimators",
     "foreign_pct": 12.21,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "43-3051",
     "occ_label": "Payroll and timekeeping clerks",
     "foreign_pct": 6.78,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "53-2010",
     "occ_label": "Aircraft pilots and flight engineers",
     "foreign_pct": 10.64,
     "soc3": "53-2",
-    "foreign_pct_soc3": 9.87
+    "foreign_pct_soc3": 9.87,
+    "major": "53"
   },
   {
     "soc": "49-3011",
     "occ_label": "Aircraft mechanics and service technicians",
     "foreign_pct": 14.5,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "27-2042",
     "occ_label": "Musicians and singers",
     "foreign_pct": 12.33,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "43-5032",
     "occ_label": "Dispatchers, except police, fire, and ambulance",
     "foreign_pct": 13.75,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "43-4111",
     "occ_label": "Interviewers, except eligibility and loan",
     "foreign_pct": 4.43,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "53-7081",
     "occ_label": "Refuse and recyclable material collectors",
     "foreign_pct": 30.56,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "25-90XX",
     "occ_label": "Other educational instruction and library workers",
     "foreign_pct": 11.65,
     "soc3": "25-9",
-    "foreign_pct_soc3": 16.05
+    "foreign_pct_soc3": 16.05,
+    "major": "25"
   },
   {
     "soc": "53-2031",
     "occ_label": "Flight attendants",
     "foreign_pct": 7.53,
     "soc3": "53-2",
-    "foreign_pct_soc3": 9.87
+    "foreign_pct_soc3": 9.87,
+    "major": "53"
   },
   {
     "soc": "29-1071",
     "occ_label": "Physician assistants",
     "foreign_pct": 20.92,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "39-9099",
     "occ_label": "Personal care and service workers, all other",
     "foreign_pct": 18.65,
     "soc3": "39-9",
-    "foreign_pct_soc3": 25.32
+    "foreign_pct_soc3": 25.32,
+    "major": "39"
   },
   {
     "soc": "51-9120",
     "occ_label": "Painting workers",
     "foreign_pct": 23.9,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "29-2032",
     "occ_label": "Diagnostic medical sonographers",
     "foreign_pct": 1.72,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "17-2011",
     "occ_label": "Aerospace engineers",
     "foreign_pct": 12.56,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "53-3099",
     "occ_label": "Motor vehicle operators, all other",
     "foreign_pct": 14.04,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "51-6011",
     "occ_label": "Laundry and dry-cleaning workers",
     "foreign_pct": 45.19,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "21-1022",
     "occ_label": "Healthcare social workers",
     "foreign_pct": 10.71,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "21-1093",
     "occ_label": "Social and human service assistants",
     "foreign_pct": 14.19,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "51-8031",
     "occ_label": "Water and wastewater treatment plant and system operators",
     "foreign_pct": 4.06,
     "soc3": "51-8",
-    "foreign_pct_soc3": 9.22
+    "foreign_pct_soc3": 9.22,
+    "major": "51"
   },
   {
     "soc": "41-3011",
     "occ_label": "Advertising sales agents",
     "foreign_pct": 13.0,
     "soc3": "41-3",
-    "foreign_pct_soc3": 15.81
+    "foreign_pct_soc3": 15.81,
+    "major": "41"
   },
   {
     "soc": "29-9000",
     "occ_label": "Other healthcare practitioners and technical occupations",
     "foreign_pct": 4.45,
     "soc3": "29-9",
-    "foreign_pct_soc3": 4.45
+    "foreign_pct_soc3": 4.45,
+    "major": "29"
   },
   {
     "soc": "29-1031",
     "occ_label": "Dietitians and nutritionists",
     "foreign_pct": 14.04,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "19-303X",
     "occ_label": "Other psychologists",
     "foreign_pct": 15.07,
     "soc3": "19-3",
-    "foreign_pct_soc3": 10.58
+    "foreign_pct_soc3": 10.58,
+    "major": "19"
   },
   {
     "soc": "43-4081",
     "occ_label": "Hotel, motel, and resort desk clerks",
     "foreign_pct": 8.44,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "15-2031",
     "occ_label": "Operations research analysts",
     "foreign_pct": 7.22,
     "soc3": "15-2",
-    "foreign_pct_soc3": 19.16
+    "foreign_pct_soc3": 19.16,
+    "major": "15"
   },
   {
     "soc": "47-2211",
     "occ_label": "Sheet metal workers",
     "foreign_pct": 8.9,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "29-2042",
     "occ_label": "Emergency medical technicians",
     "foreign_pct": 0.0,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "13-2053",
     "occ_label": "Insurance underwriters",
     "foreign_pct": 7.21,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "41-2022",
     "occ_label": "Parts salespersons",
     "foreign_pct": 18.08,
     "soc3": "41-2",
-    "foreign_pct_soc3": 13.03
+    "foreign_pct_soc3": 13.03,
+    "major": "41"
   },
   {
     "soc": "39-9032",
     "occ_label": "Recreation workers",
     "foreign_pct": 6.23,
     "soc3": "39-9",
-    "foreign_pct_soc3": 25.32
+    "foreign_pct_soc3": 25.32,
+    "major": "39"
   },
   {
     "soc": "13-20XX",
     "occ_label": "Other financial specialists",
     "foreign_pct": 34.96,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "51-5112",
     "occ_label": "Printing press operators",
     "foreign_pct": 10.87,
     "soc3": "51-5",
-    "foreign_pct_soc3": 10.32
+    "foreign_pct_soc3": 10.32,
+    "major": "51"
   },
   {
     "soc": "43-4071",
     "occ_label": "File clerks",
     "foreign_pct": 16.6,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "13-2082",
     "occ_label": "Tax preparers",
     "foreign_pct": 19.86,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "29-2053",
     "occ_label": "Psychiatric technicians",
     "foreign_pct": 17.52,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "29-2090",
     "occ_label": "Miscellaneous health technologists and technicians",
     "foreign_pct": 8.42,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "19-2030",
     "occ_label": "Chemists and materials scientists",
     "foreign_pct": 25.81,
     "soc3": "19-2",
-    "foreign_pct_soc3": 34.52
+    "foreign_pct_soc3": 34.52,
+    "major": "19"
   },
   {
     "soc": "29-1122",
     "occ_label": "Occupational therapists",
     "foreign_pct": 4.05,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "27-1025",
     "occ_label": "Interior designers",
     "foreign_pct": 9.97,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "11-2030",
     "occ_label": "Public relations and fundraising managers",
     "foreign_pct": 0.42,
     "soc3": "11-2",
-    "foreign_pct_soc3": 12.62
+    "foreign_pct_soc3": 12.62,
+    "major": "11"
   },
   {
     "soc": "47-2020",
     "occ_label": "Brickmasons, blockmasons, and stonemasons",
     "foreign_pct": 37.68,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "39-5011",
     "occ_label": "Barbers",
     "foreign_pct": 17.71,
     "soc3": "39-5",
-    "foreign_pct_soc3": 29.29
+    "foreign_pct_soc3": 29.29,
+    "major": "39"
   },
   {
     "soc": "47-2080",
     "occ_label": "Drywall installers, ceiling tile installers, and tapers",
     "foreign_pct": 56.67,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "31-2020",
     "occ_label": "Physical therapist assistants and aides",
     "foreign_pct": 7.02,
     "soc3": "31-2",
-    "foreign_pct_soc3": 4.82
+    "foreign_pct_soc3": 4.82,
+    "major": "31"
   },
   {
     "soc": "21-109X",
     "occ_label": "Other community and social service specialists",
     "foreign_pct": 22.18,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "51-6031",
     "occ_label": "Sewing machine operators",
     "foreign_pct": 43.45,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "51-2020",
     "occ_label": "Electrical, electronics, and electromechanical assemblers",
     "foreign_pct": 30.38,
     "soc3": "51-2",
-    "foreign_pct_soc3": 19.08
+    "foreign_pct_soc3": 19.08,
+    "major": "51"
   },
   {
     "soc": "33-3021",
     "occ_label": "Detectives and criminal investigators",
     "foreign_pct": 15.19,
     "soc3": "33-3",
-    "foreign_pct_soc3": 5.65
+    "foreign_pct_soc3": 5.65,
+    "major": "33"
   },
   {
     "soc": "49-9052",
     "occ_label": "Telecommunications line installers and repairers",
     "foreign_pct": 9.47,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "47-4011",
     "occ_label": "Construction and building inspectors",
     "foreign_pct": 13.15,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "49-3090",
     "occ_label": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
     "foreign_pct": 17.39,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "29-2072",
     "occ_label": "Medical records specialists",
     "foreign_pct": 0.0,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "49-3021",
     "occ_label": "Automotive body and related repairers",
     "foreign_pct": 46.2,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "49-2011",
     "occ_label": "Computer, automated teller, and office machine repairers",
     "foreign_pct": 13.85,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "49-2020",
     "occ_label": "Radio and telecommunications equipment installers and repairers",
     "foreign_pct": 25.21,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "49-9051",
     "occ_label": "Electrical power-line installers and repairers",
     "foreign_pct": 4.46,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "43-3099",
     "occ_label": "Financial clerks, all other",
     "foreign_pct": 14.3,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "51-8021",
     "occ_label": "Stationary engineers and boiler operators",
     "foreign_pct": 12.13,
     "soc3": "51-8",
-    "foreign_pct_soc3": 9.22
+    "foreign_pct_soc3": 9.22,
+    "major": "51"
   },
   {
     "soc": "29-2043",
     "occ_label": "Paramedics",
     "foreign_pct": 23.6,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "39-3010",
     "occ_label": "Gambling services workers",
     "foreign_pct": 19.32,
     "soc3": "39-3",
-    "foreign_pct_soc3": 10.62
+    "foreign_pct_soc3": 10.62,
+    "major": "39"
   },
   {
     "soc": "17-2041",
     "occ_label": "Chemical engineers",
     "foreign_pct": 31.26,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "27-4030",
     "occ_label": "Television, video, and film camera operators and editors",
     "foreign_pct": 7.41,
     "soc3": "27-4",
-    "foreign_pct_soc3": 7.89
+    "foreign_pct_soc3": 7.89,
+    "major": "27"
   },
   {
     "soc": "11-3013",
     "occ_label": "Facilities managers",
     "foreign_pct": 12.5,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "39-5094",
     "occ_label": "Skincare specialists",
     "foreign_pct": 20.29,
     "soc3": "39-5",
-    "foreign_pct_soc3": 29.29
+    "foreign_pct_soc3": 29.29,
+    "major": "39"
   },
   {
     "soc": "29-1126",
     "occ_label": "Respiratory therapists",
     "foreign_pct": 35.51,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "51-3092",
     "occ_label": "Food batchmakers",
     "foreign_pct": 26.33,
     "soc3": "51-3",
-    "foreign_pct_soc3": 27.13
+    "foreign_pct_soc3": 27.13,
+    "major": "51"
   },
   {
     "soc": "31-9097",
     "occ_label": "Phlebotomists",
     "foreign_pct": 38.2,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "27-3031",
     "occ_label": "Public relations specialists",
     "foreign_pct": 3.77,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "11-3012",
     "occ_label": "Administrative services managers",
     "foreign_pct": 13.07,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "11-9081",
     "occ_label": "Lodging managers",
     "foreign_pct": 11.25,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "43-4181",
     "occ_label": "Reservation and transportation ticket agents and travel clerks",
     "foreign_pct": 14.16,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "29-2055",
     "occ_label": "Surgical technologists",
     "foreign_pct": 15.99,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "25-4010",
     "occ_label": "Archivists, curators, and museum technicians",
     "foreign_pct": 0.0,
     "soc3": "25-4",
-    "foreign_pct_soc3": 1.35
+    "foreign_pct_soc3": 1.35,
+    "major": "25"
   },
   {
     "soc": "53-3053",
     "occ_label": "Shuttle drivers and chauffeurs",
     "foreign_pct": 30.93,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "37-2021",
     "occ_label": "Pest control workers",
     "foreign_pct": 12.38,
     "soc3": "37-2",
-    "foreign_pct_soc3": 43.1
+    "foreign_pct_soc3": 43.1,
+    "major": "37"
   },
   {
     "soc": "51-3099",
     "occ_label": "Food processing workers, all other",
     "foreign_pct": 23.76,
     "soc3": "51-3",
-    "foreign_pct_soc3": 27.13
+    "foreign_pct_soc3": 27.13,
+    "major": "51"
   },
   {
     "soc": "29-2056",
     "occ_label": "Veterinary technologists and technicians",
     "foreign_pct": 0.27,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "37-3013",
     "occ_label": "Tree trimmers and pruners",
     "foreign_pct": 28.75,
     "soc3": "37-3",
-    "foreign_pct_soc3": 37.08
+    "foreign_pct_soc3": 37.08,
+    "major": "37"
   },
   {
     "soc": "27-4010",
     "occ_label": "Broadcast, sound, and lighting technicians",
     "foreign_pct": 0.0,
     "soc3": "27-4",
-    "foreign_pct_soc3": 7.89
+    "foreign_pct_soc3": 7.89,
+    "major": "27"
   },
   {
     "soc": "19-1040",
     "occ_label": "Medical scientists",
     "foreign_pct": 61.27,
     "soc3": "19-1",
-    "foreign_pct_soc3": 29.74
+    "foreign_pct_soc3": 29.74,
+    "major": "19"
   },
   {
     "soc": "53-6030",
     "occ_label": "Transportation service attendants",
     "foreign_pct": 12.17,
     "soc3": "53-6",
-    "foreign_pct_soc3": 13.67
+    "foreign_pct_soc3": 13.67,
+    "major": "53"
   },
   {
     "soc": "27-3041",
     "occ_label": "Editors",
     "foreign_pct": 6.37,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "43-5111",
     "occ_label": "Weighers, measurers, checkers, and samplers, recordkeeping",
     "foreign_pct": 25.47,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "27-3091",
     "occ_label": "Interpreters and translators",
     "foreign_pct": 50.92,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "43-3011",
     "occ_label": "Bill and account collectors",
     "foreign_pct": 11.57,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "33-1012",
     "occ_label": "First-line supervisors of police and detectives",
     "foreign_pct": 4.81,
     "soc3": "33-1",
-    "foreign_pct_soc3": 4.05
+    "foreign_pct_soc3": 4.05,
+    "major": "33"
   },
   {
     "soc": "23-2093",
     "occ_label": "Title examiners, abstractors, and searchers",
     "foreign_pct": 8.1,
     "soc3": "23-2",
-    "foreign_pct_soc3": 10.66
+    "foreign_pct_soc3": 10.66,
+    "major": "23"
   },
   {
     "soc": "27-3023",
     "occ_label": "News analysts, reporters, and journalists",
     "foreign_pct": 0.96,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "43-5031",
     "occ_label": "Public safety telecommunicators",
     "foreign_pct": 5.95,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "13-2031",
     "occ_label": "Budget analysts",
     "foreign_pct": 30.12,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "15-1241",
     "occ_label": "Computer network architects",
     "foreign_pct": 7.18,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "33-9093",
     "occ_label": "Transportation security screeners",
     "foreign_pct": 10.0,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "43-4061",
     "occ_label": "Eligibility interviewers, government programs",
     "foreign_pct": 9.05,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "17-2061",
     "occ_label": "Computer hardware engineers",
     "foreign_pct": 42.22,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "43-4131",
     "occ_label": "Loan interviewers and clerks",
     "foreign_pct": 22.65,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "43-5051",
     "occ_label": "Postal service clerks",
     "foreign_pct": 22.28,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "47-4051",
     "occ_label": "Highway maintenance workers",
     "foreign_pct": 17.55,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "51-9160",
     "occ_label": "Computer numerically controlled tool operators and programmers",
     "foreign_pct": 14.53,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "51-9080",
     "occ_label": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
     "foreign_pct": 15.74,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "51-9198",
     "occ_label": "Helpers--production workers",
     "foreign_pct": 44.27,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "43-6013",
     "occ_label": "Medical secretaries and administrative assistants",
     "foreign_pct": 11.39,
     "soc3": "43-6",
-    "foreign_pct_soc3": 7.65
+    "foreign_pct_soc3": 7.65,
+    "major": "43"
   },
   {
     "soc": "43-4161",
     "occ_label": "Human resources assistants, except payroll and timekeeping",
     "foreign_pct": 7.95,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "27-2099",
     "occ_label": "Entertainers and performers, sports and related workers, all other",
     "foreign_pct": 0.0,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "21-2021",
     "occ_label": "Directors, religious activities and education",
     "foreign_pct": 0.0,
     "soc3": "21-2",
-    "foreign_pct_soc3": 6.53
+    "foreign_pct_soc3": 6.53,
+    "major": "21"
   },
   {
     "soc": "21-2099",
     "occ_label": "Religious workers, all other",
     "foreign_pct": 5.18,
     "soc3": "21-2",
-    "foreign_pct_soc3": 6.53
+    "foreign_pct_soc3": 6.53,
+    "major": "21"
   },
   {
     "soc": "41-3041",
     "occ_label": "Travel agents",
     "foreign_pct": 5.36,
     "soc3": "41-3",
-    "foreign_pct_soc3": 15.81
+    "foreign_pct_soc3": 15.81,
+    "major": "41"
   },
   {
     "soc": "33-1091",
     "occ_label": "First-line supervisors of security workers",
     "foreign_pct": 8.38,
     "soc3": "33-1",
-    "foreign_pct_soc3": 4.05
+    "foreign_pct_soc3": 4.05,
+    "major": "33"
   },
   {
     "soc": "17-2131",
     "occ_label": "Materials engineers",
     "foreign_pct": 40.79,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "53-7021",
     "occ_label": "Crane and tower operators",
     "foreign_pct": 7.55,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "39-2011",
     "occ_label": "Animal trainers",
     "foreign_pct": 18.38,
     "soc3": "39-2",
-    "foreign_pct_soc3": 5.36
+    "foreign_pct_soc3": 5.36,
+    "major": "39"
   },
   {
     "soc": "51-4031",
     "occ_label": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
     "foreign_pct": 11.91,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "47-2040",
     "occ_label": "Carpet, floor, and tile installers and finishers",
     "foreign_pct": 39.72,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "51-9020",
     "occ_label": "Crushing, grinding, polishing, mixing, and blending workers",
     "foreign_pct": 38.35,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "43-4151",
     "occ_label": "Order clerks",
     "foreign_pct": 12.9,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "19-4031",
     "occ_label": "Chemical technicians",
     "foreign_pct": 8.69,
     "soc3": "19-4",
-    "foreign_pct_soc3": 16.5
+    "foreign_pct_soc3": 16.5,
+    "major": "19"
   },
   {
     "soc": "19-5010",
     "occ_label": "Occupational health and safety specialists and technicians",
     "foreign_pct": 1.18,
     "soc3": "19-5",
-    "foreign_pct_soc3": 1.18
+    "foreign_pct_soc3": 1.18,
+    "major": "19"
   },
   {
     "soc": "17-3023",
     "occ_label": "Electrical and electronic engineering technologists and technicians",
     "foreign_pct": 31.66,
     "soc3": "17-3",
-    "foreign_pct_soc3": 22.25
+    "foreign_pct_soc3": 22.25,
+    "major": "17"
   },
   {
     "soc": "29-1240",
     "occ_label": "Surgeons",
     "foreign_pct": 19.86,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "43-4199",
     "occ_label": "Information and record clerks, all other",
     "foreign_pct": 13.27,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "39-6010",
     "occ_label": "Baggage porters, bellhops, and concierges",
     "foreign_pct": 19.12,
     "soc3": "39-6",
-    "foreign_pct_soc3": 19.12
+    "foreign_pct_soc3": 19.12,
+    "major": "39"
   },
   {
     "soc": "39-7010",
     "occ_label": "Tour and travel guides",
     "foreign_pct": 0.0,
     "soc3": "39-7",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "39"
   },
   {
     "soc": "47-2151",
     "occ_label": "Pipelayers",
     "foreign_pct": 49.09,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "21-1021",
     "occ_label": "Child, family, and school social workers",
     "foreign_pct": 6.22,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "43-9022",
     "occ_label": "Word processors and typists",
     "foreign_pct": 37.62,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "47-2221",
     "occ_label": "Structural iron and steel workers",
     "foreign_pct": 7.8,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "11-9070",
     "occ_label": "Entertainment and recreation managers",
     "foreign_pct": 17.37,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "29-1011",
     "occ_label": "Chiropractors",
     "foreign_pct": 0.0,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "29-1131",
     "occ_label": "Veterinarians",
     "foreign_pct": 28.95,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "19-1020",
     "occ_label": "Biological scientists",
     "foreign_pct": 2.08,
     "soc3": "19-1",
-    "foreign_pct_soc3": 29.74
+    "foreign_pct_soc3": 29.74,
+    "major": "19"
   },
   {
     "soc": "13-1131",
     "occ_label": "Fundraisers",
     "foreign_pct": 0.6,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "53-71XX",
     "occ_label": "Other material moving workers",
     "foreign_pct": 14.55,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "41-2021",
     "occ_label": "Counter and rental clerks",
     "foreign_pct": 0.0,
     "soc3": "41-2",
-    "foreign_pct_soc3": 13.03
+    "foreign_pct_soc3": 13.03,
+    "major": "41"
   },
   {
     "soc": "43-4121",
     "occ_label": "Library assistants, clerical",
     "foreign_pct": 29.8,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "15-1254",
     "occ_label": "Web developers",
     "foreign_pct": 14.1,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "13-1141",
     "occ_label": "Compensation, benefits, and job analysis specialists",
     "foreign_pct": 4.73,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "23-2099",
     "occ_label": "Legal support workers, all other",
     "foreign_pct": 0.0,
     "soc3": "23-2",
-    "foreign_pct_soc3": 10.66
+    "foreign_pct_soc3": 10.66,
+    "major": "23"
   },
   {
     "soc": "29-2035",
     "occ_label": "Magnetic resonance imaging technologists",
     "foreign_pct": 13.13,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "17-301X",
     "occ_label": "Other drafters",
     "foreign_pct": 15.01,
     "soc3": "17-3",
-    "foreign_pct_soc3": 22.25
+    "foreign_pct_soc3": 22.25,
+    "major": "17"
   },
   {
     "soc": "51-6050",
     "occ_label": "Tailors, dressmakers, and sewers",
     "foreign_pct": 42.66,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "33-1011",
     "occ_label": "First-line supervisors of correctional officers",
     "foreign_pct": 0.0,
     "soc3": "33-1",
-    "foreign_pct_soc3": 4.05
+    "foreign_pct_soc3": 4.05,
+    "major": "33"
   },
   {
     "soc": "27-2041",
     "occ_label": "Music directors and composers",
     "foreign_pct": 24.49,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "19-3034",
     "occ_label": "School psychologists",
     "foreign_pct": 6.15,
     "soc3": "19-3",
-    "foreign_pct_soc3": 10.58
+    "foreign_pct_soc3": 10.58,
+    "major": "19"
   },
   {
     "soc": "19-2041",
     "occ_label": "Environmental scientists and specialists, including health",
     "foreign_pct": 0.0,
     "soc3": "19-2",
-    "foreign_pct_soc3": 34.52
+    "foreign_pct_soc3": 34.52,
+    "major": "19"
   },
   {
     "soc": "13-1011",
     "occ_label": "Agents and business managers of artists, performers, and athletes",
     "foreign_pct": 7.33,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "11-3131",
     "occ_label": "Training and development managers",
     "foreign_pct": 0.0,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "53-6051",
     "occ_label": "Transportation inspectors",
     "foreign_pct": 10.36,
     "soc3": "53-6",
-    "foreign_pct_soc3": 13.67
+    "foreign_pct_soc3": 13.67,
+    "major": "53"
   },
   {
     "soc": "31-113X",
     "occ_label": "Orderlies and psychiatric aides",
     "foreign_pct": 13.05,
     "soc3": "31-1",
-    "foreign_pct_soc3": 26.2
+    "foreign_pct_soc3": 26.2,
+    "major": "31"
   },
   {
     "soc": "47-2050",
     "occ_label": "Cement masons, concrete finishers, and terrazzo workers",
     "foreign_pct": 48.59,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "43-4031",
     "occ_label": "Court, municipal, and license clerks",
     "foreign_pct": 8.11,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "51-4033",
     "occ_label": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
     "foreign_pct": 27.2,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "11-9121",
     "occ_label": "Natural sciences managers",
     "foreign_pct": 8.15,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "29-2031",
     "occ_label": "Cardiovascular technologists and technicians",
     "foreign_pct": 23.18,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "19-4010",
     "occ_label": "Agricultural and food science technicians",
     "foreign_pct": 43.84,
     "soc3": "19-4",
-    "foreign_pct_soc3": 16.5
+    "foreign_pct_soc3": 16.5,
+    "major": "19"
   },
   {
     "soc": "51-9010",
     "occ_label": "Chemical processing machine setters, operators, and tenders",
     "foreign_pct": 12.36,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "27-1022",
     "occ_label": "Fashion designers",
     "foreign_pct": 8.22,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "29-1041",
     "occ_label": "Optometrists",
     "foreign_pct": 19.91,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "15-1221",
     "occ_label": "Computer and information research scientists",
     "foreign_pct": 43.86,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "13-2081",
     "occ_label": "Tax examiners and collectors, and revenue agents",
     "foreign_pct": 23.07,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "31-2010",
     "occ_label": "Occupational therapy assistants and aides",
     "foreign_pct": 0.0,
     "soc3": "31-2",
-    "foreign_pct_soc3": 4.82
+    "foreign_pct_soc3": 4.82,
+    "major": "31"
   },
   {
     "soc": "17-2081",
     "occ_label": "Environmental engineers",
     "foreign_pct": 20.28,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "27-2011",
     "occ_label": "Actors",
     "foreign_pct": 13.6,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "39-4031",
     "occ_label": "Morticians, undertakers, and funeral arrangers",
     "foreign_pct": 0.0,
     "soc3": "39-4",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "39"
   },
   {
     "soc": "15-1255",
     "occ_label": "Web and digital interface designers",
     "foreign_pct": 15.74,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "53-4031",
     "occ_label": "Railroad conductors and yardmasters",
     "foreign_pct": 0.0,
     "soc3": "53-4",
-    "foreign_pct_soc3": 4.59
+    "foreign_pct_soc3": 4.59,
+    "major": "53"
   },
   {
     "soc": "49-9043",
     "occ_label": "Maintenance workers, machinery",
     "foreign_pct": 22.25,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "47-50XX",
     "occ_label": "Other extraction workers",
     "foreign_pct": 18.46,
     "soc3": "47-5",
-    "foreign_pct_soc3": 15.31
+    "foreign_pct_soc3": 15.31,
+    "major": "47"
   },
   {
     "soc": "53-6021",
     "occ_label": "Parking attendants",
     "foreign_pct": 35.81,
     "soc3": "53-6",
-    "foreign_pct_soc3": 13.67
+    "foreign_pct_soc3": 13.67,
+    "major": "53"
   },
   {
     "soc": "49-9044",
     "occ_label": "Millwrights",
     "foreign_pct": 0.0,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "49-9031",
     "occ_label": "Home appliance repairers",
     "foreign_pct": 51.8,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "31-9094",
     "occ_label": "Medical transcriptionists",
     "foreign_pct": 0.0,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "11-2011",
     "occ_label": "Advertising and promotions managers",
     "foreign_pct": 20.12,
     "soc3": "11-2",
-    "foreign_pct_soc3": 12.62
+    "foreign_pct_soc3": 12.62,
+    "major": "11"
   },
   {
     "soc": "43-6012",
     "occ_label": "Legal secretaries and administrative assistants",
     "foreign_pct": 27.4,
     "soc3": "43-6",
-    "foreign_pct_soc3": 7.65
+    "foreign_pct_soc3": 7.65,
+    "major": "43"
   },
   {
     "soc": "47-4021",
     "occ_label": "Elevator and escalator installers and repairers",
     "foreign_pct": 9.27,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "33-9091",
     "occ_label": "Crossing guards and flaggers",
     "foreign_pct": 16.92,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "13-2020",
     "occ_label": "Property appraisers and assessors",
     "foreign_pct": 1.7,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "49-9060",
     "occ_label": "Precision instrument and equipment repairers",
     "foreign_pct": 16.74,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "39-3031",
     "occ_label": "Ushers, lobby attendants, and ticket takers",
     "foreign_pct": 27.31,
     "soc3": "39-3",
-    "foreign_pct_soc3": 10.62
+    "foreign_pct_soc3": 10.62,
+    "major": "39"
   },
   {
     "soc": "51-9071",
     "occ_label": "Jewelers and precious stone and metal workers",
     "foreign_pct": 12.16,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "49-2098",
     "occ_label": "Security and fire alarm systems installers",
     "foreign_pct": 1.32,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "17-1020",
     "occ_label": "Surveyors, cartographers, and photogrammetrists",
     "foreign_pct": 10.23,
     "soc3": "17-1",
-    "foreign_pct_soc3": 14.35
+    "foreign_pct_soc3": 14.35,
+    "major": "17"
   },
   {
     "soc": "29-205X",
     "occ_label": "Dietetic technicians and ophthalmic medical technicians",
     "foreign_pct": 1.22,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "49-9094",
     "occ_label": "Locksmiths and safe repairers",
     "foreign_pct": 33.45,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "51-9195",
     "occ_label": "Molders, shapers, and casters, except metal and plastic",
     "foreign_pct": 6.19,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "41-9031",
     "occ_label": "Sales engineers",
     "foreign_pct": 0.0,
     "soc3": "41-9",
-    "foreign_pct_soc3": 17.83
+    "foreign_pct_soc3": 17.83,
+    "major": "41"
   },
   {
     "soc": "43-5053",
     "occ_label": "Postal service mail sorters, processors, and processing machine operators",
     "foreign_pct": 12.39,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "21-1013",
     "occ_label": "Marriage and family therapists",
     "foreign_pct": 6.66,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "51-9030",
     "occ_label": "Cutting workers",
     "foreign_pct": 7.16,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "27-2021",
     "occ_label": "Athletes and sports competitors",
     "foreign_pct": 18.91,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "19-204X",
     "occ_label": "Geoscientists and hydrologists, except geographers",
     "foreign_pct": 1.53,
     "soc3": "19-2",
-    "foreign_pct_soc3": 34.52
+    "foreign_pct_soc3": 34.52,
+    "major": "19"
   },
   {
     "soc": "29-203X",
     "occ_label": "Nuclear medicine technologists and medical dosimetrists",
     "foreign_pct": 8.66,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "43-9051",
     "occ_label": "Mail clerks and mail machine operators, except postal service",
     "foreign_pct": 24.48,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "45-1011",
     "occ_label": "First-line supervisors of farming, fishing, and forestry workers",
     "foreign_pct": 36.29,
     "soc3": "45-1",
-    "foreign_pct_soc3": 36.29
+    "foreign_pct_soc3": 36.29,
+    "major": "45"
   },
   {
     "soc": "31-9096",
     "occ_label": "Veterinary assistants and laboratory animal caretakers",
     "foreign_pct": 16.16,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "51-4070",
     "occ_label": "Molders and molding machine setters, operators, and tenders, metal and plastic",
     "foreign_pct": 23.03,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "27-1026",
     "occ_label": "Merchandise displayers and window trimmers",
     "foreign_pct": 12.29,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "29-2081",
     "occ_label": "Opticians, dispensing",
     "foreign_pct": 14.89,
     "soc3": "29-2",
-    "foreign_pct_soc3": 12.77
+    "foreign_pct_soc3": 12.77,
+    "major": "29"
   },
   {
     "soc": "51-7011",
     "occ_label": "Cabinetmakers and bench carpenters",
     "foreign_pct": 43.48,
     "soc3": "51-7",
-    "foreign_pct_soc3": 30.94
+    "foreign_pct_soc3": 30.94,
+    "major": "51"
   },
   {
     "soc": "39-9041",
     "occ_label": "Residential advisors",
     "foreign_pct": 0.0,
     "soc3": "39-9",
-    "foreign_pct_soc3": 25.32
+    "foreign_pct_soc3": 25.32,
+    "major": "39"
   },
   {
     "soc": "13-2061",
     "occ_label": "Financial examiners",
     "foreign_pct": 15.98,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "15-1253",
     "occ_label": "Software quality assurance analysts and testers",
     "foreign_pct": 45.52,
     "soc3": "15-1",
-    "foreign_pct_soc3": 27.72
+    "foreign_pct_soc3": 27.72,
+    "major": "15"
   },
   {
     "soc": "53-6061",
     "occ_label": "Passenger attendants",
     "foreign_pct": 0.0,
     "soc3": "53-6",
-    "foreign_pct_soc3": 13.67
+    "foreign_pct_soc3": 13.67,
+    "major": "53"
   },
   {
     "soc": "43-2021",
     "occ_label": "Telephone operators",
     "foreign_pct": 22.23,
     "soc3": "43-2",
-    "foreign_pct_soc3": 19.72
+    "foreign_pct_soc3": 19.72,
+    "major": "43"
   },
   {
     "soc": "47-4090",
     "occ_label": "Miscellaneous construction and related workers",
     "foreign_pct": 14.94,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "45-4020",
     "occ_label": "Logging workers",
     "foreign_pct": 6.59,
     "soc3": "45-4",
-    "foreign_pct_soc3": 4.14
+    "foreign_pct_soc3": 4.14,
+    "major": "45"
   },
   {
     "soc": "43-3061",
     "occ_label": "Procurement clerks",
     "foreign_pct": 12.27,
     "soc3": "43-3",
-    "foreign_pct_soc3": 13.2
+    "foreign_pct_soc3": 13.2,
+    "major": "43"
   },
   {
     "soc": "17-3011",
     "occ_label": "Architectural and civil drafters",
     "foreign_pct": 14.06,
     "soc3": "17-3",
-    "foreign_pct_soc3": 22.25
+    "foreign_pct_soc3": 22.25,
+    "major": "17"
   },
   {
     "soc": "51-9151",
     "occ_label": "Photographic process workers and processing machine operators",
     "foreign_pct": 9.89,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "49-9091",
     "occ_label": "Coin, vending, and amusement machine servicers and repairers",
     "foreign_pct": 9.67,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "51-8010",
     "occ_label": "Power plant operators, distributors, and dispatchers",
     "foreign_pct": 13.32,
     "soc3": "51-8",
-    "foreign_pct_soc3": 9.22
+    "foreign_pct_soc3": 9.22,
+    "major": "51"
   },
   {
     "soc": "31-9095",
     "occ_label": "Pharmacy aides",
     "foreign_pct": 23.79,
     "soc3": "31-9",
-    "foreign_pct_soc3": 19.32
+    "foreign_pct_soc3": 19.32,
+    "major": "31"
   },
   {
     "soc": "17-2031",
     "occ_label": "Bioengineers and biomedical engineers",
     "foreign_pct": 14.12,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "53-7063",
     "occ_label": "Machine feeders and offbearers",
     "foreign_pct": 11.38,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "33-1021",
     "occ_label": "First-line supervisors of firefighting and prevention workers",
     "foreign_pct": 0.0,
     "soc3": "33-1",
-    "foreign_pct_soc3": 4.05
+    "foreign_pct_soc3": 4.05,
+    "major": "33"
   },
   {
     "soc": "53-4010",
     "occ_label": "Locomotive engineers and operators",
     "foreign_pct": 0.0,
     "soc3": "53-4",
-    "foreign_pct_soc3": 4.59
+    "foreign_pct_soc3": 4.59,
+    "major": "53"
   },
   {
     "soc": "51-2041",
     "occ_label": "Structural metal fabricators and fitters",
     "foreign_pct": 5.86,
     "soc3": "51-2",
-    "foreign_pct_soc3": 19.08
+    "foreign_pct_soc3": 19.08,
+    "major": "51"
   },
   {
     "soc": "49-3050",
     "occ_label": "Small engine mechanics",
     "foreign_pct": 6.05,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "53-2020",
     "occ_label": "Air traffic controllers and airfield operations specialists",
     "foreign_pct": 16.13,
     "soc3": "53-2",
-    "foreign_pct_soc3": 9.87
+    "foreign_pct_soc3": 9.87,
+    "major": "53"
   },
   {
     "soc": "49-2097",
     "occ_label": "Audiovisual equipment installers and repairers",
     "foreign_pct": 26.98,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "51-8090",
     "occ_label": "Miscellaneous plant and system operators",
     "foreign_pct": 16.12,
     "soc3": "51-8",
-    "foreign_pct_soc3": 9.22
+    "foreign_pct_soc3": 9.22,
+    "major": "51"
   },
   {
     "soc": "43-9111",
     "occ_label": "Statistical assistants",
     "foreign_pct": 21.09,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "17-3031",
     "occ_label": "Surveying and mapping technicians",
     "foreign_pct": 13.15,
     "soc3": "17-3",
-    "foreign_pct_soc3": 22.25
+    "foreign_pct_soc3": 22.25,
+    "major": "17"
   },
   {
     "soc": "53-40XX",
     "occ_label": "Other rail transportation workers",
     "foreign_pct": 16.56,
     "soc3": "53-4",
-    "foreign_pct_soc3": 4.59
+    "foreign_pct_soc3": 4.59,
+    "major": "53"
   },
   {
     "soc": "19-3090",
     "occ_label": "Miscellaneous social scientists and related workers",
     "foreign_pct": 1.65,
     "soc3": "19-3",
-    "foreign_pct_soc3": 10.58
+    "foreign_pct_soc3": 10.58,
+    "major": "19"
   },
   {
     "soc": "43-5041",
     "occ_label": "Meter readers, utilities",
     "foreign_pct": 0.0,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "47-4031",
     "occ_label": "Fence erectors",
     "foreign_pct": 34.09,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "27-3042",
     "occ_label": "Technical writers",
     "foreign_pct": 0.0,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "21-1092",
     "occ_label": "Probation officers and correctional treatment specialists",
     "foreign_pct": 0.0,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "53-5020",
     "occ_label": "Ship and boat captains and operators",
     "foreign_pct": 0.0,
     "soc3": "53-5",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "53"
   },
   {
     "soc": "51-70XX",
     "occ_label": "Other woodworkers",
     "foreign_pct": 19.1,
     "soc3": "51-7",
-    "foreign_pct_soc3": 30.94
+    "foreign_pct_soc3": 30.94,
+    "major": "51"
   },
   {
     "soc": "47-5040",
     "occ_label": "Underground mining machine operators",
     "foreign_pct": 0.0,
     "soc3": "47-5",
-    "foreign_pct_soc3": 15.31
+    "foreign_pct_soc3": 15.31,
+    "major": "47"
   },
   {
     "soc": "27-1023",
     "occ_label": "Floral designers",
     "foreign_pct": 15.24,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "45-2041",
     "occ_label": "Graders and sorters, agricultural products",
     "foreign_pct": 59.82,
     "soc3": "45-2",
-    "foreign_pct_soc3": 49.19
+    "foreign_pct_soc3": 49.19,
+    "major": "45"
   },
   {
     "soc": "47-5023",
     "occ_label": "Earth drillers, except oil and gas",
     "foreign_pct": 41.96,
     "soc3": "47-5",
-    "foreign_pct_soc3": 15.31
+    "foreign_pct_soc3": 15.31,
+    "major": "47"
   },
   {
     "soc": "41-9041",
     "occ_label": "Telemarketers",
     "foreign_pct": 6.69,
     "soc3": "41-9",
-    "foreign_pct_soc3": 17.83
+    "foreign_pct_soc3": 17.83,
+    "major": "41"
   },
   {
     "soc": "41-9010",
     "occ_label": "Models, demonstrators, and product promoters",
     "foreign_pct": 0.0,
     "soc3": "41-9",
-    "foreign_pct_soc3": 17.83
+    "foreign_pct_soc3": 17.83,
+    "major": "41"
   },
   {
     "soc": "33-9094",
     "occ_label": "School bus monitors",
     "foreign_pct": 0.0,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "37-301X",
     "occ_label": "Other grounds maintenance workers",
     "foreign_pct": 0.0,
     "soc3": "37-3",
-    "foreign_pct_soc3": 37.08
+    "foreign_pct_soc3": 37.08,
+    "major": "37"
   },
   {
     "soc": "19-3051",
     "occ_label": "Urban and regional planners",
     "foreign_pct": 0.0,
     "soc3": "19-3",
-    "foreign_pct_soc3": 10.58
+    "foreign_pct_soc3": 10.58,
+    "major": "19"
   },
   {
     "soc": "13-2041",
     "occ_label": "Credit analysts",
     "foreign_pct": 17.14,
     "soc3": "13-2",
-    "foreign_pct_soc3": 16.18
+    "foreign_pct_soc3": 16.18,
+    "major": "13"
   },
   {
     "soc": "29-1299",
     "occ_label": "Healthcare diagnosing or treating practitioners, all other",
     "foreign_pct": 5.33,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "17-1012",
     "occ_label": "Landscape architects",
     "foreign_pct": 0.0,
     "soc3": "17-1",
-    "foreign_pct_soc3": 14.35
+    "foreign_pct_soc3": 14.35,
+    "major": "17"
   },
   {
     "soc": "45-3031",
     "occ_label": "Fishing and hunting workers",
     "foreign_pct": 20.21,
     "soc3": "45-3",
-    "foreign_pct_soc3": 20.21
+    "foreign_pct_soc3": 20.21,
+    "major": "45"
   },
   {
     "soc": "49-3022",
     "occ_label": "Automotive glass installers and repairers",
     "foreign_pct": 0.0,
     "soc3": "49-3",
-    "foreign_pct_soc3": 19.23
+    "foreign_pct_soc3": 19.23,
+    "major": "49"
   },
   {
     "soc": "27-3092",
     "occ_label": "Court reporters and simultaneous captioners",
     "foreign_pct": 0.0,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "33-2020",
     "occ_label": "Fire inspectors",
     "foreign_pct": 0.0,
     "soc3": "33-2",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "33"
   },
   {
     "soc": "43-9071",
     "occ_label": "Office machine operators, except computer",
     "foreign_pct": 39.09,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "47-3010",
     "occ_label": "Helpers, construction trades",
     "foreign_pct": 31.14,
     "soc3": "47-3",
-    "foreign_pct_soc3": 31.14
+    "foreign_pct_soc3": 31.14,
+    "major": "47"
   },
   {
     "soc": "51-6021",
     "occ_label": "Pressers, textile, garment, and related materials",
     "foreign_pct": 51.91,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "19-1030",
     "occ_label": "Conservation scientists and foresters",
     "foreign_pct": 0.0,
     "soc3": "19-1",
-    "foreign_pct_soc3": 29.74
+    "foreign_pct_soc3": 29.74,
+    "major": "19"
   },
   {
     "soc": "49-9010",
     "occ_label": "Control and valve installers and repairers",
     "foreign_pct": 0.0,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "53-70XX",
     "occ_label": "Conveyor, dredge, and hoist and winch operators",
     "foreign_pct": 42.9,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "51-2031",
     "occ_label": "Engine and other machine assemblers",
     "foreign_pct": 0.0,
     "soc3": "51-2",
-    "foreign_pct_soc3": 19.08
+    "foreign_pct_soc3": 19.08,
+    "major": "51"
   },
   {
     "soc": "51-6060",
     "occ_label": "Textile machine setters, operators, and tenders",
     "foreign_pct": 52.91,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "51-4111",
     "occ_label": "Tool and die makers",
     "foreign_pct": 0.0,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "27-2091",
     "occ_label": "Disc jockeys, except radio",
     "foreign_pct": 0.0,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "29-1125",
     "occ_label": "Recreational therapists",
     "foreign_pct": 0.0,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "25-4031",
     "occ_label": "Library technicians",
     "foreign_pct": 0.0,
     "soc3": "25-4",
-    "foreign_pct_soc3": 1.35
+    "foreign_pct_soc3": 1.35,
+    "major": "25"
   },
   {
     "soc": "39-1000",
     "occ_label": "Supervisors of personal care and service workers",
     "foreign_pct": 22.53,
     "soc3": "39-1",
-    "foreign_pct_soc3": 22.53
+    "foreign_pct_soc3": 22.53,
+    "major": "39"
   },
   {
     "soc": "27-2023",
     "occ_label": "Umpires, referees, and other sports officials",
     "foreign_pct": 0.0,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "15-2011",
     "occ_label": "Actuaries",
     "foreign_pct": 27.08,
     "soc3": "15-2",
-    "foreign_pct_soc3": 19.16
+    "foreign_pct_soc3": 19.16,
+    "major": "15"
   },
   {
     "soc": "51-7041",
     "occ_label": "Sawing machine setters, operators, and tenders, wood",
     "foreign_pct": 11.98,
     "soc3": "51-7",
-    "foreign_pct_soc3": 30.94
+    "foreign_pct_soc3": 30.94,
+    "major": "51"
   },
   {
     "soc": "21-1023",
     "occ_label": "Mental health and substance abuse social workers",
     "foreign_pct": 0.0,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "39-509X",
     "occ_label": "Other personal appearance workers",
     "foreign_pct": 26.0,
     "soc3": "39-5",
-    "foreign_pct_soc3": 29.29
+    "foreign_pct_soc3": 29.29,
+    "major": "39"
   },
   {
     "soc": "45-4011",
     "occ_label": "Forest and conservation workers",
     "foreign_pct": 0.0,
     "soc3": "45-4",
-    "foreign_pct_soc3": 4.14
+    "foreign_pct_soc3": 4.14,
+    "major": "45"
   },
   {
     "soc": "53-60XX",
     "occ_label": "Other transportation workers",
     "foreign_pct": 0.0,
     "soc3": "53-6",
-    "foreign_pct_soc3": 13.67
+    "foreign_pct_soc3": 13.67,
+    "major": "53"
   },
   {
     "soc": "51-4050",
     "occ_label": "Metal furnace operators, tenders, pourers, and casters",
     "foreign_pct": 0.0,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "33-3041",
     "occ_label": "Parking enforcement workers",
     "foreign_pct": 0.0,
     "soc3": "33-3",
-    "foreign_pct_soc3": 5.65
+    "foreign_pct_soc3": 5.65,
+    "major": "33"
   },
   {
     "soc": "27-2030",
     "occ_label": "Dancers and choreographers",
     "foreign_pct": 13.79,
     "soc3": "27-2",
-    "foreign_pct_soc3": 10.33
+    "foreign_pct_soc3": 10.33,
+    "major": "27"
   },
   {
     "soc": "51-9051",
     "occ_label": "Furnace, kiln, oven, drier, and kettle operators and tenders",
     "foreign_pct": 3.96,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "49-2091",
     "occ_label": "Avionics technicians",
     "foreign_pct": 45.82,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "11-9161",
     "occ_label": "Emergency management directors",
     "foreign_pct": 0.0,
     "soc3": "11-9",
-    "foreign_pct_soc3": 15.95
+    "foreign_pct_soc3": 15.95,
+    "major": "11"
   },
   {
     "soc": "47-5010",
     "occ_label": "Derrick, rotary drill, and service unit operators, oil and gas",
     "foreign_pct": 0.0,
     "soc3": "47-5",
-    "foreign_pct_soc3": 15.31
+    "foreign_pct_soc3": 15.31,
+    "major": "47"
   },
   {
     "soc": "43-4041",
     "occ_label": "Credit authorizers, checkers, and clerks",
     "foreign_pct": 0.0,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "47-2161",
     "occ_label": "Plasterers and stucco masons",
     "foreign_pct": 66.08,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "47-2130",
     "occ_label": "Insulation workers",
     "foreign_pct": 85.68,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "51-7021",
     "occ_label": "Furniture finishers",
     "foreign_pct": 47.74,
     "soc3": "51-7",
-    "foreign_pct_soc3": 30.94
+    "foreign_pct_soc3": 30.94,
+    "major": "51"
   },
   {
     "soc": "11-3111",
     "occ_label": "Compensation and benefits managers",
     "foreign_pct": 0.0,
     "soc3": "11-3",
-    "foreign_pct_soc3": 16.72
+    "foreign_pct_soc3": 16.72,
+    "major": "11"
   },
   {
     "soc": "21-1015",
     "occ_label": "Rehabilitation counselors",
     "foreign_pct": 45.23,
     "soc3": "21-1",
-    "foreign_pct_soc3": 10.71
+    "foreign_pct_soc3": 10.71,
+    "major": "21"
   },
   {
     "soc": "29-1151",
     "occ_label": "Nurse anesthetists",
     "foreign_pct": 0.0,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "45-2011",
     "occ_label": "Agricultural inspectors",
     "foreign_pct": 0.0,
     "soc3": "45-2",
-    "foreign_pct_soc3": 49.19
+    "foreign_pct_soc3": 49.19,
+    "major": "45"
   },
   {
     "soc": "51-6093",
     "occ_label": "Upholsterers",
     "foreign_pct": 28.7,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "49-209X",
     "occ_label": "Electrical and electronics repairers, industrial and utility",
     "foreign_pct": 0.0,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "29-1291",
     "occ_label": "Acupuncturists",
     "foreign_pct": 25.9,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "47-2121",
     "occ_label": "Glaziers",
     "foreign_pct": 61.38,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "23-1012",
     "occ_label": "Judicial law clerks",
     "foreign_pct": 3.93,
     "soc3": "23-1",
-    "foreign_pct_soc3": 8.93
+    "foreign_pct_soc3": 8.93,
+    "major": "23"
   },
   {
     "soc": "47-2231",
     "occ_label": "Solar photovoltaic installers",
     "foreign_pct": 0.0,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "51-9041",
     "occ_label": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
     "foreign_pct": 0.0,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "49-9096",
     "occ_label": "Riggers",
     "foreign_pct": 7.33,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "53-3011",
     "occ_label": "Ambulance drivers and attendants, except emergency medical technicians",
     "foreign_pct": 23.22,
     "soc3": "53-3",
-    "foreign_pct_soc3": 28.13
+    "foreign_pct_soc3": 28.13,
+    "major": "53"
   },
   {
     "soc": "43-9081",
     "occ_label": "Proofreaders and copy markers",
     "foreign_pct": 29.78,
     "soc3": "43-9",
-    "foreign_pct_soc3": 11.99
+    "foreign_pct_soc3": 11.99,
+    "major": "43"
   },
   {
     "soc": "19-2010",
     "occ_label": "Astronomers and physicists",
     "foreign_pct": 27.21,
     "soc3": "19-2",
-    "foreign_pct_soc3": 34.52
+    "foreign_pct_soc3": 34.52,
+    "major": "19"
   },
   {
     "soc": "39-40XX",
     "occ_label": "Embalmers, crematory operators and funeral attendants",
     "foreign_pct": 0.0,
     "soc3": "39-4",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "39"
   },
   {
     "soc": "51-3093",
     "occ_label": "Food cooking machine operators and tenders",
     "foreign_pct": 0.0,
     "soc3": "51-3",
-    "foreign_pct_soc3": 27.13
+    "foreign_pct_soc3": 27.13,
+    "major": "51"
   },
   {
     "soc": "51-4020",
     "occ_label": "Forming machine setters, operators, and tenders, metal and plastic",
     "foreign_pct": 0.0,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "51-6040",
     "occ_label": "Shoe and leather workers",
     "foreign_pct": 62.97,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "43-5011",
     "occ_label": "Cargo and freight agents",
     "foreign_pct": 0.0,
     "soc3": "43-5",
-    "foreign_pct_soc3": 17.53
+    "foreign_pct_soc3": 17.53,
+    "major": "43"
   },
   {
     "soc": "19-4021",
     "occ_label": "Biological technicians",
     "foreign_pct": 0.0,
     "soc3": "19-4",
-    "foreign_pct_soc3": 16.5
+    "foreign_pct_soc3": 16.5,
+    "major": "19"
   },
   {
     "soc": "33-3011",
     "occ_label": "Bailiffs",
     "foreign_pct": 0.0,
     "soc3": "33-3",
-    "foreign_pct_soc3": 5.65
+    "foreign_pct_soc3": 5.65,
+    "major": "33"
   },
   {
     "soc": "49-2092",
     "occ_label": "Electric motor, power tool, and related repairers",
     "foreign_pct": 0.0,
     "soc3": "49-2",
-    "foreign_pct_soc3": 17.76
+    "foreign_pct_soc3": 17.76,
+    "major": "49"
   },
   {
     "soc": "27-1021",
     "occ_label": "Commercial and industrial designers",
     "foreign_pct": 87.12,
     "soc3": "27-1",
-    "foreign_pct_soc3": 12.47
+    "foreign_pct_soc3": 12.47,
+    "major": "27"
   },
   {
     "soc": "17-2121",
     "occ_label": "Marine engineers and naval architects",
     "foreign_pct": 0.0,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "47-5032",
     "occ_label": "Explosives workers, ordnance handling experts, and blasters",
     "foreign_pct": 0.0,
     "soc3": "47-5",
-    "foreign_pct_soc3": 15.31
+    "foreign_pct_soc3": 15.31,
+    "major": "47"
   },
   {
     "soc": "53-5011",
     "occ_label": "Sailors and marine oilers",
     "foreign_pct": 0.0,
     "soc3": "53-5",
-    "foreign_pct_soc3": 0.0
+    "foreign_pct_soc3": 0.0,
+    "major": "53"
   },
   {
     "soc": "17-2171",
     "occ_label": "Petroleum engineers",
     "foreign_pct": 0.0,
     "soc3": "17-2",
-    "foreign_pct_soc3": 23.05
+    "foreign_pct_soc3": 23.05,
+    "major": "17"
   },
   {
     "soc": "29-1181",
     "occ_label": "Audiologists",
     "foreign_pct": 0.0,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "47-4061",
     "occ_label": "Rail-track laying and maintenance equipment operators",
     "foreign_pct": 56.88,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "19-3011",
     "occ_label": "Economists",
     "foreign_pct": 40.06,
     "soc3": "19-3",
-    "foreign_pct_soc3": 10.58
+    "foreign_pct_soc3": 10.58,
+    "major": "19"
   },
   {
     "soc": "47-4041",
     "occ_label": "Hazardous materials removal workers",
     "foreign_pct": 81.6,
     "soc3": "47-4",
-    "foreign_pct_soc3": 19.66
+    "foreign_pct_soc3": 19.66,
+    "major": "47"
   },
   {
     "soc": "33-9011",
     "occ_label": "Animal control workers",
     "foreign_pct": 0.0,
     "soc3": "33-9",
-    "foreign_pct_soc3": 10.92
+    "foreign_pct_soc3": 10.92,
+    "major": "33"
   },
   {
     "soc": "13-1021",
     "occ_label": "Buyers and purchasing agents, farm products",
     "foreign_pct": 0.0,
     "soc3": "13-1",
-    "foreign_pct_soc3": 12.75
+    "foreign_pct_soc3": 12.75,
+    "major": "13"
   },
   {
     "soc": "19-3033",
     "occ_label": "Clinical and counseling psychologists",
     "foreign_pct": 3.71,
     "soc3": "19-3",
-    "foreign_pct_soc3": 10.58
+    "foreign_pct_soc3": 10.58,
+    "major": "19"
   },
   {
     "soc": "51-9196",
     "occ_label": "Paper goods machine setters, operators, and tenders",
     "foreign_pct": 0.0,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   },
   {
     "soc": "29-1124",
     "occ_label": "Radiation therapists",
     "foreign_pct": 9.95,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "51-609X",
     "occ_label": "Other textile, apparel, and furnishings workers",
     "foreign_pct": 41.95,
     "soc3": "51-6",
-    "foreign_pct_soc3": 45.0
+    "foreign_pct_soc3": 45.0,
+    "major": "51"
   },
   {
     "soc": "27-3099",
     "occ_label": "Media and communication workers, all other",
     "foreign_pct": 0.0,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "19-1010",
     "occ_label": "Agricultural and food scientists",
     "foreign_pct": 0.0,
     "soc3": "19-1",
-    "foreign_pct_soc3": 29.74
+    "foreign_pct_soc3": 29.74,
+    "major": "19"
   },
   {
     "soc": "51-3091",
     "occ_label": "Food and tobacco roasting, baking, and drying machine operators and tenders",
     "foreign_pct": 0.0,
     "soc3": "51-3",
-    "foreign_pct_soc3": 27.13
+    "foreign_pct_soc3": 27.13,
+    "major": "51"
   },
   {
     "soc": "53-7070",
     "occ_label": "Pumping station operators",
     "foreign_pct": 0.0,
     "soc3": "53-7",
-    "foreign_pct_soc3": 22.88
+    "foreign_pct_soc3": 22.88,
+    "major": "53"
   },
   {
     "soc": "49-9098",
     "occ_label": "Helpers--installation, maintenance, and repair workers",
     "foreign_pct": 40.69,
     "soc3": "49-9",
-    "foreign_pct_soc3": 18.1
+    "foreign_pct_soc3": 18.1,
+    "major": "49"
   },
   {
     "soc": "19-4040",
     "occ_label": "Environmental  science and geoscience technicians",
     "foreign_pct": 0.0,
     "soc3": "19-4",
-    "foreign_pct_soc3": 16.5
+    "foreign_pct_soc3": 16.5,
+    "major": "19"
   },
   {
     "soc": "47-2011",
     "occ_label": "Boilermakers",
     "foreign_pct": 0.0,
     "soc3": "47-2",
-    "foreign_pct_soc3": 35.67
+    "foreign_pct_soc3": 35.67,
+    "major": "47"
   },
   {
     "soc": "27-3011",
     "occ_label": "Broadcast announcers and radio disc jockeys",
     "foreign_pct": 0.0,
     "soc3": "27-3",
-    "foreign_pct_soc3": 12.86
+    "foreign_pct_soc3": 12.86,
+    "major": "27"
   },
   {
     "soc": "19-2021",
     "occ_label": "Atmospheric and space scientists",
     "foreign_pct": 0.0,
     "soc3": "19-2",
-    "foreign_pct_soc3": 34.52
+    "foreign_pct_soc3": 34.52,
+    "major": "19"
   },
   {
     "soc": "43-4141",
     "occ_label": "New accounts clerks",
     "foreign_pct": 28.34,
     "soc3": "43-4",
-    "foreign_pct_soc3": 12.89
+    "foreign_pct_soc3": 12.89,
+    "major": "43"
   },
   {
     "soc": "29-1081",
     "occ_label": "Podiatrists",
     "foreign_pct": 0.0,
     "soc3": "29-1",
-    "foreign_pct_soc3": 17.98
+    "foreign_pct_soc3": 17.98,
+    "major": "29"
   },
   {
     "soc": "51-5113",
     "occ_label": "Print binding and finishing workers",
     "foreign_pct": 0.0,
     "soc3": "51-5",
-    "foreign_pct_soc3": 10.32
+    "foreign_pct_soc3": 10.32,
+    "major": "51"
   },
   {
     "soc": "35-9099",
     "occ_label": "Food preparation and serving related workers, all other",
     "foreign_pct": 100.0,
     "soc3": "35-9",
-    "foreign_pct_soc3": 24.64
+    "foreign_pct_soc3": 24.64,
+    "major": "35"
   },
   {
     "soc": "43-2011",
     "occ_label": "Switchboard operators, including answering service",
     "foreign_pct": 0.0,
     "soc3": "43-2",
-    "foreign_pct_soc3": 19.72
+    "foreign_pct_soc3": 19.72,
+    "major": "43"
   },
   {
     "soc": "51-5111",
     "occ_label": "Prepress technicians and workers",
     "foreign_pct": 0.0,
     "soc3": "51-5",
-    "foreign_pct_soc3": 10.32
+    "foreign_pct_soc3": 10.32,
+    "major": "51"
   },
   {
     "soc": "51-403X",
     "occ_label": "Other machine tool setters, operators, and tenders, metal and plastic",
     "foreign_pct": 0.0,
     "soc3": "51-4",
-    "foreign_pct_soc3": 19.83
+    "foreign_pct_soc3": 19.83,
+    "major": "51"
   },
   {
     "soc": "51-9194",
     "occ_label": "Etchers and engravers",
     "foreign_pct": 0.0,
     "soc3": "51-9",
-    "foreign_pct_soc3": 25.67
+    "foreign_pct_soc3": 25.67,
+    "major": "51"
   }
 ]

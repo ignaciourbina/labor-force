@@ -4,6 +4,7 @@
     "occupation": "Chief Executives",
     "automation_pctile": 10.286347098449747,
     "major": "11",
+    "minor": "11-1",
     "synonyms": "CEO (Chief Executive Officer), Chief Financial Officer (CFO), Chief Operating Officer (COO), President"
   },
   {
@@ -11,6 +12,7 @@
     "occupation": "General and Operations Managers",
     "automation_pctile": 27.36834362705911,
     "major": "11",
+    "minor": "11-1",
     "synonyms": "General Manager (GM), Operations Director, Operations Manager, Store Manager"
   },
   {
@@ -18,6 +20,7 @@
     "occupation": "Advertising and Promotions Managers",
     "automation_pctile": 15.653074546230464,
     "major": "11",
+    "minor": "11-2",
     "synonyms": "Advertising Manager (Ad Manager), Communications Manager, Promotions Director, Promotions Manager"
   },
   {
@@ -25,6 +28,7 @@
     "occupation": "Marketing Managers",
     "automation_pctile": 8.59645851189045,
     "major": "11",
+    "minor": "11-2",
     "synonyms": "Brand Manager, Business Development Manager, Marketing Director, Marketing Manager"
   },
   {
@@ -32,6 +36,7 @@
     "occupation": "Sales Managers",
     "automation_pctile": 7.9086134790839955,
     "major": "11",
+    "minor": "11-2",
     "synonyms": "District Sales Manager, Sales Director, Sales Manager, Sales Vice President (Sales VP)"
   },
   {
@@ -39,6 +44,7 @@
     "occupation": "Public Relations Managers",
     "automation_pctile": 10.066273271330708,
     "major": "11",
+    "minor": "11-2",
     "synonyms": "Communications Director, Community Relations Director, Public Affairs Director, Public Relations Director (PR Director)"
   },
   {
@@ -46,6 +52,7 @@
     "occupation": "Fundraising Managers",
     "automation_pctile": 9.905531174386924,
     "major": "11",
+    "minor": "11-2",
     "synonyms": "Account Supervisor, Annual Giving Director, Development Director"
   },
   {
@@ -53,6 +60,7 @@
     "occupation": "Administrative Services Managers",
     "automation_pctile": 54.64870112727962,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Administrative Coordinator, Administrative Manager, Administrative Officer, Business Administrator"
   },
   {
@@ -60,6 +68,7 @@
     "occupation": "Facilities Managers",
     "automation_pctile": 54.44046264333205,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Corporate Physical Security Supervisor, Corporate Security Manager, Security Director, Security Manager"
   },
   {
@@ -67,6 +76,7 @@
     "occupation": "Computer and Information Systems Managers",
     "automation_pctile": 15.384411481166458,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Information Systems Director (IS Director), Information Systems Manager (IS Manager), Information Technology Director (IT Director), Information Technology Manager (IT Manager)"
   },
   {
@@ -74,6 +84,7 @@
     "occupation": "Financial Managers",
     "automation_pctile": 19.001833354337773,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Banking Center Manager (BCM), Branch Manager, Credit Administration Manager, Financial Center Manager"
   },
   {
@@ -81,6 +92,7 @@
     "occupation": "Industrial Production Managers",
     "automation_pctile": 13.788050783310602,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Assembly Manager, Manufacturing Manager, Plant Manager, Production Manager"
   },
   {
@@ -88,6 +100,7 @@
     "occupation": "Purchasing Managers",
     "automation_pctile": 14.15483016088781,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Materials Manager, Procurement Manager, Purchasing Director, Purchasing Manager"
   },
   {
@@ -95,6 +108,7 @@
     "occupation": "Transportation, Storage, and Distribution Managers",
     "automation_pctile": 41.29350457455003,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Distribution Center Manager, Fleet Manager, Logistics Operations Manager, Supply Chain Logistics Manager"
   },
   {
@@ -102,6 +116,7 @@
     "occupation": "Compensation and Benefits Managers",
     "automation_pctile": 91.41437698893058,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Benefits Manager, Compensation and Benefits Manager, Compensation Director, Compensation Manager"
   },
   {
@@ -109,6 +124,7 @@
     "occupation": "Human Resources Managers",
     "automation_pctile": 3.203696409418856,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "Employee Relations Manager, HR Administration Director (Human Resources Administration Director), Human Resources Director (HR Director), Human Resources Manager (HR Manager)"
   },
   {
@@ -116,6 +132,7 @@
     "occupation": "Training and Development Managers",
     "automation_pctile": 3.4785367950510757,
     "major": "11",
+    "minor": "11-3",
     "synonyms": "L and D Director (Learning and Development Director), Learning Manager, Training Director, Training Manager"
   },
   {
@@ -123,6 +140,7 @@
     "occupation": "Farmers, Ranchers, and Other Agricultural Managers",
     "automation_pctile": 17.33391029662455,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Aquaculture Director, Farm Manager, Greenhouse Manager, Ranch Manager"
   },
   {
@@ -130,6 +148,7 @@
     "occupation": "Construction Managers",
     "automation_pctile": 19.28323859633295,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Concrete Foreman, Construction Area Manager, Construction Manager, Construction Superintendent"
   },
   {
@@ -137,6 +156,7 @@
     "occupation": "Education and Childcare Administrators, Preschool and Daycare",
     "automation_pctile": 10.007321326234296,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Education Director, Preschool Director, Principal, Site Coordinator"
   },
   {
@@ -144,6 +164,7 @@
     "occupation": "Education Administrators, Kindergarten through Secondary",
     "automation_pctile": 2.913222829826677,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Elementary Principal, Middle School Principal, Principal, Superintendent"
   },
   {
@@ -151,6 +172,7 @@
     "occupation": "Education Administrators, Postsecondary",
     "automation_pctile": 6.570274113368481,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Academic Affairs Vice President (Academic Affairs VP), Academic Dean, Dean, Registrar"
   },
   {
@@ -158,6 +180,7 @@
     "occupation": "Architectural and Engineering Managers",
     "automation_pctile": 11.50899927871838,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Engineering Director, Engineering Program Manager, Project Engineering Manager, Project Manager"
   },
   {
@@ -165,6 +188,7 @@
     "occupation": "Food Service Managers",
     "automation_pctile": 20.317416618185938,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Food and Beverage Manager, Food Service Director, Food Service Manager, Restaurant Manager"
   },
   {
@@ -172,6 +196,7 @@
     "occupation": "Gambling Managers",
     "automation_pctile": 20.95950142434906,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Casino Manager, Casino Shift Manager, Slot Manager, Table Games Manager"
   },
   {
@@ -179,6 +204,7 @@
     "occupation": "Entertainment and Recreation Managers, Except Gambling",
     "automation_pctile": 30.784781686360464,
     "major": "11",
+    "minor": "11-9",
     "synonyms": ""
   },
   {
@@ -186,6 +212,7 @@
     "occupation": "Lodging Managers",
     "automation_pctile": 1.0339687525238268,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Front Desk Manager, Front Office Manager, Hotel Manager, Resort Manager"
   },
   {
@@ -193,6 +220,7 @@
     "occupation": "Medical and Health Services Managers",
     "automation_pctile": 4.624983936641308,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Clinical Director, Health Information Management Director (HIM Director), Health Information Manager (HIM Manager), Nursing Director"
   },
   {
@@ -200,6 +228,7 @@
     "occupation": "Natural Sciences Managers",
     "automation_pctile": 11.78645165560717,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Water Resources Planner"
   },
   {
@@ -207,6 +236,7 @@
     "occupation": "Postmasters and Mail Superintendents",
     "automation_pctile": 55.082438939472645,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Distribution Operation Supervisor (SDO), Distribution Operations Manager, Postmaster, Remote Encoding Center Manager"
   },
   {
@@ -214,6 +244,7 @@
     "occupation": "Property, Real Estate, and Community Association Managers",
     "automation_pctile": 59.30309128002608,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Apartment Manager, Community Manager, Property Manager, Resident Manager"
   },
   {
@@ -221,6 +252,7 @@
     "occupation": "Social and Community Service Managers",
     "automation_pctile": 4.154461226811215,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Child Welfare Services Director, Social Services Director, Transitional Care Director, Vocational Rehabilitation Administrator"
   },
   {
@@ -228,6 +260,7 @@
     "occupation": "Emergency Management Directors",
     "automation_pctile": 0.0214152280175358,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Emergency Management Director, Emergency Management System Director (EMS Director), Emergency Planner, Public Safety Director"
   },
   {
@@ -235,6 +268,7 @@
     "occupation": "Personal Service Managers, All Other",
     "automation_pctile": 30.75633655902628,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -242,6 +276,7 @@
     "occupation": "Managers, All Other",
     "automation_pctile": 32.306944780954694,
     "major": "11",
+    "minor": "11-9",
     "synonyms": "Compliance Director, Global RA Manager (Global Regulatory Affairs Manager), RA Director (Regulatory Affairs Director), RA Manager (Regulatory Affairs Manager)"
   },
   {
@@ -249,6 +284,7 @@
     "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
     "automation_pctile": 30.67122594778467,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Agent, Booking Agent, Talent Agent, Theatrical Agent"
   },
   {
@@ -256,6 +292,7 @@
     "occupation": "Claims Adjusters, Examiners, and Investigators",
     "automation_pctile": 97.36850019152018,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Claims Adjuster, Claims Analyst, Claims Examiner, Claims Representative"
   },
   {
@@ -263,6 +300,7 @@
     "occupation": "Insurance Appraisers, Auto Damage",
     "automation_pctile": 97.37453799920227,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Appraiser, Automobile Appraiser (Auto Appraiser), Automobile Damage Appraiser (Auto Damage Appraiser), Material Damage Appraiser"
   },
   {
@@ -270,6 +308,7 @@
     "occupation": "Compliance Officers",
     "automation_pctile": 19.96205404512188,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Corporate Licensed Broker, Customs Broker"
   },
   {
@@ -277,6 +316,7 @@
     "occupation": "Cost Estimators",
     "automation_pctile": 40.38217539963079,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Construction Estimator, Cost Analyst, Cost Estimator, Estimator"
   },
   {
@@ -284,6 +324,7 @@
     "occupation": "Farm Labor Contractors",
     "automation_pctile": 92.15900376638288,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Farm Labor Contractor, Field Manager, Field Supervisor"
   },
   {
@@ -291,6 +332,7 @@
     "occupation": "Logisticians",
     "automation_pctile": 6.991300751493911,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Logistics Engineer, Reliability Engineer, Supportability Engineer, Systems Engineer"
   },
   {
@@ -298,6 +340,7 @@
     "occupation": "Project Management Specialists",
     "automation_pctile": 31.59007331712193,
     "major": "13",
+    "minor": "13-1",
     "synonyms": ""
   },
   {
@@ -305,6 +348,7 @@
     "occupation": "Management Analysts",
     "automation_pctile": 23.464230523652315,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Business Analyst, Business Consultant, Management Analyst, Management Consultant"
   },
   {
@@ -312,6 +356,7 @@
     "occupation": "Meeting, Convention, and Event Planners",
     "automation_pctile": 15.492177434968784,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Conference Planning Manager, Conference Services Manager, Convention Services Manager (CSM), Events Manager"
   },
   {
@@ -319,6 +364,7 @@
     "occupation": "Compensation, Benefits, and Job Analysis Specialists",
     "automation_pctile": 36.62518638534048,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Benefits Analyst, Benefits Specialist, Compensation Analyst, Compensation Specialist"
   },
   {
@@ -326,6 +372,7 @@
     "occupation": "Training and Development Specialists",
     "automation_pctile": 8.247017485770074,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Corporate Trainer, Job Training Specialist, Learning and Development Specialist (L and D Specialist), Training Specialist"
   },
   {
@@ -333,6 +380,7 @@
     "occupation": "Market Research Analysts and Marketing Specialists",
     "automation_pctile": 42.686222962983976,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "Digital Media Planner, Online Marketing Consultant, Paid Search Strategist, SEO Strategist (Search Engine Optimization Strategist)"
   },
   {
@@ -340,6 +388,7 @@
     "occupation": "Business Operations Specialists, All Other",
     "automation_pctile": 30.237379625569115,
     "major": "13",
+    "minor": "13-1",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -347,6 +396,7 @@
     "occupation": "Accountants and Auditors",
     "automation_pctile": 83.81685399371914,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Accountant, Auditor, Certified Public Accountant (CPA), Financial Auditor"
   },
   {
@@ -354,6 +404,7 @@
     "occupation": "Budget Analysts",
     "automation_pctile": 82.69432556138048,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Budget Analyst, Budget and Policy Analyst, Budget Officer, Budget Planning Analyst"
   },
   {
@@ -361,6 +412,7 @@
     "occupation": "Credit Analysts",
     "automation_pctile": 99.49262263608978,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Credit Administrator, Credit Analyst, Credit Officer, Credit Representative"
   },
   {
@@ -368,6 +420,7 @@
     "occupation": "Financial and Investment Analysts",
     "automation_pctile": 30.59242441928149,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Analyst, Financial Analyst, Investment Analyst, Securities Analyst"
   },
   {
@@ -375,6 +428,7 @@
     "occupation": "Personal Financial Advisors",
     "automation_pctile": 40.59181676315533,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Certified Financial Planner (CFP), Financial Advisor, Financial Planner, Portfolio Manager"
   },
   {
@@ -382,6 +436,7 @@
     "occupation": "Insurance Underwriters",
     "automation_pctile": 100.0,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Account Underwriter, Life Underwriter, Personal Lines Underwriter, Underwriter"
   },
   {
@@ -389,6 +444,7 @@
     "occupation": "Financial Risk Specialists",
     "automation_pctile": 30.32845053733388,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Analyst, Risk Analyst, Risk Specialist, Securities Analyst"
   },
   {
@@ -396,6 +452,7 @@
     "occupation": "Financial Examiners",
     "automation_pctile": 28.15538232188816,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Bank Examiner, Bank Secrecy Act Anti-Money Laundering Officer (BSA/AML Officer), Credit Union Examiner, Examining Officer"
   },
   {
@@ -403,6 +460,7 @@
     "occupation": "Credit Counselors",
     "automation_pctile": 15.674861808610952,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Certified Consumer Credit and Housing Counselor, Certified Credit Counselor, Credit Counselor, Housing Counselor"
   },
   {
@@ -410,6 +468,7 @@
     "occupation": "Loan Officers",
     "automation_pctile": 97.12039977572528,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Commercial Loan Officer, Financial Aid Counselor, Loan Counselor, Loan Officer"
   },
   {
@@ -417,6 +476,7 @@
     "occupation": "Tax Examiners and Collectors, and Revenue Agents",
     "automation_pctile": 78.51565109811368,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Revenue Agent, Tax Collector, Tax Compliance Officer, Tax Examiner"
   },
   {
@@ -424,6 +484,7 @@
     "occupation": "Tax Preparers",
     "automation_pctile": 99.91643178122148,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Enrolled Agent, Tax Advisor, Tax Consultant, Tax Preparer"
   },
   {
@@ -431,6 +492,7 @@
     "occupation": "Financial Specialists, All Other",
     "automation_pctile": 34.1929109782225,
     "major": "13",
+    "minor": "13-2",
     "synonyms": "Investment Strategist, Portfolio Manager, Quantitative Analyst, Quantitative Equity Analyst"
   },
   {
@@ -438,6 +500,7 @@
     "occupation": "Computer Systems Analysts",
     "automation_pctile": 4.00294248178233,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Business Systems Analyst, Computer Systems Analyst, Programmer Analyst, Systems Analyst"
   },
   {
@@ -445,6 +508,7 @@
     "occupation": "Computer and Information Research Scientists",
     "automation_pctile": 10.10565465879256,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Computer Scientist, Computer Specialist, Control System Computer Scientist, Research Scientist"
   },
   {
@@ -452,6 +516,7 @@
     "occupation": "Database Administrators",
     "automation_pctile": 13.606389504166552,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Database Administration Manager, Database Administrator (DBA), Database Analyst, Systems Administrator (Systems Admin)"
   },
   {
@@ -459,6 +524,7 @@
     "occupation": "Database Architects",
     "automation_pctile": 13.549669765247868,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Database Analyst, Database Developer, Database Programmer, Information Architect"
   },
   {
@@ -466,6 +532,7 @@
     "occupation": "Network and Computer Systems Administrators",
     "automation_pctile": 14.091863344957858,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Information Technology Specialist (IT Specialist), Local Area Network Administrator (LAN Administrator), Network Administrator, Systems Administrator"
   },
   {
@@ -473,6 +540,7 @@
     "occupation": "Computer Programmers",
     "automation_pctile": 36.74828325518287,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Analyst Programmer, Computer Programmer, Programmer, Programmer Analyst"
   },
   {
@@ -480,6 +548,7 @@
     "occupation": "Software Developers",
     "automation_pctile": 17.00143558759805,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Application Developer, Application Integration Engineer, Software Architect, Software Developer"
   },
   {
@@ -487,6 +556,7 @@
     "occupation": "Software Quality Assurance Analysts and Testers",
     "automation_pctile": 17.156294891177623,
     "major": "15",
+    "minor": "15-1",
     "synonyms": "Quality Assurance Analyst (QA Analyst), Software Quality Assurance Engineer (SQA Engineer), Software Quality Engineer, Software Test Engineer"
   },
   {
@@ -494,6 +564,7 @@
     "occupation": "Actuaries",
     "automation_pctile": 29.272027960862605,
     "major": "15",
+    "minor": "15-2",
     "synonyms": "Actuarial Analyst, Actuary, Consulting Actuary, Pricing Actuary"
   },
   {
@@ -501,6 +572,7 @@
     "occupation": "Mathematicians",
     "automation_pctile": 17.32932962353068,
     "major": "15",
+    "minor": "15-2",
     "synonyms": "Computational Mathematician, Cryptographer, Mathematician, Research Scientist"
   },
   {
@@ -508,6 +580,7 @@
     "occupation": "Operations Research Analysts",
     "automation_pctile": 14.883738486505308,
     "major": "15",
+    "minor": "15-2",
     "synonyms": "Analytical Strategist, Operations Research Analyst (Ops Research Analyst), Operations Research Scientist (Ops Research Scientist), Researcher"
   },
   {
@@ -515,6 +588,7 @@
     "occupation": "Statisticians",
     "automation_pctile": 29.304263188269385,
     "major": "15",
+    "minor": "15-2",
     "synonyms": "Biometrician, Biostatistician, Research Scientist, Statistical Scientist"
   },
   {
@@ -522,6 +596,7 @@
     "occupation": "Mathematical Science Occupations, All Other",
     "automation_pctile": 99.59248285967934,
     "major": "15",
+    "minor": "15-2",
     "synonyms": "Bioinformatics Analyst, Bioinformatics Specialist, Biotechnician, Scientific Informatics Analyst"
   },
   {
@@ -529,6 +604,7 @@
     "occupation": "Architects, Except Landscape and Naval",
     "automation_pctile": 11.595140735174004,
     "major": "17",
+    "minor": "17-1",
     "synonyms": "Architect, Design Architect, Planner, Project Architect"
   },
   {
@@ -536,6 +612,7 @@
     "occupation": "Landscape Architects",
     "automation_pctile": 17.277113050546912,
     "major": "17",
+    "minor": "17-1",
     "synonyms": "Golf Course Architect, Land Planner, Landscape Architect, Landscape Planner"
   },
   {
@@ -543,6 +620,7 @@
     "occupation": "Cartographers and Photogrammetrists",
     "automation_pctile": 67.78795498446215,
     "major": "17",
+    "minor": "17-1",
     "synonyms": "Cartographer, Photogrammetric Technician, Photogrammetrist, Stereo Compiler"
   },
   {
@@ -550,6 +628,7 @@
     "occupation": "Surveyors",
     "automation_pctile": 36.013933927007166,
     "major": "17",
+    "minor": "17-1",
     "synonyms": "County Surveyor, Land Surveyor, Licensed Land Surveyor, Surveyor"
   },
   {
@@ -557,6 +636,7 @@
     "occupation": "Aerospace Engineers",
     "automation_pctile": 11.345970720585608,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Aerospace Engineer, Design Engineer, Flight Test Engineer, Systems Engineer"
   },
   {
@@ -564,6 +644,7 @@
     "occupation": "Agricultural Engineers",
     "automation_pctile": 37.13204445128574,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Agricultural Engineer, Engineer, Project Engineer, Research Agricultural Engineer"
   },
   {
@@ -571,6 +652,7 @@
     "occupation": "Bioengineers and Biomedical Engineers",
     "automation_pctile": 15.509120499914976,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Biomedical Engineer, Biomedical Technician (Biomedical Tech), Process Engineer, Research Engineer"
   },
   {
@@ -578,6 +660,7 @@
     "occupation": "Chemical Engineers",
     "automation_pctile": 11.292924821001092,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Chemical Engineer, Engineer, Process Engineer, Scientist"
   },
   {
@@ -585,6 +668,7 @@
     "occupation": "Civil Engineers",
     "automation_pctile": 12.061919849226872,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Consulting Engineer, County Engineer, Engineer, Project Development Engineer"
   },
   {
@@ -592,6 +676,7 @@
     "occupation": "Computer Hardware Engineers",
     "automation_pctile": 29.36294385830947,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Design Engineer, Engineer, Hardware Engineer, Systems Integration Engineer"
   },
   {
@@ -599,6 +684,7 @@
     "occupation": "Electrical Engineers",
     "automation_pctile": 22.13736996817711,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Design Engineer, Electrical Design Engineer, Electrical Engineer, Project Engineer"
   },
   {
@@ -606,6 +692,7 @@
     "occupation": "Electronics Engineers, Except Computer",
     "automation_pctile": 12.7183589812273,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Deployment Engineer, RFID Engineer (Radio Frequency Identification Device Engineer), RFID Systems Engineer (Radio Frequency Identification Device Systems Engineer), Technical Support Engineer"
   },
   {
@@ -613,6 +700,7 @@
     "occupation": "Environmental Engineers",
     "automation_pctile": 11.62455470199505,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Engineer, Environmental Engineer, Environmental Remediation Specialist, Sanitary Engineer"
   },
   {
@@ -620,6 +708,7 @@
     "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
     "automation_pctile": 13.089098974626792,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Consulting Engineer, Engineer, Fire Protection Consultant, Fire Protection Engineer (FP Engineer)"
   },
   {
@@ -627,6 +716,7 @@
     "occupation": "Industrial Engineers",
     "automation_pctile": 13.49946837839677,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Engineer, Industrial Engineer, Process Engineer, Project Engineer"
   },
   {
@@ -634,6 +724,7 @@
     "occupation": "Marine Engineers and Naval Architects",
     "automation_pctile": 6.433535983551121,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Marine Engineer, Marine Engineering Consultant, Marine Surveyor, Naval Architect"
   },
   {
@@ -641,6 +732,7 @@
     "occupation": "Materials Engineers",
     "automation_pctile": 12.37797854198803,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Materials Engineer, Materials Research Engineer, Metallurgical Engineer, Metallurgist"
   },
   {
@@ -648,6 +740,7 @@
     "occupation": "Mechanical Engineers",
     "automation_pctile": 6.792533642369877,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Engineer, Product Engineer, Project Engineer, Research Engineer"
   },
   {
@@ -655,6 +748,7 @@
     "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
     "automation_pctile": 23.75510714047103,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Mine Engineer, Mining Consultant, Mining Engineer, Project Engineer"
   },
   {
@@ -662,6 +756,7 @@
     "occupation": "Nuclear Engineers",
     "automation_pctile": 19.013257909566818,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Engineer, Nuclear Engineer, Nuclear Licensing Engineer, Nuclear Reactor Engineer"
   },
   {
@@ -669,6 +764,7 @@
     "occupation": "Petroleum Engineers",
     "automation_pctile": 24.58706123391087,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Drilling Engineer, Engineer, Petroleum Engineer, Reservoir Engineer"
   },
   {
@@ -676,6 +772,7 @@
     "occupation": "Engineers, All Other",
     "automation_pctile": 8.71330055400567,
     "major": "17",
+    "minor": "17-2",
     "synonyms": "Power Systems Engineer, Project Engineer, Solar Design Engineer, Solar Designer"
   },
   {
@@ -683,6 +780,7 @@
     "occupation": "Architectural and Civil Drafters",
     "automation_pctile": 37.578601947568885,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Architectural Drafter, Civil Drafter, Computer-Aided Drafting Designer (CAD Designer), Draftsman"
   },
   {
@@ -690,6 +788,7 @@
     "occupation": "Electrical and Electronics Drafters",
     "automation_pctile": 59.07317404372054,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Computer-Aided Design Operator, Drafter, Electrical Designer, Staking Technician (Staking Tech)"
   },
   {
@@ -697,6 +796,7 @@
     "occupation": "Mechanical Drafters",
     "automation_pctile": 50.99353326770027,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Design Drafter, Drafter, Mechanical Designer, Mechanical Drafter"
   },
   {
@@ -704,6 +804,7 @@
     "occupation": "Aerospace Engineering and Operations Technologists and Technicians",
     "automation_pctile": 36.90449118332815,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Engineering Technician, Instrumentation Technician, Systems Test Technician, Test Technician"
   },
   {
@@ -711,6 +812,7 @@
     "occupation": "Civil Engineering Technologists and Technicians",
     "automation_pctile": 55.01312428722479,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Civil Engineering Technician, Engineer Technician, Engineering Assistant, Engineering Technician"
   },
   {
@@ -718,6 +820,7 @@
     "occupation": "Electrical and Electronic Engineering Technologists and Technicians",
     "automation_pctile": 62.31411264301428,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Electronics Engineering Technician, Engineering Technician (Engineering Tech), Engineering Technologist, Technologist"
   },
   {
@@ -725,6 +828,7 @@
     "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
     "automation_pctile": 58.413758636816496,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Electro-Mechanic, Electromechanical Technician (EM Technician), Electronics Technician (Electronics Tech), Mechanical Technician (Mechanical Tech)"
   },
   {
@@ -732,6 +836,7 @@
     "occupation": "Environmental Engineering Technologists and Technicians",
     "automation_pctile": 30.748206058052556,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Air Quality Instrument Specialist, Environmental Field Technician, Environmental Technician, Haz Tech (Hazardous Technician)"
   },
   {
@@ -739,6 +844,7 @@
     "occupation": "Industrial Engineering Technologists and Technicians",
     "automation_pctile": 13.84494878869487,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Industrial Engineering Technician, Manufacturing Technology Analyst, Quality Control Engineering Technician (QC Engineering Technician), Quality Technician"
   },
   {
@@ -746,6 +852,7 @@
     "occupation": "Mechanical Engineering Technologists and Technicians",
     "automation_pctile": 35.97279312703718,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Engineering Technician (Engineering Tech), Mechanical Designer, Mechanical Technician (Mechanical Tech), Research and Development Technician (R and D Tech)"
   },
   {
@@ -753,6 +860,7 @@
     "occupation": "Calibration Technologists and Technicians",
     "automation_pctile": 30.61028206870328,
     "major": "17",
+    "minor": "17-3",
     "synonyms": ""
   },
   {
@@ -760,6 +868,7 @@
     "occupation": "Engineering Technologists and Technicians, Except Drafters, All Other",
     "automation_pctile": 30.660204429782155,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Fiber Optics Instructor, Laser Technician (Laser Tech), Optics Technician (Optics Tech), Photonics Technician (Photonics Tech)"
   },
   {
@@ -767,6 +876,7 @@
     "occupation": "Surveying and Mapping Technicians",
     "automation_pctile": 87.15414949301791,
     "major": "17",
+    "minor": "17-3",
     "synonyms": "Mapping Technician, Photogrammetric Compilation Specialist, Photogrammetric Technician, Survey Technician"
   },
   {
@@ -774,6 +884,7 @@
     "occupation": "Animal Scientists",
     "automation_pctile": 18.15734635329592,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Animal Nutritionist, Animal Scientist, Beef Cattle Nutritionist, Research Scientist"
   },
   {
@@ -781,6 +892,7 @@
     "occupation": "Food Scientists and Technologists",
     "automation_pctile": 19.64877785936698,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Food Scientist, Food Technologist, Research Food Technologist, Research Scientist"
   },
   {
@@ -788,6 +900,7 @@
     "occupation": "Soil and Plant Scientists",
     "automation_pctile": 12.105254101795111,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Agronomist, Research Scientist, Research Soil Scientist, Scientist"
   },
   {
@@ -795,6 +908,7 @@
     "occupation": "Biochemists and Biophysicists",
     "automation_pctile": 12.745114452496406,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Analytical Research Chemist, Biochemist, Biophysics Researcher, Scientist"
   },
   {
@@ -802,6 +916,7 @@
     "occupation": "Microbiologists",
     "automation_pctile": 6.807849056978148,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Bacteriologist, Clinical Laboratory Scientist (Clinical Lab Scientist), Microbiological Analyst, Microbiologist"
   },
   {
@@ -809,6 +924,7 @@
     "occupation": "Zoologists and Wildlife Biologists",
     "automation_pctile": 34.041066703126035,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Conservation Biologist, Fish and Wildlife Biologist, Fisheries Biologist, Wildlife Biologist"
   },
   {
@@ -816,6 +932,7 @@
     "occupation": "Biological Scientists, All Other",
     "automation_pctile": 9.951810698995214,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -823,6 +940,7 @@
     "occupation": "Conservation Scientists",
     "automation_pctile": 10.30618118042473,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Conservationist, Land Resource Specialist, Research Soil Scientist, Resource Conservationist"
   },
   {
@@ -830,6 +948,7 @@
     "occupation": "Foresters",
     "automation_pctile": 5.994116896607156,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Area Forester, Forester, Silviculturist, Timber Sales Administrator (Timber Sales Admin)"
   },
   {
@@ -837,6 +956,7 @@
     "occupation": "Epidemiologists",
     "automation_pctile": 29.215804267761197,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Epidemiologist, Infection Control Practitioner (ICP), Nurse Epidemiologist, Research Epidemiologist"
   },
   {
@@ -844,6 +964,7 @@
     "occupation": "Medical Scientists, Except Epidemiologists",
     "automation_pctile": 2.665486697678831,
     "major": "19",
+    "minor": "19-1",
     "synonyms": "Clinical Research Scientist, Research Scientist, Scientist, Study Director"
   },
   {
@@ -851,6 +972,7 @@
     "occupation": "Astronomers",
     "automation_pctile": 15.7113754311917,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Astronomer, Astronomy Outreach Coordinator, Astrophysicist, Research Astrophysicist"
   },
   {
@@ -858,6 +980,7 @@
     "occupation": "Physicists",
     "automation_pctile": 21.699237500071693,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Health Physicist, Physicist, Research Scientist, Scientist"
   },
   {
@@ -865,6 +988,7 @@
     "occupation": "Atmospheric and Space Scientists",
     "automation_pctile": 50.28886918140194,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Forecaster, General Forecaster, Meteorologist, Research Meteorologist"
   },
   {
@@ -872,6 +996,7 @@
     "occupation": "Chemists",
     "automation_pctile": 21.682697472352032,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Analytical Chemist, Chemist, Research Chemist, Scientist"
   },
   {
@@ -879,6 +1004,7 @@
     "occupation": "Materials Scientists",
     "automation_pctile": 12.111710448135542,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Materials Research Engineer, Materials Scientist, Research Scientist, Scientist"
   },
   {
@@ -886,6 +1012,7 @@
     "occupation": "Environmental Scientists and Specialists, Including Health",
     "automation_pctile": 14.220656990982972,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Coastal and Estuary Specialist, Habitat Restoration Specialist, Marine Habitat Resources Specialist, Restoration Ecologist"
   },
   {
@@ -893,6 +1020,7 @@
     "occupation": "Geoscientists, Except Hydrologists and Geographers",
     "automation_pctile": 43.83842113576821,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Geologist, Geophysicist, Geoscientist, Project Geologist"
   },
   {
@@ -900,6 +1028,7 @@
     "occupation": "Hydrologists",
     "automation_pctile": 8.717733963497539,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Groundwater Consultant, Hydrogeologist, Hydrologist, Research Hydrologist"
   },
   {
@@ -907,6 +1036,7 @@
     "occupation": "Physical Scientists, All Other",
     "automation_pctile": 36.402733088441714,
     "major": "19",
+    "minor": "19-2",
     "synonyms": "Geospatial Intelligence Analyst, Image Scientist, Remote Sensing Analyst, Remote Sensing Scientist"
   },
   {
@@ -914,6 +1044,7 @@
     "occupation": "Economists",
     "automation_pctile": 36.385231971951086,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Economic Analyst, Economic Consultant, Economist, Forensic Economist"
   },
   {
@@ -921,6 +1052,7 @@
     "occupation": "Survey Researchers",
     "automation_pctile": 30.59840797195233,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Data Analyst, Field Interviewer, Research Associate, Research Fellow"
   },
   {
@@ -928,6 +1060,7 @@
     "occupation": "Industrial-Organizational Psychologists",
     "automation_pctile": 6.808662882147109,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "I-O Psychologist (Industrial-Organizational Psychologist), Organizational Consultant, Organizational Psychologist, Research Scientist"
   },
   {
@@ -935,6 +1068,7 @@
     "occupation": "Clinical and Counseling Psychologists",
     "automation_pctile": 2.976553929403689,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Clinical Psychologist, Counseling Psychologist, Psychologist, Psychotherapist"
   },
   {
@@ -942,6 +1076,7 @@
     "occupation": "School Psychologists",
     "automation_pctile": 3.026026748960668,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Bilingual School Psychologist, Consulting Psychologist, Psychologist, School Psychologist"
   },
   {
@@ -949,6 +1084,7 @@
     "occupation": "Psychologists, All Other",
     "automation_pctile": 1.257778424704198,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -956,6 +1092,7 @@
     "occupation": "Sociologists",
     "automation_pctile": 18.14933986377652,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Demographer, Medical Sociologist, Social Scientist, Sociologist"
   },
   {
@@ -963,6 +1100,7 @@
     "occupation": "Urban and Regional Planners",
     "automation_pctile": 23.49758960486385,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Community Development Planner, Planner, Planning Consultant, Planning Technician"
   },
   {
@@ -970,6 +1108,7 @@
     "occupation": "Anthropologists and Archeologists",
     "automation_pctile": 4.984159861925646,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Archaeologist, Communication and Folklore Specialist, Forensic Anthropologist, Researcher"
   },
   {
@@ -977,6 +1116,7 @@
     "occupation": "Geographers",
     "automation_pctile": 30.785851285153957,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Earth Observations Scientist, Geographer, GIS Coordinator (Geographic Information Systems Coordinator), GIS Geographer (Geographic Information Systems Geographer)"
   },
   {
@@ -984,6 +1124,7 @@
     "occupation": "Historians",
     "automation_pctile": 36.405166813232704,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Historian, Historic Sites Registrar, Research Associate, Researcher"
   },
   {
@@ -991,6 +1132,7 @@
     "occupation": "Political Scientists",
     "automation_pctile": 15.63672053569228,
     "major": "19",
+    "minor": "19-3",
     "synonyms": ""
   },
   {
@@ -998,6 +1140,7 @@
     "occupation": "Social Scientists and Related Workers, All Other",
     "automation_pctile": 15.7035162052743,
     "major": "19",
+    "minor": "19-3",
     "synonyms": "Planner, Program Officer, Transportation Data Programs Manager, Transportation Planner"
   },
   {
@@ -1005,6 +1148,7 @@
     "occupation": "Agricultural Technicians",
     "automation_pctile": 95.15823629049495,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Agricultural Research Technician (Agricultural Research Tech), Agricultural Technician (Agricultural Tech), Agriculture Assistant, Seed Analyst"
   },
   {
@@ -1012,6 +1156,7 @@
     "occupation": "Food Science Technicians",
     "automation_pctile": 95.085906609764,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Central Laboratory Technician (CLT), Laboratory Technician (Lab Tech), QC Tech (Quality Control Technician), Quality Assurance Analyst (QA Analyst)"
   },
   {
@@ -1019,6 +1164,7 @@
     "occupation": "Biological Technicians",
     "automation_pctile": 34.02795249183191,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Biological Technician, Laboratory Technician, Research Associate, Research Technician"
   },
   {
@@ -1026,6 +1172,7 @@
     "occupation": "Chemical Technicians",
     "automation_pctile": 40.11348908241909,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Chemical Technician, Laboratory Analyst (Lab Analyst), Laboratory Technician (Lab Tech), Quality Control Technician (QC Tech)"
   },
   {
@@ -1033,6 +1180,7 @@
     "occupation": "Environmental Science and Protection Technicians, Including Health",
     "automation_pctile": 56.225847800432085,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Environmental Health Officer (EHO), Environmental Technician (Environmental Tech), Sanitarian, Soil Lab Technician (Soil Laboratory Technician)"
   },
   {
@@ -1040,6 +1188,7 @@
     "occupation": "Geological Technicians, Except Hydrologic Technicians",
     "automation_pctile": 70.3011401148067,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Geological Technician, Geotechnician, Materials Technician, Physical Science Technician"
   },
   {
@@ -1047,6 +1196,7 @@
     "occupation": "Hydrologic Technicians",
     "automation_pctile": 70.45117072238376,
     "major": "19",
+    "minor": "19-4",
     "synonyms": ""
   },
   {
@@ -1054,6 +1204,7 @@
     "occupation": "Nuclear Technicians",
     "automation_pctile": 62.3563927982208,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Licensed Nuclear Operator, Nuclear Auxiliary Operator, Nuclear Equipment Operator (NEO), Operations Technician"
   },
   {
@@ -1061,6 +1212,7 @@
     "occupation": "Social Science Research Assistants",
     "automation_pctile": 47.57721921985324,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Graduate Research Assistant, Research Assistant, Research Associate, Social Research Assistant"
   },
   {
@@ -1068,6 +1220,7 @@
     "occupation": "Forest and Conservation Technicians",
     "automation_pctile": 36.3613287641313,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Forest Technician, Forestry Aide, Forestry Technician (Forestry Tech), Resource Technician"
   },
   {
@@ -1075,6 +1228,7 @@
     "occupation": "Forensic Science Technicians",
     "automation_pctile": 6.424421141658749,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "Crime Scene Technician (Crime Scene Tech), Criminalist, CSI (Crime Scene Investigator), Forensic Scientist"
   },
   {
@@ -1082,6 +1236,7 @@
     "occupation": "Life, Physical, and Social Science Technicians, All Other",
     "automation_pctile": 41.80902794086576,
     "major": "19",
+    "minor": "19-4",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -1089,6 +1244,7 @@
     "occupation": "Occupational Health and Safety Specialists",
     "automation_pctile": 28.879694472979995,
     "major": "19",
+    "minor": "19-5",
     "synonyms": "Industrial Hygiene Consultant, Industrial Hygienist, Safety Consultant, Safety Specialist"
   },
   {
@@ -1096,6 +1252,7 @@
     "occupation": "Occupational Health and Safety Technicians",
     "automation_pctile": 30.81022728664333,
     "major": "19",
+    "minor": "19-5",
     "synonyms": "Certified Industrial Hygienist (CIH), Construction Safety Consultant, Industrial Hygienist, Safety Specialist"
   },
   {
@@ -1103,6 +1260,7 @@
     "occupation": "Educational, Guidance, and Career Counselors and Advisors",
     "automation_pctile": 6.259462655268154,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Academic Advisor, Career Counselor, Guidance Counselor, School Counselor"
   },
   {
@@ -1110,6 +1268,7 @@
     "occupation": "Marriage and Family Therapists",
     "automation_pctile": 8.298071451369605,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Clinical Therapist, Licensed Marriage and Family Therapist (LMFT), Marriage and Family Therapist (MFT), Outpatient Therapist"
   },
   {
@@ -1117,6 +1276,7 @@
     "occupation": "Rehabilitation Counselors",
     "automation_pctile": 6.40934599924322,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Employment Specialist, Job Coach, Rehabilitation Counselor, Vocational Rehabilitation Counselor (VRC)"
   },
   {
@@ -1124,6 +1284,7 @@
     "occupation": "Child, Family, and School Social Workers",
     "automation_pctile": 13.071101812318894,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Case Manager, Family Protection Specialist, Family Service Worker, School Social Worker"
   },
   {
@@ -1131,6 +1292,7 @@
     "occupation": "Healthcare Social Workers",
     "automation_pctile": 0.8581360117327236,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Clinical Social Worker, Hospice Social Worker, Medical Social Worker, Social Worker"
   },
   {
@@ -1138,6 +1300,7 @@
     "occupation": "Mental Health and Substance Abuse Social Workers",
     "automation_pctile": 0.584574494223159,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Case Manager, Mental Health Therapist, Social Worker, Therapist"
   },
   {
@@ -1145,6 +1308,7 @@
     "occupation": "Health Education Specialists",
     "automation_pctile": 17.327608964602014,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Clinical Instructor, Health Education Specialist, Health Educator, Public Health Educator"
   },
   {
@@ -1152,6 +1316,7 @@
     "occupation": "Probation Officers and Correctional Treatment Specialists",
     "automation_pctile": 30.738517663183963,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Correctional Counselor, Juvenile Probation Officer, Parole Officer (PO), Probation Officer"
   },
   {
@@ -1159,6 +1324,7 @@
     "occupation": "Social and Human Service Assistants",
     "automation_pctile": 22.73104380286085,
     "major": "21",
+    "minor": "21-1",
     "synonyms": "Advocate, Clinical Assistant, Social Work Associate, Social Worker Assistant"
   },
   {
@@ -1166,6 +1332,7 @@
     "occupation": "Clergy",
     "automation_pctile": 5.986637455768602,
     "major": "21",
+    "minor": "21-2",
     "synonyms": "Minister, Pastor, Priest, Rector"
   },
   {
@@ -1173,6 +1340,7 @@
     "occupation": "Directors, Religious Activities and Education",
     "automation_pctile": 12.604167683948129,
     "major": "21",
+    "minor": "21-2",
     "synonyms": "Children's Ministries Director, Christian Education Director, Religious Education Director, Youth Pastor"
   },
   {
@@ -1180,6 +1348,7 @@
     "occupation": "Lawyers",
     "automation_pctile": 14.800216772022148,
     "major": "23",
+    "minor": "23-1",
     "synonyms": "Attorney, Attorney General, Counsel, Lawyer"
   },
   {
@@ -1187,6 +1356,7 @@
     "occupation": "Judicial Law Clerks",
     "automation_pctile": 36.228543499420326,
     "major": "23",
+    "minor": "23-1",
     "synonyms": "Judicial Assistant, Judicial Clerk, Judicial Law Clerk, Law Clerk"
   },
   {
@@ -1194,6 +1364,7 @@
     "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
     "automation_pctile": 43.87635313935772,
     "major": "23",
+    "minor": "23-1",
     "synonyms": "Administrative Hearings Officer, Administrative Judge, Administrative Law Judge, Hearings Officer"
   },
   {
@@ -1201,6 +1372,7 @@
     "occupation": "Arbitrators, Mediators, and Conciliators",
     "automation_pctile": 18.155431926469888,
     "major": "23",
+    "minor": "23-1",
     "synonyms": "Alternative Dispute Resolution Coordinator (ADR Coordinator), Arbitrator, Labor Arbitrator, Mediator"
   },
   {
@@ -1208,6 +1380,7 @@
     "occupation": "Judges, Magistrate Judges, and Magistrates",
     "automation_pctile": 36.07857489757041,
     "major": "23",
+    "minor": "23-1",
     "synonyms": "District Court Judge, Judge, Magistrate, Superior Court Judge"
   },
   {
@@ -1215,6 +1388,7 @@
     "occupation": "Paralegals and Legal Assistants",
     "automation_pctile": 80.15829132057782,
     "major": "23",
+    "minor": "23-2",
     "synonyms": "Legal Assistant, Legal Clerk, Paralegal, Paralegal Specialist"
   },
   {
@@ -1222,6 +1396,7 @@
     "occupation": "Title Examiners, Abstractors, and Searchers",
     "automation_pctile": 99.58887102607233,
     "major": "23",
+    "minor": "23-2",
     "synonyms": "Abstractor, Title Examiner, Title Officer, Title Searcher"
   },
   {
@@ -1229,6 +1404,7 @@
     "occupation": "Preschool Teachers, Except Special Education",
     "automation_pctile": 4.969952799690343,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Montessori Preschool Teacher, Pre-Kindergarten Teacher (Pre-K Teacher), Teacher, Toddler Teacher"
   },
   {
@@ -1236,6 +1412,7 @@
     "occupation": "Kindergarten Teachers, Except Special Education",
     "automation_pctile": 24.57235812585829,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Bilingual Kindergarten Teacher, Classroom Teacher, Kinder Teacher, Teacher"
   },
   {
@@ -1243,6 +1420,7 @@
     "occupation": "Elementary School Teachers, Except Special Education",
     "automation_pctile": 2.425656295743756,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Classroom Teacher, Elementary School Teacher, Elementary Teacher, Teacher"
   },
   {
@@ -1250,6 +1428,7 @@
     "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
     "automation_pctile": 27.84917478902939,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Language Arts Teacher (LA Teacher), Math Teacher (Mathematics Teacher), Science Teacher, Teacher"
   },
   {
@@ -1257,6 +1436,7 @@
     "occupation": "Career/Technical Education Teachers, Middle School",
     "automation_pctile": 32.327313662326425,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Family and Consumer Sciences Teacher (FACS Teacher), Teacher, Technology Education Teacher (Tech Ed Teacher), Technology Teacher"
   },
   {
@@ -1264,6 +1444,7 @@
     "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
     "automation_pctile": 5.941621297851176,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "English Teacher, Mathematics Instructor (Math Instructor), Social Studies Teacher, Teacher"
   },
   {
@@ -1271,6 +1452,7 @@
     "occupation": "Career/Technical Education Teachers, Secondary School",
     "automation_pctile": 6.340418882790109,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Family and Consumer Sciences Teacher (FACS Teacher), Instructor, Teacher, Technology Education Teacher"
   },
   {
@@ -1278,6 +1460,7 @@
     "occupation": "Special Education Teachers, Middle School",
     "automation_pctile": 10.38006875505056,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "Intervention Specialist, Middle School Special Education Teacher, Special Education Resource Teacher, Teacher"
   },
   {
@@ -1285,6 +1468,7 @@
     "occupation": "Special Education Teachers, Secondary School",
     "automation_pctile": 5.110326015262399,
     "major": "25",
+    "minor": "25-2",
     "synonyms": "High School Special Education Teacher, Special Education Resource Teacher, Special Education Teacher, Teacher"
   },
   {
@@ -1292,6 +1476,7 @@
     "occupation": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
     "automation_pctile": 29.206921947345663,
     "major": "25",
+    "minor": "25-3",
     "synonyms": "Adult Basic Education Instructor (ABE Instructor), ESL Instructor (English as a Second Language Instructor), GED Instructor (General Educational Development Instructor), Teacher"
   },
   {
@@ -1299,6 +1484,7 @@
     "occupation": "Self-Enrichment Teachers",
     "automation_pctile": 23.73671469165249,
     "major": "25",
+    "minor": "25-3",
     "synonyms": "Dance Instructor, Instructor, Martial Arts Instructor, Teacher"
   },
   {
@@ -1306,6 +1492,7 @@
     "occupation": "Archivists",
     "automation_pctile": 55.19949800163292,
     "major": "25",
+    "minor": "25-4",
     "synonyms": "Archivist, Records Manager, Registrar, State Archivist"
   },
   {
@@ -1313,6 +1500,7 @@
     "occupation": "Curators",
     "automation_pctile": 4.163979105930119,
     "major": "25",
+    "minor": "25-4",
     "synonyms": "Collections Curator, Collections Manager, Curator, Museum Curator"
   },
   {
@@ -1320,6 +1508,7 @@
     "occupation": "Museum Technicians and Conservators",
     "automation_pctile": 41.31813634966394,
     "major": "25",
+    "minor": "25-4",
     "synonyms": "Conservator, Objects Conservator, Paintings Conservator, Preparator"
   },
   {
@@ -1327,6 +1516,7 @@
     "occupation": "Librarians and Media Collections Specialists",
     "automation_pctile": 47.67939690749536,
     "major": "25",
+    "minor": "25-4",
     "synonyms": "Librarian, Library Media Specialist, Media Specialist, Reference Librarian"
   },
   {
@@ -1334,6 +1524,7 @@
     "occupation": "Library Technicians",
     "automation_pctile": 99.55153582760671,
     "major": "25",
+    "minor": "25-4",
     "synonyms": "Library Assistant, Library Associate, Library Technical Assistant (LTA), Library Technician"
   },
   {
@@ -1341,6 +1532,7 @@
     "occupation": "Farm and Home Management Educators",
     "automation_pctile": 4.977905034198484,
     "major": "25",
+    "minor": "25-9",
     "synonyms": "4-H Youth Development Specialist, Extension Agent, Extension Educator, Family and Consumer Sciences Extension Agent"
   },
   {
@@ -1348,6 +1540,7 @@
     "occupation": "Instructional Coordinators",
     "automation_pctile": 1.2439899011272175,
     "major": "25",
+    "minor": "25-9",
     "synonyms": "Curriculum and Instruction Director, Curriculum Coordinator, Instructional Designer, Instructional Technologist"
   },
   {
@@ -1355,6 +1548,7 @@
     "occupation": "Art Directors",
     "automation_pctile": 12.58753464763773,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Art Director, Creative Director (CD Director), Creative Services Director, Design Director"
   },
   {
@@ -1362,6 +1556,7 @@
     "occupation": "Craft Artists",
     "automation_pctile": 15.38779854401252,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Artist, Designer, Furniture Maker, Glass Artist"
   },
   {
@@ -1369,6 +1564,7 @@
     "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
     "automation_pctile": 15.719126147086577,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Artist, Fine Artist, Painter, Sculptor"
   },
   {
@@ -1376,6 +1572,7 @@
     "occupation": "Special Effects Artists and Animators",
     "automation_pctile": 10.12214818221685,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "3D Artist (Three-Dimensional Artist), Animator, Artist, Graphic Artist"
   },
   {
@@ -1383,6 +1580,7 @@
     "occupation": "Commercial and Industrial Designers",
     "automation_pctile": 15.532566415496968,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Design Engineer, Designer, Industrial Designer, Product Designer"
   },
   {
@@ -1390,6 +1588,7 @@
     "occupation": "Fashion Designers",
     "automation_pctile": 12.360330161895403,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Apparel Designer, Costume Designer, Designer, Fashion Designer"
   },
   {
@@ -1397,6 +1596,7 @@
     "occupation": "Floral Designers",
     "automation_pctile": 17.365037171658358,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Designer, Floral Clerk, Floral Designer, Florist"
   },
   {
@@ -1404,6 +1604,7 @@
     "occupation": "Graphic Designers",
     "automation_pctile": 20.12812088388544,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Artist, Designer, Graphic Artist, Graphic Designer"
   },
   {
@@ -1411,6 +1612,7 @@
     "occupation": "Interior Designers",
     "automation_pctile": 12.544502672989392,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Designer, Interior Design Consultant, Interior Design Coordinator, Interior Designer"
   },
   {
@@ -1418,6 +1620,7 @@
     "occupation": "Merchandise Displayers and Window Trimmers",
     "automation_pctile": 36.89746903472739,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Display Associate, Merchandiser, Visual Merchandiser (VM), Visual Merchandising Specialist"
   },
   {
@@ -1425,6 +1628,7 @@
     "occupation": "Set and Exhibit Designers",
     "automation_pctile": 3.0366529804525397,
     "major": "27",
+    "minor": "27-1",
     "synonyms": "Display Coordinator, Exhibit Designer, Scenic Designer, Set Designer"
   },
   {
@@ -1432,6 +1636,7 @@
     "occupation": "Actors",
     "automation_pctile": 35.12854639818807,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Actor, Actress, Comedian, Performer"
   },
   {
@@ -1439,6 +1644,7 @@
     "occupation": "Producers and Directors",
     "automation_pctile": 12.49057319179286,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Artistic Director, Director, News Producer, Producer"
   },
   {
@@ -1446,6 +1652,7 @@
     "occupation": "Athletes and Sports Competitors",
     "automation_pctile": 32.43669176503487,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Baseball Player, Golf Professional, Hockey Player, Race Car Driver"
   },
   {
@@ -1453,6 +1660,7 @@
     "occupation": "Coaches and Scouts",
     "automation_pctile": 7.440695009794579,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Basketball Coach, Coach, Football Coach, Track and Field Coach"
   },
   {
@@ -1460,6 +1668,7 @@
     "occupation": "Umpires, Referees, and Other Sports Officials",
     "automation_pctile": 97.13208785529476,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Horse Show Judge, Major League Baseball Umpire (MLB Umpire), Referee, Sports Official"
   },
   {
@@ -1467,6 +1676,7 @@
     "occupation": "Dancers",
     "automation_pctile": 22.738065951461607,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Ballet Dancer, Company Dancer, Dancer, Soloist Dancer"
   },
   {
@@ -1474,6 +1684,7 @@
     "occupation": "Choreographers",
     "automation_pctile": 1.0366272480757686,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Choreographer, Dance Director, Dance Maker, Opera Choreographer"
   },
   {
@@ -1481,6 +1692,7 @@
     "occupation": "Music Directors and Composers",
     "automation_pctile": 10.075829904029083,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Choir Director, Conductor, Music Composer, Music Director"
   },
   {
@@ -1488,6 +1700,7 @@
     "occupation": "Musicians and Singers",
     "automation_pctile": 19.31296259178979,
     "major": "27",
+    "minor": "27-2",
     "synonyms": "Choir Member, Musician, Singer, Violinist"
   },
   {
@@ -1495,6 +1708,7 @@
     "occupation": "Broadcast Announcers and Radio Disc Jockeys",
     "automation_pctile": 22.15587867773407,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Anchor, Announcer, News Anchor, Television News Anchor (TV News Anchor)"
   },
   {
@@ -1502,6 +1716,7 @@
     "occupation": "News Analysts, Reporters, and Journalists",
     "automation_pctile": 18.36734424975163,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Anchor, News Anchor, News Reporter, Reporter"
   },
   {
@@ -1509,6 +1724,7 @@
     "occupation": "Public Relations Specialists",
     "automation_pctile": 29.174136419110354,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Communications Specialist, Public Affairs Specialist, Public Information Officer, Public Relations Specialist (PR Specialist)"
   },
   {
@@ -1516,6 +1732,7 @@
     "occupation": "Editors",
     "automation_pctile": 17.656285822840026,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Editor, News Editor, Newspaper Copy Editor, Sports Editor"
   },
   {
@@ -1523,6 +1740,7 @@
     "occupation": "Technical Writers",
     "automation_pctile": 69.0166139695493,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Documentation Specialist, Information Developer, Technical Communicator, Technical Writer"
   },
   {
@@ -1530,6 +1748,7 @@
     "occupation": "Writers and Authors",
     "automation_pctile": 15.632108859734831,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Advertisement Agency Copywriter (Ad Agency Copywriter), Advertising Copywriter, Copywriter, Freelance Copywriter"
   },
   {
@@ -1537,6 +1756,7 @@
     "occupation": "Interpreters and Translators",
     "automation_pctile": 35.92590904658909,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Interpreter, Medical Interpreter, Sign Language Interpreter, Translator"
   },
   {
@@ -1544,6 +1764,7 @@
     "occupation": "Court Reporters and Simultaneous Captioners",
     "automation_pctile": 37.14183360546097,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "Certified Shorthand Reporter (CSR), Court Reporter, Court Stenographer, Official Court Reporter"
   },
   {
@@ -1551,6 +1772,7 @@
     "occupation": "Media and Communication Workers, All Other",
     "automation_pctile": 54.05487227827799,
     "major": "27",
+    "minor": "27-3",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -1558,6 +1780,7 @@
     "occupation": "Audio and Video Technicians",
     "automation_pctile": 37.90086121304594,
     "major": "27",
+    "minor": "27-4",
     "synonyms": "Audio Visual Specialist (AV Specialist), AV Tech (Audio Visual Technician), Media Technician, Operations Technician"
   },
   {
@@ -1565,6 +1788,7 @@
     "occupation": "Broadcast Technicians",
     "automation_pctile": 54.77157322636105,
     "major": "27",
+    "minor": "27-4",
     "synonyms": "Board Operator, Broadcast Engineer, Broadcast Technician, Control Operator"
   },
   {
@@ -1572,6 +1796,7 @@
     "occupation": "Sound Engineering Technicians",
     "automation_pctile": 22.74818063570442,
     "major": "27",
+    "minor": "27-4",
     "synonyms": "Audio Engineer, Mixer, Recording Engineer, Sound Engineer"
   },
   {
@@ -1579,6 +1804,7 @@
     "occupation": "Photographers",
     "automation_pctile": 12.344123414959222,
     "major": "27",
+    "minor": "27-4",
     "synonyms": "Commercial Photographer, Photographer, Photojournalist, Portrait Photographer"
   },
   {
@@ -1586,6 +1812,7 @@
     "occupation": "Camera Operators, Television, Video, and Film",
     "automation_pctile": 41.70412200122865,
     "major": "27",
+    "minor": "27-4",
     "synonyms": "Camera Operator, Cameraman, Television News Photographer, Videographer"
   },
   {
@@ -1593,6 +1820,7 @@
     "occupation": "Film and Video Editors",
     "automation_pctile": 34.06413283362918,
     "major": "27",
+    "minor": "27-4",
     "synonyms": "Editor, Film Editor, News Editor, Video Editor"
   },
   {
@@ -1600,6 +1828,7 @@
     "occupation": "Chiropractors",
     "automation_pctile": 12.774280396408813,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Chiropractic Doctor (DC), Chiropractic Neurologist, Chiropractic Physician, Chiropractor"
   },
   {
@@ -1607,6 +1836,7 @@
     "occupation": "Dentists, General",
     "automation_pctile": 1.3457412993951186,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Dentist, Family Dentist, General Dentist, Pediatric Dentist"
   },
   {
@@ -1614,6 +1844,7 @@
     "occupation": "Oral and Maxillofacial Surgeons",
     "automation_pctile": 0.869963604188301,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Doctor of Dental Surgery (DDS), Oral and Maxillofacial Surgeon (OMS), Oral Surgeon, Surgeon"
   },
   {
@@ -1621,6 +1852,7 @@
     "occupation": "Orthodontists",
     "automation_pctile": 12.548494291675247,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Orthodontic Dentist, Orthodontic Specialist, Orthodontics Doctor, Orthodontist"
   },
   {
@@ -1628,6 +1860,7 @@
     "occupation": "Prosthodontists",
     "automation_pctile": 17.65687487724804,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "DDS (Doctor of Dental Surgery), Denturist, Maxillofacial Prosthodontist, Prosthodontist"
   },
   {
@@ -1635,6 +1868,7 @@
     "occupation": "Dietitians and Nutritionists",
     "automation_pctile": 1.0019195422985243,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Clinical Dietitian, Dietitian, Nutritionist, Registered Dietitian"
   },
   {
@@ -1642,6 +1876,7 @@
     "occupation": "Optometrists",
     "automation_pctile": 23.78757488935465,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Optometrist, Optometry Doctor (OD), Therapeutic Optometrist"
   },
   {
@@ -1649,6 +1884,7 @@
     "occupation": "Pharmacists",
     "automation_pctile": 7.246198545128621,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Clinical Pharmacist, Hospital Pharmacist, Pharm D (Pharmacy Doctor), Pharmacist in Charge (PIC)"
   },
   {
@@ -1656,6 +1892,7 @@
     "occupation": "Physician Assistants",
     "automation_pctile": 23.90812952438352,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Anesthesia Assistant, Anesthesia Technician, Anesthesiologist Assistant, Certified Anesthesiologist Assistant"
   },
   {
@@ -1663,6 +1900,7 @@
     "occupation": "Podiatrists",
     "automation_pctile": 2.9206015113585964,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Doctor of Podiatric Medicine (DPM), Doctor Podiatric Medicine (DPM), Podiatric Surgeon, Podiatrist"
   },
   {
@@ -1670,6 +1908,7 @@
     "occupation": "Occupational Therapists",
     "automation_pctile": 0.7140192003834435,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Certified Orientation and Mobility Specialist (COMS), Orientation and Mobility Specialist (O and M Specialist), Vision Rehabilitation Therapist (VRT), Visually Impaired Teacher (TVI)"
   },
   {
@@ -1677,6 +1916,7 @@
     "occupation": "Physical Therapists",
     "automation_pctile": 12.304416497429784,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Doctor of Physical Therapy (DPT), Home Care Physical Therapist (Home Care PT), Inpatient Physical Therapist (Inpatient PT), Pediatric Physical Therapist (Pediatric PT)"
   },
   {
@@ -1684,6 +1924,7 @@
     "occupation": "Radiation Therapists",
     "automation_pctile": 34.20740481694592,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Dosimetrist, Radiation Therapist (RT), Registered Radiation Therapist, Staff Radiation Therapist"
   },
   {
@@ -1691,6 +1932,7 @@
     "occupation": "Recreational Therapists",
     "automation_pctile": 0.0116725781376796,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Certified Therapeutic Recreation Specialist (CTRS), Recreation Therapist, Recreational Therapist, Rehabilitation Therapist"
   },
   {
@@ -1698,6 +1940,7 @@
     "occupation": "Respiratory Therapists",
     "automation_pctile": 18.327265297859235,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Certified Respiratory Therapist (CRT), Registered Respiratory Therapist (RRT), Respiratory Care Practitioner (RCP), Respiratory Therapist (RT)"
   },
   {
@@ -1705,6 +1948,7 @@
     "occupation": "Speech-Language Pathologists",
     "automation_pctile": 3.6171118445355206,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Bilingual Speech-Language Pathologist (Bilingual SLP), Speech and Language Specialist, Speech Pathologist, Speech-Language Pathologist (SLP)"
   },
   {
@@ -1712,6 +1956,7 @@
     "occupation": "Veterinarians",
     "automation_pctile": 15.595060437757333,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Doctor of Veterinary Medicine (DVM), Emergency Veterinarian (Emergency Vet), Small Animal Veterinarian (Small Animal Vet), Veterinary Medicine Doctor (DVM)"
   },
   {
@@ -1719,6 +1964,7 @@
     "occupation": "Audiologists",
     "automation_pctile": 0.5959912987363079,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Audiologist, Audiology Doctor (AUD), Clinical Audiologist, Educational Audiologist"
   },
   {
@@ -1726,6 +1972,7 @@
     "occupation": "Acupuncturists",
     "automation_pctile": 12.092387913409622,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Acupuncture Physician, Acupuncturist, Herbalist, Licensed Acupuncturist (LAC)"
   },
   {
@@ -1733,6 +1980,7 @@
     "occupation": "Dental Hygienists",
     "automation_pctile": 50.962607911279726,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Dental Hygienist, Hygienist, Licensed Dental Hygienist, Registered Dental Hygienist (RDH)"
   },
   {
@@ -1740,6 +1988,7 @@
     "occupation": "Healthcare Diagnosing or Treating Practitioners, All Other",
     "automation_pctile": 12.08584630919435,
     "major": "29",
+    "minor": "29-1",
     "synonyms": "Doctor (Dr), Naturopathic Doctor, Naturopathic Medicine Doctor, Physician"
   },
   {
@@ -1747,6 +1996,7 @@
     "occupation": "Cardiovascular Technologists and Technicians",
     "automation_pctile": 30.284798505413956,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Cardio Tech (Cardiovascular Technician), Cardiology Technician, Cardiovascular Technologist (CVT), Registered Cardiovascular Invasive Specialist (RCIS)"
   },
   {
@@ -1754,6 +2004,7 @@
     "occupation": "Diagnostic Medical Sonographers",
     "automation_pctile": 34.549405155807214,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Diagnostic Medical Sonographer, Registered Diagnostic Medical Sonographer (RDMS), Sonographer, Ultrasonographer"
   },
   {
@@ -1761,6 +2012,7 @@
     "occupation": "Nuclear Medicine Technologists",
     "automation_pctile": 23.7498599058102,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Certified Nuclear Medicine Technologist (CNMT), Nuclear Cardiology Technologist, Nuclear Medicine Technologist (NMT), Staff Nuclear Medicine Technologist"
   },
   {
@@ -1768,6 +2020,7 @@
     "occupation": "Emergency Medical Technicians",
     "automation_pctile": 17.505139112174096,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Emergency Medical Technician (EMT), First Responder"
   },
   {
@@ -1775,6 +2028,7 @@
     "occupation": "Paramedics",
     "automation_pctile": 17.582281987475774,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "First Responder, Flight Paramedic, Paramedic"
   },
   {
@@ -1782,6 +2036,7 @@
     "occupation": "Dietetic Technicians",
     "automation_pctile": 22.771394029809564,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Diet Tech (Dietetic Technician), Diet Technician Registered (DTR), Dietary Aide, Nutrition Technician"
   },
   {
@@ -1789,6 +2044,7 @@
     "occupation": "Pharmacy Technicians",
     "automation_pctile": 78.08506782728986,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Certified Pharmacy Technician (CPhT), Chemotherapy Pharmacy Technician (Chemo Pharmacy Technician), OR Pharmacy Tech (Operating Room Pharmacy Tech), RPhT (Registered Pharmacy Technician)"
   },
   {
@@ -1796,6 +2052,7 @@
     "occupation": "Psychiatric Technicians",
     "automation_pctile": 17.261937148824753,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Mental Health Associate, Mental Health Technician (MHT), MHW (Mental Health Worker), Psychiatric Technician (PT)"
   },
   {
@@ -1803,6 +2060,7 @@
     "occupation": "Surgical Technologists",
     "automation_pctile": 34.29567772027264,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Certified Surgical Technologist (CST), Operating Room Technician (OR Tech), Surgical Technician, Surgical Technologist (Surgical Tech)"
   },
   {
@@ -1810,6 +2068,7 @@
     "occupation": "Veterinary Technologists and Technicians",
     "automation_pctile": 13.228015055610612,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Certified Veterinary Technician (CVT), Licensed Veterinary Technician (LVT), Registered Veterinary Technician (RVT), Veterinary Technician (Vet Tech)"
   },
   {
@@ -1817,6 +2076,7 @@
     "occupation": "Licensed Practical and Licensed Vocational Nurses",
     "automation_pctile": 18.147053402587527,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Charge Nurse, Clinic Nurse, Licensed Vocational Nurse (LVN), Pediatric LPN (Pediatric Licensed Practical Nurse)"
   },
   {
@@ -1824,6 +2084,7 @@
     "occupation": "Medical Records Specialists",
     "automation_pctile": 70.66285052418867,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Health Information Technician (Health Information Tech), Medical Records Clerk, Medical Records Coordinator, Registered Health Information Technician (RHIT)"
   },
   {
@@ -1831,6 +2092,7 @@
     "occupation": "Opticians, Dispensing",
     "automation_pctile": 53.13869890592444,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Dispensing Optician, Licensed Dispensing Optician (LDO), Licensed Optician, Optician"
   },
   {
@@ -1838,6 +2100,7 @@
     "occupation": "Orthotists and Prosthetists",
     "automation_pctile": 0.8658324726163333,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Certified Orthotist (CO), Certified Prosthetist (CP), Certified Prosthetist Orthotist (CPO), Orthotist"
   },
   {
@@ -1845,6 +2108,7 @@
     "occupation": "Health Technologists and Technicians, All Other",
     "automation_pctile": 21.99104420279779,
     "major": "29",
+    "minor": "29-2",
     "synonyms": "Case Manager, Medicaid Service Coordinator (MSC), Patient Advocate, Patient Service Representative"
   },
   {
@@ -1852,6 +2116,7 @@
     "occupation": "Health Information Technologists and Medical Registrars",
     "automation_pctile": 71.1972468837084,
     "major": "29",
+    "minor": "29-9",
     "synonyms": "Medical Records Analyst, Medical Records Director"
   },
   {
@@ -1859,6 +2124,7 @@
     "occupation": "Athletic Trainers",
     "automation_pctile": 4.186417428445778,
     "major": "29",
+    "minor": "29-9",
     "synonyms": "Athletic Instructor, Athletic Trainer, Certified Athletic Trainer, Personal Trainer"
   },
   {
@@ -1866,6 +2132,7 @@
     "occupation": "Psychiatric Aides",
     "automation_pctile": 36.6522363838136,
     "major": "31",
+    "minor": "31-1",
     "synonyms": "Mental Health Worker (MHW), Psychiatric Aide, Residential Care Tech (Residential Care Technician), Therapeutic Program Worker (TPW)"
   },
   {
@@ -1873,6 +2140,7 @@
     "occupation": "Occupational Therapy Assistants",
     "automation_pctile": 13.12623265447913,
     "major": "31",
+    "minor": "31-2",
     "synonyms": "Certified Occupational Therapist Assistant (COTA), Certified Occupational Therapy Assistant (COTA), Licensed Occupational Therapy Assistant (LOTA), Occupational Therapy Assistant (OTA)"
   },
   {
@@ -1880,6 +2148,7 @@
     "occupation": "Occupational Therapy Aides",
     "automation_pctile": 32.35861880382582,
     "major": "31",
+    "minor": "31-2",
     "synonyms": "Occupational Therapy Aide (OT Aide), Rehabilitation Aide (Rehab Aide), Rehabilitation Services Aide, Restorative Aide"
   },
   {
@@ -1887,6 +2156,7 @@
     "occupation": "Physical Therapist Assistants",
     "automation_pctile": 11.70827018437558,
     "major": "31",
+    "minor": "31-2",
     "synonyms": "Certified Physical Therapist Assistant (CPTA), Licensed Physical Therapist Assistant (LPTA), Physical Therapist Assistant (PTA), Physical Therapy Assistant (PTA)"
   },
   {
@@ -1894,6 +2164,7 @@
     "occupation": "Physical Therapist Aides",
     "automation_pctile": 42.72033386363732,
     "major": "31",
+    "minor": "31-2",
     "synonyms": "Physical Therapist Aide (PTA), Physical Therapy Aide (PTA), PT Tech (Physical Therapy Technician), Rehabilitation Technician (Rehabilitation Tech)"
   },
   {
@@ -1901,6 +2172,7 @@
     "occupation": "Massage Therapists",
     "automation_pctile": 37.79169237966665,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Certified Massage Therapist (CMT), Licensed Massage Practitioner (LMP), Licensed Massage Therapist (LMT), Massage Therapist"
   },
   {
@@ -1908,6 +2180,7 @@
     "occupation": "Dental Assistants",
     "automation_pctile": 37.48777130799687,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Certified Dental Assistant (CDA), Dental Assistant (DA), Expanded Duty Dental Assistant (EDDA), Registered Dental Assistant (RDA)"
   },
   {
@@ -1915,6 +2188,7 @@
     "occupation": "Medical Assistants",
     "automation_pctile": 33.96889978742886,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Certified Medical Assistant (CMA), Chiropractor Assistant, Doctor's Assistant, Registered Medical Assistant (RMA)"
   },
   {
@@ -1922,6 +2196,7 @@
     "occupation": "Medical Equipment Preparers",
     "automation_pctile": 56.429769135626216,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Central Service Technician (CST), Central Sterile Supply Technician (CSS Technician), Certified Registered Central Service Technician (CRCST), Sterile Processing Technician (Sterile Processing Tech)"
   },
   {
@@ -1929,6 +2204,7 @@
     "occupation": "Medical Transcriptionists",
     "automation_pctile": 69.23475786841051,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Medical Scribe, Medical Transcriptionist, Radiology Transcriptionist, Transcriptionist"
   },
   {
@@ -1936,6 +2212,7 @@
     "occupation": "Pharmacy Aides",
     "automation_pctile": 54.03658833948197,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Certified Pharmacist Assistant, Pharmacy Aide, Pharmacy Assistant, Pharmacy Clerk"
   },
   {
@@ -1943,6 +2220,7 @@
     "occupation": "Veterinary Assistants and Laboratory Animal Caretakers",
     "automation_pctile": 66.58597396348513,
     "major": "31",
+    "minor": "31-9",
     "synonyms": "Animal Care Provider, Animal Caregiver, Certified Veterinary Assistant, Veterinarian Assistant (Vet Assistant)"
   },
   {
@@ -1950,6 +2228,7 @@
     "occupation": "First-Line Supervisors of Correctional Officers",
     "automation_pctile": 12.64554875611086,
     "major": "33",
+    "minor": "33-1",
     "synonyms": "Correctional Officer Captain, Correctional Supervisor"
   },
   {
@@ -1957,6 +2236,7 @@
     "occupation": "First-Line Supervisors of Police and Detectives",
     "automation_pctile": 2.5443430082419565,
     "major": "33",
+    "minor": "33-1",
     "synonyms": "Lieutenant, Patrol Sergeant, Police Captain, Police Sergeant"
   },
   {
@@ -1964,6 +2244,7 @@
     "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
     "automation_pctile": 0.9425723106914772,
     "major": "33",
+    "minor": "33-1",
     "synonyms": "Engine Boss, Fire Battalion Chief, Fire Captain, Fire Chief"
   },
   {
@@ -1971,6 +2252,7 @@
     "occupation": "Firefighters",
     "automation_pctile": 28.10668457392067,
     "major": "33",
+    "minor": "33-2",
     "synonyms": "Fire Engineer, Fire Equipment Operator, Firefighter, Wildland Firefighter"
   },
   {
@@ -1978,6 +2260,7 @@
     "occupation": "Fire Inspectors and Investigators",
     "automation_pctile": 36.66312613964589,
     "major": "33",
+    "minor": "33-2",
     "synonyms": "Arson Investigator, Fire Inspector, Fire Investigator, Fire Prevention Inspector"
   },
   {
@@ -1985,6 +2268,7 @@
     "occupation": "Forest Fire Inspectors and Prevention Specialists",
     "automation_pctile": 17.367191870677136,
     "major": "33",
+    "minor": "33-2",
     "synonyms": "Fire Management Officer, Fire Prevention Technician, Forest Officer, Forest Patrolman"
   },
   {
@@ -1992,6 +2276,7 @@
     "occupation": "Bailiffs",
     "automation_pctile": 35.03517352380253,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Bailiff, Court Bailiff, Court Officer, Court Security Officer"
   },
   {
@@ -1999,6 +2284,7 @@
     "occupation": "Correctional Officers and Jailers",
     "automation_pctile": 41.68516375014978,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Correctional Officer, Corrections Officer (CO), Detention Officer, Jailer"
   },
   {
@@ -2006,6 +2292,7 @@
     "occupation": "Detectives and Criminal Investigators",
     "automation_pctile": 34.38154790167194,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Crime Scene Investigator, Crime Scene Technician, Criminalist, Forensic Specialist"
   },
   {
@@ -2013,6 +2300,7 @@
     "occupation": "Fish and Game Wardens",
     "automation_pctile": 19.653753818971488,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Game Warden, Natural Resource Officer, State Game Warden, Wildlife Officer"
   },
   {
@@ -2020,6 +2308,7 @@
     "occupation": "Parking Enforcement Workers",
     "automation_pctile": 61.185205371494135,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Parking Control Officer, Parking Enforcement Officer (PEO), Parking Enforcer, Ticket Writer"
   },
   {
@@ -2027,6 +2316,7 @@
     "occupation": "Police and Sheriff's Patrol Officers",
     "automation_pctile": 21.57232727800903,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Customs Inspector, Customs Officer, Special Agent, US Customs and Border Protection Officer (US CBPO)"
   },
   {
@@ -2034,6 +2324,7 @@
     "occupation": "Transit and Railroad Police",
     "automation_pctile": 40.11581429718756,
     "major": "33",
+    "minor": "33-3",
     "synonyms": "Patrolman, Railroad Police, Railroad Police Officer, Transit Police Officer"
   },
   {
@@ -2041,6 +2332,7 @@
     "occupation": "Animal Control Workers",
     "automation_pctile": 29.281166054902663,
     "major": "33",
+    "minor": "33-9",
     "synonyms": "Animal Control Officer, Animal Enforcement Officer, Animal Park Code Enforcement Officer, Community Service Officer"
   },
   {
@@ -2048,6 +2340,7 @@
     "occupation": "Private Detectives and Investigators",
     "automation_pctile": 34.09412810414234,
     "major": "33",
+    "minor": "33-9",
     "synonyms": "Investigator, Loss Prevention Detective, Loss Prevention Officer, Private Investigator"
   },
   {
@@ -2055,6 +2348,7 @@
     "occupation": "Gambling Surveillance Officers and Gambling Investigators",
     "automation_pctile": 85.53959011424091,
     "major": "33",
+    "minor": "33-9",
     "synonyms": "Surveillance Agent, Surveillance Observer, Surveillance Officer, Surveillance Operator"
   },
   {
@@ -2062,6 +2356,7 @@
     "occupation": "Security Guards",
     "automation_pctile": 62.2422557559529,
     "major": "33",
+    "minor": "33-9",
     "synonyms": "Safety and Security Officer, Security Agent, Security Guard, Security Officer"
   },
   {
@@ -2069,6 +2364,7 @@
     "occupation": "Crossing Guards and Flaggers",
     "automation_pctile": 36.97438713926812,
     "major": "33",
+    "minor": "33-9",
     "synonyms": "Adult Crossing Guard, Community Service Officer, Crossing Guard, School Crossing Guard"
   },
   {
@@ -2076,6 +2372,7 @@
     "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
     "automation_pctile": 49.955030346377946,
     "major": "33",
+    "minor": "33-9",
     "synonyms": "Lifeguard, Ocean Lifeguard, Pool Attendant, Ski Patroller"
   },
   {
@@ -2083,6 +2380,7 @@
     "occupation": "Chefs and Head Cooks",
     "automation_pctile": 21.84054855226703,
     "major": "35",
+    "minor": "35-1",
     "synonyms": "Chef, Cook, Executive Chef (Ex Chef), Sous Chef"
   },
   {
@@ -2090,6 +2388,7 @@
     "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
     "automation_pctile": 43.7846079153101,
     "major": "35",
+    "minor": "35-1",
     "synonyms": "Cafeteria Manager, Dietary Supervisor, Food Service Supervisor, Kitchen Manager"
   },
   {
@@ -2097,6 +2396,7 @@
     "occupation": "Cooks, Fast Food",
     "automation_pctile": 59.84181253901517,
     "major": "35",
+    "minor": "35-2",
     "synonyms": "Cook, Grill Cook, Line Cook, Pizza Cook"
   },
   {
@@ -2104,6 +2404,7 @@
     "occupation": "Cooks, Institution and Cafeteria",
     "automation_pctile": 60.90009528730121,
     "major": "35",
+    "minor": "35-2",
     "synonyms": "Cafeteria Cook, Cook, Dietary Cook, School Cook"
   },
   {
@@ -2111,6 +2412,7 @@
     "occupation": "Cooks, Private Household",
     "automation_pctile": 34.04176426755657,
     "major": "35",
+    "minor": "35-2",
     "synonyms": "Certified Personal Chef (CPC), Personal Chef, Personal Private Chef, Private Chef"
   },
   {
@@ -2118,6 +2420,7 @@
     "occupation": "Cooks, Restaurant",
     "automation_pctile": 87.1101874324622,
     "major": "35",
+    "minor": "35-2",
     "synonyms": "Cook, Grill Cook, Line Cook, Prep Cook (Preparation Cook)"
   },
   {
@@ -2125,6 +2428,7 @@
     "occupation": "Cooks, Short Order",
     "automation_pctile": 79.87366953148629,
     "major": "35",
+    "minor": "35-2",
     "synonyms": "Cook, Grill Cook, Line Cook, Short Order Cook"
   },
   {
@@ -2132,6 +2436,7 @@
     "occupation": "Food Preparation Workers",
     "automation_pctile": 67.4608515215508,
     "major": "35",
+    "minor": "35-2",
     "synonyms": "Cook, Deli Clerk (Delicatessen Clerk), Dietary Aide, Food Service Worker (FSW)"
   },
   {
@@ -2139,6 +2444,7 @@
     "occupation": "Bartenders",
     "automation_pctile": 56.19531773052218,
     "major": "35",
+    "minor": "35-3",
     "synonyms": "Banquet Bartender, Bar Captain, Bartender, Mixologist"
   },
   {
@@ -2146,6 +2452,7 @@
     "occupation": "Fast Food and Counter Workers",
     "automation_pctile": 77.34301428751466,
     "major": "35",
+    "minor": "35-3",
     "synonyms": "Barista, Catering Barista"
   },
   {
@@ -2153,6 +2460,7 @@
     "occupation": "Waiters and Waitresses",
     "automation_pctile": 82.65776543450436,
     "major": "35",
+    "minor": "35-3",
     "synonyms": "Food Server, Server, Waiter, Waitress"
   },
   {
@@ -2160,6 +2468,7 @@
     "occupation": "Food Servers, Nonrestaurant",
     "automation_pctile": 66.44825924346503,
     "major": "35",
+    "minor": "35-3",
     "synonyms": "Food Service Worker, Room Server, Room Service Server, Tray Server"
   },
   {
@@ -2167,6 +2476,7 @@
     "occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
     "automation_pctile": 71.06744564461697,
     "major": "35",
+    "minor": "35-9",
     "synonyms": "Barback, Bus Boy, Bus Person, Busser"
   },
   {
@@ -2174,6 +2484,7 @@
     "occupation": "Dishwashers",
     "automation_pctile": 55.617416602684514,
     "major": "35",
+    "minor": "35-9",
     "synonyms": "Dish Machine Operator (DMO), Dishwasher, Kitchen Steward, Steward"
   },
   {
@@ -2181,6 +2492,7 @@
     "occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
     "automation_pctile": 92.5096073998875,
     "major": "35",
+    "minor": "35-9",
     "synonyms": "Buffet Hostess, Greeter, Host, Hostess"
   },
   {
@@ -2188,6 +2500,7 @@
     "occupation": "First-Line Supervisors of Housekeeping and Janitorial Workers",
     "automation_pctile": 79.66234626261254,
     "major": "37",
+    "minor": "37-1",
     "synonyms": "Environmental Services Supervisor (EVS), Executive Housekeeper, Housekeeping Supervisor, Maintenance Supervisor"
   },
   {
@@ -2195,6 +2508,7 @@
     "occupation": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
     "automation_pctile": 40.21202393359062,
     "major": "37",
+    "minor": "37-1",
     "synonyms": "Golf Course Superintendent, Grounds Manager, Grounds Supervisor, Landscape Supervisor"
   },
   {
@@ -2202,6 +2516,7 @@
     "occupation": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
     "automation_pctile": 49.61606053743154,
     "major": "37",
+    "minor": "37-2",
     "synonyms": "Cleaner, Custodial Worker, Custodian, Janitor"
   },
   {
@@ -2209,6 +2524,7 @@
     "occupation": "Maids and Housekeeping Cleaners",
     "automation_pctile": 51.65614972026892,
     "major": "37",
+    "minor": "37-2",
     "synonyms": "Environmental Services Aide, Environmental Services Worker, Housekeeper, Housekeeping Laundry Worker"
   },
   {
@@ -2216,6 +2532,7 @@
     "occupation": "Pest Control Workers",
     "automation_pctile": 49.69055266789717,
     "major": "37",
+    "minor": "37-2",
     "synonyms": "Exterminator, Pest Control Technician (Pest Control Tech), Pest Technician, Residential Pest Control Technician"
   },
   {
@@ -2223,6 +2540,7 @@
     "occupation": "Landscaping and Groundskeeping Workers",
     "automation_pctile": 85.53183939834604,
     "major": "37",
+    "minor": "37-3",
     "synonyms": "Grounds Maintenance Worker, Grounds Worker, Groundskeeper, Outside Maintenance Worker"
   },
   {
@@ -2230,6 +2548,7 @@
     "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
     "automation_pctile": 92.17853557043796,
     "major": "37",
+    "minor": "37-3",
     "synonyms": "Lawn Specialist, Lawn Technician, Licensed Pesticide Applicator, Spray Technician"
   },
   {
@@ -2237,6 +2556,7 @@
     "occupation": "Tree Trimmers and Pruners",
     "automation_pctile": 55.251838586071,
     "major": "37",
+    "minor": "37-3",
     "synonyms": "Arborist, Groundsman, Tree Climber, Tree Trimmer"
   },
   {
@@ -2244,6 +2564,7 @@
     "occupation": "First-Line Supervisors of Gambling Services Workers",
     "automation_pctile": 32.42555398629394,
     "major": "39",
+    "minor": "39-1",
     "synonyms": "Casino Shift Manager (CSM), Floor Supervisor, Slot Supervisor, Table Games Supervisor"
   },
   {
@@ -2251,6 +2572,7 @@
     "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
     "automation_pctile": 19.63764008062605,
     "major": "39",
+    "minor": "39-1",
     "synonyms": "Caddymaster, Community Life Director, Hair Salon Manager, Recreation Coordinator"
   },
   {
@@ -2258,6 +2580,7 @@
     "occupation": "First-Line Supervisors of Personal Service Workers",
     "automation_pctile": 19.56569018497393,
     "major": "39",
+    "minor": "39-1",
     "synonyms": "Aquatics Supervisor, Clinical Care Coordinator, Direct Care Supervisor, Resident Care Supervisor"
   },
   {
@@ -2265,6 +2588,7 @@
     "occupation": "Animal Trainers",
     "automation_pctile": 21.85613524193162,
     "major": "39",
+    "minor": "39-2",
     "synonyms": "Dog Trainer, Guide Dog Mobility Instructor (GDMI), Horse Trainer, Trainer"
   },
   {
@@ -2272,6 +2596,7 @@
     "occupation": "Animal Caretakers",
     "automation_pctile": 60.05673989078001,
     "major": "39",
+    "minor": "39-2",
     "synonyms": "Aquarist, Dog Groomer, Groomer, Kennel Technician (Kennel Tech)"
   },
   {
@@ -2279,6 +2604,7 @@
     "occupation": "Gambling Dealers",
     "automation_pctile": 91.47869242942625,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Blackjack Dealer, Casino Dealer, Table Games Dealer, Twenty-One Dealer"
   },
   {
@@ -2286,6 +2612,7 @@
     "occupation": "Gambling and Sports Book Writers and Runners",
     "automation_pctile": 70.44889201191069,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Casino Floor Runner, Casino Runner, Keno Writer, Racebook Writer"
   },
   {
@@ -2293,6 +2620,7 @@
     "occupation": "Motion Picture Projectionists",
     "automation_pctile": 92.02776864485088,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Booth Operator, Movie Projectionist, Projectionist, Technical Projection Guide"
   },
   {
@@ -2300,6 +2628,7 @@
     "occupation": "Ushers, Lobby Attendants, and Ticket Takers",
     "automation_pctile": 85.98468272521991,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Lobby Attendant, Ticket Taker, Usher, Visitor Services Representative"
   },
   {
@@ -2307,6 +2636,7 @@
     "occupation": "Amusement and Recreation Attendants",
     "automation_pctile": 53.42670775786205,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Golf Course Ranger, Recreation Attendant, Ride Operator, Ski Lift Operator"
   },
   {
@@ -2314,6 +2644,7 @@
     "occupation": "Costume Attendants",
     "automation_pctile": 41.81390314116364,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Costumer, Dresser, Wardrobe Assistant, Wardrobe Supervisor"
   },
   {
@@ -2321,6 +2652,7 @@
     "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
     "automation_pctile": 36.37292383511003,
     "major": "39",
+    "minor": "39-3",
     "synonyms": "Athletic Equipment Manager, Ladies Locker Room Attendant, Locker Room Attendant, Spa Attendant"
   },
   {
@@ -2328,6 +2660,7 @@
     "occupation": "Embalmers",
     "automation_pctile": 37.6305937497917,
     "major": "39",
+    "minor": "39-4",
     "synonyms": "Embalmer, Licensed Embalmer, Trade Embalmer"
   },
   {
@@ -2335,6 +2668,7 @@
     "occupation": "Funeral Attendants",
     "automation_pctile": 35.09847362051596,
     "major": "39",
+    "minor": "39-4",
     "synonyms": "Funeral Assistant, Funeral Attendant, Funeral Director, Funeral Home Assistant"
   },
   {
@@ -2342,6 +2676,7 @@
     "occupation": "Barbers",
     "automation_pctile": 58.36368901213561,
     "major": "39",
+    "minor": "39-5",
     "synonyms": "Barber, Barber Shop Operator, Barber Stylist, Stylist"
   },
   {
@@ -2349,6 +2684,7 @@
     "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
     "automation_pctile": 22.384881329564006,
     "major": "39",
+    "minor": "39-5",
     "synonyms": "Cosmetologist, Hair Stylist, Hairdresser, Hairstylist"
   },
   {
@@ -2356,6 +2692,7 @@
     "occupation": "Makeup Artists, Theatrical and Performance",
     "automation_pctile": 6.426994379335847,
     "major": "39",
+    "minor": "39-5",
     "synonyms": "Hair and Makeup Designer, Makeup Artist, Special Effects Makeup Artist, Special Makeup Effects Artist"
   },
   {
@@ -2363,6 +2700,7 @@
     "occupation": "Manicurists and Pedicurists",
     "automation_pctile": 83.96412534643763,
     "major": "39",
+    "minor": "39-5",
     "synonyms": "Manicurist, Nail Technician (Nail Tech), Pedicurist"
   },
   {
@@ -2370,6 +2708,7 @@
     "occupation": "Shampooers",
     "automation_pctile": 58.041429746658544,
     "major": "39",
+    "minor": "39-5",
     "synonyms": "Shampoo Assistant, Shampoo Technician, Shampooer, Stylist Assistant"
   },
   {
@@ -2377,6 +2716,7 @@
     "occupation": "Skincare Specialists",
     "automation_pctile": 33.35391148403422,
     "major": "39",
+    "minor": "39-5",
     "synonyms": "Aesthetician, Esthetician, Medical Esthetician, Skin Care Specialist"
   },
   {
@@ -2384,6 +2724,7 @@
     "occupation": "Baggage Porters and Bellhops",
     "automation_pctile": 60.34503551920574,
     "major": "39",
+    "minor": "39-6",
     "synonyms": "Bell Captain, Bellman, Skycap, Valet"
   },
   {
@@ -2391,6 +2732,7 @@
     "occupation": "Concierges",
     "automation_pctile": 29.25006243201653,
     "major": "39",
+    "minor": "39-6",
     "synonyms": "Chef Concierge, Club Concierge, Guest Service Agent, Hotel Concierge"
   },
   {
@@ -2398,6 +2740,7 @@
     "occupation": "Childcare Workers",
     "automation_pctile": 20.720593357605477,
     "major": "39",
+    "minor": "39-9",
     "synonyms": "Child Care Worker, Childcare Provider, Infant Teacher, Toddler Teacher"
   },
   {
@@ -2405,6 +2748,7 @@
     "occupation": "Exercise Trainers and Group Fitness Instructors",
     "automation_pctile": 20.95592059360563,
     "major": "39",
+    "minor": "39-9",
     "synonyms": "Aerobics Instructor, Fitness Instructor, Group Fitness Instructor, Personal Trainer"
   },
   {
@@ -2412,6 +2756,7 @@
     "occupation": "Recreation Workers",
     "automation_pctile": 3.443689576387723,
     "major": "39",
+    "minor": "39-9",
     "synonyms": "Activities Director, Activity Aide, Activity Director, Recreation Supervisor"
   },
   {
@@ -2419,6 +2764,7 @@
     "occupation": "Residential Advisors",
     "automation_pctile": 18.221530031621374,
     "major": "39",
+    "minor": "39-9",
     "synonyms": "Residence Hall Director, Residence Life Director, Resident Assistant, Resident Director"
   },
   {
@@ -2426,6 +2772,7 @@
     "occupation": "First-Line Supervisors of Retail Sales Workers",
     "automation_pctile": 33.29947045558863,
     "major": "41",
+    "minor": "41-1",
     "synonyms": "Department Manager, Meat Department Manager, Shift Manager, Store Manager"
   },
   {
@@ -2433,6 +2780,7 @@
     "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
     "automation_pctile": 19.482711020603418,
     "major": "41",
+    "minor": "41-1",
     "synonyms": "Customer Service Supervisor, Reservations Supervisor, Sales Leader, Sales Supervisor"
   },
   {
@@ -2440,6 +2788,7 @@
     "occupation": "Cashiers",
     "automation_pctile": 94.98086890795668,
     "major": "41",
+    "minor": "41-2",
     "synonyms": "Cashier, Checker, Sales Associate, Store Clerk"
   },
   {
@@ -2447,6 +2796,7 @@
     "occupation": "Gambling Change Persons and Booth Cashiers",
     "automation_pctile": 60.36203283916319,
     "major": "41",
+    "minor": "41-2",
     "synonyms": "Cage Cashier, Cashier, Change Person, Slot Attendant"
   },
   {
@@ -2454,6 +2804,7 @@
     "occupation": "Counter and Rental Clerks",
     "automation_pctile": 92.00837635368192,
     "major": "41",
+    "minor": "41-2",
     "synonyms": "Counter Clerk, Rental Agent, Rental Sales Representative, Video Clerk"
   },
   {
@@ -2461,6 +2812,7 @@
     "occupation": "Parts Salespersons",
     "automation_pctile": 98.97149550218208,
     "major": "41",
+    "minor": "41-2",
     "synonyms": "Parts Consultant, Parts Counterperson, Parts Salesman, Parts Salesperson"
   },
   {
@@ -2468,6 +2820,7 @@
     "occupation": "Retail Salespersons",
     "automation_pctile": 74.41172453893704,
     "major": "41",
+    "minor": "41-2",
     "synonyms": "Sales Associate, Sales Clerk, Sales Consultant, Sales Person"
   },
   {
@@ -2475,6 +2828,7 @@
     "occupation": "Advertising Sales Agents",
     "automation_pctile": 37.70613997761904,
     "major": "41",
+    "minor": "41-3",
     "synonyms": "Advertising Account Representative, Advertising Representative, Advertising Sales Representative (Ad Sales Representative), Sales Representative"
   },
   {
@@ -2482,6 +2836,7 @@
     "occupation": "Insurance Sales Agents",
     "automation_pctile": 77.70689489734718,
     "major": "41",
+    "minor": "41-3",
     "synonyms": "Insurance Agent, Insurance Broker, Sales Agent, Sales Representative"
   },
   {
@@ -2489,6 +2844,7 @@
     "occupation": "Securities, Commodities, and Financial Services Sales Agents",
     "automation_pctile": 11.277167615586814,
     "major": "41",
+    "minor": "41-3",
     "synonyms": "Broker, Equity Trader, Financial Advisor, Financial Consultant"
   },
   {
@@ -2496,6 +2852,7 @@
     "occupation": "Travel Agents",
     "automation_pctile": 21.61817276252721,
     "major": "41",
+    "minor": "41-3",
     "synonyms": "Destination Specialist, Travel Agent, Travel Consultant, Travel Counselor"
   },
   {
@@ -2503,6 +2860,7 @@
     "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
     "automation_pctile": 31.81789010941996,
     "major": "41",
+    "minor": "41-4",
     "synonyms": "Inside Sales Representative, Marketing Representative, Sales Representative"
   },
   {
@@ -2510,6 +2868,7 @@
     "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
     "automation_pctile": 65.68307756745952,
     "major": "41",
+    "minor": "41-4",
     "synonyms": "Outside Sales Representative, Sales Consultant, Sales Representative (Sales Rep), Salesman"
   },
   {
@@ -2517,6 +2876,7 @@
     "occupation": "Demonstrators and Product Promoters",
     "automation_pctile": 37.19678618115562,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Demonstrator, In Store Demonstrator, Merchandiser, Product Demonstrator"
   },
   {
@@ -2524,6 +2884,7 @@
     "occupation": "Models",
     "automation_pctile": 95.74892609955918,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Art Model, Artist's Model, Figure Model, Model"
   },
   {
@@ -2531,6 +2892,7 @@
     "occupation": "Real Estate Brokers",
     "automation_pctile": 95.07233510623207,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Broker, Managing Broker, Real Estate Broker, Realtor"
   },
   {
@@ -2538,6 +2900,7 @@
     "occupation": "Real Estate Sales Agents",
     "automation_pctile": 66.73370260844142,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Real Estate Agent, Realtor, Realtor Associate, Sales Agent"
   },
   {
@@ -2545,6 +2908,7 @@
     "occupation": "Sales Engineers",
     "automation_pctile": 1.080566056483807,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Business Development Engineer, Product Sales Engineer, Sales Engineer, Technical Marketing Engineer"
   },
   {
@@ -2552,6 +2916,7 @@
     "occupation": "Telemarketers",
     "automation_pctile": 99.77829852254304,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Telemarketer, Telephone Sales Representative (TSR), Telephone Service Representative (TSR), Telesales Representative (Telesales Rep)"
   },
   {
@@ -2559,6 +2924,7 @@
     "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
     "automation_pctile": 80.8730158361077,
     "major": "41",
+    "minor": "41-9",
     "synonyms": "Direct Sales Coach, Door-to-Door Sales Trainer, Independent Sales Associate, Independent Sales Representative"
   },
   {
@@ -2566,6 +2932,7 @@
     "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
     "automation_pctile": 9.876915531303048,
     "major": "43",
+    "minor": "43-1",
     "synonyms": "Accounting Manager, Customer Service Manager, Customer Service Supervisor, Office Manager"
   },
   {
@@ -2573,6 +2940,7 @@
     "occupation": "Switchboard Operators, Including Answering Service",
     "automation_pctile": 91.50638573731862,
     "major": "43",
+    "minor": "43-2",
     "synonyms": "CBX Operator (Computerized Branch Exchange Operator), Communications Specialist, PBX Operator (Private Branch Exchange Operator), Switchboard Operator (SB Operator)"
   },
   {
@@ -2580,6 +2948,7 @@
     "occupation": "Telephone Operators",
     "automation_pctile": 95.0338993061094,
     "major": "43",
+    "minor": "43-2",
     "synonyms": "411 Directory Assistance Operator (411 Directory Assistance Op), Directory Assistance Operator (Directory Assistance Op), Phone Operator (Telephone Operator), TELECOM Op (Telecommunications Operator)"
   },
   {
@@ -2587,6 +2956,7 @@
     "occupation": "Communications Equipment Operators, All Other",
     "automation_pctile": 95.5475004948832,
     "major": "43",
+    "minor": "43-2",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -2594,6 +2964,7 @@
     "occupation": "Bill and Account Collectors",
     "automation_pctile": 84.21202424361927,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Collector, Debt Collector, Patient Access Specialist, Patient Account Representative"
   },
   {
@@ -2601,6 +2972,7 @@
     "occupation": "Billing and Posting Clerks",
     "automation_pctile": 85.89228644103713,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Billing Clerk, Billing Coordinator, Pre-Audit Clerk, Statement Clerk"
   },
   {
@@ -2608,6 +2980,7 @@
     "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
     "automation_pctile": 98.76605502667252,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Account Clerk, Accounting Assistant, Accounting Clerk, Accounts Payables Clerk"
   },
   {
@@ -2615,6 +2988,7 @@
     "occupation": "Gambling Cage Workers",
     "automation_pctile": 36.024389642749355,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Cage Cashier, Casino Cage Cashier, Casino Cashier, Vault Cashier"
   },
   {
@@ -2622,6 +2996,7 @@
     "occupation": "Payroll and Timekeeping Clerks",
     "automation_pctile": 92.14941613082092,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Payroll Assistant, Payroll Clerk, Payroll Coordinator, Payroll Specialist"
   },
   {
@@ -2629,6 +3004,7 @@
     "occupation": "Procurement Clerks",
     "automation_pctile": 95.62499990311603,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Buyer, Procurement Specialist, Purchasing Clerk, Purchasing Specialist"
   },
   {
@@ -2636,6 +3012,7 @@
     "occupation": "Tellers",
     "automation_pctile": 97.63772905884451,
     "major": "43",
+    "minor": "43-3",
     "synonyms": "Bank Teller, Financial Services Representative (FSR), Member Services Representative, Teller"
   },
   {
@@ -2643,6 +3020,7 @@
     "occupation": "Brokerage Clerks",
     "automation_pctile": 95.57857311490577,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Registered Sales Assistant, Sales Assistant, Sales Trader, Trading Assistant"
   },
   {
@@ -2650,6 +3028,7 @@
     "occupation": "Correspondence Clerks",
     "automation_pctile": 66.73855455659162,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Correspondence Clerk, Correspondence Coordinator, Correspondence Representative (Correspondence Rep), Dispute Resolution Analyst"
   },
   {
@@ -2657,6 +3036,7 @@
     "occupation": "Court, Municipal, and License Clerks",
     "automation_pctile": 36.545842306724666,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "City Clerk, Court Clerk, License Clerk, Town Clerk"
   },
   {
@@ -2664,6 +3044,7 @@
     "occupation": "Credit Authorizers, Checkers, and Clerks",
     "automation_pctile": 92.1586859870312,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Commercial Credit Reviewer, Credit Investigator, Credit Processor, Credit Representative"
   },
   {
@@ -2671,6 +3052,7 @@
     "occupation": "Customer Service Representatives",
     "automation_pctile": 40.01365211097723,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Account Representative, Customer Service Representative (CSR), Customer Service Specialist, Member Services Representative (Member Services Rep)"
   },
   {
@@ -2678,6 +3060,7 @@
     "occupation": "Eligibility Interviewers, Government Programs",
     "automation_pctile": 52.56420034236462,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Eligibility Specialist, Eligibility Worker, Social Welfare Examiner (SWEX), Workforce Services Representative (WSR)"
   },
   {
@@ -2685,6 +3068,7 @@
     "occupation": "File Clerks",
     "automation_pctile": 95.14712176390172,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "File Clerk, Medical Records Clerk, Office Assistant, Records Clerk"
   },
   {
@@ -2692,6 +3076,7 @@
     "occupation": "Hotel, Motel, and Resort Desk Clerks",
     "automation_pctile": 80.47027313677827,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Front Desk Agent, Front Desk Clerk, Guest Services Agent (GSA), Night Auditor"
   },
   {
@@ -2699,6 +3084,7 @@
     "occupation": "Interviewers, Except Eligibility and Loan",
     "automation_pctile": 79.49108644419942,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Admissions Clerk, Admissions Representative, Interviewer, Registration Clerk"
   },
   {
@@ -2706,6 +3092,7 @@
     "occupation": "Library Assistants, Clerical",
     "automation_pctile": 84.7077367801077,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Library Aide, Library Assistant, Library Circulation Assistant, Library Clerk"
   },
   {
@@ -2713,6 +3100,7 @@
     "occupation": "Loan Interviewers and Clerks",
     "automation_pctile": 71.33537239167096,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Licensed Loan Officer Assistant, Loan Analyst, Loan Processor, Mortgage Loan Processor"
   },
   {
@@ -2720,6 +3108,7 @@
     "occupation": "New Accounts Clerks",
     "automation_pctile": 99.7268105168534,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Financial Services Representative, Member Service Representative, New Accounts Representative, Personal Banker"
   },
   {
@@ -2727,6 +3116,7 @@
     "occupation": "Order Clerks",
     "automation_pctile": 95.54642314537382,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Materials Specialist, Order Clerk, Warehouse Clerk, Warehouse Person"
   },
   {
@@ -2734,6 +3124,7 @@
     "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
     "automation_pctile": 69.97792751127457,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Human Resources Administrative Assistant (HR Administrative Assistant), Human Resources Assistant (HR Assistant), Human Resources Associate (HR Associate), Personnel Clerk"
   },
   {
@@ -2741,6 +3132,7 @@
     "occupation": "Receptionists and Information Clerks",
     "automation_pctile": 89.84758527221366,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Front Desk Receptionist, Greeter, Office Assistant, Receptionist"
   },
   {
@@ -2748,6 +3140,7 @@
     "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
     "automation_pctile": 41.920537490445305,
     "major": "43",
+    "minor": "43-4",
     "synonyms": "Customer Service Agent, Reservation Agent, Reservations Agent, Ticket Agent"
   },
   {
@@ -2755,6 +3148,7 @@
     "occupation": "Cargo and Freight Agents",
     "automation_pctile": 99.8541005239949,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Air Export Specialist, Drop Shipment Clerk, Logistics Coordinator, Logistics Service Representative"
   },
   {
@@ -2762,6 +3156,7 @@
     "occupation": "Couriers and Messengers",
     "automation_pctile": 79.74172909480785,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Courier, Driver, Laboratory Courier, Messenger"
   },
   {
@@ -2769,6 +3164,7 @@
     "occupation": "Public Safety Telecommunicators",
     "automation_pctile": 37.05450628947343,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Communications Officer, Communications Operator, Public Safety Dispatcher, Telecommunicator"
   },
   {
@@ -2776,6 +3172,7 @@
     "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
     "automation_pctile": 91.35806028723844,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "City Dispatcher, Dispatcher (Dispatch), Taxi Dispatcher, Train Dispatcher"
   },
   {
@@ -2783,6 +3180,7 @@
     "occupation": "Meter Readers, Utilities",
     "automation_pctile": 62.38509369917953,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Meter Reader, Meter Technician, Water Meter Reader, Water Use Inspector"
   },
   {
@@ -2790,6 +3188,7 @@
     "occupation": "Postal Service Clerks",
     "automation_pctile": 84.27252633189465,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Clerk, Postal Clerk, Sales and Service Associate (SSA), Window Clerk"
   },
   {
@@ -2797,6 +3196,7 @@
     "occupation": "Postal Service Mail Carriers",
     "automation_pctile": 50.75767898301928,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "City Letter Carrier, Letter Carrier, Mail Carrier, Rural Carrier Associate (RCA)"
   },
   {
@@ -2804,6 +3204,7 @@
     "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
     "automation_pctile": 58.15830279163736,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Automation Clerk, Distribution Clerk, Mail Handler, Mail Processor"
   },
   {
@@ -2811,6 +3212,7 @@
     "occupation": "Production, Planning, and Expediting Clerks",
     "automation_pctile": 68.14103884705311,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Expeditor, Materials Planner, Production Planner, Production Scheduler"
   },
   {
@@ -2818,6 +3220,7 @@
     "occupation": "Shipping, Receiving, and Inventory Clerks",
     "automation_pctile": 96.41365074685125,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Receiver, Receiving Clerk, Shipper, Shipping Clerk"
   },
   {
@@ -2825,6 +3228,7 @@
     "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
     "automation_pctile": 84.746273339537,
     "major": "43",
+    "minor": "43-5",
     "synonyms": "Fluid Operator, Inventory Specialist, Quality Assurance Inspector (QA Inspector), Temperature Taker"
   },
   {
@@ -2832,6 +3236,7 @@
     "occupation": "Executive Secretaries and Executive Administrative Assistants",
     "automation_pctile": 66.04950816282145,
     "major": "43",
+    "minor": "43-6",
     "synonyms": "Administrative Assistant, Administrative Secretary, Executive Assistant, Executive Secretary"
   },
   {
@@ -2839,6 +3244,7 @@
     "occupation": "Legal Secretaries and Administrative Assistants",
     "automation_pctile": 95.74477946655544,
     "major": "43",
+    "minor": "43-6",
     "synonyms": "Legal Administrative Assistant (Legal Admin Assistant), Legal Office Support Assistant, Legal Practice Assistant, Legal Secretary"
   },
   {
@@ -2846,6 +3252,7 @@
     "occupation": "Medical Secretaries and Administrative Assistants",
     "automation_pctile": 59.05765711049901,
     "major": "43",
+    "minor": "43-6",
     "synonyms": "Medical Receptionist, Medical Secretary, Unit Clerk, Unit Support Representative"
   },
   {
@@ -2853,6 +3260,7 @@
     "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
     "automation_pctile": 91.1945201818566,
     "major": "43",
+    "minor": "43-6",
     "synonyms": "Administrative Assistant (Admin Assistant), Administrative Secretary (Admin Secretary), Office Assistant, Secretary"
   },
   {
@@ -2860,6 +3268,7 @@
     "occupation": "Data Entry Keyers",
     "automation_pctile": 99.69733454430518,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Data Capture Specialist, Data Entry Clerk, Data Entry Operator, Data Transcriber"
   },
   {
@@ -2867,6 +3276,7 @@
     "occupation": "Word Processors and Typists",
     "automation_pctile": 58.39161484150483,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Clerk Typist, Keyboard Specialist, Typist, Word Processor"
   },
   {
@@ -2874,6 +3284,7 @@
     "occupation": "Desktop Publishers",
     "automation_pctile": 24.59016152026882,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Compositor, Computer Typesetter, Electronic Console Display Operator, Publisher"
   },
   {
@@ -2881,6 +3292,7 @@
     "occupation": "Insurance Claims and Policy Processing Clerks",
     "automation_pctile": 96.88871537619572,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Claims Processor, Claims Representative (Claims Rep), Claims Technician (Claims Tech), Underwriting Assistant"
   },
   {
@@ -2888,6 +3300,7 @@
     "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
     "automation_pctile": 80.86945825751195,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Mail Clerk, Mail Handler, Mail Machine Operator, Postal Clerk"
   },
   {
@@ -2895,6 +3308,7 @@
     "occupation": "Office Clerks, General",
     "automation_pctile": 89.10000547200542,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Clerk, Office Assistant, Office Clerk, Office Services Specialist"
   },
   {
@@ -2902,6 +3316,7 @@
     "occupation": "Office Machine Operators, Except Computer",
     "automation_pctile": 71.37362217461217,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Copy Center Operator, Copy Machine Operator, Key Operator, Machine Operator"
   },
   {
@@ -2909,6 +3324,7 @@
     "occupation": "Proofreaders and Copy Markers",
     "automation_pctile": 61.20538823568439,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Copy Editor, News Copy Editor, Proofreader, Typesetter"
   },
   {
@@ -2916,6 +3332,7 @@
     "occupation": "Statistical Assistants",
     "automation_pctile": 49.84373781684345,
     "major": "43",
+    "minor": "43-9",
     "synonyms": "Actuarial Analyst, Actuarial Assistant, Actuarial Technician, Research Assistant"
   },
   {
@@ -2923,6 +3340,7 @@
     "occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
     "automation_pctile": 40.03653997501479,
     "major": "45",
+    "minor": "45-1",
     "synonyms": "Farm Supervisor, Harvesting Supervisor, Hatchery Manager, Logging Supervisor"
   },
   {
@@ -2930,6 +3348,7 @@
     "occupation": "Agricultural Inspectors",
     "automation_pctile": 79.52697225879268,
     "major": "45",
+    "minor": "45-2",
     "synonyms": "Brand Inspector, Consumer Safety Inspector (CSI), Grain Inspector, Inspector"
   },
   {
@@ -2937,6 +3356,7 @@
     "occupation": "Animal Breeders",
     "automation_pctile": 85.54093098809071,
     "major": "45",
+    "minor": "45-2",
     "synonyms": "Animal Technician, Artificial Insemination Technician (AI Technician), Breeder, Dog Breeder"
   },
   {
@@ -2944,6 +3364,7 @@
     "occupation": "Graders and Sorters, Agricultural Products",
     "automation_pctile": 36.33723953913003,
     "major": "45",
+    "minor": "45-2",
     "synonyms": "Apple Sorter, Grader, Potato Grader, Sorter"
   },
   {
@@ -2951,6 +3372,7 @@
     "occupation": "Forest and Conservation Workers",
     "automation_pctile": 67.5828322883043,
     "major": "45",
+    "minor": "45-4",
     "synonyms": "Forest Ranger, Forestry Support Specialist, Tree Farmer, Tree Planter"
   },
   {
@@ -2958,6 +3380,7 @@
     "occupation": "Fallers",
     "automation_pctile": 55.20268354586572,
     "major": "45",
+    "minor": "45-4",
     "synonyms": "Logger, Timber Cutter, Timber Faller, Tree Faller"
   },
   {
@@ -2965,6 +3388,7 @@
     "occupation": "Logging Equipment Operators",
     "automation_pctile": 58.24001083860111,
     "major": "45",
+    "minor": "45-4",
     "synonyms": "Loader Operator, Logging Equipment Operator, Skidder Driver, Skidder Operator"
   },
   {
@@ -2972,6 +3396,7 @@
     "occupation": "Log Graders and Scalers",
     "automation_pctile": 95.07490059319328,
     "major": "45",
+    "minor": "45-4",
     "synonyms": "Log Buyer, Log Grader, Log Scaler, Scaler"
   },
   {
@@ -2979,6 +3404,7 @@
     "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
     "automation_pctile": 28.780152028742133,
     "major": "47",
+    "minor": "47-1",
     "synonyms": "Construction Foreman, Construction Supervisor, Electrical Supervisor, Roustabout Field Supervisor"
   },
   {
@@ -2986,6 +3412,7 @@
     "occupation": "Boilermakers",
     "automation_pctile": 50.49722392608793,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Boiler Maker, Boiler Mechanic, Boiler Technician, Boilermaker"
   },
   {
@@ -2993,6 +3420,7 @@
     "occupation": "Brickmasons and Blockmasons",
     "automation_pctile": 60.16460660388897,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Block Layer, Brick and Block Mason, Bricklayer, Mason"
   },
   {
@@ -3000,6 +3428,7 @@
     "occupation": "Stonemasons",
     "automation_pctile": 69.20137553505128,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Mason, Stone Derrickman, Stone Mason, Stone Setter"
   },
   {
@@ -3007,6 +3436,7 @@
     "occupation": "Carpenters",
     "automation_pctile": 53.99226199527919,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Cabinet Maker, Carpenter, Form Carpenter, Scaffold Builder"
   },
   {
@@ -3014,6 +3444,7 @@
     "occupation": "Carpet Installers",
     "automation_pctile": 67.7031931554358,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Carpet Installer, Carpet Mechanic, Flooring Installer, Installer"
   },
   {
@@ -3021,6 +3452,7 @@
     "occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
     "automation_pctile": 58.06069027565732,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Floor Covering Contractor, Floor Coverings Installer, Flooring Installer, Vinyl Installer"
   },
   {
@@ -3028,6 +3460,7 @@
     "occupation": "Floor Sanders and Finishers",
     "automation_pctile": 67.69158258302528,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Floor Finisher, Floor Mechanic, Floor Sander, Hardwood Floor Sander"
   },
   {
@@ -3035,6 +3468,7 @@
     "occupation": "Tile and Stone Setters",
     "automation_pctile": 55.043150560601525,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Tile and Marble Installer, Tile Installer, Tile Mechanic, Tile Setter"
   },
   {
@@ -3042,6 +3476,7 @@
     "occupation": "Cement Masons and Concrete Finishers",
     "automation_pctile": 79.36915993245715,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Cement Finisher, Cement Mason, Concrete Finisher, Finisher"
   },
   {
@@ -3049,6 +3484,7 @@
     "occupation": "Terrazzo Workers and Finishers",
     "automation_pctile": 67.84263628510048,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Terrazzo Finisher, Terrazzo Installer, Terrazzo Tile Setter, Terrazzo Worker"
   },
   {
@@ -3056,6 +3492,7 @@
     "occupation": "Construction Laborers",
     "automation_pctile": 68.96080106439031,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Construction Laborer, Construction Worker, Equipment Operator (EO), Post Framer"
   },
   {
@@ -3063,6 +3500,7 @@
     "occupation": "Paving, Surfacing, and Tamping Equipment Operators",
     "automation_pctile": 60.32083778418193,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Equipment Operator (EO), Paver Operator, Roller Operator, Screed Operator"
   },
   {
@@ -3070,6 +3508,7 @@
     "occupation": "Pile Driver Operators",
     "automation_pctile": 60.1231247724196,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Pile Driver, Pile Driver Operator, Pile Driving Operator"
   },
   {
@@ -3077,6 +3516,7 @@
     "occupation": "Operating Engineers and Other Construction Equipment Operators",
     "automation_pctile": 84.63624417669338,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Equipment Operator (EO), Heavy Equipment Operator (HEO), Machine Operator, Operating Engineer"
   },
   {
@@ -3084,6 +3524,7 @@
     "occupation": "Drywall and Ceiling Tile Installers",
     "automation_pctile": 58.22255622640585,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Drywall Finisher, Drywall Hanger, Drywall Installer, Metal Framer"
   },
   {
@@ -3091,6 +3532,7 @@
     "occupation": "Tapers",
     "automation_pctile": 42.75789383286387,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Drywall Finisher, Drywall Taper, Finisher, Taper"
   },
   {
@@ -3098,6 +3540,7 @@
     "occupation": "Electricians",
     "automation_pctile": 24.48368218530505,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Electrician, Industrial Electrician, Inside Wireman, Maintenance Electrician"
   },
   {
@@ -3105,6 +3548,7 @@
     "occupation": "Glaziers",
     "automation_pctile": 54.09905135887876,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Commercial Glazier, Field Glazier, Glazer, Glazier"
   },
   {
@@ -3112,6 +3556,7 @@
     "occupation": "Insulation Workers, Floor, Ceiling, and Wall",
     "automation_pctile": 60.971649896442685,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Insulation Estimator, Insulation Installer, Insulator, Retrofit Installer"
   },
   {
@@ -3119,6 +3564,7 @@
     "occupation": "Insulation Workers, Mechanical",
     "automation_pctile": 43.863773727460334,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Industrial Insulator, Insulation Mechanic, Insulator, Mechanical Insulator"
   },
   {
@@ -3126,6 +3572,7 @@
     "occupation": "Painters, Construction and Maintenance",
     "automation_pctile": 54.96496908936994,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Facilities Painter, Industrial Painter, Maintenance Painter, Painter"
   },
   {
@@ -3133,6 +3580,7 @@
     "occupation": "Paperhangers",
     "automation_pctile": 67.6883737866448,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Bill Poster, Paper Hanger, Paperhanger, Wallpaper Hanger"
   },
   {
@@ -3140,6 +3588,7 @@
     "occupation": "Pipelayers",
     "automation_pctile": 42.74820543799528,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Pipelayer, Tailman, Waste Water Worker"
   },
   {
@@ -3147,6 +3596,7 @@
     "occupation": "Plumbers, Pipefitters, and Steamfitters",
     "automation_pctile": 34.902791296318085,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Installer, Solar Installer, Solar Maintenance Technician, Solar Technician"
   },
   {
@@ -3154,6 +3604,7 @@
     "occupation": "Plasterers and Stucco Masons",
     "automation_pctile": 61.20138886628264,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Plaster Applicator, Plaster Mechanic, Plasterer, Plasterer Journeyman"
   },
   {
@@ -3161,6 +3612,7 @@
     "occupation": "Reinforcing Iron and Rebar Workers",
     "automation_pctile": 70.11882002481158,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Iron Installer, Iron Worker, Ironworker, Rodbuster"
   },
   {
@@ -3168,6 +3620,7 @@
     "occupation": "Roofers",
     "automation_pctile": 70.08391080042108,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Roof Mechanic, Roof Service Technician, Roofer, Roofing Technician"
   },
   {
@@ -3175,6 +3628,7 @@
     "occupation": "Sheet Metal Workers",
     "automation_pctile": 60.28543251397416,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "HVAC Sheet Metal Installer (Heating, Ventilation, and Air Conditioning Sheet Metal Installer); Sheet Metal Fabricator; Sheet Metal Mechanic; Sheet Metal Worker"
   },
   {
@@ -3182,6 +3636,7 @@
     "occupation": "Structural Iron and Steel Workers",
     "automation_pctile": 61.0218125297143,
     "major": "47",
+    "minor": "47-2",
     "synonyms": "Fitter, Iron Worker, Ironworker, Steel Worker"
   },
   {
@@ -3189,6 +3644,7 @@
     "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
     "automation_pctile": 61.03395015080568,
     "major": "47",
+    "minor": "47-3",
     "synonyms": "Bricklayer Helper, Hod Carrier, Marble Finisher Helper, Mason Tender"
   },
   {
@@ -3196,6 +3652,7 @@
     "occupation": "Helpers--Carpenters",
     "automation_pctile": 71.35444690348824,
     "major": "47",
+    "minor": "47-3",
     "synonyms": "Carpenter Assistant, Carpenter Helper, Carpenter's Helper"
   },
   {
@@ -3203,6 +3660,7 @@
     "occupation": "Helpers--Electricians",
     "automation_pctile": 54.69864674050618,
     "major": "47",
+    "minor": "47-3",
     "synonyms": "Electrical Apprentice, Electrician Apprentice, Electrician Helper, Electrician's Helper"
   },
   {
@@ -3210,6 +3668,7 @@
     "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
     "automation_pctile": 79.7570832629956,
     "major": "47",
+    "minor": "47-3",
     "synonyms": "Painter Helper, Plaster Helper, Plaster Tender"
   },
   {
@@ -3217,6 +3676,7 @@
     "occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
     "automation_pctile": 40.070364099180026,
     "major": "47",
+    "minor": "47-3",
     "synonyms": "Plumber's Helper"
   },
   {
@@ -3224,6 +3684,7 @@
     "occupation": "Helpers--Roofers",
     "automation_pctile": 53.99626911539684,
     "major": "47",
+    "minor": "47-3",
     "synonyms": "Roofer Helper"
   },
   {
@@ -3231,6 +3692,7 @@
     "occupation": "Construction and Building Inspectors",
     "automation_pctile": 42.86424140565743,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Energy Auditor, Energy Consultant, Energy Rater, Home Performance Consultant"
   },
   {
@@ -3238,6 +3700,7 @@
     "occupation": "Elevator and Escalator Installers and Repairers",
     "automation_pctile": 36.05874856631133,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Elevator Mechanic, Elevator Service Mechanic, Elevator Service Technician (Elevator Service Tech), Elevator Technician (Elevator Tech)"
   },
   {
@@ -3245,6 +3708,7 @@
     "occupation": "Fence Erectors",
     "automation_pctile": 78.10261544807587,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Fence Builder, Fence Erector, Fence Installer, Fence Laborer"
   },
   {
@@ -3252,6 +3716,7 @@
     "occupation": "Hazardous Materials Removal Workers",
     "automation_pctile": 37.62794300495565,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Asbestos Abatement Worker, Asbestos Remover, Asbestos Worker, Waste Handling Technician"
   },
   {
@@ -3259,6 +3724,7 @@
     "occupation": "Highway Maintenance Workers",
     "automation_pctile": 67.57846863525549,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Equipment Operator (EO), Highway Maintainer, Highway Maintenance Worker, Transportation Maintenance Specialist (TMS)"
   },
   {
@@ -3266,6 +3732,7 @@
     "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
     "automation_pctile": 68.97357424418506,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Track Inspector, Track Laborer, Track Maintainer, Track Repairer"
   },
   {
@@ -3273,6 +3740,7 @@
     "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
     "automation_pctile": 61.16573557316622,
     "major": "47",
+    "minor": "47-4",
     "synonyms": "Drain Cleaner, Septic Pump Truck Driver, Septic Tank Service Technician, Service Technician"
   },
   {
@@ -3280,6 +3748,7 @@
     "occupation": "Derrick Operators, Oil and Gas",
     "automation_pctile": 58.34966021636588,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Derrick Hand, Derrick Man, Derrick Operator, Floor Hand"
   },
   {
@@ -3287,6 +3756,7 @@
     "occupation": "Rotary Drill Operators, Oil and Gas",
     "automation_pctile": 37.58874763467528,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Daylight Driller, Drill Operator, Driller, Tool Pusher"
   },
   {
@@ -3294,6 +3764,7 @@
     "occupation": "Service Unit Operators, Oil and Gas",
     "automation_pctile": 79.19383873891512,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Pulling Unit Operator, Rig Operator, Service Operator, Service Rig Operator"
   },
   {
@@ -3301,6 +3772,7 @@
     "occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
     "automation_pctile": 79.51760164327578,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Dragline Oiler, Dragline Operator, Heavy Equipment Operator, Loader Operator"
   },
   {
@@ -3308,6 +3780,7 @@
     "occupation": "Earth Drillers, Except Oil and Gas",
     "automation_pctile": 62.36988679459379,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Blast Hole Driller, Drill Operator, Driller, Well Driller"
   },
   {
@@ -3315,6 +3788,7 @@
     "occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
     "automation_pctile": 64.70117037360156,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Blast Hole Driller, Blaster, Explosive Technician, Powderman"
   },
   {
@@ -3322,6 +3796,7 @@
     "occupation": "Continuous Mining Machine Operators",
     "automation_pctile": 37.717254504212285,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Continuous Miner Operator (CMO), Continuous Mining Machine Operator, Continuous Mining Operator (CMO), Miner Operator"
   },
   {
@@ -3329,6 +3804,7 @@
     "occupation": "Roof Bolters, Mining",
     "automation_pctile": 36.976115548912674,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Bolter, Roof Bolter, Roof Bolter Operator, Underground Roof Bolter"
   },
   {
@@ -3336,6 +3812,7 @@
     "occupation": "Loading and Moving Machine Operators, Underground Mining",
     "automation_pctile": 37.14658479430453,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Load Haul Dump Operator (LHD Operator), Loader Operator, Loading Machine Operator, Shuttle Car Operator"
   },
   {
@@ -3343,6 +3820,7 @@
     "occupation": "Underground Mining Machine Operators, All Other",
     "automation_pctile": 41.12841432598922,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
@@ -3350,6 +3828,7 @@
     "occupation": "Rock Splitters, Quarry",
     "automation_pctile": 85.56869405242615,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Driller, Quarry Worker, Rock Splitter, Stone Splitter"
   },
   {
@@ -3357,6 +3836,7 @@
     "occupation": "Roustabouts, Oil and Gas",
     "automation_pctile": 50.79281297817073,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Floor Hand, Roustabout, Roustabout Hand, Roustabout Pusher"
   },
   {
@@ -3364,6 +3844,7 @@
     "occupation": "Helpers--Extraction Workers",
     "automation_pctile": 35.074787432741225,
     "major": "47",
+    "minor": "47-5",
     "synonyms": "Driller Helper, Driller's Assistant, Miner Helper, Powderman"
   },
   {
@@ -3371,6 +3852,7 @@
     "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
     "automation_pctile": 0.486985230390805,
     "major": "49",
+    "minor": "49-1",
     "synonyms": "Maintenance Foreman, Maintenance Manager, Maintenance Supervisor, Service Manager"
   },
   {
@@ -3378,6 +3860,7 @@
     "occupation": "Computer, Automated Teller, and Office Machine Repairers",
     "automation_pctile": 54.755234717254666,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "ATM Technician (Automated Teller Machine Technician), Computer Technician, Copier Technician, Service Technician"
   },
   {
@@ -3385,6 +3868,7 @@
     "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
     "automation_pctile": 78.11145126419602,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Radio Frequency Technician (RF Tech), Radio Technician (Radio Tech), Tower Technician (Tower Tech), Two-Way Radio Technician (Two-Way Radio Tech)"
   },
   {
@@ -3392,6 +3876,7 @@
     "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
     "automation_pctile": 35.02206706322429,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Central Office Technician, Install and Repair Technician, Service Technician, Telecommunications Technician"
   },
   {
@@ -3399,6 +3884,7 @@
     "occupation": "Avionics Technicians",
     "automation_pctile": 52.44308765579133,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Aviation Electrical Technician, Avionics Electronics Technician, Avionics Installer, Avionics Technician"
   },
   {
@@ -3406,6 +3892,7 @@
     "occupation": "Electric Motor, Power Tool, and Related Repairers",
     "automation_pctile": 55.19403374692704,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Electric Motor Winder, Maintenance Technician, Repair Technician, Service Technician"
   },
   {
@@ -3413,6 +3900,7 @@
     "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
     "automation_pctile": 70.30680588812585,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Critical Systems Technician, Electronic Bench Technician, Locomotive Electrician, Power Technician (Power Tech)"
   },
   {
@@ -3420,6 +3908,7 @@
     "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
     "automation_pctile": 36.27504004407367,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Control Technician, Electrical and Instrument Technician (E and I Tech), Electronic Technician, I and C Tech (Instrument and Control Technician)"
   },
   {
@@ -3427,6 +3916,7 @@
     "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
     "automation_pctile": 35.94376669601088,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Relay Technician, Substation Electrician, Substation Technician, Wireman"
   },
   {
@@ -3434,6 +3924,7 @@
     "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
     "automation_pctile": 41.82176236708104,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Automotive Technician, Car Audio Installer, Car Stereo Installer, Mobile Electronics Installation Specialist"
   },
   {
@@ -3441,6 +3932,7 @@
     "occupation": "Audiovisual Equipment Installers and Repairers",
     "automation_pctile": 47.5497661841536,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Electronic Tech (Electronic Technician), Home Theater Installer, Installer, Satellite Installer"
   },
   {
@@ -3448,6 +3940,7 @@
     "occupation": "Security and Fire Alarm Systems Installers",
     "automation_pctile": 60.12076855478756,
     "major": "49",
+    "minor": "49-2",
     "synonyms": "Alarm Technician, Fire Alarm Technician, Installation Technician, Service Technician"
   },
   {
@@ -3455,6 +3948,7 @@
     "occupation": "Aircraft Mechanics and Service Technicians",
     "automation_pctile": 52.925515465235954,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Aircraft Mechanic, Aircraft Technician, Airframe and Powerplant Mechanic (A and P Mechanic), Aviation Mechanic"
   },
   {
@@ -3462,6 +3956,7 @@
     "occupation": "Automotive Body and Related Repairers",
     "automation_pctile": 70.42711250024608,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Auto Body Man, Automotive Body Technician (Auto Body Tech), Body Man, Body Technician (Body Tech)"
   },
   {
@@ -3469,6 +3964,7 @@
     "occupation": "Automotive Glass Installers and Repairers",
     "automation_pctile": 37.80637223557154,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Automotive Glass Installer (Auto Glass Installer), Automotive Glass Technician (Auto Glass Technician), Glass Installer Technician, Glass Technician"
   },
   {
@@ -3476,6 +3972,7 @@
     "occupation": "Automotive Service Technicians and Mechanics",
     "automation_pctile": 41.1257170768578,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Automotive Mechanic (Auto Mechanic), Automotive Technician (Auto Tech), Mechanic, Service Technician (Service Tech)"
   },
   {
@@ -3483,6 +3980,7 @@
     "occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
     "automation_pctile": 54.32167517152722,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Bus Mechanic, Diesel Mechanic, Diesel Technician (Diesel Tech), Truck Mechanic"
   },
   {
@@ -3490,6 +3988,7 @@
     "occupation": "Farm Equipment Mechanics and Service Technicians",
     "automation_pctile": 55.07173520082183,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Farm Equipment Mechanic, Mechanic, Service Technician, Tractor Mechanic"
   },
   {
@@ -3497,6 +3996,7 @@
     "occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
     "automation_pctile": 36.218297053007305,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Equipment Mechanic, Heavy Equipment Mechanic, Heavy Equipment Technician, Mechanic"
   },
   {
@@ -3504,6 +4004,7 @@
     "occupation": "Rail Car Repairers",
     "automation_pctile": 67.7780418188326,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Rail Car Mechanic, Rail Car Repairer, Rail Car Repairman, Rail Car Welder"
   },
   {
@@ -3511,6 +4012,7 @@
     "occupation": "Motorboat Mechanics and Service Technicians",
     "automation_pctile": 49.70934815394224,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Marine Mechanic, Marine Technician, Mechanic, Service Technician"
   },
   {
@@ -3518,6 +4020,7 @@
     "occupation": "Motorcycle Mechanics",
     "automation_pctile": 58.07154902862602,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "All Terrain Vehicle Technician (ATV Technician), Motorcycle Mechanic, Motorcycle Technician, Service Technician"
   },
   {
@@ -3525,6 +4028,7 @@
     "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
     "automation_pctile": 78.3296416673526,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Mechanic, Outdoor Power Equipment Service Technician, Service Technician (Service Tech), Small Engine Mechanic"
   },
   {
@@ -3532,6 +4036,7 @@
     "occupation": "Bicycle Repairers",
     "automation_pctile": 79.7514872461195,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Bicycle Mechanic, Bicycle Service Technician, Bicycle Technician, Bike Mechanic"
   },
   {
@@ -3539,6 +4044,7 @@
     "occupation": "Recreational Vehicle Service Technicians",
     "automation_pctile": 41.30800616398933,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Master Certified RV Technician (Master Certified Recreational Vehicle Technician), RV Repair Technician (Recreational Vehicle Repair Technician), RV Service Technician (Recreational Vehicle Service Technician), RV Technician (Recreational Vehicle Technician)"
   },
   {
@@ -3546,6 +4052,7 @@
     "occupation": "Tire Repairers and Changers",
     "automation_pctile": 52.64683847523577,
     "major": "49",
+    "minor": "49-3",
     "synonyms": "Service Technician, Tire Changer, Tire Shop Mechanic, Tire Technician"
   },
   {
@@ -3553,6 +4060,7 @@
     "occupation": "Mechanical Door Repairers",
     "automation_pctile": 70.29361416967278,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Door Installer, Garage Door Installer, Garage Door Technician, Service Technician"
   },
   {
@@ -3560,6 +4068,7 @@
     "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
     "automation_pctile": 43.82097427428885,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Instrument and Electrical Technician (I and E Technician), Measurement Technician, Meter Technician, Valve Technician"
   },
   {
@@ -3567,6 +4076,7 @@
     "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
     "automation_pctile": 47.532582847014666,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "HVAC Mechanic (Heating, Ventilation, and Air Conditioning Mechanic); Refrigeration Mechanic; Refrigeration Technician (Refrigeration Tech); Service Technician (Service Tech)"
   },
   {
@@ -3574,6 +4084,7 @@
     "occupation": "Home Appliance Repairers",
     "automation_pctile": 53.45146354443028,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Appliance Technician (Appliance Tech), Repair Technician, Service Technician (Service Tech), Vacuum Repairer"
   },
   {
@@ -3581,6 +4092,7 @@
     "occupation": "Industrial Machinery Mechanics",
     "automation_pctile": 50.282064052846245,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Industrial Machinery Mechanic, Maintenance Technician, Mechanic, Overhauler"
   },
   {
@@ -3588,6 +4100,7 @@
     "occupation": "Maintenance Workers, Machinery",
     "automation_pctile": 66.23047962825086,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Maintainer, Maintenance Mechanic, Maintenance Technician (Maintenance Tech), Maintenance Worker"
   },
   {
@@ -3595,6 +4108,7 @@
     "occupation": "Millwrights",
     "automation_pctile": 41.349650760492494,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Maintenance Millwright, Millwright, Millwright Foreman, Millwright Instructor"
   },
   {
@@ -3602,6 +4116,7 @@
     "occupation": "Refractory Materials Repairers, Except Brickmasons",
     "automation_pctile": 60.05759246952845,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Cupola Repairer, Ladle Liner, Refractory Bricklayer, Refractory Technician"
   },
   {
@@ -3609,6 +4124,7 @@
     "occupation": "Electrical Power-Line Installers and Repairers",
     "automation_pctile": 21.055362278536855,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Electrical Lineman, Lineworker, Power Lineman, Service Man"
   },
   {
@@ -3616,6 +4132,7 @@
     "occupation": "Telecommunications Line Installers and Repairers",
     "automation_pctile": 37.130742331015405,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Combination Technician, Installation and Repair Technician (I and R Technician), Lineman, Service Technician"
   },
   {
@@ -3623,6 +4140,7 @@
     "occupation": "Camera and Photographic Equipment Repairers",
     "automation_pctile": 91.69941731668044,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Camera Repair Technician, Camera Repairman, Camera Technician, Repair Technician"
   },
   {
@@ -3630,6 +4148,7 @@
     "occupation": "Medical Equipment Repairers",
     "automation_pctile": 32.40576640861433,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Biomedical Electronics Technician (Biomed Electronics Tech), Biomedical Equipment Technician (BMET), Biomedical Technician (Biomed Tech), Service Technician (Service Tech)"
   },
   {
@@ -3637,6 +4156,7 @@
     "occupation": "Musical Instrument Repairers and Tuners",
     "automation_pctile": 70.44300146783058,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Banjo Repair Person, Luthier, Piano Technician, Piano Tuner"
   },
   {
@@ -3644,6 +4164,7 @@
     "occupation": "Watch and Clock Repairers",
     "automation_pctile": 99.85940976438287,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Clock Repairer, Watch and Clock Repairer, Watch Estimator, Watch Technician (Watch Tech)"
   },
   {
@@ -3651,6 +4172,7 @@
     "occupation": "Maintenance and Repair Workers, General",
     "automation_pctile": 47.217865028103326,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Facilities Technician, Maintenance Engineer, Maintenance Mechanic, Maintenance Technician"
   },
   {
@@ -3658,6 +4180,7 @@
     "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
     "automation_pctile": 80.4921766598972,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Field Service Technician, Service Technician, Slot Technician, Vending Technician"
   },
   {
@@ -3665,6 +4188,7 @@
     "occupation": "Commercial Divers",
     "automation_pctile": 29.17679491466229,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Commercial Diver, Diver, Diver Tender, Tender"
   },
   {
@@ -3672,6 +4196,7 @@
     "occupation": "Locksmiths and Safe Repairers",
     "automation_pctile": 55.21473590908224,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Certified Master Locksmith (CML), Lock Technician, Locksmith, Safe Technician"
   },
   {
@@ -3679,6 +4204,7 @@
     "occupation": "Manufactured Building and Mobile Home Installers",
     "automation_pctile": 29.178817851510853,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Mobile Home Installer, Mobile Home Laborer, Mobile Home Set-Up Person, Modular Set Crew Member"
   },
   {
@@ -3686,6 +4212,7 @@
     "occupation": "Riggers",
     "automation_pctile": 69.54203500006278,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Machinery Erector, Machinery Mover, Motor Rigger, Rigger"
   },
   {
@@ -3693,6 +4220,7 @@
     "occupation": "Signal and Track Switch Repairers",
     "automation_pctile": 69.90495452112434,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Signal Inspector, Signal Maintainer, Signalman, Train Control Electronic Technician"
   },
   {
@@ -3700,6 +4228,7 @@
     "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
     "automation_pctile": 58.31561132143971,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "Maintenance Aide, Maintenance Helper, Mechanic Helper, Technician's Helper"
   },
   {
@@ -3707,6 +4236,7 @@
     "occupation": "Installation, Maintenance, and Repair Workers, All Other",
     "automation_pctile": 91.64875863759156,
     "major": "49",
+    "minor": "49-9",
     "synonyms": "I C and E Technician (Instrumentation, Control, and Electrical Technician); Operations and Maintenance Technician (O and M Technician); Operations Technician; Plant Technician"
   },
   {
@@ -3714,6 +4244,7 @@
     "occupation": "First-Line Supervisors of Production and Operating Workers",
     "automation_pctile": 10.911101303871932,
     "major": "51",
+    "minor": "51-1",
     "synonyms": "Assembly Supervisor, Manufacturing Supervisor, Production Manager, Production Supervisor"
   },
   {
@@ -3721,6 +4252,7 @@
     "occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
     "automation_pctile": 58.34110342601795,
     "major": "51",
+    "minor": "51-2",
     "synonyms": "Assembler, Sheet Metal Assembler and Riveter (SMAR), Sheet Metal Mechanic, Structures Technician"
   },
   {
@@ -3728,6 +4260,7 @@
     "occupation": "Coil Winders, Tapers, and Finishers",
     "automation_pctile": 54.33110779277128,
     "major": "51",
+    "minor": "51-2",
     "synonyms": "Armature Winder, Coil Finisher, Coil Winder, Winder"
   },
   {
@@ -3735,6 +4268,7 @@
     "occupation": "Engine and Other Machine Assemblers",
     "automation_pctile": 60.19438485435708,
     "major": "51",
+    "minor": "51-2",
     "synonyms": "Assembler, Assembly Line Worker, Engine Assembler, Machine Assembler"
   },
   {
@@ -3742,6 +4276,7 @@
     "occupation": "Structural Metal Fabricators and Fitters",
     "automation_pctile": 36.3164133655205,
     "major": "51",
+    "minor": "51-2",
     "synonyms": "Fabricator, Fitter, Layout Man, Ship Fitter"
   },
   {
@@ -3749,6 +4284,7 @@
     "occupation": "Fiberglass Laminators and Fabricators",
     "automation_pctile": 78.53000542395098,
     "major": "51",
+    "minor": "51-2",
     "synonyms": "Boat Builder, Chopper Gun Operator, Fiberglass Laminator, Laminator"
   },
   {
@@ -3756,6 +4292,7 @@
     "occupation": "Timing Device Assemblers and Adjusters",
     "automation_pctile": 97.37471626566789,
     "major": "51",
+    "minor": "51-2",
     "synonyms": "Calibration Specialist, Clockmaker, Watch Technician, Watchmaker"
   },
   {
@@ -3763,6 +4300,7 @@
     "occupation": "Bakers",
     "automation_pctile": 69.52328601831309,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Baker, Dough Mixer, Mixer, Pastry Chef"
   },
   {
@@ -3770,6 +4308,7 @@
     "occupation": "Butchers and Meat Cutters",
     "automation_pctile": 78.21999228958782,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Butcher, Meat Clerk, Meat Cutter, Meat Specialist"
   },
   {
@@ -3777,6 +4316,7 @@
     "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
     "automation_pctile": 80.2676461711386,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Deboner, Meat Cutter, Trimmer, Wing Scorer"
   },
   {
@@ -3784,6 +4324,7 @@
     "occupation": "Slaughterers and Meat Packers",
     "automation_pctile": 41.401968092782894,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Boning Room Worker, Meat Packer, Meat Processor, Meat Wrapper"
   },
   {
@@ -3791,6 +4332,7 @@
     "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
     "automation_pctile": 70.46628461837877,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Coffee Roaster, Machine Operator, Roaster, Roasterman"
   },
   {
@@ -3798,6 +4340,7 @@
     "occupation": "Food Batchmakers",
     "automation_pctile": 52.77988726428716,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Batching Operator, Blender, Mixer, Mixer Operator"
   },
   {
@@ -3805,6 +4348,7 @@
     "occupation": "Food Cooking Machine Operators and Tenders",
     "automation_pctile": 41.72556048139386,
     "major": "51",
+    "minor": "51-3",
     "synonyms": "Fryer Operator, Kettle Fry Cook Operator, Machine Operator, Retort Operator"
   },
   {
@@ -3812,6 +4356,7 @@
     "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 70.5172068218081,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Equipment Technician, Extruder Operator, Extrusion Press Operator, Machine Operator"
   },
   {
@@ -3819,6 +4364,7 @@
     "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 78.34608868648154,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Blacksmith, Forge Operator, Hammer Operator, Machine Operator"
   },
   {
@@ -3826,6 +4372,7 @@
     "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 60.91741813732625,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Mill Operator, Rolling Mill Operator, Roughing Mill Operator, Tube Mill Operator"
   },
   {
@@ -3833,6 +4380,7 @@
     "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 56.36104353778637,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Machine Operator, Press Operator, Saw Operator, Set-Up Operator"
   },
   {
@@ -3840,6 +4388,7 @@
     "occupation": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 79.66646189275272,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "CNC Machinist (Computer Numerical Control Machinist), Drill Operator, Drill Setup Operator, Machine Operator"
   },
   {
@@ -3847,6 +4396,7 @@
     "occupation": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 84.80061360867597,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Centerless Grinder Operator, Grinder, Grinder Operator, Grinding Machine Operator"
   },
   {
@@ -3854,6 +4404,7 @@
     "occupation": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 61.22009134373696,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "CNC Lathe Operator (Computer Numerical Control Lathe Operator), Lathe Operator, Machine Operator, Setup Operator"
   },
   {
@@ -3861,6 +4412,7 @@
     "occupation": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 99.44040606310602,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "CNC Licensed Mill Operator (Computer Numerical Control Licensed Mill Operator), CNC Mill Operator (Computerized Numerical Control Mill Operator), Machine Operator, Mill Operator"
   },
   {
@@ -3868,6 +4420,7 @@
     "occupation": "Machinists",
     "automation_pctile": 47.91098054771829,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "CNC Machinist (Computer Numeric Controlled Machinist), Machinist, Maintenance Machinist, Tool Room Machinist"
   },
   {
@@ -3875,6 +4428,7 @@
     "occupation": "Metal-Refining Furnace Operators and Tenders",
     "automation_pctile": 67.73893945714295,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Central Melt Specialist, Furnace Operator, Melter, Vacuum Melter"
   },
   {
@@ -3882,6 +4436,7 @@
     "occupation": "Pourers and Casters, Metal",
     "automation_pctile": 67.71874109152091,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Caster, Melter, Metal Handler, Pourer"
   },
   {
@@ -3889,6 +4444,7 @@
     "occupation": "Model Makers, Metal and Plastic",
     "automation_pctile": 78.22249577082188,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Metal Model Maker, Model Builder, Model Maker, Molding Technician"
   },
   {
@@ -3896,6 +4452,7 @@
     "occupation": "Patternmakers, Metal and Plastic",
     "automation_pctile": 69.90617138351985,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Metal Pattern Maker, Pattern Maker, Patternmaker, Wax Molder"
   },
   {
@@ -3903,6 +4460,7 @@
     "occupation": "Foundry Mold and Coremakers",
     "automation_pctile": 50.48934144802285,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Core Machine Operator, Core Maker, Coremaker, Molder"
   },
   {
@@ -3910,6 +4468,7 @@
     "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 84.08412192992206,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Machine Operator, Molder, Process Technician, Production Technician"
   },
   {
@@ -3917,6 +4476,7 @@
     "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 71.1680886905119,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Cell Technician, CNC Machine Setter (Computer Numerically Controlled Machine Setter), Machine Operator, Machine Technician"
   },
   {
@@ -3924,6 +4484,7 @@
     "occupation": "Tool and Die Makers",
     "automation_pctile": 61.2628210404654,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Tool and Die Machinist, Tool and Die Maker, Tool and Fixture Specialist, Tool Maker"
   },
   {
@@ -3931,6 +4492,7 @@
     "occupation": "Welders, Cutters, Solderers, and Brazers",
     "automation_pctile": 80.8208380167034,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Brazer, Solderer, Welder, Wirer"
   },
   {
@@ -3938,6 +4500,7 @@
     "occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
     "automation_pctile": 41.75368782937636,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Fabricator, Machine Operator, Mig Welder, Spot Welder"
   },
   {
@@ -3945,6 +4508,7 @@
     "occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 70.43856030762281,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Furnace Operator, Heat Treat Operator, Heat Treat Technician, Heat Treater"
   },
   {
@@ -3952,6 +4516,7 @@
     "occupation": "Layout Workers, Metal and Plastic",
     "automation_pctile": 61.26716919208243,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Layout Inspector, Layout Man, Layout Technician (Layout Tech), Layout Worker"
   },
   {
@@ -3959,6 +4524,7 @@
     "occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
     "automation_pctile": 71.3980446803969,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Anodizer, Chrome Plater, Electro Plater, Plater"
   },
   {
@@ -3966,6 +4532,7 @@
     "occupation": "Tool Grinders, Filers, and Sharpeners",
     "automation_pctile": 67.72318225172869,
     "major": "51",
+    "minor": "51-4",
     "synonyms": "Grinder, Grinder Operator, Saw Filer, Tool Grinder"
   },
   {
@@ -3973,6 +4540,7 @@
     "occupation": "Prepress Technicians and Workers",
     "automation_pctile": 92.02625725525138,
     "major": "51",
+    "minor": "51-5",
     "synonyms": "Electronic Prepress Operator (EPP Operator), Plate Maker, Prepress Operator, Prepress Technician"
   },
   {
@@ -3980,6 +4548,7 @@
     "occupation": "Printing Press Operators",
     "automation_pctile": 60.55266169659761,
     "major": "51",
+    "minor": "51-5",
     "synonyms": "Press Operator, Pressman, Printer, Printing Press Operator"
   },
   {
@@ -3987,6 +4556,7 @@
     "occupation": "Print Binding and Finishing Workers",
     "automation_pctile": 83.8495542640796,
     "major": "51",
+    "minor": "51-5",
     "synonyms": "Binder Operator, Bindery Operator, Bindery Worker, Book Binder"
   },
   {
@@ -3994,6 +4564,7 @@
     "occupation": "Laundry and Dry-Cleaning Workers",
     "automation_pctile": 53.076933450958194,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Laundry Aide, Laundry Attendant, Laundry Housekeeper, Laundry Worker"
   },
   {
@@ -4001,6 +4572,7 @@
     "occupation": "Pressers, Textile, Garment, and Related Materials",
     "automation_pctile": 59.32388645077202,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Ironing Worker, Pants Presser, Presser, Shirt Presser"
   },
   {
@@ -4008,6 +4580,7 @@
     "occupation": "Sewing Machine Operators",
     "automation_pctile": 69.31969796390244,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Sample Maker, Seamstress, Sewer, Sewing Machine Operator"
   },
   {
@@ -4015,6 +4588,7 @@
     "occupation": "Shoe and Leather Workers and Repairers",
     "automation_pctile": 37.49369285494055,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Boot Maker, Cobbler, Shoe Maker, Shoe Repairer"
   },
   {
@@ -4022,6 +4596,7 @@
     "occupation": "Shoe Machine Operators and Tenders",
     "automation_pctile": 95.03083777333092,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Boot Maker, Inseamer, Side Laster, Stitcher"
   },
   {
@@ -4029,6 +4604,7 @@
     "occupation": "Sewers, Hand",
     "automation_pctile": 99.49435879645024,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Alteration Specialist, Couturier, Custom Clothier, Seamstress"
   },
   {
@@ -4036,6 +4612,7 @@
     "occupation": "Tailors, Dressmakers, and Custom Sewers",
     "automation_pctile": 61.27979510827518,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Alterations Sewer, Dressmaker, Seamstress, Tailor"
   },
   {
@@ -4043,6 +4620,7 @@
     "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
     "automation_pctile": 95.0283032892333,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Dye Machine Operator, Dye Operator, Dyer, Machine Operator (Machine Op)"
   },
   {
@@ -4050,6 +4628,7 @@
     "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
     "automation_pctile": 85.56602780615832,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Cutter, Cutter Operator, Fabric Cutter, Spreader"
   },
   {
@@ -4057,6 +4636,7 @@
     "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
     "automation_pctile": 54.4517244335273,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Knitter, Machine Operator, Tufting Operator, Weaver"
   },
   {
@@ -4064,6 +4644,7 @@
     "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
     "automation_pctile": 91.39882130212958,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Spinner, Twister Operator, Winder Operator, Winder Tender"
   },
   {
@@ -4071,6 +4652,7 @@
     "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
     "automation_pctile": 67.84151243129571,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Extruder Operator, Extrusion Line Operator, Extrusion Operator, Spindraw Operator"
   },
   {
@@ -4078,6 +4660,7 @@
     "occupation": "Fabric and Apparel Patternmakers",
     "automation_pctile": 3.028243453706602,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Designer, Pattern Designer, Pattern Maker, Production Pattern Maker"
   },
   {
@@ -4085,6 +4668,7 @@
     "occupation": "Upholsterers",
     "automation_pctile": 36.04065839541269,
     "major": "51",
+    "minor": "51-6",
     "synonyms": "Box Spring Upholsterer, Upholstered Goods Crafter, Upholsterer, Upholstery Cutter"
   },
   {
@@ -4092,6 +4676,7 @@
     "occupation": "Cabinetmakers and Bench Carpenters",
     "automation_pctile": 71.46625873098769,
     "major": "51",
+    "minor": "51-7",
     "synonyms": "Cabinet Assembler, Cabinet Installer, Cabinetmaker, Frame Builder"
   },
   {
@@ -4099,6 +4684,7 @@
     "occupation": "Furniture Finishers",
     "automation_pctile": 67.7142224241542,
     "major": "51",
+    "minor": "51-7",
     "synonyms": "Finisher, Furniture Finisher, Lacquer Sprayer, Sprayer"
   },
   {
@@ -4106,6 +4692,7 @@
     "occupation": "Model Makers, Wood",
     "automation_pctile": 85.56630683193053,
     "major": "51",
+    "minor": "51-7",
     "synonyms": "Craftsman, Model Maker, Sample Builder, Sample Maker"
   },
   {
@@ -4113,6 +4700,7 @@
     "occupation": "Patternmakers, Wood",
     "automation_pctile": 70.42725201313219,
     "major": "51",
+    "minor": "51-7",
     "synonyms": "Mold Maker, Pattern Maker, Patternmaker, Wood Pattern Maker"
   },
   {
@@ -4120,6 +4708,7 @@
     "occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
     "automation_pctile": 66.7719911449621,
     "major": "51",
+    "minor": "51-7",
     "synonyms": "Resaw Operator, Rip Saw Operator, Saw Operator, Sawyer"
   },
   {
@@ -4127,6 +4716,7 @@
     "occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
     "automation_pctile": 91.69785942278558,
     "major": "51",
+    "minor": "51-7",
     "synonyms": "Cabinet Maker, Machine Operator, Sander, Sander Operator"
   },
   {
@@ -4134,6 +4724,7 @@
     "occupation": "Nuclear Power Reactor Operators",
     "automation_pctile": 83.821287403211,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Nuclear Control Operator, Nuclear Reactor Operator, Nuclear Station Operator (NSO), Reactor Operator (RO)"
   },
   {
@@ -4141,6 +4732,7 @@
     "occupation": "Power Distributors and Dispatchers",
     "automation_pctile": 47.22498018529481,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Power System Dispatcher, Power System Operator, Systems Operator, Transmission System Operator (TSO)"
   },
   {
@@ -4148,6 +4740,7 @@
     "occupation": "Power Plant Operators",
     "automation_pctile": 62.33792284224332,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Auxiliary Operator, Fuel Handler, Operations Technician (Operations Tech), Plant Operator"
   },
   {
@@ -4155,6 +4748,7 @@
     "occupation": "Stationary Engineers and Boiler Operators",
     "automation_pctile": 69.34355466742686,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Boiler Operator, Operating Engineer, Stationary Engineer, Utilities Operator"
   },
   {
@@ -4162,6 +4756,7 @@
     "occupation": "Water and Wastewater Treatment Plant and System Operators",
     "automation_pctile": 42.01877781441283,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Process Operator (Process Op), Wastewater Operator (WW Operator), Water Plant Operator, Water Treatment Plant Operator"
   },
   {
@@ -4169,6 +4764,7 @@
     "occupation": "Chemical Plant and System Operators",
     "automation_pctile": 62.351750119399775,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Chemical Operator, Loader Technician, Process Operator, Process Technician"
   },
   {
@@ -4176,6 +4772,7 @@
     "occupation": "Gas Plant Operators",
     "automation_pctile": 56.37337492677512,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Gas Controller, Gas Dispatcher, Gas Plant Operator, Plant Operator"
   },
   {
@@ -4183,6 +4780,7 @@
     "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
     "automation_pctile": 52.80690625989669,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Gauger, Operator, Pumper, Refinery Operator"
   },
   {
@@ -4190,6 +4788,7 @@
     "occupation": "Plant and System Operators, All Other",
     "automation_pctile": 66.46062163531734,
     "major": "51",
+    "minor": "51-8",
     "synonyms": "Biofuels Processing Technician, Ethanol Operator, Process Operator, Production Operator"
   },
   {
@@ -4197,6 +4796,7 @@
     "occupation": "Chemical Equipment Operators and Tenders",
     "automation_pctile": 55.18119081068923,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Chemical Operator, Multiskill Operator, Outside Operator, Vessel Operator"
   },
   {
@@ -4204,6 +4804,7 @@
     "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
     "automation_pctile": 67.82996386461235,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Brewer, Cellar Worker, Machine Tender, Pulper Operator"
   },
   {
@@ -4211,6 +4812,7 @@
     "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
     "automation_pctile": 92.53173569376736,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Grinder, Machine Operator, Miller, Preparation Operator (Prep Operator)"
   },
   {
@@ -4218,6 +4820,7 @@
     "occupation": "Grinding and Polishing Workers, Hand",
     "automation_pctile": 92.54092029210278,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Chipper, Finisher, Grinder, Polisher"
   },
   {
@@ -4225,6 +4828,7 @@
     "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
     "automation_pctile": 60.440191058247095,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Blender, Machine Operator, Mixer, Mixer Operator"
   },
   {
@@ -4232,6 +4836,7 @@
     "occupation": "Cutters and Trimmers, Hand",
     "automation_pctile": 43.84390089190588,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Cloth Cutter, Leather Cutter, Offline Cutter, Trimmer"
   },
   {
@@ -4239,6 +4844,7 @@
     "occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
     "automation_pctile": 66.49746853868157,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Cutter, Cutter Operator, Machine Operator, Paper Cutter"
   },
   {
@@ -4246,6 +4852,7 @@
     "occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
     "automation_pctile": 78.26691512361539,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Extruder Operator, Extrusion Operator, Machine Operator, Press Operator"
   },
   {
@@ -4253,6 +4860,7 @@
     "occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
     "automation_pctile": 35.06957895165987,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Dry Kiln Operator, Furnace Operator, Kiln Fireman, Kiln Operator"
   },
   {
@@ -4260,6 +4868,7 @@
     "occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
     "automation_pctile": 99.4297023244552,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Inspector, Quality Control Inspector (QC Inspector), Quality Inspector, Quality Technician"
   },
   {
@@ -4267,6 +4876,7 @@
     "occupation": "Jewelers and Precious Stone and Metal Workers",
     "automation_pctile": 85.55908316471651,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Bench Jeweler, Goldsmith, Jeweler, Silversmith"
   },
   {
@@ -4274,6 +4884,7 @@
     "occupation": "Dental Laboratory Technicians",
     "automation_pctile": 95.0071593362721,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Dental Ceramist, Dental Laboratory Technician (Dental Lab Tech), Dental Technician (Dental Tech), Denture Technician (Denture Tech)"
   },
   {
@@ -4281,6 +4892,7 @@
     "occupation": "Medical Appliance Technicians",
     "automation_pctile": 36.41407238579591,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Lab Technician, Orthotic and Prosthetic Technician (O and P Technician), Orthotic Technician, Prosthetics Technician"
   },
   {
@@ -4288,6 +4900,7 @@
     "occupation": "Ophthalmic Laboratory Technicians",
     "automation_pctile": 95.02168417785909,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Lab Technician (Laboratory Technician), Optical Lab Technician (Optical Laboratory Technician), Optical Technician, Surfacing Technician"
   },
   {
@@ -4295,6 +4908,7 @@
     "occupation": "Packaging and Filling Machine Operators and Tenders",
     "automation_pctile": 96.71116972719184,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Bundler, Filler Operator, Machine Operator, Packaging Operator"
   },
   {
@@ -4302,6 +4916,7 @@
     "occupation": "Painting, Coating, and Decorating Workers",
     "automation_pctile": 71.40460953675986,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Decorator, Glazer, Painter, Pottery Decorator"
   },
   {
@@ -4309,6 +4924,7 @@
     "occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
     "automation_pctile": 70.26937768106951,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Automotive Painter (Auto Painter), Coater Operator, Paint Technician (Paint Tech), Painter"
   },
   {
@@ -4316,6 +4932,7 @@
     "occupation": "Semiconductor Processing Technicians",
     "automation_pctile": 67.76385800874498,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Diffusion Operator, Manufacturing Technician, Process Technician, Wafer Fabrication Operator"
   },
   {
@@ -4323,6 +4940,7 @@
     "occupation": "Photographic Process Workers and Processing Machine Operators",
     "automation_pctile": 99.85840217131656,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Photo Lab Technician (Photographic Laboratory Technician), Photo Printer, Photo Specialist, Photo Technician"
   },
   {
@@ -4330,6 +4948,7 @@
     "occupation": "Computer Numerically Controlled Tool Operators",
     "automation_pctile": 66.18665708058124,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "CNC Machine Operator (Computer Numerical Control Machine Operator), CNC Machinist (Computer Numerical Control Machinist), CNC Operator (Computer Numerical Control Operator), Machine Operator"
   },
   {
@@ -4337,6 +4956,7 @@
     "occupation": "Computer Numerically Controlled Tool Programmers",
     "automation_pctile": 35.05705379477376,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "CAD CAM Programmer (Computer-Aided Design Computer-Aided Manufacturing Programmer), Computer Numerical Control Machinist (CNC Machinist), Computer Numerical Control Programmer (CNC Programmer), Programmer"
   },
   {
@@ -4344,6 +4964,7 @@
     "occupation": "Adhesive Bonding Machine Operators and Tenders",
     "automation_pctile": 84.64567679793744,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Coater Operator, Glue Line Operator, Machine Operator, Utility Worker"
   },
   {
@@ -4351,6 +4972,7 @@
     "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
     "automation_pctile": 58.40238058588282,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Clean in Places Operator (CIP Operator), Sanitation Technician, Sanitation Worker, Sanitizer"
   },
   {
@@ -4358,6 +4980,7 @@
     "occupation": "Cooling and Freezing Equipment Operators and Tenders",
     "automation_pctile": 79.15964258038693,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Freezer Operator, Freezer Person, Refrigeration Operator, Refrigeration Technician"
   },
   {
@@ -4365,6 +4988,7 @@
     "occupation": "Etchers and Engravers",
     "automation_pctile": 96.89521822683152,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Chemical Engraver, Engraver, Etcher, Photo Engraver"
   },
   {
@@ -4372,6 +4996,7 @@
     "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
     "automation_pctile": 70.14575376254628,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Glass Bender, Glass Blower, Neon Glass Bender, Neon Tube Bender"
   },
   {
@@ -4379,6 +5004,7 @@
     "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
     "automation_pctile": 50.36401237200274,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Cup Room Technician, Folder Machine Operator, Paper Machine Backtender, Paper Machine Operator"
   },
   {
@@ -4386,6 +5012,7 @@
     "occupation": "Tire Builders",
     "automation_pctile": 79.21009199014667,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Retread Technician, Tire Builder, Tire Retreader, Tire Technician"
   },
   {
@@ -4393,6 +5020,7 @@
     "occupation": "Helpers--Production Workers",
     "automation_pctile": 49.83916489446548,
     "major": "51",
+    "minor": "51-9",
     "synonyms": "Helper, Material Handler, Press Helper"
   },
   {
@@ -4400,6 +5028,7 @@
     "occupation": "Aircraft Cargo Handling Supervisors",
     "automation_pctile": 18.33514002520843,
     "major": "53",
+    "minor": "53-1",
     "synonyms": "Cargo Supervisor, Line Service Supervisor (LSS), Loadmaster, Ramp Supervisor"
   },
   {
@@ -4407,6 +5036,7 @@
     "occupation": "Airline Pilots, Copilots, and Flight Engineers",
     "automation_pctile": 28.956659081816092,
     "major": "53",
+    "minor": "53-2",
     "synonyms": "Airline Captain, Captain, First Officer (FO), Pilot"
   },
   {
@@ -4414,6 +5044,7 @@
     "occupation": "Commercial Pilots",
     "automation_pctile": 37.84654419605467,
     "major": "53",
+    "minor": "53-2",
     "synonyms": "Captain, Commercial Pilot, Helicopter Pilot, Pilot"
   },
   {
@@ -4421,6 +5052,7 @@
     "occupation": "Air Traffic Controllers",
     "automation_pctile": 22.402242933168523,
     "major": "53",
+    "minor": "53-2",
     "synonyms": "Air Traffic Control Specialist (ATCS), Air Traffic Controller (ATC), Certified Professional Controller (CPC), Enroute Air Traffic Controller (Enroute ATC)"
   },
   {
@@ -4428,6 +5060,7 @@
     "occupation": "Airfield Operations Specialists",
     "automation_pctile": 52.819803451145766,
     "major": "53",
+    "minor": "53-2",
     "synonyms": "Airport Operations Agent, Airport Operations Coordinator, Airport Operations Officer, Airport Operations Specialist"
   },
   {
@@ -4435,6 +5068,7 @@
     "occupation": "Flight Attendants",
     "automation_pctile": 34.48239246618014,
     "major": "53",
+    "minor": "53-2",
     "synonyms": "Flight Attendant, In-Flight Crew Member, International Flight Attendant, Purser"
   },
   {
@@ -4442,6 +5076,7 @@
     "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
     "automation_pctile": 32.3163076457557,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Ambulance Driver, Driver, EMS Driver (Emergency Medical Services Driver), First Responder"
   },
   {
@@ -4449,6 +5084,7 @@
     "occupation": "Driver/Sales Workers",
     "automation_pctile": 95.4817666733788,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Driver, Driver Salesman, Route Driver, Route Salesman"
   },
   {
@@ -4456,6 +5092,7 @@
     "occupation": "Heavy and Tractor-Trailer Truck Drivers",
     "automation_pctile": 58.03453936022801,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Driver, Line Haul Driver, Over the Road Driver (OTR Driver), Truck Driver"
   },
   {
@@ -4463,6 +5100,7 @@
     "occupation": "Light Truck Drivers",
     "automation_pctile": 52.42688865957104,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Delivery Driver, Driver, Package Car Driver, Truck Driver"
   },
   {
@@ -4470,6 +5108,7 @@
     "occupation": "Bus Drivers, School",
     "automation_pctile": 69.84270077105673,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Bus Driver, School Bus Driver, Shuttle Bus Driver, Special Education Bus Driver"
   },
   {
@@ -4477,6 +5116,7 @@
     "occupation": "Bus Drivers, Transit and Intercity",
     "automation_pctile": 50.47948253740456,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Bus Driver, Bus Operator, Motor Coach Operator, Transit Bus Driver"
   },
   {
@@ -4484,6 +5124,7 @@
     "occupation": "Shuttle Drivers and Chauffeurs",
     "automation_pctile": 69.19459365864327,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Chauffeur, Driver, Shuttle Bus Driver, Shuttle Driver"
   },
   {
@@ -4491,6 +5132,7 @@
     "occupation": "Taxi Drivers",
     "automation_pctile": 69.85627227458863,
     "major": "53",
+    "minor": "53-3",
     "synonyms": "Cab Driver, Taxi Cab Driver, Taxi Driver"
   },
   {
@@ -4498,6 +5140,7 @@
     "occupation": "Locomotive Engineers",
     "automation_pctile": 91.38285482738613,
     "major": "53",
+    "minor": "53-4",
     "synonyms": "Locomotive Engineer, Passenger Locomotive Engineer, Railroad Engineer, Transportation Specialist"
   },
   {
@@ -4505,6 +5148,7 @@
     "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
     "automation_pctile": 70.27193541731482,
     "major": "53",
+    "minor": "53-4",
     "synonyms": "Engineer, Railcar Switcher, Railroad Engineer, Switchman"
   },
   {
@@ -4512,6 +5156,7 @@
     "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
     "automation_pctile": 78.33929905935761,
     "major": "53",
+    "minor": "53-4",
     "synonyms": "Brakeman, Locomotive Switch Operator, Railroad Switchman, Trainman"
   },
   {
@@ -4519,6 +5164,7 @@
     "occupation": "Railroad Conductors and Yardmasters",
     "automation_pctile": 61.067053458392685,
     "major": "53",
+    "minor": "53-4",
     "synonyms": "Conductor, Freight Conductor, Railroad Conductor, Yardmaster"
   },
   {
@@ -4526,6 +5172,7 @@
     "occupation": "Subway and Streetcar Operators",
     "automation_pctile": 66.23761028687414,
     "major": "53",
+    "minor": "53-4",
     "synonyms": "Light Rail Operator, Rail Operator, Rapid Transit Operator (RTO), Train Operator"
   },
   {
@@ -4533,6 +5180,7 @@
     "occupation": "Sailors and Marine Oilers",
     "automation_pctile": 60.94172438237258,
     "major": "53",
+    "minor": "53-5",
     "synonyms": "Able Bodied Seaman (AB Seaman), Able Seaman, Deck Hand, Deckhand"
   },
   {
@@ -4540,6 +5188,7 @@
     "occupation": "Captains, Mates, and Pilots of Water Vessels",
     "automation_pctile": 32.354743445878384,
     "major": "53",
+    "minor": "53-5",
     "synonyms": "Boat Captain, Captain, First Mate, Mate"
   },
   {
@@ -4547,6 +5196,7 @@
     "occupation": "Motorboat Operators",
     "automation_pctile": 42.72217853402029,
     "major": "53",
+    "minor": "53-5",
     "synonyms": "Boat Operator, Launch Operator, River Pilot, Water Taxi Business Operator"
   },
   {
@@ -4554,6 +5204,7 @@
     "occupation": "Ship Engineers",
     "automation_pctile": 15.7101663195121,
     "major": "53",
+    "minor": "53-5",
     "synonyms": "Engineer, Ferry Engineer, Port Engineer, Tug Boat Engineer"
   },
   {
@@ -4561,6 +5212,7 @@
     "occupation": "Bridge and Lock Tenders",
     "automation_pctile": 95.02379237258248,
     "major": "53",
+    "minor": "53-6",
     "synonyms": "Bridge Operator, Bridge Tender, Lock Tender"
   },
   {
@@ -4568,6 +5220,7 @@
     "occupation": "Parking Attendants",
     "automation_pctile": 67.68719567782878,
     "major": "53",
+    "minor": "53-6",
     "synonyms": "Parking Attendant, Parking Lot Attendant, Valet Attendant, Valet Parker"
   },
   {
@@ -4575,6 +5228,7 @@
     "occupation": "Automotive and Watercraft Service Attendants",
     "automation_pctile": 61.143219743491606,
     "major": "53",
+    "minor": "53-6",
     "synonyms": "Attendant, Fuel Dock Attendant, Gas Attendant, Service Station Attendant"
   },
   {
@@ -4582,6 +5236,7 @@
     "occupation": "Traffic Technicians",
     "automation_pctile": 70.0897858430694,
     "major": "53",
+    "minor": "53-6",
     "synonyms": "Traffic Control Technician, Traffic Signal Technician (TST), Traffic Technician, Transportation Technician"
   },
   {
@@ -4589,6 +5244,7 @@
     "occupation": "Transportation Inspectors",
     "automation_pctile": 70.10786051253623,
     "major": "53",
+    "minor": "53-6",
     "synonyms": "Cargo Surveyor, Marine Cargo Surveyor, Marine Surveyor, Petroleum Inspector"
   },
   {
@@ -4596,6 +5252,7 @@
     "occupation": "Passenger Attendants",
     "automation_pctile": 54.79121354043867,
     "major": "53",
+    "minor": "53-6",
     "synonyms": "Bus Aide, Bus Assistant, Bus Attendant, Bus Monitor"
   },
   {
@@ -4603,6 +5260,7 @@
     "occupation": "Conveyor Operators and Tenders",
     "automation_pctile": 78.47416151592842,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Chipper Operator, Flumer, Packaging Line Operator, Process Operator"
   },
   {
@@ -4610,6 +5268,7 @@
     "occupation": "Crane and Tower Operators",
     "automation_pctile": 69.89859118337465,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Crane Operator, Mobile Crane Operator, Overhead Crane Operator, Scrap Crane Operator"
   },
   {
@@ -4617,6 +5276,7 @@
     "occupation": "Dredge Operators",
     "automation_pctile": 74.41252286267421,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Dredge Operator, Dredger"
   },
   {
@@ -4624,6 +5284,7 @@
     "occupation": "Hoist and Winch Operators",
     "automation_pctile": 47.551688361695525,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Hoist Operator, Hoistman, Material Handler, Service Operator"
   },
   {
@@ -4631,6 +5292,7 @@
     "occupation": "Industrial Truck and Tractor Operators",
     "automation_pctile": 79.15453485861221,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Fork Truck Driver, Forklift Driver, Forklift Operator, Spotter Driver"
   },
   {
@@ -4638,6 +5300,7 @@
     "occupation": "Cleaners of Vehicles and Equipment",
     "automation_pctile": 35.41839216979276,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Automotive Detailer (Auto Detailer), Car Washer, Detailer, Reconditioner"
   },
   {
@@ -4645,6 +5308,7 @@
     "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
     "automation_pctile": 64.69676796697327,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Laborer, Loader, Material Handler, Warehouse Worker"
   },
   {
@@ -4652,6 +5316,7 @@
     "occupation": "Machine Feeders and Offbearers",
     "automation_pctile": 78.30310321612856,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Dryer Feeder, Feeder, Machine Feeder, Offbearer"
   },
   {
@@ -4659,6 +5324,7 @@
     "occupation": "Packers and Packagers, Hand",
     "automation_pctile": 35.88455122657404,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Bagger, Packager, Packer, Selector Packer"
   },
   {
@@ -4666,6 +5332,7 @@
     "occupation": "Stockers and Order Fillers",
     "automation_pctile": 46.03068787448553,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Checker Stocker, Order Filler, Stock Clerk, Stocker"
   },
   {
@@ -4673,6 +5340,7 @@
     "occupation": "Gas Compressor and Gas Pumping Station Operators",
     "automation_pctile": 71.2012074995307,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Compressor Station Operator, Compressor Technician, Filler, Plant Operator"
   },
   {
@@ -4680,6 +5348,7 @@
     "occupation": "Pump Operators, Except Wellhead Pumpers",
     "automation_pctile": 69.86603817661619,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Outside Operator, Pipeline Operator, Pumper, Tank Farm Operator"
   },
   {
@@ -4687,6 +5356,7 @@
     "occupation": "Wellhead Pumpers",
     "automation_pctile": 61.17918306524383,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Field Operator, Lease Operator, Pumper, Well Tender"
   },
   {
@@ -4694,6 +5364,7 @@
     "occupation": "Refuse and Recyclable Material Collectors",
     "automation_pctile": 78.45396315030638,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Garbage Man, Roll Off Truck Driver, Sanitation Laborer, Trash Collector"
   },
   {
@@ -4701,6 +5372,7 @@
     "occupation": "Tank Car, Truck, and Ship Loaders",
     "automation_pctile": 54.00473289715405,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "Loader, Loader Operator, Tankerman, Truck Loader"
   },
   {
@@ -4708,6 +5380,7 @@
     "occupation": "Material Moving Workers, All Other",
     "automation_pctile": 79.6859859460919,
     "major": "53",
+    "minor": "53-7",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   }
 ]
