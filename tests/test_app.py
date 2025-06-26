@@ -28,6 +28,7 @@ def test_automation_percentile_endpoint():
     body = resp.json()
     assert body["soc"] == "11-1011"
     assert "automation_pctile" in body
+    assert "synonyms" in body
 
 
 def test_separate_fields():
@@ -43,4 +44,6 @@ def test_separate_fields():
 
     assert "automation_pctile" in auto_data
     assert "foreign_pct" in foreign_data
+    assert "synonyms" in auto_data
+    assert "synonyms" in foreign_data
 

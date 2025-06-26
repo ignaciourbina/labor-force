@@ -11,6 +11,30 @@
     .hidden { display: none; }
     label { display: block; margin-top: 1em; }
     button { margin-top: 1.5em; }
+    .tooltip {
+      position: relative;
+      display: inline-block;
+      margin-left: 0.5em;
+      cursor: pointer;
+    }
+    .tooltiptext {
+      visibility: hidden;
+      width: 220px;
+      background-color: #eee;
+      color: #000;
+      text-align: left;
+      border-radius: 6px;
+      padding: 5px;
+      position: absolute;
+      z-index: 1;
+      bottom: 125%;
+      left: 50%;
+      transform: translateX(-50%);
+      box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    }
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
   </style>
 </head>
 <body>
