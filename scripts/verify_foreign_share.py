@@ -92,6 +92,12 @@ def run_checks() -> None:
     synonyms_added = sum("synonyms" in r for r in ext_rows)
     results.append(f"Records with synonyms field: {synonyms_added}")
     results.append(f"Extended rows match base: {len(ext_rows) == len(base_rows)}")
+    labels = {r["occ_label"] for r in ext_rows}
+    soc_codes = {r["soc"] for r in ext_rows}
+    parity = len(labels) == len(soc_codes)
+    results.append(f"Unique labels: {len(labels)}")
+    results.append(f"Unique SOC codes: {len(soc_codes)}")
+    results.append(f"Label-code parity: {parity}")
 
     # --------------------------------------------------
     # 5. Wildcard SOC codes consistency

@@ -14,4 +14,7 @@
 - Extended JSON rows: 867
 - Records with synonyms field: 867
 - Extended rows match base: True
+- Unique labels: 867
+- Unique SOC codes: 867
+- Label-code parity: True
 - SOC3 mismatch groups: 0
