@@ -14,6 +14,8 @@ This directory contains the code and dataset for the SOC lookup API used by the 
 - `scripts/extend_automation_data.py` – Generates `data_occup_automation_extended.json`.
 - `data_occup_foreign_extended.json` – Foreign-share percentages with ONET synonyms.
 - `scripts/extend_foreign_data.py` – Builds `data_occup_foreign_extended.json`.
+- `data_occup_consolidated.json` – Merged automation and foreign-share data used by the API.
+- `scripts/consolidate_occup_data.py` – Creates `data_occup_consolidated.json`.
 
 ## Running the API locally
 

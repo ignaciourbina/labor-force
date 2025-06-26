@@ -10,11 +10,9 @@ ALLOWED_ORIGINS = ["https://stonybrookuniversity.co1.qualtrics.com/"]
 # Base directory containing the JSON datasets
 BASE_DIR = Path(__file__).resolve().parent
 
-DATA_FILE  = BASE_DIR / "data.json"             # occupation dataset
+DATA_FILE = BASE_DIR / "data.json"             # occupation dataset
 STATE_FILE = BASE_DIR / "data_state_foreign.json"
-AUTO_FILE  = BASE_DIR / "data_occup_automation.json"
-AUTO_EXT_FILE = BASE_DIR / "data_occup_automation_extended.json"
-OCC_FOREIGN_FILE = BASE_DIR / "data_occup_foreign.json"
+CONSOLIDATED_FILE = BASE_DIR / "data_occup_consolidated.json"
 # ────────────────────────────────────────────────────────────────
 
 app = FastAPI(
@@ -51,22 +49,14 @@ with STATE_FILE.open(encoding="utf-8") as f:
 
 STATE_INDEX: dict[str, float] = {r["state"]: r["foreign_pct"] for r in state_rows}
 
-with AUTO_FILE.open(encoding="utf-8") as f:
-    auto_rows = json.load(f)
-
-AUTO_INDEX: dict[str, dict] = {r["soc"]: r for r in auto_rows}
-
-with AUTO_EXT_FILE.open(encoding="utf-8") as f:
-    auto_ext_rows = json.load(f)
-
-AUTO_MAJOR_INDEX: dict[str, list[dict]] = {}
-for r in auto_ext_rows:
-    AUTO_MAJOR_INDEX.setdefault(r["major"], []).append(r)
-
-with OCC_FOREIGN_FILE.open(encoding="utf-8") as f:
+with CONSOLIDATED_FILE.open(encoding="utf-8") as f:
     occ_rows = json.load(f)
 
-OCC_FOREIGN_INDEX: dict[str, dict] = {r["soc"]: r for r in occ_rows}
+OCC_INDEX: dict[str, dict] = {r["soc"]: r for r in occ_rows}
+
+AUTO_MAJOR_INDEX: dict[str, list[dict]] = {}
+for r in occ_rows:
+    AUTO_MAJOR_INDEX.setdefault(r["major"], []).append(r)
 
 
 # ── Lookup endpoint used by Qualtrics ───────────────────────────
@@ -100,7 +90,14 @@ def automation_percentile(
 ):
     soc = soc.strip()
     try:
-        return AUTO_INDEX[soc]
+        row = OCC_INDEX[soc]
+        return {
+            "soc": row["soc"],
+            "occupation": row.get("occupation", ""),
+            "automation_pctile": row.get("automation_pctile"),
+            "major": row.get("major"),
+            "minor": row.get("minor"),
+        }
     except KeyError:
         raise HTTPException(status_code=404, detail="Occupation code not found")
 
@@ -109,7 +106,15 @@ def occ_foreign_rate(
     soc: str = Query(..., min_length=5, max_length=7, description="Six-digit SOC code, e.g. 11-1011")
 ):
     try:
-        return OCC_FOREIGN_INDEX[soc]
+        row = OCC_INDEX[soc]
+        return {
+            "soc": row["soc"],
+            "occ_label": row.get("occ_label", ""),
+            "foreign_pct": row.get("foreign_pct"),
+            "soc3": row.get("soc3", ""),
+            "foreign_pct_soc3": row.get("foreign_pct_soc3"),
+            "major": row.get("major"),
+        }
     except KeyError:
         raise HTTPException(status_code=404, detail="SOC code not found")
 

@@ -28,3 +28,19 @@ def test_automation_percentile_endpoint():
     body = resp.json()
     assert body["soc"] == "11-1011"
     assert "automation_pctile" in body
+
+
+def test_consolidated_fields():
+    soc = "11-1011"
+    auto_resp = client.get("/automation_percentile", params={"soc": soc})
+    foreign_resp = client.get("/occ_foreign_rate", params={"soc": soc})
+
+    assert auto_resp.status_code == 200
+    assert foreign_resp.status_code == 200
+
+    auto_data = auto_resp.json()
+    foreign_data = foreign_resp.json()
+
+    assert "automation_pctile" in auto_data
+    assert "foreign_pct" in foreign_data
+

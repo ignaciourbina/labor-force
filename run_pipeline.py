@@ -11,6 +11,8 @@ PIPELINE = [
     SCRIPT_DIR / "automation_percentile_json.py",
     SCRIPT_DIR / "extend_automation_data.py",
     SCRIPT_DIR / "occupation_foreign_share.py",
+    SCRIPT_DIR / "extend_foreign_data.py",
+    SCRIPT_DIR / "consolidate_occup_data.py",
     SCRIPT_DIR / "state_foreign_share.py",
 ]
 

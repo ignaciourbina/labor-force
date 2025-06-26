@@ -19,7 +19,7 @@ This pipeline allows the survey to display personalized labor force statistics t
 - `data_tables/` – Precomputed CSV tables consumed by the API, including national employment totals.
 - `oesem_may24_data/` – Raw BLS employment spreadsheets downloaded May 2024.
 - `frey_and_osborne18_data/` – Automation risk scores and crosswalks from Frey and Osborne (2018).
-- `API_database_laborforce/data_occup_foreign_extended.json` – Occupation foreign-share percentages merged with ONET synonyms.
+ - `API_database_laborforce/data_occup_consolidated.json` – Combined automation and foreign-share data for each SOC code.
 - `documentation/` – Detailed guides for each data-preparation script.
 - `run_pipeline.py` – Helper script that executes the pipelines in order.
 
