@@ -4,8 +4,10 @@ import json, pathlib
 from fastapi.middleware.cors import CORSMiddleware
 
 # ── CONFIG ──────────────────────────────────────────────────────
-ALLOWED_ORIGINS = ["https://stonybrookuniversity.co1.qualtrics.com/"]   
-DATA_FILE       = pathlib.Path("data.json")             # dataset
+ALLOWED_ORIGINS = ["https://stonybrookuniversity.co1.qualtrics.com/"]
+DATA_FILE       = pathlib.Path("data.json")             # occupation dataset
+STATE_FILE      = pathlib.Path("data_state_foreign.json")
+OCC_FOREIGN_FILE = pathlib.Path("data_occup_foreign.json")
 # ────────────────────────────────────────────────────────────────
 
 app = FastAPI(
@@ -37,6 +39,16 @@ for r in rows:
     INDEX.setdefault(r["state"], {}) \
          .setdefault(r["major"], []).append(r)
 
+with STATE_FILE.open(encoding="utf-8") as f:
+    state_rows = json.load(f)
+
+STATE_INDEX: dict[str, float] = {r["state"]: r["foreign_pct"] for r in state_rows}
+
+with OCC_FOREIGN_FILE.open(encoding="utf-8") as f:
+    occ_rows = json.load(f)
+
+OCC_FOREIGN_INDEX: dict[str, dict] = {r["soc"]: r for r in occ_rows}
+
 # ── Lookup endpoint used by Qualtrics ───────────────────────────
 @app.get("/query")
 def query(
@@ -50,3 +62,24 @@ def query(
         return INDEX[state][major]
     except KeyError:
         raise HTTPException(status_code=404, detail="Combination not found")
+
+
+@app.get("/foreign_rate")
+def foreign_rate(
+    state: str = Query(..., min_length=2, max_length=2, description="Two-letter state code, e.g. FL")
+):
+    state = state.upper()
+    try:
+        return {"state": state, "foreign_pct": STATE_INDEX[state]}
+    except KeyError:
+        raise HTTPException(status_code=404, detail="State not found")
+
+
+@app.get("/occ_foreign_rate")
+def occ_foreign_rate(
+    soc: str = Query(..., min_length=5, max_length=7, description="Six-digit SOC code, e.g. 11-1011")
+):
+    try:
+        return OCC_FOREIGN_INDEX[soc]
+    except KeyError:
+        raise HTTPException(status_code=404, detail="SOC code not found")

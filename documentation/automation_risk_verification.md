@@ -4,14 +4,16 @@ This document describes the checks performed on the outputs of
 `automation_risk_pipeline.py`.
 
 ## Checks
-1. **Crosswalk coverage** – The number of rows and the total employment in
-   `employment_with_soc2010.csv` must match `national_employment_2024.csv`.
-   The file also flags any occupations missing a SOC 2010 code.
-2. **Automation score coverage** – All SOC 2010 codes used in that file should
-   appear in `frey_osborne_automation_risk_index_clean.csv`.
-3. **Data quality** – The merged table `automation_risk_with_employment.csv`
-   retains the original employment totals and reports how many occupations lack
-   an automation probability.
+1. **SOC2010 codes preserved** – The number of unique SOC 2010
+   codes in the original Frey & Osborne file must match the number
+   of unique SOC codes after applying the SOC2010→SOC2018 crosswalk.
+2. **SOC2018 mapping** – Every row in the crosswalked table should
+   contain a valid SOC 2018 code. Missing values indicate that the
+   crosswalk does not cover the original occupation.
+3. **National employment coverage** – All SOC 2018 codes should
+   appear in `national_employment_2024.csv`. Any codes not present
+   imply missing employment data. Additionally we check for rows with
+   missing or negative employment totals.
 
 Run the verification with:
 

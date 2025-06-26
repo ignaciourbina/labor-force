@@ -15,6 +15,7 @@ MERGED_FILE = DATA_DIR / "automation_risk_with_employment.csv"
 
 def run_checks() -> None:
     frey = pd.read_csv(FREY_FILE, dtype={"SOC code": str})
+<<<<<<< HEAD
     emp_soc2010 = pd.read_csv(
         EMP_SOC2010_FILE,
         dtype={"OCC_CODE": str, "2010 SOC Code": str, "TOT_EMP": "Int64"},
@@ -33,14 +34,28 @@ def run_checks() -> None:
     results.append(f"Rows without 2010 code: {missing_soc2010}")
     results.append(f"Row count matches original: {row_match}")
     results.append(f"Employment totals match original: {emp_match}")
+=======
+    emp_soc2010 = pd.read_csv(EMP_SOC2010_FILE, dtype={"OCC_CODE": str, "2010 SOC Code": str})
+    merged = pd.read_csv(MERGED_FILE, dtype={"2010 SOC Code": str})
+
+    results = []
+    # Check for missing SOC2010 codes
+    missing_soc2010 = emp_soc2010["2010 SOC Code"].isna().sum()
+    results.append(f"Rows without 2010 code: {missing_soc2010}")
+>>>>>>> origin/main
 
     # Coverage of automation scores
     unmatched = set(emp_soc2010["2010 SOC Code"].dropna()) - set(frey["SOC code"])
     results.append(f"2010 codes missing from automation table: {len(unmatched)}")
 
+<<<<<<< HEAD
     # Missing employment values and probabilities
     missing_emp = merged["TOT_EMP"].isna().sum()
     missing_prob = merged["Probability"].isna().sum()
+=======
+    # Missing employment values
+    missing_emp = merged["TOT_EMP"].isna().sum()
+>>>>>>> origin/main
     results.append(f"Rows with missing TOT_EMP: {missing_emp}")
     results.append(f"Rows without Probability: {missing_prob}")
 

@@ -1,0 +1,257 @@
+[
+  {
+    "state": "AL",
+    "state_name": "Alabama",
+    "foreign_pct": 5.7
+  },
+  {
+    "state": "AK",
+    "state_name": "Alaska",
+    "foreign_pct": 9.14
+  },
+  {
+    "state": "AZ",
+    "state_name": "Arizona",
+    "foreign_pct": 17.81
+  },
+  {
+    "state": "AR",
+    "state_name": "Arkansas",
+    "foreign_pct": 8.97
+  },
+  {
+    "state": "CA",
+    "state_name": "California",
+    "foreign_pct": 32.48
+  },
+  {
+    "state": "CO",
+    "state_name": "Colorado",
+    "foreign_pct": 18.9
+  },
+  {
+    "state": "CT",
+    "state_name": "Connecticut",
+    "foreign_pct": 22.91
+  },
+  {
+    "state": "DE",
+    "state_name": "Delaware",
+    "foreign_pct": 14.57
+  },
+  {
+    "state": "DC",
+    "state_name": "District of Columbia",
+    "foreign_pct": 15.85
+  },
+  {
+    "state": "FL",
+    "state_name": "Florida",
+    "foreign_pct": 29.61
+  },
+  {
+    "state": "GA",
+    "state_name": "Georgia",
+    "foreign_pct": 16.16
+  },
+  {
+    "state": "HI",
+    "state_name": "Hawaii",
+    "foreign_pct": 26.27
+  },
+  {
+    "state": "ID",
+    "state_name": "Idaho",
+    "foreign_pct": 10.5
+  },
+  {
+    "state": "IL",
+    "state_name": "Illinois",
+    "foreign_pct": 19.56
+  },
+  {
+    "state": "IN",
+    "state_name": "Indiana",
+    "foreign_pct": 8.38
+  },
+  {
+    "state": "IA",
+    "state_name": "Iowa",
+    "foreign_pct": 10.05
+  },
+  {
+    "state": "KS",
+    "state_name": "Kansas",
+    "foreign_pct": 12.12
+  },
+  {
+    "state": "KY",
+    "state_name": "Kentucky",
+    "foreign_pct": 8.71
+  },
+  {
+    "state": "LA",
+    "state_name": "Louisiana",
+    "foreign_pct": 9.27
+  },
+  {
+    "state": "ME",
+    "state_name": "Maine",
+    "foreign_pct": 4.85
+  },
+  {
+    "state": "MD",
+    "state_name": "Maryland",
+    "foreign_pct": 27.16
+  },
+  {
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "foreign_pct": 23.0
+  },
+  {
+    "state": "MI",
+    "state_name": "Michigan",
+    "foreign_pct": 8.66
+  },
+  {
+    "state": "MN",
+    "state_name": "Minnesota",
+    "foreign_pct": 11.15
+  },
+  {
+    "state": "MS",
+    "state_name": "Mississippi",
+    "foreign_pct": 5.02
+  },
+  {
+    "state": "MO",
+    "state_name": "Missouri",
+    "foreign_pct": 8.12
+  },
+  {
+    "state": "MT",
+    "state_name": "Montana",
+    "foreign_pct": 2.31
+  },
+  {
+    "state": "NE",
+    "state_name": "Nebraska",
+    "foreign_pct": 12.18
+  },
+  {
+    "state": "NV",
+    "state_name": "Nevada",
+    "foreign_pct": 30.3
+  },
+  {
+    "state": "NH",
+    "state_name": "New Hampshire",
+    "foreign_pct": 13.33
+  },
+  {
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "foreign_pct": 31.24
+  },
+  {
+    "state": "NM",
+    "state_name": "New Mexico",
+    "foreign_pct": 13.01
+  },
+  {
+    "state": "NY",
+    "state_name": "New York",
+    "foreign_pct": 27.64
+  },
+  {
+    "state": "NC",
+    "state_name": "North Carolina",
+    "foreign_pct": 13.91
+  },
+  {
+    "state": "ND",
+    "state_name": "North Dakota",
+    "foreign_pct": 6.11
+  },
+  {
+    "state": "OH",
+    "state_name": "Ohio",
+    "foreign_pct": 9.0
+  },
+  {
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "foreign_pct": 10.08
+  },
+  {
+    "state": "OR",
+    "state_name": "Oregon",
+    "foreign_pct": 10.29
+  },
+  {
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "foreign_pct": 10.97
+  },
+  {
+    "state": "RI",
+    "state_name": "Rhode Island",
+    "foreign_pct": 20.38
+  },
+  {
+    "state": "SC",
+    "state_name": "South Carolina",
+    "foreign_pct": 9.8
+  },
+  {
+    "state": "SD",
+    "state_name": "South Dakota",
+    "foreign_pct": 4.42
+  },
+  {
+    "state": "TN",
+    "state_name": "Tennessee",
+    "foreign_pct": 9.06
+  },
+  {
+    "state": "TX",
+    "state_name": "Texas",
+    "foreign_pct": 24.47
+  },
+  {
+    "state": "UT",
+    "state_name": "Utah",
+    "foreign_pct": 13.53
+  },
+  {
+    "state": "VT",
+    "state_name": "Vermont",
+    "foreign_pct": 4.81
+  },
+  {
+    "state": "VA",
+    "state_name": "Virginia",
+    "foreign_pct": 16.9
+  },
+  {
+    "state": "WA",
+    "state_name": "Washington",
+    "foreign_pct": 21.98
+  },
+  {
+    "state": "WV",
+    "state_name": "West Virginia",
+    "foreign_pct": 2.48
+  },
+  {
+    "state": "WI",
+    "state_name": "Wisconsin",
+    "foreign_pct": 8.94
+  },
+  {
+    "state": "WY",
+    "state_name": "Wyoming",
+    "foreign_pct": 7.43
+  }
+]
