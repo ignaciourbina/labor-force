@@ -1,0 +1,166 @@
+/* Qualtrics JavaScript – Minor‑SOC autocomplete with validation,
+   responsive drop‑down, inline description, and no‑ghost menu
+   ------------------------------------------------------------------------
+   • Opens list on first focus; respondents click **once** on an option to
+     populate the field, instantly show the description, close the list,
+     and enable the Next button.
+   • Prevents advancing until an exact match is chosen – red warning shown
+     under the box if the text is not a valid occupation.
+   • Caches the API response so the lookup is done only **once** per
+     session. Later pages (or the Back button) reuse the same list.
+   • Responsive menu: max 8 rows + scrollbar, mobile‑friendly font sizes.
+   • Cleans up residual <ul class="ui‑autocomplete"> on page unload.
+   ------------------------------------------------------------------------
+   UPDATED 2025‑06‑13 – aligned all display logic to benchmark: renamed functions,
+   removed fallback HTML, enforced consistent validation-driven rendering.
+*/
+
+/* ---------------- Inject jQuery‑UI once ---------------- */
+Qualtrics.SurveyEngine.addOnload(function () {
+  const head = document.head;
+
+  const link = document.createElement('link');
+  link.rel  = 'stylesheet';
+  link.href = 'https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css';
+  head.appendChild(link);
+
+  const script = document.createElement('script');
+  script.src = 'https://code.jquery.com/ui/1.12.1/jquery-ui.js';
+  head.appendChild(script);
+});
+
+/* ---------------- Main logic ---------------- */
+Qualtrics.SurveyEngine.addOnReady(async function () {
+  const q       = this;
+  const $outer  = jQuery('#' + q.questionId);
+  const $body   = $outer.find('.QuestionBody').first();
+  const $in     = $body.find('input[type="text"]').first();
+  const $next   = jQuery('#NextButton');
+
+  $in.attr('placeholder', 'Type a keyword or click to scroll down for options');
+
+  jQuery('<style>').text(`
+    #${$in.attr("id")}::placeholder,
+    #${$in.attr("id")}::-webkit-input-placeholder,
+    #${$in.attr("id")}::-moz-placeholder,
+    #${$in.attr("id")}:-ms-input-placeholder {
+      font-size: .78em !important;
+      font-style: italic;
+    }
+  `).appendTo('head');
+
+  const $spinner = jQuery(`
+    <div id="socLoader" style="text-align:center;padding:1em">
+      <div style="width:32px;height:32px;margin:0 auto 6px;border:4px solid #ddd;border-top-color:#555;border-radius:50%;animation:spin 1s linear infinite"></div>
+      Loading occupations…
+      <style>@keyframes spin{to{transform:rotate(360deg)}}</style>
+    </div>`);
+  $outer.before($spinner);
+  $outer.hide();
+  $next.prop('disabled', true);
+
+  const url = 'https://iurbinah-soc-lookup-space.hf.space/query'
+            + '?major=' + encodeURIComponent('${q://QID5/ChoiceTextEntryValue}')
+            + '&state=' + encodeURIComponent('${q://QID6/ChoiceTextEntryValue}');
+
+  let minorList = [];
+  const cache = Qualtrics.SurveyEngine.getEmbeddedData('minorSOCList');
+  if (cache) minorList = JSON.parse(cache);
+
+  if (!minorList.length) {
+    try {
+      const r = await fetch(url);
+      if (r.ok) {
+        minorList = await r.json();
+        Qualtrics.SurveyEngine.setEmbeddedData('minorSOCList', JSON.stringify(minorList));
+      } else {
+        console.error('SOC fetch failed', r.status, r.statusText);
+      }
+    } catch (err) {
+      console.error('SOC fetch error', err);
+    }
+  }
+
+  const labelToDesc = new Map(minorList.map(o => [o.label, o.desc]));
+  const allowedSet  = new Set(labelToDesc.keys());
+
+  function showDescription(text) {
+    hideDescription();
+    $in.after('<div id="socDesc" style="margin-top:6px;font-size:0.9em;color:#555;">' + text + '</div>');
+  }
+  function hideDescription() {
+    jQuery('#socDesc').remove();
+  }
+
+  function showWarning() {
+    if (!jQuery('#socErrMsg').length) {
+      $in.after('<div id="socErrMsg" style="color:#d13a3a;font-size:0.9em;margin-top:4px;">Please choose a valid occupation from the list.</div>');
+      $in.addClass('soc-error');
+    }
+  }
+  function hideWarning() {
+    jQuery('#socErrMsg').remove();
+    $in.removeClass('soc-error');
+  }
+
+  function validate() {
+    const label = $in.val().trim();
+    const ok = allowedSet.has(label);
+
+    if (ok) {
+      q.enableNextButton();
+      hideWarning();
+      showDescription(labelToDesc.get(label));
+    } else {
+      q.disableNextButton();
+      hideDescription();
+      if (label) showWarning(); else hideWarning();
+    }
+  }
+
+  function initAutocomplete() {
+    $in.autocomplete({
+      source: minorList.map(o => ({ label: o.label, value: o.label })),
+      minLength: 0
+    })
+      .on('focus', function () {
+        jQuery(this).autocomplete('search', '');
+      })
+      .on('autocompleteselect', function (e, ui) {
+        jQuery(this).val(ui.item.label);
+        jQuery(this).autocomplete('close');
+        showDescription(labelToDesc.get(ui.item.label));
+        q.enableNextButton();
+      })
+      .on('autocompletechange keyup blur', validate);
+  }
+
+  (function waitForUI() {
+    if (jQuery.ui && jQuery.ui.autocomplete) {
+      initAutocomplete();
+    } else {
+      setTimeout(waitForUI, 50);
+    }
+  })();
+
+  q.disableNextButton();
+
+  jQuery('<style>').text(`
+    .ui-autocomplete{max-height:260px;overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;border-radius:4px;box-shadow:0 4px 8px rgba(0,0,0,.12);z-index:10000;}
+    .ui-menu-item-wrapper.ui-state-hover,.ui-menu-item-wrapper.ui-state-focus{background:#c41e3a;color:#fff;}
+    @media(max-width:480px){.ui-autocomplete{font-size:14px;max-height:220px;}}
+    @media(min-width:481px) and (max-width:768px){.ui-autocomplete{font-size:15px;}}
+    @media(min-width:769px){.ui-autocomplete{font-size:16px;}}
+  `).appendTo('head');
+
+  $in.on('autocompleteopen', function () {
+    jQuery('.ui-autocomplete').css('width', jQuery(this).outerWidth());
+  });
+
+  $spinner.remove();
+  $outer.show();
+});
+
+Qualtrics.SurveyEngine.addOnUnload(function () {
+  jQuery('.ui-autocomplete, #socDesc, #socErrMsg, #socLoader').remove();
+});
