@@ -46,7 +46,7 @@ def main() -> None:
     # Drop rows without a SOC code (e.g. "Occupation not reported").
     df = df[df["2018 SOC Code"].notna()].copy()
 
-    df["occ_label"] = df["2018 Census Title "].str.strip()
+    df["occ_label"] = df["2018 SOC Title"].str.strip()
     df["foreign_pct"] = (df["foreign"] / df["total_lf"] * 100).round(2)
     df["soc3"] = df["2018 SOC Code"].astype(str).apply(soc3)
     df["major"] = df["2018 SOC Code"].astype(str).str.split("-").str[0]
