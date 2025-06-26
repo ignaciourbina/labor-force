@@ -1,0 +1,72 @@
+[
+  {
+    "state": "FL",
+    "major": "15",
+    "minor": "113",
+    "label": "15-113 – Software Developers, Applications (FL)",
+    "desc": "Design, develop, and modify software systems in Florida."
+  },
+  {
+    "state": "FL",
+    "major": "15",
+    "minor": "124",
+    "label": "15-124 – Data Scientists (FL)",
+    "desc": "Analyze and interpret complex data for decision-making in Florida."
+  },
+  {
+    "state": "CA",
+    "major": "15",
+    "minor": "121",
+    "label": "15-121 – Computer Systems Analysts (CA)",
+    "desc": "Evaluate and improve computer systems in California organizations."
+  },
+  {
+    "state": "CA",
+    "major": "15",
+    "minor": "122",
+    "label": "15-122 – Software Quality Assurance Analysts & Testers (CA)",
+    "desc": "Develop and execute software tests in California."
+  },
+  {
+    "state": "CA",
+    "major": "29",
+    "minor": "114",
+    "label": "29-114 – Registered Nurses (CA)",
+    "desc": "Provide nursing care and maintain patient records in California."
+  },
+  {
+    "state": "CA",
+    "major": "29",
+    "minor": "105",
+    "label": "29-105 – Pharmacists (CA)",
+    "desc": "Dispense medications and advise patients in California."
+  },
+  {
+    "state": "NY",
+    "major": "11",
+    "minor": "102",
+    "label": "11-102 – General and Operations Managers (NY)",
+    "desc": "Direct and coordinate operational activities in New York organizations."
+  },
+  {
+    "state": "NY",
+    "major": "11",
+    "minor": "103",
+    "label": "11-103 – Human Resources Managers (NY)",
+    "desc": "Plan and coordinate HR activities in New York."
+  },
+  {
+    "state": "NY",
+    "major": "15",
+    "minor": "125",
+    "label": "15-125 – Cybersecurity Analysts (NY)",
+    "desc": "Protect computer networks and systems from cyber-threats in New York."
+  },
+  {
+    "state": "NY",
+    "major": "15",
+    "minor": "126",
+    "label": "15-126 – Cloud Engineers (NY)",
+    "desc": "Design and manage cloud infrastructure in New York."
+  }
+]
