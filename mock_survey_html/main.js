@@ -144,10 +144,11 @@ function renderResultsPage() {
   const sPct = getEmbedded('stateForeignPct');
   const oPct = getEmbedded('occForeignPct');
   const auto = getEmbedded('automationPctile');
+  const fmt = v => (v == null ? 'This figure was not available' : v);
   div.innerHTML = `
-    <p>Foreign-born share in your state: <strong>${sPct}%</strong></p>
-    <p>Foreign-born share in this occupation: <strong>${oPct}%</strong></p>
-    <p>Automation risk percentile: <strong>${auto}</strong></p>
+    <p>Foreign-born share in your state: <strong>${fmt(sPct)}${sPct != null ? '%' : ''}</strong></p>
+    <p>Foreign-born share in this occupation: <strong>${fmt(oPct)}${oPct != null ? '%' : ''}</strong></p>
+    <p>Automation risk percentile: <strong>${fmt(auto)}</strong></p>
     <button id="restart">Restart</button>
   `;
   div.querySelector('#restart').onclick = () => {
