@@ -5,8 +5,8 @@
    - First, note that the file "data_tables/national_employment_2024.csv" is already indexed by default using 2018 soc codes.
    - Then, notice that, to construct the pipeline resulting in "API_database_laborforce/data_occup_automation_extended.json" we use as root and index anchor the file "data_tables/national_employment_2024.csv". Thus, this API dataset is already indexed by 2018 soc codes.
    - Finally, to deliver the file "API_database_laborforce/data_occup_foreign_extended.json" we have recently implemented a new logic and revised pipeline. Note:
-   - First, we start by the csv file indexed by soc 2018 codes, that maps them to 2018 census occupation codes.
+   - First, we start by the csv file indexed by soc 2018 codes, "SOC2018codes_MAIN_INDEX_files/soc2018_to_census2018_mapping (1).csv", that maps them to 2018 census occupation codes.
    - Then, we collect the processed file from CPS data, but that only has 2018 census codes, that is, the file "data_tables/cps_occ_labor_force_totals.csv"
-   - The next step is to take the CSV file that provides rhe root occupation index in thos folder and do a left merge with "data_tables/cps_occ_labor_force_totals.csv"
+   - The next step is to take the CSV file that provides rhe root occupation index --"SOC2018codes_MAIN_INDEX_files/soc2018_to_census2018_mapping (1).csv"-- and do a left merge with "data_tables/cps_occ_labor_force_totals.csv"
    - Then, the resulting data frame should be creates in /data_tables as "data_tables/soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv"
    - Then, we use this file to execute the next steps of the pipeline until we output the file "API_database_laborforce/data_occup_foreign_extended.json" which now will include all ~800 2018 codes matched with the extracted information from CPS. 
