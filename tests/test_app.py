@@ -30,7 +30,7 @@ def test_automation_percentile_endpoint():
     assert "automation_pctile" in body
 
 
-def test_consolidated_fields():
+def test_separate_fields():
     soc = "11-1011"
     auto_resp = client.get("/automation_percentile", params={"soc": soc})
     foreign_resp = client.get("/occ_foreign_rate", params={"soc": soc})
