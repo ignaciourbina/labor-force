@@ -1,13 +1,18 @@
-"""Merge Frey-Osborne automation risk scores with SOC 2018 codes and employment.
+"""Merge automation risk scores with employment totals and compute percentiles.
 
-This script performs three steps:
-1. Join the automation risk table (indexed by SOC 2010) with a
-   SOC2010–SOC2018 crosswalk and save ``automation_risk_soc2018.csv``.
-2. Merge the result with ``national_employment_2024.csv`` to append ``TOT_EMP``
-   and save ``automation_risk_with_employment.csv``.
-3. Compute the employment-weighted percentile rank of the automation probability
-   and write ``automation_risk_percentiles.csv`` containing the SOC code,
-   occupation label, probability, employment count and percentile rank.
+This version of the pipeline starts with the national employment table indexed by
+SOC 2018 codes.  We attach the corresponding SOC 2010 codes, then merge in the
+Frey–Osborne automation probabilities (indexed by SOC 2010).  Finally we compute
+an employment‑weighted percentile rank of the automation risk.
+
+The script writes three intermediate files:
+
+1. ``employment_with_soc2010.csv`` – national employment totals annotated with
+   the matching 2010 SOC code(s).
+2. ``automation_risk_with_employment.csv`` – the above table merged with the
+   automation risk scores.
+3. ``automation_risk_percentiles.csv`` – final table containing the percentile
+   rank for each SOC 2018 occupation.
 """
 
 from pathlib import Path
@@ -24,30 +29,30 @@ FREY_FILE = FREY_DIR / "frey_osborne_automation_risk_index_clean.csv"
 CROSSWALK_FILE = FREY_DIR / "crosswalk_soc2010_to_soc2018.csv"
 EMP_FILE = DATA_DIR / "national_employment_2024.csv"
 
-OUT_SOC2018 = DATA_DIR / "automation_risk_soc2018.csv"
-OUT_EMPLOY = DATA_DIR / "automation_risk_with_employment.csv"
+OUT_EMP_SOC2010 = DATA_DIR / "employment_with_soc2010.csv"
+OUT_MERGED = DATA_DIR / "automation_risk_with_employment.csv"
 OUT_PERCENTILES = DATA_DIR / "automation_risk_percentiles.csv"
 
 
-def merge_soc2018() -> pd.DataFrame:
-    """Attach 2018 SOC codes to the automation risk table."""
-    frey = pd.read_csv(FREY_FILE, dtype={"SOC code": str})
+def attach_soc2010() -> pd.DataFrame:
+    """Append SOC 2010 codes to the national employment table."""
+    emp = pd.read_csv(EMP_FILE, dtype={"OCC_CODE": str, "TOT_EMP": "Int64"})
     cw = pd.read_csv(
         CROSSWALK_FILE,
         dtype={"2010 SOC Code": str, "2018 SOC Code": str},
     )
-    merged = frey.merge(cw, left_on="SOC code", right_on="2010 SOC Code", how="left")
-    merged.to_csv(OUT_SOC2018, index=False)
-    print(f"\u2713 Wrote {OUT_SOC2018}")
+    merged = emp.merge(cw, left_on="OCC_CODE", right_on="2018 SOC Code", how="left")
+    merged.to_csv(OUT_EMP_SOC2010, index=False)
+    print(f"\u2713 Wrote {OUT_EMP_SOC2010}")
     return merged
 
 
-def merge_employment(df: pd.DataFrame) -> pd.DataFrame:
-    """Append national employment totals."""
-    emp = pd.read_csv(EMP_FILE, dtype={"OCC_CODE": str, "TOT_EMP": "Int64"})
-    result = df.merge(emp, left_on="2018 SOC Code", right_on="OCC_CODE", how="left")
-    result.to_csv(OUT_EMPLOY, index=False)
-    print(f"\u2713 Wrote {OUT_EMPLOY}")
+def merge_frey(df: pd.DataFrame) -> pd.DataFrame:
+    """Merge the employment table with Frey–Osborne automation scores."""
+    frey = pd.read_csv(FREY_FILE, dtype={"SOC code": str})
+    result = df.merge(frey, left_on="2010 SOC Code", right_on="SOC code", how="left")
+    result.to_csv(OUT_MERGED, index=False)
+    print(f"\u2713 Wrote {OUT_MERGED}")
     return result
 
 
@@ -72,8 +77,8 @@ def add_percentile(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def main() -> None:
-    step1 = merge_soc2018()
-    step2 = merge_employment(step1)
+    step1 = attach_soc2010()
+    step2 = merge_frey(step1)
     add_percentile(step2)
 
 
