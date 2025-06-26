@@ -3,8 +3,14 @@ from __future__ import annotations
 
 Reads ``data_tables/cps_occ_labor_force_totals_soc2018_xwalk.csv`` and
 writes ``API_database_laborforce/data_occup_foreign.json`` with records like::
-    {"soc": "11-1011", "occ_label": "Chief executives", "foreign_pct": 17.1,
-     "soc3": "11-1", "foreign_pct_soc3": 15.95}
+    {
+        "soc": "11-1011",
+        "occ_label": "Chief executives",
+        "foreign_pct": 17.1,
+        "soc3": "11-1",
+        "foreign_pct_soc3": 15.95,
+        "major": "11",
+    }
 """
 
 import json
@@ -41,6 +47,7 @@ def main() -> None:
     df["occ_label"] = df["2018 Census Title "].str.strip()
     df["foreign_pct"] = (df["foreign"] / df["total_lf"] * 100).round(2)
     df["soc3"] = df["2018 SOC Code"].astype(str).apply(soc3)
+    df["major"] = df["2018 SOC Code"].astype(str).str.split("-").str[0]
 
     grp = df.groupby("soc3").agg({"foreign": "sum", "total_lf": "sum"})
     grp["foreign_pct_soc3"] = (grp["foreign"] / grp["total_lf"] * 100).round(2)
@@ -48,7 +55,14 @@ def main() -> None:
     df = df.merge(grp["foreign_pct_soc3"], on="soc3", how="left")
 
     rows = df[
-        ["2018 SOC Code", "occ_label", "foreign_pct", "soc3", "foreign_pct_soc3"]
+        [
+            "2018 SOC Code",
+            "occ_label",
+            "foreign_pct",
+            "soc3",
+            "foreign_pct_soc3",
+            "major",
+        ]
     ].rename(columns={"2018 SOC Code": "soc"})
 
     OUT_FILE.write_text(json.dumps(rows.to_dict(orient="records"), indent=2))
