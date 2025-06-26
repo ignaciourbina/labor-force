@@ -1,0 +1,167 @@
+/* Qualtrics JavaScript – SOC Major‑Group autocomplete with validation,
+   responsive drop‑down, inline two‑line descriptions, and no‑ghost menu
+   ------------------------------------------------------------------------
+   • Opens list on first focus; respondents click **once** on an option to
+     populate the field, instantly show the description, close the list,
+     and enable the Next button.
+   • Prevents advancing until an exact match is chosen.
+   • Responsive menu: max 8 rows + scrollbar, mobile‑friendly font sizes.
+   • Cleans up residual <ul class="ui-autocomplete"> on page unload.
+   • Update the selector (QID1) if your text‑entry question has a
+     different ID.
+
+   UPDATED 2025‑06‑12
+   • Added explicit `code` key to each SOC object.
+   • Removed code numbers from the `label` property.
+*/
+
+Qualtrics.SurveyEngine.addOnload(function () {
+  const head = document.getElementsByTagName('head')[0];
+
+  /* jQuery‑UI CSS */
+  const link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.href = 'https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css';
+  head.appendChild(link);
+
+  /* jQuery‑UI JS */
+  const script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://code.jquery.com/ui/1.12.1/jquery-ui.js';
+  head.appendChild(script);
+});
+
+Qualtrics.SurveyEngine.addOnReady(function () {
+  const q = this;                           // Qualtrics question context
+  const $in = jQuery("#QR\\~QID1");         // UPDATE QID IF NEEDED
+
+  // Placeholder text for the input field
+  $in.attr('placeholder', 'Type a keyword or click to scroll down for options');
+
+  /* Style browser placeholders to be italic & smaller */
+  jQuery('<style type="text/css">').text(`
+    #QR\\~QID1::placeholder             { font-size: 0.78em !important; font-style: italic; }
+    #QR\\~QID1::-webkit-input-placeholder { font-size: 0.78em !important; font-style: italic; }
+    #QR\\~QID1::-moz-placeholder        { font-size: 0.78em !important; font-style: italic; }
+    #QR\\~QID1:-ms-input-placeholder    { font-size: 0.78em !important; font-style: italic; }
+  `).appendTo('head');
+
+  /* -------- 23 Major SOC groups with two‑line descriptions -------- */
+  const socGroups = [
+    { code: "11-0000", label: "Management Occupations", desc: "<strong>Management Occupations:</strong><br>Plan, direct, and coordinate resources and overall operations of organizations. Includes executives, managers, and administrators." },
+    { code: "13-0000", label: "Business and Financial Operations Occupations", desc: "<strong>Business and Financial Operations Occupations:</strong><br>Perform analytical, business, and financial activities such as accounting, analysis, and human‑resources planning." },
+    { code: "15-0000", label: "Computer and Mathematical Occupations", desc: "<strong>Computer and Mathematical Occupations:</strong><br>Design, develop, and test software or apply mathematical theory to data and systems problems." },
+    { code: "17-0000", label: "Architecture and Engineering Occupations", desc: "<strong>Architecture and Engineering Occupations:</strong><br>Design, build, and test structures, products, and systems. Includes architects, engineers, and drafters." },
+    { code: "19-0000", label: "Life, Physical, and Social Science Occupations", desc: "<strong>Life, Physical, and Social Science Occupations:</strong><br>Study living organisms, the physical world, and human behavior through research, analysis, and experiments." },
+    { code: "21-0000", label: "Community and Social Service Occupations", desc: "<strong>Community and Social Service Occupations:</strong><br>Provide counseling, social services, and mental‑health or religious support to individuals and communities." },
+    { code: "23-0000", label: "Legal Occupations", desc: "<strong>Legal Occupations:</strong><br>Represent parties, interpret law, and prepare legal documents. Includes lawyers, judges, and paralegals." },
+    { code: "25-0000", label: "Educational Instruction and Library Occupations", desc: "<strong>Educational Instruction and Library Occupations:</strong><br>Teach and instruct students or manage instructional resources and information services." },
+    { code: "27-0000", label: "Arts, Design, Entertainment, Sports, and Media Occupations", desc: "<strong>Arts, Design, Entertainment, Sports, and Media Occupations:</strong><br>Create and communicate ideas through art, design, performance, sports, broadcasting, or journalism." },
+    { code: "29-0000", label: "Healthcare Practitioners and Technical Occupations", desc: "<strong>Healthcare Practitioners and Technical Occupations:</strong><br>Diagnose and treat patients or provide specialized healthcare services such as therapy or technology support." },
+    { code: "31-0000", label: "Healthcare Support Occupations", desc: "<strong>Healthcare Support Occupations:</strong><br>Assist healthcare practitioners with basic patient care, therapy, and support services." },
+    { code: "33-0000", label: "Protective Service Occupations", desc: "<strong>Protective Service Occupations:</strong><br>Maintain public safety through law enforcement, firefighting, correctional, or security services." },
+    { code: "35-0000", label: "Food Preparation and Serving‑Related Occupations", desc: "<strong>Food Preparation and Serving‑Related Occupations:</strong><br>Prepare and serve food and beverages in restaurants, cafeterias, and related establishments." },
+    { code: "37-0000", label: "Building and Grounds Cleaning and Maintenance Occupations", desc: "<strong>Building and Grounds Cleaning and Maintenance Occupation:</strong><br>Keep buildings, grounds, and infrastructure clean, safe, and in good repair." },
+    { code: "39-0000", label: "Personal Care and Service Occupations", desc: "<strong>Personal Care and Service Occupations:</strong><br>Provide personal services such as grooming, child care, recreation, and wellness assistance." },
+    { code: "41-0000", label: "Sales and Related Occupations", desc: "<strong>Sales and Related Occupations:</strong><br>Sell goods and services, solicit donations, and coordinate sales operations in retail or wholesale settings." },
+    { code: "43-0000", label: "Office and Administrative Support Occupations", desc: "<strong>Office and Administrative Support Occupations:</strong><br>Perform clerical and administrative tasks that support organizational operations and recordkeeping." },
+    { code: "45-0000", label: "Farming, Fishing, and Forestry Occupations", desc: "<strong>Farming, Fishing, and Forestry Occupations:</strong><br>Cultivate crops, raise animals, catch fish, and manage forests or conservation activities." },
+    { code: "47-0000", label: "Construction and Extraction Occupations", desc: "<strong>Construction and Extraction Occupations:</strong><br>Build, repair, and demolish structures or extract natural resources via mining, drilling, and related activities." },
+    { code: "49-0000", label: "Installation, Maintenance, and Repair Occupations", desc: "<strong>Installation, Maintenance, and Repair Occupations:</strong><br>Install, maintain, and repair machines, equipment, and complex systems." },
+    { code: "51-0000", label: "Production Occupations", desc: "<strong>Production Occupations:</strong><br>Operate machinery and processes to manufacture goods and ensure quality control in production." },
+    { code: "53-0000", label: "Transportation and Material Moving Occupations", desc: "<strong>Transportation and Material Moving Occupations:</strong><br>Transport people and goods, operate vehicles and heavy equipment, and manage warehousing tasks." },
+    { code: "55-0000", label: "Military Specific Occupations", desc: "<strong>Military Specific Occupations:</strong><br>Occupations unique to the armed forces such as infantry, artillery, and command operations." }
+  ];
+
+  /* Fast look‑up maps keyed by *label* (still displayed text) */
+  const labelToDesc = new Map(socGroups.map(g => [g.label, g.desc]));
+  const allowedSet = new Set(labelToDesc.keys());
+
+  /* ---------------- Autocomplete set‑up ---------------- */
+  function initAutocomplete() {
+    $in.autocomplete({
+      source: socGroups,    // jQuery‑UI uses g.label for display automatically
+      minLength: 0
+    })
+      // 1️⃣  Open full list on first focus
+      .on("focus", function () {
+        jQuery(this).autocomplete("search", "");
+      })
+      // 2️⃣  On selection: populate value, show description, close list, enable Next
+      .on("autocompleteselect", function (e, ui) {
+        jQuery(this).val(ui.item.label);                     // ensure value is set
+        jQuery(this).autocomplete("close");                 // hide list immediately
+        showDescription(labelToDesc.get(ui.item.label));
+        validate();
+      })
+      // 3️⃣  Validate on typing or losing focus
+      .on("autocompletechange keyup blur", validate);
+  }
+
+  // Wait until jQuery‑UI is loaded
+  (function waitForUI() {
+    if (typeof jQuery.ui !== "undefined") { initAutocomplete(); }
+    else { setTimeout(waitForUI, 50); }
+  })();
+
+  /* --------------- Validation & description display --------------- */
+  function validate() {
+    const label = $in.val().trim();
+    const ok = allowedSet.has(label);
+
+    if (ok) {
+      q.enableNextButton();
+      $in.removeClass("soc-error");
+      jQuery("#socErrMsg").remove();
+    } else {
+      q.disableNextButton();
+      if (!$in.hasClass("soc-error")) {
+        $in.addClass("soc-error");
+        $in.after('<div id="socErrMsg" style="color:#d13a3a;font-size:0.9em;margin-top:4px;">' +
+          'Please choose a valid SOC code from the list.</div>');
+      }
+      hideDescription();
+    }
+  }
+
+  function showDescription(text) {
+    hideDescription();
+    $in.after('<div id="socDesc" style="margin-top:6px;font-size:0.9em;color:#555;">' + text + '</div>');
+  }
+
+  function hideDescription() {
+    jQuery("#socDesc").remove();
+  }
+
+  // Disable Next until a valid entry is chosen
+  q.disableNextButton();
+
+  /* ---------------- Responsive drop-down styling ---------------- */
+  jQuery("<style>")
+    .prop("type", "text/css")
+    .html(`
+      .ui-autocomplete {
+        max-height: 260px; overflow-y: auto; overflow-x: hidden;
+        scrollbar-width: thin; border-radius: 4px;
+        box-shadow: 0 4px 8px rgba(0,0,0,.12); z-index: 10000;
+      }
+      .ui-menu-item-wrapper.ui-state-hover,
+      .ui-menu-item-wrapper.ui-state-focus {
+        background: #c41e3a; color: #fff;
+      }
+      @media (max-width:480px)  { .ui-autocomplete { font-size: 14px; max-height: 220px; } }
+      @media (min-width:481px) and (max-width:768px) { .ui-autocomplete { font-size: 15px; } }
+      @media (min-width:769px)  { .ui-autocomplete { font-size: 16px; } }
+    `)
+    .appendTo("head");
+
+  /* Keep drop-down width equal to input on every open */
+  $in.on("autocompleteopen", function () {
+    jQuery(".ui-autocomplete").css("width", jQuery(this).outerWidth());
+  });
+});
+
+/* ---------------- Clean-up on page unload ---------------- */
+Qualtrics.SurveyEngine.addOnUnload(function () {
+  jQuery(".ui-autocomplete, #socDesc").remove();
+});
