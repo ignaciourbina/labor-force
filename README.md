@@ -20,3 +20,18 @@ This pipeline allows the survey to display personalized labor force statistics t
 - `oesem_may24_data/` – Raw BLS employment spreadsheets downloaded May 2024.
 - `frey_and_osborne18_data/` – Automation risk scores and crosswalks from Frey and Osborne (2018).
 - `API_database_laborforce/data_occup_foreign_extended.json` – Occupation foreign-share percentages merged with ONET synonyms.
+- `documentation/` – Detailed guides for each data-preparation script.
+- `run_pipeline.py` – Helper script that executes the pipelines in order.
+
+See [`documentation/README.md`](documentation/README.md) for an index of all
+available documentation.
+
+## Running the Data Pipeline
+
+To refresh all JSON datasets for the API, run:
+
+```bash
+python run_pipeline.py
+```
+
+Each step writes its outputs to `data_tables/` or `API_database_laborforce/`. See the Markdown files in `documentation/` for details on the logic of each stage.

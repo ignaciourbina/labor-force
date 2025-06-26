@@ -28,3 +28,10 @@ To retrieve all six‑digit occupations within a two‑digit major SOC group use
 ```
 http://localhost:8000/automation_family?major=15
 ```
+
+## Updating the JSON Files
+
+The JSON datasets in this folder are produced by the Python scripts in
+`../scripts`. Run `python ../run_pipeline.py` from the repository root to
+rebuild everything in the correct order. Each script writes its output back into
+this directory so the API can be restarted immediately with fresh data.
