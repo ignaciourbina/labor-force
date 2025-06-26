@@ -102,6 +102,7 @@ def automation_percentile(
             "automation_pctile": row.get("automation_pctile"),
             "major": row.get("major"),
             "minor": row.get("minor"),
+            "synonyms": row.get("synonyms", ""),
         }
     except KeyError:
         raise HTTPException(status_code=404, detail="Occupation code not found")
@@ -119,6 +120,7 @@ def occ_foreign_rate(
             "soc3": row.get("soc3", ""),
             "foreign_pct_soc3": row.get("foreign_pct_soc3"),
             "major": row.get("major"),
+            "synonyms": row.get("synonyms", ""),
         }
     except KeyError:
         raise HTTPException(status_code=404, detail="SOC code not found")

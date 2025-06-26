@@ -102,19 +102,38 @@ function renderMinorSocPage() {
     <select id="minor">
       <option value="">Loading...</option>
     </select>
+    <span class="tooltip">?
+      <span id="synonymsBox" class="tooltiptext"></span>
+    </span>
     <button id="next">Next</button>
   `;
 
   const select = div.querySelector('#minor');
+  const synBox = div.querySelector('#synonymsBox');
   fetchMinorSOC(major)
     .then(list => {
-      const opts = list.map(o => `<option value="${o.soc}">${o.occupation}</option>`).join('');
-      select.innerHTML = `<option value="">--choose--</option>` + opts;
+      select.innerHTML = '';
+      const defOpt = document.createElement('option');
+      defOpt.value = '';
+      defOpt.textContent = '--choose--';
+      select.appendChild(defOpt);
+      list.forEach(o => {
+        const opt = document.createElement('option');
+        opt.value = o.soc;
+        opt.textContent = o.occupation;
+        opt.dataset.synonyms = o.synonyms || '';
+        select.appendChild(opt);
+      });
     })
     .catch(err => {
       console.error(err);
       select.innerHTML = `<option value="">(failed to load)</option>`;
     });
+
+  select.addEventListener('change', () => {
+    const opt = select.selectedOptions[0];
+    synBox.textContent = opt ? opt.dataset.synonyms || '' : '';
+  });
 
   div.querySelector('#next').onclick = async () => {
     const minor = select.value;
