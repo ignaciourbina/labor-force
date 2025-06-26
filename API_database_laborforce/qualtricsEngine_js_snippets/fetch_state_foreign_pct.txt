@@ -1,0 +1,26 @@
+/* Snippet 3: Save foreign-born labor force share by state
+   -------------------------------------------------------
+   Looks up the respondent's state code through the
+   `/foreign_rate` endpoint and saves the percentage to the
+   `stateForeignPct` embedded data field.
+
+   Replace QID789 below with the question ID that captures the
+   two-letter state abbreviation.
+*/
+
+Qualtrics.SurveyEngine.addOnReady(async function() {
+  const state = '${q://QID789/ChoiceTextEntryValue}'; // <-- piped state
+  const url = 'https://iurbinah-soc-lookup-space.hf.space/foreign_rate?state=' + encodeURIComponent(state);
+
+  try {
+    const resp = await fetch(url);
+    if (resp.ok) {
+      const data = await resp.json();
+      Qualtrics.SurveyEngine.setEmbeddedData('stateForeignPct', data.foreign_pct);
+    } else {
+      console.error('state foreign fetch failed', resp.status);
+    }
+  } catch (err) {
+    console.error('state foreign fetch error', err);
+  }
+});
