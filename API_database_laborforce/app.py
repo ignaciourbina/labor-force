@@ -13,6 +13,8 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_FILE  = BASE_DIR / "data.json"             # occupation dataset
 STATE_FILE = BASE_DIR / "data_state_foreign.json"
 AUTO_FILE  = BASE_DIR / "data_occup_automation.json"
+AUTO_EXT_FILE = BASE_DIR / "data_occup_automation_extended.json"
+OCC_FOREIGN_FILE = BASE_DIR / "data_occup_foreign.json"
 # ────────────────────────────────────────────────────────────────
 
 app = FastAPI(
@@ -53,6 +55,13 @@ with AUTO_FILE.open(encoding="utf-8") as f:
     auto_rows = json.load(f)
 
 AUTO_INDEX: dict[str, dict] = {r["soc"]: r for r in auto_rows}
+
+with AUTO_EXT_FILE.open(encoding="utf-8") as f:
+    auto_ext_rows = json.load(f)
+
+AUTO_MAJOR_INDEX: dict[str, list[dict]] = {}
+for r in auto_ext_rows:
+    AUTO_MAJOR_INDEX.setdefault(r["major"], []).append(r)
 
 with OCC_FOREIGN_FILE.open(encoding="utf-8") as f:
     occ_rows = json.load(f)
@@ -103,4 +112,15 @@ def occ_foreign_rate(
         return OCC_FOREIGN_INDEX[soc]
     except KeyError:
         raise HTTPException(status_code=404, detail="SOC code not found")
+
+
+@app.get("/automation_family")
+def automation_family(
+    major: str = Query(..., min_length=2, max_length=2, description="Major SOC digits, e.g. 15")
+):
+    major = major.zfill(2)
+    try:
+        return AUTO_MAJOR_INDEX[major]
+    except KeyError:
+        raise HTTPException(status_code=404, detail="Major SOC code not found")
 
