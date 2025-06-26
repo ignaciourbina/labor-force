@@ -1,0 +1,4066 @@
+[
+  {
+    "soc": "43-3021",
+    "synonyms": "Billing Clerk, Billing Coordinator, Pre-Audit Clerk, Statement Clerk"
+  },
+  {
+    "soc": "51-2092",
+    "synonyms": "Assembler, Assembly Line Machine Operator, Assembly Line Worker, Assembly Technician"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-2036",
+    "synonyms": "CMD (Certified Medical Dosimetrist), Dosimetrist, Medical Dosimetrist, Medical Physicist"
+  },
+  {
+    "soc": "17-3029",
+    "synonyms": "NDE Technician (Non-Destructive Evaluation Technician), NDT Specialist (Non-Destructive Testing Specialist), NDT Technical Specialist (Non-Destructive Testing Technical Specialist), NDT Technician (Non-Destructive Testing Technician)"
+  },
+  {
+    "soc": "25-1062",
+    "synonyms": "Assistant Professor, Associate Professor, Professor, Women's Studies Professor"
+  },
+  {
+    "soc": "19-2043",
+    "synonyms": "Groundwater Consultant, Hydrogeologist, Hydrologist, Research Hydrologist"
+  },
+  {
+    "soc": "11-1021",
+    "synonyms": "General Manager (GM), Operations Director, Operations Manager, Store Manager"
+  },
+  {
+    "soc": "27-1022",
+    "synonyms": "Apparel Designer, Costume Designer, Designer, Fashion Designer"
+  },
+  {
+    "soc": "31-9092",
+    "synonyms": "Certified Medical Assistant (CMA), Chiropractor Assistant, Doctor's Assistant, Registered Medical Assistant (RMA)"
+  },
+  {
+    "soc": "43-4141",
+    "synonyms": "Financial Services Representative, Member Service Representative, New Accounts Representative, Personal Banker"
+  },
+  {
+    "soc": "33-9099",
+    "synonyms": "Loss Prevention Agent, Loss Prevention Associate (LPA), Loss Prevention Detective, Loss Prevention Officer"
+  },
+  {
+    "soc": "53-6031",
+    "synonyms": "Attendant, Fuel Dock Attendant, Gas Attendant, Service Station Attendant"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Energy Efficiency Engineer, Energy Engineer, Industrial Energy Engineer, Test and Balance Engineer"
+  },
+  {
+    "soc": "49-3092",
+    "synonyms": "Master Certified RV Technician (Master Certified Recreational Vehicle Technician), RV Repair Technician (Recreational Vehicle Repair Technician), RV Service Technician (Recreational Vehicle Service Technician), RV Technician (Recreational Vehicle Technician)"
+  },
+  {
+    "soc": "35-1012",
+    "synonyms": "Cafeteria Manager, Dietary Supervisor, Food Service Supervisor, Kitchen Manager"
+  },
+  {
+    "soc": "43-5021",
+    "synonyms": "Courier, Driver, Laboratory Courier, Messenger"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": "Cloud Product Director, Cybersecurity Project Manager, IT Manager (Information Technology Manager), IT Project Manager (Information Technology Project Manager)"
+  },
+  {
+    "soc": "31-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-3041",
+    "synonyms": "Academic Coach, Academic Guidance Specialist, Professional Tutor, Tutor"
+  },
+  {
+    "soc": "51-3091",
+    "synonyms": "Coffee Roaster, Machine Operator, Roaster, Roasterman"
+  },
+  {
+    "soc": "25-1064",
+    "synonyms": "Associate Professor, Geography Instructor, Geography Professor, Professor"
+  },
+  {
+    "soc": "19-5011",
+    "synonyms": "Industrial Hygiene Consultant, Industrial Hygienist, Safety Consultant, Safety Specialist"
+  },
+  {
+    "soc": "17-3023",
+    "synonyms": "Electronics Engineering Technician, Engineering Technician (Engineering Tech), Engineering Technologist, Technologist"
+  },
+  {
+    "soc": "47-2072",
+    "synonyms": "Pile Driver, Pile Driver Operator, Pile Driving Operator"
+  },
+  {
+    "soc": "41-9091",
+    "synonyms": "Direct Sales Coach, Door-to-Door Sales Trainer, Independent Sales Associate, Independent Sales Representative"
+  },
+  {
+    "soc": "13-1081",
+    "synonyms": "Logistics Analyst, Logistics Management Analyst, Supply Chain Analyst, Transportation Analyst"
+  },
+  {
+    "soc": "29-2057",
+    "synonyms": "Certified Ophthalmic Surgical Assistant, Certified Ophthalmic Technician (COT), Ophthalmic Assistant, Ophthalmic Tech (Ophthalmic Technician)"
+  },
+  {
+    "soc": "51-9071",
+    "synonyms": "Diamond Cutter, Diamond Setter, Gemologist, Lapidarist"
+  },
+  {
+    "soc": "25-1031",
+    "synonyms": "Architecture Professor, Assistant Professor, Associate Professor, Professor"
+  },
+  {
+    "soc": "17-2161",
+    "synonyms": "Engineer, Nuclear Engineer, Nuclear Licensing Engineer, Nuclear Reactor Engineer"
+  },
+  {
+    "soc": "45-4011",
+    "synonyms": "Forest Ranger, Forestry Support Specialist, Tree Farmer, Tree Planter"
+  },
+  {
+    "soc": "49-9044",
+    "synonyms": "Maintenance Millwright, Millwright, Millwright Foreman, Millwright Instructor"
+  },
+  {
+    "soc": "21-1014",
+    "synonyms": "Clinician, Counselor, Mental Health Specialist, Mental Health Therapist"
+  },
+  {
+    "soc": "45-2093",
+    "synonyms": "Cowboy, Herdsman, Livestock Handler, Ranch Hand"
+  },
+  {
+    "soc": "51-3092",
+    "synonyms": "Batching Operator, Blender, Mixer, Mixer Operator"
+  },
+  {
+    "soc": "49-9097",
+    "synonyms": "Signal Inspector, Signal Maintainer, Signalman, Train Control Electronic Technician"
+  },
+  {
+    "soc": "49-9091",
+    "synonyms": "Field Service Technician, Service Technician, Slot Technician, Vending Technician"
+  },
+  {
+    "soc": "39-1013",
+    "synonyms": "Casino Shift Manager (CSM), Floor Supervisor, Slot Supervisor, Table Games Supervisor"
+  },
+  {
+    "soc": "15-1231",
+    "synonyms": "Network Specialist, Network Technical Analyst, Network Technician, Systems Specialist"
+  },
+  {
+    "soc": "49-3011",
+    "synonyms": "Aircraft Mechanic, Aircraft Technician, Airframe and Powerplant Mechanic (A and P Mechanic), Aviation Mechanic"
+  },
+  {
+    "soc": "13-1071",
+    "synonyms": "HR Coordinator (Human Resources Coordinator), HR Generalist (Human Resources Generalist), Human Resources Specialist (HR Specialist), Recruiter"
+  },
+  {
+    "soc": "23-2093",
+    "synonyms": "Abstractor, Title Examiner, Title Officer, Title Searcher"
+  },
+  {
+    "soc": "27-4032",
+    "synonyms": "Editor, Film Editor, News Editor, Video Editor"
+  },
+  {
+    "soc": "31-1133",
+    "synonyms": "Mental Health Worker (MHW), Psychiatric Aide, Residential Care Tech (Residential Care Technician), Therapeutic Program Worker (TPW)"
+  },
+  {
+    "soc": "51-6063",
+    "synonyms": "Knitter, Machine Operator, Tufting Operator, Weaver"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-3031",
+    "synonyms": "Account Clerk, Accounting Assistant, Accounting Clerk, Accounts Payables Clerk"
+  },
+  {
+    "soc": "21-1022",
+    "synonyms": "Clinical Social Worker, Hospice Social Worker, Medical Social Worker, Social Worker"
+  },
+  {
+    "soc": "17-2071",
+    "synonyms": "Design Engineer, Electrical Design Engineer, Electrical Engineer, Project Engineer"
+  },
+  {
+    "soc": "29-1125",
+    "synonyms": "Certified Therapeutic Recreation Specialist (CTRS), Recreation Therapist, Recreational Therapist, Rehabilitation Therapist"
+  },
+  {
+    "soc": "53-7065",
+    "synonyms": "Checker Stocker, Order Filler, Stock Clerk, Stocker"
+  },
+  {
+    "soc": "11-9039",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "43-5052",
+    "synonyms": "City Letter Carrier, Letter Carrier, Mail Carrier, Rural Carrier Associate (RCA)"
+  },
+  {
+    "soc": "17-1012",
+    "synonyms": "Golf Course Architect, Land Planner, Landscape Architect, Landscape Planner"
+  },
+  {
+    "soc": "51-8011",
+    "synonyms": "Nuclear Control Operator, Nuclear Reactor Operator, Nuclear Station Operator (NSO), Reactor Operator (RO)"
+  },
+  {
+    "soc": "53-3053",
+    "synonyms": "Chauffeur, Driver, Shuttle Bus Driver, Shuttle Driver"
+  },
+  {
+    "soc": "39-3091",
+    "synonyms": "Golf Course Ranger, Recreation Attendant, Ride Operator, Ski Lift Operator"
+  },
+  {
+    "soc": "35-2019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-9197",
+    "synonyms": "Retread Technician, Tire Builder, Tire Retreader, Tire Technician"
+  },
+  {
+    "soc": "51-9041",
+    "synonyms": "Extruder Operator, Extrusion Operator, Machine Operator, Press Operator"
+  },
+  {
+    "soc": "19-2041",
+    "synonyms": "Climate Analyst, Climate and Energy Program Associate, Environmental Policy Analyst, Policy Analyst"
+  },
+  {
+    "soc": "55-1011",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-3021",
+    "synonyms": "Information Systems Director (IS Director), Information Systems Manager (IS Manager), Information Technology Director (IT Director), Information Technology Manager (IT Manager)"
+  },
+  {
+    "soc": "11-3071",
+    "synonyms": "Global Supply Chain Director, Material Requirements Planning Manager, Supply Chain Director, Supply Chain Manager"
+  },
+  {
+    "soc": "19-3039",
+    "synonyms": "Clinical Neuropsychologist, Pediatric Clinical Neuropsychologist, Pediatric Neuropsychologist, Staff Psychologist"
+  },
+  {
+    "soc": "25-1054",
+    "synonyms": "Instructor, Physics Instructor, Physics Professor, Professor"
+  },
+  {
+    "soc": "51-6052",
+    "synonyms": "Alterations Sewer, Dressmaker, Seamstress, Tailor"
+  },
+  {
+    "soc": "47-2044",
+    "synonyms": "Tile and Marble Installer, Tile Installer, Tile Mechanic, Tile Setter"
+  },
+  {
+    "soc": "31-9097",
+    "synonyms": "Lab Liaison Technician, Mobile Examiner, Phlebotomist, Phlebotomy Technician"
+  },
+  {
+    "soc": "17-3029",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "45-4029",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "15-2051",
+    "synonyms": "Business Intelligence Analyst (BI Analyst), Competitive Intelligence Analyst, Intelligence Analyst, Market Intelligence Consultant"
+  },
+  {
+    "soc": "53-4031",
+    "synonyms": "Conductor, Freight Conductor, Railroad Conductor, Yardmaster"
+  },
+  {
+    "soc": "39-3011",
+    "synonyms": "Blackjack Dealer, Casino Dealer, Table Games Dealer, Twenty-One Dealer"
+  },
+  {
+    "soc": "25-1112",
+    "synonyms": "Associate Professor, Instructor, Law Professor, Professor"
+  },
+  {
+    "soc": "53-7063",
+    "synonyms": "Dryer Feeder, Feeder, Machine Feeder, Offbearer"
+  },
+  {
+    "soc": "39-1022",
+    "synonyms": "Aquatics Supervisor, Clinical Care Coordinator, Direct Care Supervisor, Resident Care Supervisor"
+  },
+  {
+    "soc": "19-3039",
+    "synonyms": "Board Certified Neuropsychologist, Neuropsychologist, Pediatric Neuropsychologist, Staff Psychologist"
+  },
+  {
+    "soc": "49-9041",
+    "synonyms": "Industrial Machinery Mechanic, Maintenance Technician, Mechanic, Overhauler"
+  },
+  {
+    "soc": "13-1199",
+    "synonyms": "Online Services Manager"
+  },
+  {
+    "soc": "51-1011",
+    "synonyms": "Assembly Supervisor, Manufacturing Supervisor, Production Manager, Production Supervisor"
+  },
+  {
+    "soc": "13-2061",
+    "synonyms": "Bank Examiner, Bank Secrecy Act Anti-Money Laundering Officer (BSA/AML Officer), Credit Union Examiner, Examining Officer"
+  },
+  {
+    "soc": "39-7011",
+    "synonyms": "Docent, Historical Interpreter, Museum Guide, Tour Guide"
+  },
+  {
+    "soc": "43-5031",
+    "synonyms": "Communications Officer, Communications Operator, Public Safety Dispatcher, Telecommunicator"
+  },
+  {
+    "soc": "29-2042",
+    "synonyms": "Emergency Medical Technician (EMT), First Responder"
+  },
+  {
+    "soc": "51-8012",
+    "synonyms": "Power System Dispatcher, Power System Operator, Systems Operator, Transmission System Operator (TSO)"
+  },
+  {
+    "soc": "51-4072",
+    "synonyms": "Machine Operator, Molder, Process Technician, Production Technician"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Process Engineer, Product Design Engineer, Project Engineer, Radio Frequency Design Engineer (RF Design Engineer)"
+  },
+  {
+    "soc": "21-1029",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-1069",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-8031",
+    "synonyms": "Process Operator (Process Op), Wastewater Operator (WW Operator), Water Plant Operator, Water Treatment Plant Operator"
+  },
+  {
+    "soc": "37-1011",
+    "synonyms": "Environmental Services Supervisor (EVS), Executive Housekeeper, Housekeeping Supervisor, Maintenance Supervisor"
+  },
+  {
+    "soc": "51-9195",
+    "synonyms": "Carver, Sandblaster, Stone Carver, Stone Cutter"
+  },
+  {
+    "soc": "45-2011",
+    "synonyms": "Brand Inspector, Consumer Safety Inspector (CSI), Grain Inspector, Inspector"
+  },
+  {
+    "soc": "29-1023",
+    "synonyms": "Orthodontic Dentist, Orthodontic Specialist, Orthodontics Doctor, Orthodontist"
+  },
+  {
+    "soc": "27-4014",
+    "synonyms": "Audio Engineer, Mixer, Recording Engineer, Sound Engineer"
+  },
+  {
+    "soc": "21-1091",
+    "synonyms": "Clinical Instructor, Health Education Specialist, Health Educator, Public Health Educator"
+  },
+  {
+    "soc": "51-6061",
+    "synonyms": "Dye Machine Operator, Dye Operator, Dyer, Machine Operator (Machine Op)"
+  },
+  {
+    "soc": "29-2035",
+    "synonyms": "MRI Coordinator (Magnetic Resonance Imaging Coordinator), MRI QA Coordinator (Magnetic Resonance Imaging Quality Assurance Coordinator), MRI Tech (Magnetic Resonance Imaging Technician), MRI Technologist (Magnetic Resonance Imaging Technologist)"
+  },
+  {
+    "soc": "55-3018",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-9022",
+    "synonyms": "Chipper, Finisher, Grinder, Polisher"
+  },
+  {
+    "soc": "27-2091",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-9096",
+    "synonyms": "Animal Care Provider, Animal Caregiver, Certified Veterinary Assistant, Veterinarian Assistant (Vet Assistant)"
+  },
+  {
+    "soc": "39-5092",
+    "synonyms": "Manicurist, Nail Technician (Nail Tech), Pedicurist"
+  },
+  {
+    "soc": "15-1212",
+    "synonyms": "Information Security Officer, Information Systems Security Officer (ISSO), Information Technology Security Analyst (IT Security Analyst), Network Security Analyst"
+  },
+  {
+    "soc": "33-3012",
+    "synonyms": "Correctional Officer, Corrections Officer (CO), Detention Officer, Jailer"
+  },
+  {
+    "soc": "39-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-2053",
+    "synonyms": "Account Underwriter, Life Underwriter, Personal Lines Underwriter, Underwriter"
+  },
+  {
+    "soc": "29-9021",
+    "synonyms": "Medical Records Analyst, Medical Records Director"
+  },
+  {
+    "soc": "29-1131",
+    "synonyms": "Doctor of Veterinary Medicine (DVM), Emergency Veterinarian (Emergency Vet), Small Animal Veterinarian (Small Animal Vet), Veterinary Medicine Doctor (DVM)"
+  },
+  {
+    "soc": "25-1065",
+    "synonyms": "Associate Professor, Political Science Instructor, Political Science Professor, Professor"
+  },
+  {
+    "soc": "49-9094",
+    "synonyms": "Certified Master Locksmith (CML), Lock Technician, Locksmith, Safe Technician"
+  },
+  {
+    "soc": "51-4051",
+    "synonyms": "Central Melt Specialist, Furnace Operator, Melter, Vacuum Melter"
+  },
+  {
+    "soc": "51-6041",
+    "synonyms": "Boot Maker, Cobbler, Shoe Maker, Shoe Repairer"
+  },
+  {
+    "soc": "49-2022",
+    "synonyms": "Central Office Technician, Install and Repair Technician, Service Technician, Telecommunications Technician"
+  },
+  {
+    "soc": "45-4023",
+    "synonyms": "Log Buyer, Log Grader, Log Scaler, Scaler"
+  },
+  {
+    "soc": "19-2032",
+    "synonyms": "Materials Research Engineer, Materials Scientist, Research Scientist, Scientist"
+  },
+  {
+    "soc": "55-1012",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "47-2142",
+    "synonyms": "Bill Poster, Paper Hanger, Paperhanger, Wallpaper Hanger"
+  },
+  {
+    "soc": "29-1291",
+    "synonyms": "Acupuncture Physician, Acupuncturist, Herbalist, Licensed Acupuncturist (LAC)"
+  },
+  {
+    "soc": "21-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-6042",
+    "synonyms": "Boot Maker, Inseamer, Side Laster, Stitcher"
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "Allergist, Immunologist, MD (Medical Doctor), Physician"
+  },
+  {
+    "soc": "29-9091",
+    "synonyms": "Athletic Instructor, Athletic Trainer, Certified Athletic Trainer, Personal Trainer"
+  },
+  {
+    "soc": "55-3014",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-7099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "33-3011",
+    "synonyms": "Bailiff, Court Bailiff, Court Officer, Court Security Officer"
+  },
+  {
+    "soc": "29-1081",
+    "synonyms": "Doctor of Podiatric Medicine (DPM), Doctor Podiatric Medicine (DPM), Podiatric Surgeon, Podiatrist"
+  },
+  {
+    "soc": "13-1074",
+    "synonyms": "Farm Labor Contractor, Field Manager, Field Supervisor"
+  },
+  {
+    "soc": "53-7061",
+    "synonyms": "Automotive Detailer (Auto Detailer), Car Washer, Detailer, Reconditioner"
+  },
+  {
+    "soc": "15-2031",
+    "synonyms": "Analytical Strategist, Operations Research Analyst (Ops Research Analyst), Operations Research Scientist (Ops Research Scientist), Researcher"
+  },
+  {
+    "soc": "33-9092",
+    "synonyms": "Lifeguard, Ocean Lifeguard, Pool Attendant, Ski Patroller"
+  },
+  {
+    "soc": "11-3031",
+    "synonyms": "Fixed Income Portfolio Manager, Fixed Income Vice President (Fixed Income VP), Investment Analysis Vice President (Investment Analysis VP), Portfolio Manager"
+  },
+  {
+    "soc": "51-4192",
+    "synonyms": "Layout Inspector, Layout Man, Layout Technician (Layout Tech), Layout Worker"
+  },
+  {
+    "soc": "17-2072",
+    "synonyms": "Design Engineer, Integrated Circuit Design Engineer (IC Design Engineer), Product Engineer, Test Engineer"
+  },
+  {
+    "soc": "51-8093",
+    "synonyms": "Gauger, Operator, Pumper, Refinery Operator"
+  },
+  {
+    "soc": "25-1081",
+    "synonyms": "Assistant Professor, Associate Professor, Education Professor, Professor"
+  },
+  {
+    "soc": "39-2011",
+    "synonyms": "Dog Trainer, Guide Dog Mobility Instructor (GDMI), Horse Trainer, Trainer"
+  },
+  {
+    "soc": "27-2021",
+    "synonyms": "Baseball Player, Golf Professional, Hockey Player, Race Car Driver"
+  },
+  {
+    "soc": "33-9021",
+    "synonyms": "Investigator, Loss Prevention Detective, Loss Prevention Officer, Private Investigator"
+  },
+  {
+    "soc": "53-2012",
+    "synonyms": "Captain, Commercial Pilot, Helicopter Pilot, Pilot"
+  },
+  {
+    "soc": "49-3053",
+    "synonyms": "Mechanic, Outdoor Power Equipment Service Technician, Service Technician (Service Tech), Small Engine Mechanic"
+  },
+  {
+    "soc": "21-1012",
+    "synonyms": "Academic Advisor, Career Counselor, Guidance Counselor, School Counselor"
+  },
+  {
+    "soc": "49-9012",
+    "synonyms": "Instrument and Electrical Technician (I and E Technician), Measurement Technician, Meter Technician, Valve Technician"
+  },
+  {
+    "soc": "29-1217",
+    "synonyms": "Adult and Pediatric Neurologist, Neurologist, Pediatric Neurologist, Physician"
+  },
+  {
+    "soc": "51-3093",
+    "synonyms": "Fryer Operator, Kettle Fry Cook Operator, Machine Operator, Retort Operator"
+  },
+  {
+    "soc": "27-1012",
+    "synonyms": "Artist, Designer, Furniture Maker, Glass Artist"
+  },
+  {
+    "soc": "47-5043",
+    "synonyms": "Bolter, Roof Bolter, Roof Bolter Operator, Underground Roof Bolter"
+  },
+  {
+    "soc": "27-2042",
+    "synonyms": "Choir Member, Musician, Singer, Violinist"
+  },
+  {
+    "soc": "25-2055",
+    "synonyms": "Emotional Disabilities Teacher, Learning Support Teacher, Resource Program Teacher, Special Education Inclusion Teacher"
+  },
+  {
+    "soc": "25-2023",
+    "synonyms": "Family and Consumer Sciences Teacher (FACS Teacher), Teacher, Technology Education Teacher (Tech Ed Teacher), Technology Teacher"
+  },
+  {
+    "soc": "49-1011",
+    "synonyms": "Maintenance Foreman, Maintenance Manager, Maintenance Supervisor, Service Manager"
+  },
+  {
+    "soc": "33-3021",
+    "synonyms": "Criminal Investigator, Detective, Investigator, Special Agent"
+  },
+  {
+    "soc": "19-4092",
+    "synonyms": "Crime Scene Technician (Crime Scene Tech), Criminalist, CSI (Crime Scene Investigator), Forensic Scientist"
+  },
+  {
+    "soc": "37-3013",
+    "synonyms": "Arborist, Groundsman, Tree Climber, Tree Trimmer"
+  },
+  {
+    "soc": "39-4011",
+    "synonyms": "Embalmer, Licensed Embalmer, Trade Embalmer"
+  },
+  {
+    "soc": "25-3011",
+    "synonyms": "Adult Basic Education Instructor (ABE Instructor), ESL Instructor (English as a Second Language Instructor), GED Instructor (General Educational Development Instructor), Teacher"
+  },
+  {
+    "soc": "27-4012",
+    "synonyms": "Board Operator, Broadcast Engineer, Broadcast Technician, Control Operator"
+  },
+  {
+    "soc": "11-3131",
+    "synonyms": "L and D Director (Learning and Development Director), Learning Manager, Training Director, Training Manager"
+  },
+  {
+    "soc": "35-1011",
+    "synonyms": "Chef, Cook, Executive Chef (Ex Chef), Sous Chef"
+  },
+  {
+    "soc": "27-3011",
+    "synonyms": "Anchor, Announcer, News Anchor, Television News Anchor (TV News Anchor)"
+  },
+  {
+    "soc": "51-9032",
+    "synonyms": "Cutter, Cutter Operator, Machine Operator, Paper Cutter"
+  },
+  {
+    "soc": "29-1299",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "17-2051",
+    "synonyms": "Engineer, Project Engineer, Traffic Engineer, Transportation Engineer"
+  },
+  {
+    "soc": "29-1223",
+    "synonyms": "Child Psychiatrist, Outpatient Psychiatrist, Psychiatrist, Staff Psychiatrist"
+  },
+  {
+    "soc": "51-4193",
+    "synonyms": "Anodizer, Chrome Plater, Electro Plater, Plater"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Laser Engineer, Optical Design Engineer, Optical Engineer, Optical Systems Engineer"
+  },
+  {
+    "soc": "29-1051",
+    "synonyms": "Clinical Pharmacist, Hospital Pharmacist, Pharm D (Pharmacy Doctor), Pharmacist in Charge (PIC)"
+  },
+  {
+    "soc": "53-6021",
+    "synonyms": "Parking Attendant, Parking Lot Attendant, Valet Attendant, Valet Parker"
+  },
+  {
+    "soc": "25-1192",
+    "synonyms": "Assistant Professor, Associate Professor, Instructor, Professor"
+  },
+  {
+    "soc": "29-2061",
+    "synonyms": "Charge Nurse, Clinic Nurse, Licensed Vocational Nurse (LVN), Pediatric LPN (Pediatric Licensed Practical Nurse)"
+  },
+  {
+    "soc": "27-1019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "49-9071",
+    "synonyms": "Facilities Technician, Maintenance Engineer, Maintenance Mechanic, Maintenance Technician"
+  },
+  {
+    "soc": "25-4031",
+    "synonyms": "Library Assistant, Library Associate, Library Technical Assistant (LTA), Library Technician"
+  },
+  {
+    "soc": "25-1113",
+    "synonyms": "Assistant Professor, Professor, Social Work Associate Professor, Social Work Professor"
+  },
+  {
+    "soc": "49-9062",
+    "synonyms": "Biomedical Electronics Technician (Biomed Electronics Tech), Biomedical Equipment Technician (BMET), Biomedical Technician (Biomed Tech), Service Technician (Service Tech)"
+  },
+  {
+    "soc": "19-3091",
+    "synonyms": "Archaeologist, Communication and Folklore Specialist, Forensic Anthropologist, Researcher"
+  },
+  {
+    "soc": "13-1082",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-2011",
+    "synonyms": "Cytologist, Cytology Applications Specialist, Cytology Coordinator, Cytotechnologist"
+  },
+  {
+    "soc": "29-1128",
+    "synonyms": "Clinical Exercise Physiologist, Exercise Physiologist, Exercise Specialist, Lifestyle and Weight Management Consultant"
+  },
+  {
+    "soc": "19-4021",
+    "synonyms": "Biological Technician, Laboratory Technician, Research Associate, Research Technician"
+  },
+  {
+    "soc": "29-1224",
+    "synonyms": "Diagnostic Radiologist, Nuclear Medicine Physician, Physician, Radiologist"
+  },
+  {
+    "soc": "43-5061",
+    "synonyms": "Expeditor, Materials Planner, Production Planner, Production Scheduler"
+  },
+  {
+    "soc": "31-1122",
+    "synonyms": "Caregiver, Home Care Aide, Personal Care Aide, Personal Care Attendant (PCA)"
+  },
+  {
+    "soc": "29-2034",
+    "synonyms": "Computed Tomography Technologist (CT Tech), Radiographer, Radiologic Technologist (RT), X-Ray Technologist (X-Ray Tech)"
+  },
+  {
+    "soc": "53-6061",
+    "synonyms": "Bus Aide, Bus Assistant, Bus Attendant, Bus Monitor"
+  },
+  {
+    "soc": "53-7041",
+    "synonyms": "Hoist Operator, Hoistman, Material Handler, Service Operator"
+  },
+  {
+    "soc": "27-2012",
+    "synonyms": "News Technical Director, Production Director, Production Manager, Technical Director"
+  },
+  {
+    "soc": "17-2112",
+    "synonyms": "Quality Assurance Engineer, Quality Engineer, Quality Management Systems Engineer, Supplier Quality Engineer"
+  },
+  {
+    "soc": "23-1023",
+    "synonyms": "District Court Judge, Judge, Magistrate, Superior Court Judge"
+  },
+  {
+    "soc": "47-4011",
+    "synonyms": "Building Code Administrator, Building Inspector, Building Official, Construction Inspector"
+  },
+  {
+    "soc": "21-1013",
+    "synonyms": "Clinical Therapist, Licensed Marriage and Family Therapist (LMFT), Marriage and Family Therapist (MFT), Outpatient Therapist"
+  },
+  {
+    "soc": "47-2152",
+    "synonyms": "Pipefitter, Plumber, Sprinkler Fitter, Steamfitter"
+  },
+  {
+    "soc": "11-3051",
+    "synonyms": "Biofuels Production Manager, Plant Manager, Production Coordinator, Production Manager"
+  },
+  {
+    "soc": "29-1249",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "45-4021",
+    "synonyms": "Logger, Timber Cutter, Timber Faller, Tree Faller"
+  },
+  {
+    "soc": "11-9041",
+    "synonyms": "Analytical Research Program Manager, Biodiesel Division Manager, Laboratory Manager (Lab Manager), Project Development Director"
+  },
+  {
+    "soc": "17-2141",
+    "synonyms": "Design Engineer, Mechanical Engineer, Product Engineer, Project Engineer"
+  },
+  {
+    "soc": "47-5011",
+    "synonyms": "Derrick Hand, Derrick Man, Derrick Operator, Floor Hand"
+  },
+  {
+    "soc": "29-1218",
+    "synonyms": "MD (Medical Doctor), OBGYN (Obstetrician and Gynecologist), OBGYN Physician (Obstetrics and Gynecology Physician), Physician"
+  },
+  {
+    "soc": "53-4022",
+    "synonyms": "Brakeman, Locomotive Switch Operator, Railroad Switchman, Trainman"
+  },
+  {
+    "soc": "43-9051",
+    "synonyms": "Mail Clerk, Mail Handler, Mail Machine Operator, Postal Clerk"
+  },
+  {
+    "soc": "25-1041",
+    "synonyms": "Agriculture Professor, Associate Professor, Instructor, Professor"
+  },
+  {
+    "soc": "17-3027",
+    "synonyms": "Laboratory Technician (Lab Technician), Research Technician"
+  },
+  {
+    "soc": "47-5099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "49-2093",
+    "synonyms": "Critical Systems Technician, Electronic Bench Technician, Locomotive Electrician, Power Technician (Power Tech)"
+  },
+  {
+    "soc": "27-1011",
+    "synonyms": "Art Director, Creative Director (CD Director), Creative Services Director, Design Director"
+  },
+  {
+    "soc": "51-9012",
+    "synonyms": "Brewer, Cellar Worker, Machine Tender, Pulper Operator"
+  },
+  {
+    "soc": "15-2041",
+    "synonyms": "Database Analyst, Mathematical Statistician, Statistical Analyst, Statistician"
+  },
+  {
+    "soc": "29-1031",
+    "synonyms": "Clinical Dietitian, Dietitian, Nutritionist, Registered Dietitian"
+  },
+  {
+    "soc": "53-7072",
+    "synonyms": "Outside Operator, Pipeline Operator, Pumper, Tank Farm Operator"
+  },
+  {
+    "soc": "33-3041",
+    "synonyms": "Parking Control Officer, Parking Enforcement Officer (PEO), Parking Enforcer, Ticket Writer"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "Asset Protection Manager, Loss Prevention Director, Loss Prevention Manager, Loss Prevention Operations Manager"
+  },
+  {
+    "soc": "21-1023",
+    "synonyms": "Case Manager, Mental Health Therapist, Social Worker, Therapist"
+  },
+  {
+    "soc": "15-1255",
+    "synonyms": "Design Director, Designer, Game Designer, World Designer"
+  },
+  {
+    "soc": "39-6012",
+    "synonyms": "Chef Concierge, Club Concierge, Guest Service Agent, Hotel Concierge"
+  },
+  {
+    "soc": "41-3031",
+    "synonyms": "Broker, Equity Trader, Financial Advisor, Financial Consultant"
+  },
+  {
+    "soc": "51-2011",
+    "synonyms": "Assembler, Sheet Metal Assembler and Riveter (SMAR), Sheet Metal Mechanic, Structures Technician"
+  },
+  {
+    "soc": "11-3051",
+    "synonyms": "Plant Manager, Plant Supervisor, Power Plant Operations Manager"
+  },
+  {
+    "soc": "19-1041",
+    "synonyms": "Epidemiologist, Infection Control Practitioner (ICP), Nurse Epidemiologist, Research Epidemiologist"
+  },
+  {
+    "soc": "19-3094",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-4023",
+    "synonyms": "Mill Operator, Rolling Mill Operator, Roughing Mill Operator, Tube Mill Operator"
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Affirmative Action Officer (AA Officer), Civil Rights Investigator, Equal Employment Opportunity Officer (EEO Officer), Equal Opportunity Specialist"
+  },
+  {
+    "soc": "53-4011",
+    "synonyms": "Locomotive Engineer, Passenger Locomotive Engineer, Railroad Engineer, Transportation Specialist"
+  },
+  {
+    "soc": "41-9012",
+    "synonyms": "Art Model, Artist's Model, Figure Model, Model"
+  },
+  {
+    "soc": "19-2041",
+    "synonyms": "Ecologist, Environmental Consultant, Environmental Protection Agency Counselor, Research Scientist"
+  },
+  {
+    "soc": "43-5011",
+    "synonyms": "Air Export Agent, Air Export Coordinator, Freight Forwarder, GSA Coordinator (General Services Administration Coordinator)"
+  },
+  {
+    "soc": "51-9051",
+    "synonyms": "Dry Kiln Operator, Furnace Operator, Kiln Fireman, Kiln Operator"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "Brownfield Program Director, Brownfield Redevelopment Coordinator, Brownfields Practice Leader, Environmental Program Manager"
+  },
+  {
+    "soc": "43-6013",
+    "synonyms": "Medical Receptionist, Medical Secretary, Unit Clerk, Unit Support Representative"
+  },
+  {
+    "soc": "49-3051",
+    "synonyms": "Marine Mechanic, Marine Technician, Mechanic, Service Technician"
+  },
+  {
+    "soc": "15-1241",
+    "synonyms": "Computer Network Technologist, Network Analyst, Solutions Architect, Systems Engineer"
+  },
+  {
+    "soc": "25-9021",
+    "synonyms": "4-H Youth Development Specialist, Extension Agent, Extension Educator, Family and Consumer Sciences Extension Agent"
+  },
+  {
+    "soc": "51-5113",
+    "synonyms": "Binder Operator, Bindery Operator, Bindery Worker, Book Binder"
+  },
+  {
+    "soc": "29-9092",
+    "synonyms": "Certified Genetic Counselor, Genetic Counselor, Prenatal and Pediatric Genetic Counselor, Reproductive Genetic Counseling Coordinator"
+  },
+  {
+    "soc": "43-4171",
+    "synonyms": "Front Desk Receptionist, Greeter, Office Assistant, Receptionist"
+  },
+  {
+    "soc": "17-2081",
+    "synonyms": "Engineer, Environmental Engineer, Environmental Remediation Specialist, Sanitary Engineer"
+  },
+  {
+    "soc": "51-9023",
+    "synonyms": "Blender, Machine Operator, Mixer, Mixer Operator"
+  },
+  {
+    "soc": "53-1049",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "53-3031",
+    "synonyms": "Driver, Driver Salesman, Route Driver, Route Salesman"
+  },
+  {
+    "soc": "25-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "49-2021",
+    "synonyms": "Radio Frequency Technician (RF Tech), Radio Technician (Radio Tech), Tower Technician (Tower Tech), Two-Way Radio Technician (Two-Way Radio Tech)"
+  },
+  {
+    "soc": "43-5032",
+    "synonyms": "City Dispatcher, Dispatcher (Dispatch), Taxi Dispatcher, Train Dispatcher"
+  },
+  {
+    "soc": "17-2041",
+    "synonyms": "Chemical Engineer, Engineer, Process Engineer, Scientist"
+  },
+  {
+    "soc": "39-5091",
+    "synonyms": "Hair and Makeup Designer, Makeup Artist, Special Effects Makeup Artist, Special Makeup Effects Artist"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-2012",
+    "synonyms": "Artistic Director, Casting Agent, Casting Coordinator, Casting Director"
+  },
+  {
+    "soc": "53-6032",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-4081",
+    "synonyms": "Cell Technician, CNC Machine Setter (Computer Numerically Controlled Machine Setter), Machine Operator, Machine Technician"
+  },
+  {
+    "soc": "17-3011",
+    "synonyms": "Architectural Drafter, Civil Drafter, Computer-Aided Drafting Designer (CAD Designer), Draftsman"
+  },
+  {
+    "soc": "11-3071",
+    "synonyms": "Distribution Center Manager, Fleet Manager, Logistics Operations Manager, Supply Chain Logistics Manager"
+  },
+  {
+    "soc": "11-2011",
+    "synonyms": "Advertising Manager (Ad Manager), Communications Manager, Promotions Director, Promotions Manager"
+  },
+  {
+    "soc": "31-9099",
+    "synonyms": "Certified Endo Tech (Certified Endoscopy Technician), Certified Flexible Endoscope Reprocessor (CFER), Endoscopy Technician (Endoscopy Tech), GI Tech (Gastrointestinal Technician)"
+  },
+  {
+    "soc": "51-9162",
+    "synonyms": "CAD CAM Programmer (Computer-Aided Design Computer-Aided Manufacturing Programmer), Computer Numerical Control Machinist (CNC Machinist), Computer Numerical Control Programmer (CNC Programmer), Programmer"
+  },
+  {
+    "soc": "29-1129",
+    "synonyms": "Board Certified Music Therapist (MT-BC), LCAT (Licensed Creative Arts Therapist), Music Therapist, Neurologic Music Therapist"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Automation Engineer, Autonomous Vehicle Design Engineer, Design Engineer, Factory Automations Engineer"
+  },
+  {
+    "soc": "29-1299",
+    "synonyms": "Certified Orthoptist, Clinical Orthoptist (CO), Orthoptist"
+  },
+  {
+    "soc": "43-4061",
+    "synonyms": "Eligibility Specialist, Eligibility Worker, Social Welfare Examiner (SWEX), Workforce Services Representative (WSR)"
+  },
+  {
+    "soc": "43-3071",
+    "synonyms": "Bank Teller, Financial Services Representative (FSR), Member Services Representative, Teller"
+  },
+  {
+    "soc": "45-4022",
+    "synonyms": "Loader Operator, Logging Equipment Operator, Skidder Driver, Skidder Operator"
+  },
+  {
+    "soc": "27-3043",
+    "synonyms": "Author, Freelance Writer, Novelist, Songwriter"
+  },
+  {
+    "soc": "51-9141",
+    "synonyms": "Diffusion Operator, Manufacturing Technician, Process Technician, Wafer Fabrication Operator"
+  },
+  {
+    "soc": "29-1024",
+    "synonyms": "DDS (Doctor of Dental Surgery), Denturist, Maxillofacial Prosthodontist, Prosthodontist"
+  },
+  {
+    "soc": "29-2012",
+    "synonyms": "Laboratory Assistant (Lab Assistant), Laboratory Technician (Lab Tech), Medical Laboratory Technician (MLT), Medical Laboratory Technicians (Medical Lab Technician)"
+  },
+  {
+    "soc": "13-2099",
+    "synonyms": "Certified Fraud Examiner (CFE), Forensic Accountant, Investigator, Special Investigations Unit Investigator (SIU Investigator)"
+  },
+  {
+    "soc": "29-2099",
+    "synonyms": "Certified Neurodiagnostic Technologist, Electroneurodiagnostic Technologist (END Technologist), Registered Electroencephalogram Technologist (Registered EEG Tech), Registered Polysomnographic Technologist (RPSGT)"
+  },
+  {
+    "soc": "47-2131",
+    "synonyms": "Insulation Estimator, Insulation Installer, Insulator, Retrofit Installer"
+  },
+  {
+    "soc": "49-3021",
+    "synonyms": "Auto Body Man, Automotive Body Technician (Auto Body Tech), Body Man, Body Technician (Body Tech)"
+  },
+  {
+    "soc": "39-9041",
+    "synonyms": "Residence Hall Director, Residence Life Director, Resident Assistant, Resident Director"
+  },
+  {
+    "soc": "19-1029",
+    "synonyms": "Biologist, Research Biologist, Research Scientist, Scientist"
+  },
+  {
+    "soc": "53-3032",
+    "synonyms": "Driver, Line Haul Driver, Over the Road Driver (OTR Driver), Truck Driver"
+  },
+  {
+    "soc": "29-2051",
+    "synonyms": "Diet Tech (Dietetic Technician), Diet Technician Registered (DTR), Dietary Aide, Nutrition Technician"
+  },
+  {
+    "soc": "55-1017",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-7011",
+    "synonyms": "Cabinet Assembler, Cabinet Installer, Cabinetmaker, Frame Builder"
+  },
+  {
+    "soc": "35-9031",
+    "synonyms": "Buffet Hostess, Greeter, Host, Hostess"
+  },
+  {
+    "soc": "51-4191",
+    "synonyms": "Furnace Operator, Heat Treat Operator, Heat Treat Technician, Heat Treater"
+  },
+  {
+    "soc": "47-2053",
+    "synonyms": "Terrazzo Finisher, Terrazzo Installer, Terrazzo Tile Setter, Terrazzo Worker"
+  },
+  {
+    "soc": "55-3016",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-4051",
+    "synonyms": "Health Physics Technician (HP Tech), Radiation Protection Specialist (RP Specialist), Radiation Protection Technician (RPT), Radiochemical Technician"
+  },
+  {
+    "soc": "29-1141",
+    "synonyms": "Cardiac Interventional Care Nurse, Charge Nurse, Progressive Care Unit RN (Progressive Care Unit Registered Nurse), Staff Nurse"
+  },
+  {
+    "soc": "33-9091",
+    "synonyms": "Adult Crossing Guard, Community Service Officer, Crossing Guard, School Crossing Guard"
+  },
+  {
+    "soc": "27-2011",
+    "synonyms": "Actor, Actress, Comedian, Performer"
+  },
+  {
+    "soc": "19-4012",
+    "synonyms": "Agronomist, Crop Specialist, Precision Agriculture Specialist (Precision Ag Specialist), Precision Agronomist"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": "Document Control Manager, ECM Consultant (Enterprise Content Management Consultant), Electronic Content Manager, Records Manager"
+  },
+  {
+    "soc": "29-2033",
+    "synonyms": "Certified Nuclear Medicine Technologist (CNMT), Nuclear Cardiology Technologist, Nuclear Medicine Technologist (NMT), Staff Nuclear Medicine Technologist"
+  },
+  {
+    "soc": "29-1242",
+    "synonyms": "Hand Surgeon, Orthopedic Surgeon, Physician, Surgeon"
+  },
+  {
+    "soc": "51-5112",
+    "synonyms": "Press Operator, Pressman, Printer, Printing Press Operator"
+  },
+  {
+    "soc": "43-6011",
+    "synonyms": "Administrative Assistant, Administrative Secretary, Executive Assistant, Executive Secretary"
+  },
+  {
+    "soc": "47-2051",
+    "synonyms": "Cement Finisher, Cement Mason, Concrete Finisher, Finisher"
+  },
+  {
+    "soc": "43-5051",
+    "synonyms": "Clerk, Postal Clerk, Sales and Service Associate (SSA), Window Clerk"
+  },
+  {
+    "soc": "55-3019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "Business Development Director, Business Development Manager, Development Director, Development Manager"
+  },
+  {
+    "soc": "33-2021",
+    "synonyms": "Arson Investigator, Fire Inspector, Fire Investigator, Fire Prevention Inspector"
+  },
+  {
+    "soc": "15-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "17-2072",
+    "synonyms": "Deployment Engineer, RFID Engineer (Radio Frequency Identification Device Engineer), RFID Systems Engineer (Radio Frequency Identification Device Systems Engineer), Technical Support Engineer"
+  },
+  {
+    "soc": "27-3031",
+    "synonyms": "Communications Specialist, Public Affairs Specialist, Public Information Officer, Public Relations Specialist (PR Specialist)"
+  },
+  {
+    "soc": "19-3011",
+    "synonyms": "Environmental Economist, Natural Resource Economist, Research Economist, Resource Economist"
+  },
+  {
+    "soc": "53-4013",
+    "synonyms": "Engineer, Railcar Switcher, Railroad Engineer, Switchman"
+  },
+  {
+    "soc": "19-1031",
+    "synonyms": "Natural Resource Specialist, Range Technician, Rangeland Management Specialist, Resource Manager"
+  },
+  {
+    "soc": "47-4071",
+    "synonyms": "Drain Cleaner, Septic Pump Truck Driver, Septic Tank Service Technician, Service Technician"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-3012",
+    "synonyms": "Carpenter Assistant, Carpenter Helper, Carpenter's Helper"
+  },
+  {
+    "soc": "51-4022",
+    "synonyms": "Blacksmith, Forge Operator, Hammer Operator, Machine Operator"
+  },
+  {
+    "soc": "39-4031",
+    "synonyms": "Funeral Arranger, Funeral Counselor, Funeral Director, Mortician"
+  },
+  {
+    "soc": "39-9032",
+    "synonyms": "Activities Director, Activity Aide, Activity Director, Recreation Supervisor"
+  },
+  {
+    "soc": "27-3043",
+    "synonyms": "Advertisement Agency Copywriter (Ad Agency Copywriter), Advertising Copywriter, Copywriter, Freelance Copywriter"
+  },
+  {
+    "soc": "19-5012",
+    "synonyms": "Certified Industrial Hygienist (CIH), Construction Safety Consultant, Industrial Hygienist, Safety Specialist"
+  },
+  {
+    "soc": "29-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-2041",
+    "synonyms": "Environmental Programs Specialist, Environmental Protection Specialist, Environmental Scientist, Environmental Specialist"
+  },
+  {
+    "soc": "21-1093",
+    "synonyms": "Advocate, Clinical Assistant, Social Work Associate, Social Worker Assistant"
+  },
+  {
+    "soc": "47-5032",
+    "synonyms": "Blast Hole Driller, Blaster, Explosive Technician, Powderman"
+  },
+  {
+    "soc": "31-9091",
+    "synonyms": "Certified Dental Assistant (CDA), Dental Assistant (DA), Expanded Duty Dental Assistant (EDDA), Registered Dental Assistant (RDA)"
+  },
+  {
+    "soc": "13-2023",
+    "synonyms": "Appraiser, Assessor, Real Estate Appraiser, Valuation Consultant"
+  },
+  {
+    "soc": "29-1222",
+    "synonyms": "Anatomic Pathologist, Dermatopathologist, Forensic Pathologist, Pathologist"
+  },
+  {
+    "soc": "49-2011",
+    "synonyms": "ATM Technician (Automated Teller Machine Technician), Computer Technician, Copier Technician, Service Technician"
+  },
+  {
+    "soc": "39-3031",
+    "synonyms": "Lobby Attendant, Ticket Taker, Usher, Visitor Services Representative"
+  },
+  {
+    "soc": "17-1021",
+    "synonyms": "Cartographer, Photogrammetric Technician, Photogrammetrist, Stereo Compiler"
+  },
+  {
+    "soc": "53-7064",
+    "synonyms": "Bagger, Packager, Packer, Selector Packer"
+  },
+  {
+    "soc": "53-7071",
+    "synonyms": "Compressor Station Operator, Compressor Technician, Filler, Plant Operator"
+  },
+  {
+    "soc": "25-2056",
+    "synonyms": "Severe Emotional Disorders Elementary Teacher (SED Elementary Teacher), Special Education Inclusion Teacher, Special Education Resource Teacher, Special Education Teacher (SPED Teacher)"
+  },
+  {
+    "soc": "19-1031",
+    "synonyms": "Naturalist, Park Guide, Park Naturalist, Park Ranger"
+  },
+  {
+    "soc": "43-4111",
+    "synonyms": "Admissions Clerk, Admissions Representative, Interviewer, Registration Clerk"
+  },
+  {
+    "soc": "33-3031",
+    "synonyms": "Game Warden, Natural Resource Officer, State Game Warden, Wildlife Officer"
+  },
+  {
+    "soc": "27-2032",
+    "synonyms": "Choreographer, Dance Director, Dance Maker, Opera Choreographer"
+  },
+  {
+    "soc": "51-2051",
+    "synonyms": "Boat Builder, Chopper Gun Operator, Fiberglass Laminator, Laminator"
+  },
+  {
+    "soc": "25-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "17-3024",
+    "synonyms": "Automation Technician, Electrical and Instrumentation Technician (E and I Technician), Instrument Specialist, Process Control Technician"
+  },
+  {
+    "soc": "49-9064",
+    "synonyms": "Clock Repairer, Watch and Clock Repairer, Watch Estimator, Watch Technician (Watch Tech)"
+  },
+  {
+    "soc": "29-2072",
+    "synonyms": "Health Information Technician (Health Information Tech), Medical Records Clerk, Medical Records Coordinator, Registered Health Information Technician (RHIT)"
+  },
+  {
+    "soc": "51-6064",
+    "synonyms": "Spinner, Twister Operator, Winder Operator, Winder Tender"
+  },
+  {
+    "soc": "51-9111",
+    "synonyms": "Bundler, Filler Operator, Machine Operator, Packaging Operator"
+  },
+  {
+    "soc": "25-2021",
+    "synonyms": "Classroom Teacher, Elementary School Teacher, Elementary Teacher, Teacher"
+  },
+  {
+    "soc": "35-9021",
+    "synonyms": "Dish Machine Operator (DMO), Dishwasher, Kitchen Steward, Steward"
+  },
+  {
+    "soc": "15-2051",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-4061",
+    "synonyms": "Track Inspector, Track Laborer, Track Maintainer, Track Repairer"
+  },
+  {
+    "soc": "43-6014",
+    "synonyms": "Administrative Assistant (Admin Assistant), Administrative Secretary (Admin Secretary), Office Assistant, Secretary"
+  },
+  {
+    "soc": "51-6091",
+    "synonyms": "Extruder Operator, Extrusion Line Operator, Extrusion Operator, Spindraw Operator"
+  },
+  {
+    "soc": "29-1122",
+    "synonyms": "Certified Hand Therapist (CHT), Occupational Therapist (OT), Pediatric Occupational Therapist (Pediatric OT), Registered Occupational Therapist (OTR)"
+  },
+  {
+    "soc": "27-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "43-6012",
+    "synonyms": "Legal Administrative Assistant (Legal Admin Assistant), Legal Office Support Assistant, Legal Practice Assistant, Legal Secretary"
+  },
+  {
+    "soc": "33-1091",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Regulatory Affairs Associate (RA Associate), Regulatory Affairs Consultant (RA Consultant), Regulatory Affairs Specialist (RA Specialist), Regulatory Engineer"
+  },
+  {
+    "soc": "53-7073",
+    "synonyms": "Field Operator, Lease Operator, Pumper, Well Tender"
+  },
+  {
+    "soc": "13-1023",
+    "synonyms": "Buyer, Procurement Official, Procurement Specialist, Purchasing Agent"
+  },
+  {
+    "soc": "47-5051",
+    "synonyms": "Driller, Quarry Worker, Rock Splitter, Stone Splitter"
+  },
+  {
+    "soc": "49-3043",
+    "synonyms": "Rail Car Mechanic, Rail Car Repairer, Rail Car Repairman, Rail Car Welder"
+  },
+  {
+    "soc": "11-3031",
+    "synonyms": "Comptroller, Controller, Corporate Treasurer, Treasurer"
+  },
+  {
+    "soc": "33-2022",
+    "synonyms": "Fire Management Officer, Fire Prevention Technician, Forest Officer, Forest Patrolman"
+  },
+  {
+    "soc": "27-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "15-1211",
+    "synonyms": "Clinical Informaticist, Clinical Informatics Specialist, Health Informaticist, Nursing Informatics Specialist"
+  },
+  {
+    "soc": "33-3021",
+    "synonyms": "Crime Analyst (Criminal Analyst), Crime Intelligence Analyst (Criminal Intelligence Analyst), Intel Analyst (Intelligence Analyst), Intel Research Specialist (Intelligence Research Specialist)"
+  },
+  {
+    "soc": "11-9111",
+    "synonyms": "Clinical Director, Health Information Management Director (HIM Director), Health Information Manager (HIM Manager), Nursing Director"
+  },
+  {
+    "soc": "19-3022",
+    "synonyms": "Data Analyst, Field Interviewer, Research Associate, Research Fellow"
+  },
+  {
+    "soc": "39-1014",
+    "synonyms": "Caddymaster, Community Life Director, Hair Salon Manager, Recreation Coordinator"
+  },
+  {
+    "soc": "39-7012",
+    "synonyms": "Guide, Tour Escort, Tour Manager, Travel Consultant"
+  },
+  {
+    "soc": "17-1022",
+    "synonyms": "Geodesist, Geodetic Advisor, Geodetic Surveyor, Land Surveyor"
+  },
+  {
+    "soc": "25-1051",
+    "synonyms": "Assistant Professor, Associate Professor, Geology Professor, Professor"
+  },
+  {
+    "soc": "51-9195",
+    "synonyms": "Glazer, Jiggerman, Potter, Production Potter"
+  },
+  {
+    "soc": "53-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "47-2082",
+    "synonyms": "Drywall Finisher, Drywall Taper, Finisher, Taper"
+  },
+  {
+    "soc": "11-1011",
+    "synonyms": "Chief Sustainability Officer (CSO), Sustainability Director, Sustainability Manager, Sustainable Design Director"
+  },
+  {
+    "soc": "47-2041",
+    "synonyms": "Carpet Installer, Carpet Mechanic, Flooring Installer, Installer"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Automation Engineer, Equipment Engineer, Process Controls Engineer, Project Engineer"
+  },
+  {
+    "soc": "23-2011",
+    "synonyms": "Legal Assistant, Legal Clerk, Paralegal, Paralegal Specialist"
+  },
+  {
+    "soc": "31-9099",
+    "synonyms": "Communication Assistant, Speech Pathologist Assistant, Speech-Language Pathologist Assistant (SLPA), Speech-Language Pathology Assistant (SLPA)"
+  },
+  {
+    "soc": "35-2012",
+    "synonyms": "Cafeteria Cook, Cook, Dietary Cook, School Cook"
+  },
+  {
+    "soc": "25-1193",
+    "synonyms": "Health and Physical Education Professor (HPE Professor), Instructor, Physical Education Professor (PE Professor), Professor"
+  },
+  {
+    "soc": "51-9191",
+    "synonyms": "Coater Operator, Glue Line Operator, Machine Operator, Utility Worker"
+  },
+  {
+    "soc": "27-3041",
+    "synonyms": "Editor, News Editor, Newspaper Copy Editor, Sports Editor"
+  },
+  {
+    "soc": "47-2031",
+    "synonyms": "Cabinet Maker, Carpenter, Form Carpenter, Scaffold Builder"
+  },
+  {
+    "soc": "29-2081",
+    "synonyms": "Dispensing Optician, Licensed Dispensing Optician (LDO), Licensed Optician, Optician"
+  },
+  {
+    "soc": "51-9071",
+    "synonyms": "Bench Jeweler, Goldsmith, Jeweler, Silversmith"
+  },
+  {
+    "soc": "27-3042",
+    "synonyms": "Documentation Specialist, Information Developer, Technical Communicator, Technical Writer"
+  },
+  {
+    "soc": "51-9195",
+    "synonyms": "Caster, Mold Mechanic, Molder, Molding Line Operator"
+  },
+  {
+    "soc": "19-4099",
+    "synonyms": "Lab Technician (Lab Tech), QA Auditor (Quality Assurance Auditor), QA Tech (Quality Assurance Technician), Quality Control Technician (QC Tech)"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-9013",
+    "synonyms": "Aquaculture Director, Farm Manager, Greenhouse Manager, Ranch Manager"
+  },
+  {
+    "soc": "31-2022",
+    "synonyms": "Physical Therapist Aide (PTA), Physical Therapy Aide (PTA), PT Tech (Physical Therapy Technician), Rehabilitation Technician (Rehabilitation Tech)"
+  },
+  {
+    "soc": "21-2021",
+    "synonyms": "Children's Ministries Director, Christian Education Director, Religious Education Director, Youth Pastor"
+  },
+  {
+    "soc": "29-2056",
+    "synonyms": "Certified Veterinary Technician (CVT), Licensed Veterinary Technician (LVT), Registered Veterinary Technician (RVT), Veterinary Technician (Vet Tech)"
+  },
+  {
+    "soc": "29-2053",
+    "synonyms": "Mental Health Associate, Mental Health Technician (MHT), MHW (Mental Health Worker), Psychiatric Technician (PT)"
+  },
+  {
+    "soc": "29-2032",
+    "synonyms": "Diagnostic Medical Sonographer, Registered Diagnostic Medical Sonographer (RDMS), Sonographer, Ultrasonographer"
+  },
+  {
+    "soc": "55-3012",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "47-2042",
+    "synonyms": "Floor Covering Contractor, Floor Coverings Installer, Flooring Installer, Vinyl Installer"
+  },
+  {
+    "soc": "51-9021",
+    "synonyms": "Grinder, Machine Operator, Miller, Preparation Operator (Prep Operator)"
+  },
+  {
+    "soc": "27-2023",
+    "synonyms": "Horse Show Judge, Major League Baseball Umpire (MLB Umpire), Referee, Sports Official"
+  },
+  {
+    "soc": "35-2011",
+    "synonyms": "Cook, Grill Cook, Line Cook, Pizza Cook"
+  },
+  {
+    "soc": "17-2031",
+    "synonyms": "Biomedical Engineer, Biomedical Technician (Biomedical Tech), Process Engineer, Research Engineer"
+  },
+  {
+    "soc": "11-3051",
+    "synonyms": "Plant Manager, Power Plant Superintendent, Power Plant Supervisor, Power Project Manager"
+  },
+  {
+    "soc": "39-5012",
+    "synonyms": "Cosmetologist, Hair Stylist, Hairdresser, Hairstylist"
+  },
+  {
+    "soc": "47-2181",
+    "synonyms": "Roof Mechanic, Roof Service Technician, Roofer, Roofing Technician"
+  },
+  {
+    "soc": "15-1241",
+    "synonyms": "Communications Engineer, Engineer, Infrastructure Engineer, Telecommunications Consultant (Telecom Consultant)"
+  },
+  {
+    "soc": "51-9195",
+    "synonyms": "Glass Bender, Glass Blower, Neon Glass Bender, Neon Tube Bender"
+  },
+  {
+    "soc": "13-2051",
+    "synonyms": "Analyst, Financial Analyst, Investment Analyst, Securities Analyst"
+  },
+  {
+    "soc": "47-3016",
+    "synonyms": "Roofer Helper"
+  },
+  {
+    "soc": "11-3031",
+    "synonyms": "Banking Center Manager (BCM), Branch Manager, Credit Administration Manager, Financial Center Manager"
+  },
+  {
+    "soc": "11-9161",
+    "synonyms": "Emergency Management Director, Emergency Management System Director (EMS Director), Emergency Planner, Public Safety Director"
+  },
+  {
+    "soc": "27-3023",
+    "synonyms": "Anchor, News Anchor, News Reporter, Reporter"
+  },
+  {
+    "soc": "49-3091",
+    "synonyms": "Bicycle Mechanic, Bicycle Service Technician, Bicycle Technician, Bike Mechanic"
+  },
+  {
+    "soc": "29-1181",
+    "synonyms": "Audiologist, Audiology Doctor (AUD), Clinical Audiologist, Educational Audiologist"
+  },
+  {
+    "soc": "37-1012",
+    "synonyms": "Golf Course Superintendent, Grounds Manager, Grounds Supervisor, Landscape Supervisor"
+  },
+  {
+    "soc": "43-9041",
+    "synonyms": "Claims Processor, Claims Representative (Claims Rep), Claims Technician (Claims Tech), Underwriting Assistant"
+  },
+  {
+    "soc": "11-9081",
+    "synonyms": "Front Desk Manager, Front Office Manager, Hotel Manager, Resort Manager"
+  },
+  {
+    "soc": "11-9041",
+    "synonyms": "Engineering Director, Engineering Program Manager, Project Engineering Manager, Project Manager"
+  },
+  {
+    "soc": "47-3019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-4199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "33-9032",
+    "synonyms": "Safety and Security Officer, Security Agent, Security Guard, Security Officer"
+  },
+  {
+    "soc": "29-1022",
+    "synonyms": "Doctor of Dental Surgery (DDS), Oral and Maxillofacial Surgeon (OMS), Oral Surgeon, Surgeon"
+  },
+  {
+    "soc": "27-2012",
+    "synonyms": "News Director, Program Director (PD), Program Manager, Programming Director"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": "Geographic Information System Analyst (GIS Analyst), Geographic Information Systems Analyst (GIS Analyst), GIS Specialist (Geographic Information Systems Specialist), GIS Technician (Geographic Information Systems Technician)"
+  },
+  {
+    "soc": "41-2021",
+    "synonyms": "Counter Clerk, Rental Agent, Rental Sales Representative, Video Clerk"
+  },
+  {
+    "soc": "53-3011",
+    "synonyms": "Ambulance Driver, Driver, EMS Driver (Emergency Medical Services Driver), First Responder"
+  },
+  {
+    "soc": "11-3111",
+    "synonyms": "Benefits Manager, Compensation and Benefits Manager, Compensation Director, Compensation Manager"
+  },
+  {
+    "soc": "47-5044",
+    "synonyms": "Load Haul Dump Operator (LHD Operator), Loader Operator, Loading Machine Operator, Shuttle Car Operator"
+  },
+  {
+    "soc": "51-9161",
+    "synonyms": "CNC Machine Operator (Computer Numerical Control Machine Operator), CNC Machinist (Computer Numerical Control Machinist), CNC Operator (Computer Numerical Control Operator), Machine Operator"
+  },
+  {
+    "soc": "19-1029",
+    "synonyms": "Cardiovascular Geneticist, Medical Geneticist, Research Scientist, Scientist"
+  },
+  {
+    "soc": "13-2031",
+    "synonyms": "Budget Analyst, Budget and Policy Analyst, Budget Officer, Budget Planning Analyst"
+  },
+  {
+    "soc": "27-1014",
+    "synonyms": "3D Artist (Three-Dimensional Artist), Animator, Artist, Graphic Artist"
+  },
+  {
+    "soc": "47-2171",
+    "synonyms": "Iron Installer, Iron Worker, Ironworker, Rodbuster"
+  },
+  {
+    "soc": "17-3025",
+    "synonyms": "Air Quality Instrument Specialist, Environmental Field Technician, Environmental Technician, Haz Tech (Hazardous Technician)"
+  },
+  {
+    "soc": "15-2041",
+    "synonyms": "Biometrician, Biostatistician, Research Scientist, Statistical Scientist"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Engineer, Project Engineer, Utility Engineer, Wind Energy Consultant"
+  },
+  {
+    "soc": "53-6051",
+    "synonyms": "Aircraft Inspector, Aviation Safety Inspector (ASI), Inspector, Quality Inspector"
+  },
+  {
+    "soc": "15-1243",
+    "synonyms": "Data Warehouse Analyst, Data Warehouse Solution Architect"
+  },
+  {
+    "soc": "17-3012",
+    "synonyms": "Computer-Aided Design Operator, Drafter, Electrical Designer, Staking Technician (Staking Tech)"
+  },
+  {
+    "soc": "29-9099",
+    "synonyms": "Certified Professional Midwife (CPM), Homebirth Midwife, Licensed Certified Professional Midwife, Licensed Midwife (LM)"
+  },
+  {
+    "soc": "49-9096",
+    "synonyms": "Machinery Erector, Machinery Mover, Motor Rigger, Rigger"
+  },
+  {
+    "soc": "11-9051",
+    "synonyms": "Food and Beverage Manager, Food Service Director, Food Service Manager, Restaurant Manager"
+  },
+  {
+    "soc": "25-2031",
+    "synonyms": "English Teacher, Mathematics Instructor (Math Instructor), Social Studies Teacher, Teacher"
+  },
+  {
+    "soc": "41-9041",
+    "synonyms": "Telemarketer, Telephone Sales Representative (TSR), Telephone Service Representative (TSR), Telesales Representative (Telesales Rep)"
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Housing Inspector, Housing Quality Standard Inspector (HQS Inspector), Quality Assurance Specialist, Rehabilitation Construction Specialist"
+  },
+  {
+    "soc": "29-9093",
+    "synonyms": "Certified Surgical First Assistant (CSFA), Registered Nurse First Assistant (RNFA), Surgical First Assistant, Surgical Technician (Surgical Tech)"
+  },
+  {
+    "soc": "41-9022",
+    "synonyms": "Real Estate Agent, Realtor, Realtor Associate, Sales Agent"
+  },
+  {
+    "soc": "17-2141",
+    "synonyms": "Engineer, Fuel Cell Engineer, Research Engineer, Stack Engineer"
+  },
+  {
+    "soc": "51-9193",
+    "synonyms": "Freezer Operator, Freezer Person, Refrigeration Operator, Refrigeration Technician"
+  },
+  {
+    "soc": "53-2011",
+    "synonyms": "Airline Captain, Captain, First Officer (FO), Pilot"
+  },
+  {
+    "soc": "13-1111",
+    "synonyms": "Business Analyst, Business Consultant, Management Analyst, Management Consultant"
+  },
+  {
+    "soc": "27-1026",
+    "synonyms": "Display Associate, Merchandiser, Visual Merchandiser (VM), Visual Merchandising Specialist"
+  },
+  {
+    "soc": "11-3051",
+    "synonyms": "Maintenance Manager, Maintenance Supervisor, Operations Supervisor, Plant Manager"
+  },
+  {
+    "soc": "27-1023",
+    "synonyms": "Designer, Floral Clerk, Floral Designer, Florist"
+  },
+  {
+    "soc": "13-2052",
+    "synonyms": "Certified Financial Planner (CFP), Financial Advisor, Financial Planner, Portfolio Manager"
+  },
+  {
+    "soc": "51-4071",
+    "synonyms": "Core Machine Operator, Core Maker, Coremaker, Molder"
+  },
+  {
+    "soc": "29-1161",
+    "synonyms": "Certified Nurse Midwife (CNM), Nurse Midwife, Staff Certified Nurse Midwife, Staff Nurse Midwife"
+  },
+  {
+    "soc": "53-7011",
+    "synonyms": "Chipper Operator, Flumer, Packaging Line Operator, Process Operator"
+  },
+  {
+    "soc": "39-3093",
+    "synonyms": "Athletic Equipment Manager, Ladies Locker Room Attendant, Locker Room Attendant, Spa Attendant"
+  },
+  {
+    "soc": "53-7062",
+    "synonyms": "Non-Ferrous Material Handler, Sort Line Worker, Sorter, Transfer Station Operator"
+  },
+  {
+    "soc": "29-2011",
+    "synonyms": "Clinical Laboratory Scientist (CLS), Clinical Laboratory Technologist, Medical Laboratory Technologist (Medical Lab Tech), Medical Technologist (MT)"
+  },
+  {
+    "soc": "51-4052",
+    "synonyms": "Caster, Melter, Metal Handler, Pourer"
+  },
+  {
+    "soc": "19-1032",
+    "synonyms": "Area Forester, Forester, Silviculturist, Timber Sales Administrator (Timber Sales Admin)"
+  },
+  {
+    "soc": "37-2021",
+    "synonyms": "Exterminator, Pest Control Technician (Pest Control Tech), Pest Technician, Residential Pest Control Technician"
+  },
+  {
+    "soc": "19-4051",
+    "synonyms": "Licensed Nuclear Operator, Nuclear Auxiliary Operator, Nuclear Equipment Operator (NEO), Operations Technician"
+  },
+  {
+    "soc": "11-3012",
+    "synonyms": "Administrative Coordinator, Administrative Manager, Administrative Officer, Business Administrator"
+  },
+  {
+    "soc": "25-1123",
+    "synonyms": "English Instructor, English Professor, Instructor, Professor"
+  },
+  {
+    "soc": "43-3051",
+    "synonyms": "Payroll Assistant, Payroll Clerk, Payroll Coordinator, Payroll Specialist"
+  },
+  {
+    "soc": "17-3019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-1072",
+    "synonyms": "Assistant Professor, Nursing Instructor, Nursing Professor, Professor"
+  },
+  {
+    "soc": "43-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-3011",
+    "synonyms": "Baker, Dough Mixer, Mixer, Pastry Chef"
+  },
+  {
+    "soc": "49-9098",
+    "synonyms": "Maintenance Aide, Maintenance Helper, Mechanic Helper, Technician's Helper"
+  },
+  {
+    "soc": "19-2012",
+    "synonyms": "Health Physicist, Physicist, Research Scientist, Scientist"
+  },
+  {
+    "soc": "47-2132",
+    "synonyms": "Industrial Insulator, Insulation Mechanic, Insulator, Mechanical Insulator"
+  },
+  {
+    "soc": "19-3092",
+    "synonyms": "Earth Observations Scientist, Geographer, GIS Coordinator (Geographic Information Systems Coordinator), GIS Geographer (Geographic Information Systems Geographer)"
+  },
+  {
+    "soc": "13-1199",
+    "synonyms": "Sustainability Consultant, Sustainability Coordinator, Sustainability Specialist, Sustainable Design Coordinator"
+  },
+  {
+    "soc": "25-1082",
+    "synonyms": "Assistant Professor, Associate Professor, Library Science Professor, Professor"
+  },
+  {
+    "soc": "41-9011",
+    "synonyms": "Demonstrator, In Store Demonstrator, Merchandiser, Product Demonstrator"
+  },
+  {
+    "soc": "29-1221",
+    "synonyms": "General Pediatrician, Group Practice Pediatrician, Medical Doctor (MD), Physician"
+  },
+  {
+    "soc": "51-8013",
+    "synonyms": "Hydro Technician (Hydro Tech), Hydroelectric Mechanic, Operations and Maintenance Technician (O and M Technician), Power Plant Mechanic"
+  },
+  {
+    "soc": "51-4032",
+    "synonyms": "CNC Machinist (Computer Numerical Control Machinist), Drill Operator, Drill Setup Operator, Machine Operator"
+  },
+  {
+    "soc": "47-5071",
+    "synonyms": "Floor Hand, Roustabout, Roustabout Hand, Roustabout Pusher"
+  },
+  {
+    "soc": "51-2031",
+    "synonyms": "Assembler, Assembly Line Worker, Engine Assembler, Machine Assembler"
+  },
+  {
+    "soc": "27-1025",
+    "synonyms": "Designer, Interior Design Consultant, Interior Design Coordinator, Interior Designer"
+  },
+  {
+    "soc": "31-2021",
+    "synonyms": "Certified Physical Therapist Assistant (CPTA), Licensed Physical Therapist Assistant (LPTA), Physical Therapist Assistant (PTA), Physical Therapy Assistant (PTA)"
+  },
+  {
+    "soc": "49-2097",
+    "synonyms": "Electronic Tech (Electronic Technician), Home Theater Installer, Installer, Satellite Installer"
+  },
+  {
+    "soc": "17-1022",
+    "synonyms": "County Surveyor, Land Surveyor, Licensed Land Surveyor, Surveyor"
+  },
+  {
+    "soc": "53-4041",
+    "synonyms": "Light Rail Operator, Rail Operator, Rapid Transit Operator (RTO), Train Operator"
+  },
+  {
+    "soc": "25-4013",
+    "synonyms": "Conservator, Objects Conservator, Paintings Conservator, Preparator"
+  },
+  {
+    "soc": "41-2031",
+    "synonyms": "Sales Associate, Sales Clerk, Sales Consultant, Sales Person"
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Autopsy Facilities Manager, Coroner, MDI (Medicolegal Death Investigator), Medical Examiner"
+  },
+  {
+    "soc": "13-1199",
+    "synonyms": "Physical Security Engineer, Physical Security Specialist, Security Analyst, Security Consultant"
+  },
+  {
+    "soc": "23-1012",
+    "synonyms": "Judicial Assistant, Judicial Clerk, Judicial Law Clerk, Law Clerk"
+  },
+  {
+    "soc": "41-2012",
+    "synonyms": "Cage Cashier, Cashier, Change Person, Slot Attendant"
+  },
+  {
+    "soc": "17-2112",
+    "synonyms": "Engineer, Ergonomist, Human Factors Engineer, Occupational Ergonomist"
+  },
+  {
+    "soc": "47-5012",
+    "synonyms": "Daylight Driller, Drill Operator, Driller, Tool Pusher"
+  },
+  {
+    "soc": "29-2011",
+    "synonyms": "Clinical Cytogeneticist Scientist (CCS), Cytogenetic Technologist, Cytogenetics Clinical Laboratory Specialist (CG CLSp), Molecular Genetics Technologist"
+  },
+  {
+    "soc": "15-1254",
+    "synonyms": "Web Architect, Web Design Specialist, Web Developer, Webmaster"
+  },
+  {
+    "soc": "15-1242",
+    "synonyms": "Database Administration Manager, Database Administrator (DBA), Database Analyst, Systems Administrator (Systems Admin)"
+  },
+  {
+    "soc": "33-2011",
+    "synonyms": "Fire Engineer, Fire Equipment Operator, Firefighter, Wildland Firefighter"
+  },
+  {
+    "soc": "43-4041",
+    "synonyms": "Commercial Credit Reviewer, Credit Investigator, Credit Processor, Credit Representative"
+  },
+  {
+    "soc": "55-3011",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-1121",
+    "synonyms": "Conference Planning Manager, Conference Services Manager, Convention Services Manager (CSM), Events Manager"
+  },
+  {
+    "soc": "21-1019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-2031",
+    "synonyms": "Analytical Chemist, Chemist, Research Chemist, Scientist"
+  },
+  {
+    "soc": "19-3011",
+    "synonyms": "Economic Analyst, Economic Consultant, Economist, Forensic Economist"
+  },
+  {
+    "soc": "35-3023",
+    "synonyms": "Cafe Server, Cafeteria Server, Food Service Assistant, Food Service Worker"
+  },
+  {
+    "soc": "49-3022",
+    "synonyms": "Automotive Glass Installer (Auto Glass Installer), Automotive Glass Technician (Auto Glass Technician), Glass Installer Technician, Glass Technician"
+  },
+  {
+    "soc": "29-2052",
+    "synonyms": "Certified Pharmacy Technician (CPhT), Chemotherapy Pharmacy Technician (Chemo Pharmacy Technician), OR Pharmacy Tech (Operating Room Pharmacy Tech), RPhT (Registered Pharmacy Technician)"
+  },
+  {
+    "soc": "49-9092",
+    "synonyms": "Commercial Diver, Diver, Diver Tender, Tender"
+  },
+  {
+    "soc": "13-2022",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-3061",
+    "synonyms": "Buyer, Procurement Specialist, Purchasing Clerk, Purchasing Specialist"
+  },
+  {
+    "soc": "11-9179",
+    "synonyms": "Salon Manager, Spa and Guest Experience Director, Spa Director, Spa Manager"
+  },
+  {
+    "soc": "51-9199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "21-1092",
+    "synonyms": "Correctional Counselor, Juvenile Probation Officer, Parole Officer (PO), Probation Officer"
+  },
+  {
+    "soc": "13-1199",
+    "synonyms": "Business Continuity Administrator, Business Continuity Analyst, Business Continuity Consultant, Business Continuity Coordinator"
+  },
+  {
+    "soc": "43-4011",
+    "synonyms": "Registered Sales Assistant, Sales Assistant, Sales Trader, Trading Assistant"
+  },
+  {
+    "soc": "25-1053",
+    "synonyms": "Assistant Professor, Associate Professor, Environmental Sciences Professor, Professor"
+  },
+  {
+    "soc": "43-9081",
+    "synonyms": "Copy Editor, News Copy Editor, Proofreader, Typesetter"
+  },
+  {
+    "soc": "43-9199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "27-1013",
+    "synonyms": "Artist, Fine Artist, Painter, Sculptor"
+  },
+  {
+    "soc": "53-1042",
+    "synonyms": "Receiving Supervisor, Shipping Supervisor, Warehouse Manager, Warehouse Supervisor"
+  },
+  {
+    "soc": "27-4021",
+    "synonyms": "Commercial Photographer, Photographer, Photojournalist, Portrait Photographer"
+  },
+  {
+    "soc": "47-5013",
+    "synonyms": "Pulling Unit Operator, Rig Operator, Service Operator, Service Rig Operator"
+  },
+  {
+    "soc": "13-2081",
+    "synonyms": "Revenue Agent, Tax Collector, Tax Compliance Officer, Tax Examiner"
+  },
+  {
+    "soc": "41-2022",
+    "synonyms": "Parts Consultant, Parts Counterperson, Parts Salesman, Parts Salesperson"
+  },
+  {
+    "soc": "53-7021",
+    "synonyms": "Crane Operator, Mobile Crane Operator, Overhead Crane Operator, Scrap Crane Operator"
+  },
+  {
+    "soc": "55-1016",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "33-3051",
+    "synonyms": "Deputy, Deputy Sheriff, Patrol Officer, Police Officer"
+  },
+  {
+    "soc": "27-4031",
+    "synonyms": "Camera Operator, Cameraman, Television News Photographer, Videographer"
+  },
+  {
+    "soc": "47-2111",
+    "synonyms": "Electrician, Industrial Electrician, Inside Wireman, Maintenance Electrician"
+  },
+  {
+    "soc": "17-3029",
+    "synonyms": "Fiber Optics Instructor, Laser Technician (Laser Tech), Optics Technician (Optics Tech), Photonics Technician (Photonics Tech)"
+  },
+  {
+    "soc": "41-3041",
+    "synonyms": "Destination Specialist, Travel Agent, Travel Consultant, Travel Counselor"
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Enforcement Officer, Environmental Inspector, Environmental Protection Specialist, Environmental Quality Analyst"
+  },
+  {
+    "soc": "25-1063",
+    "synonyms": "Economics Instructor, Economics Professor, Instructor, Professor"
+  },
+  {
+    "soc": "51-2023",
+    "synonyms": "Assembler, Electronic Assembler, Electronic Technician, Mechanical Assembler"
+  },
+  {
+    "soc": "35-2013",
+    "synonyms": "Certified Personal Chef (CPC), Personal Chef, Personal Private Chef, Private Chef"
+  },
+  {
+    "soc": "15-1244",
+    "synonyms": "Information Technology Specialist (IT Specialist), Local Area Network Administrator (LAN Administrator), Network Administrator, Systems Administrator"
+  },
+  {
+    "soc": "25-1199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "Site Manager, Wind Operations Supervisor, Wind Plant Manager, Wind Site Manager"
+  },
+  {
+    "soc": "19-3051",
+    "synonyms": "Community Development Planner, Planner, Planning Consultant, Planning Technician"
+  },
+  {
+    "soc": "27-2022",
+    "synonyms": "Basketball Coach, Coach, Football Coach, Track and Field Coach"
+  },
+  {
+    "soc": "43-4131",
+    "synonyms": "Licensed Loan Officer Assistant, Loan Analyst, Loan Processor, Mortgage Loan Processor"
+  },
+  {
+    "soc": "13-1075",
+    "synonyms": "Business Agent, Business Representative, Labor Relations Specialist, Labor Specialist"
+  },
+  {
+    "soc": "11-9171",
+    "synonyms": "Funeral Director, Funeral Home Manager, Funeral Service Manager, Location Manager"
+  },
+  {
+    "soc": "47-5023",
+    "synonyms": "Blast Hole Driller, Drill Operator, Driller, Well Driller"
+  },
+  {
+    "soc": "51-4194",
+    "synonyms": "Grinder, Grinder Operator, Saw Filer, Tool Grinder"
+  },
+  {
+    "soc": "43-3011",
+    "synonyms": "Collector, Debt Collector, Patient Access Specialist, Patient Account Representative"
+  },
+  {
+    "soc": "47-4031",
+    "synonyms": "Fence Builder, Fence Erector, Fence Installer, Fence Laborer"
+  },
+  {
+    "soc": "13-2082",
+    "synonyms": "Enrolled Agent, Tax Advisor, Tax Consultant, Tax Preparer"
+  },
+  {
+    "soc": "51-6062",
+    "synonyms": "Cutter, Cutter Operator, Fabric Cutter, Spreader"
+  },
+  {
+    "soc": "19-1023",
+    "synonyms": "Conservation Biologist, Fish and Wildlife Biologist, Fisheries Biologist, Wildlife Biologist"
+  },
+  {
+    "soc": "29-1243",
+    "synonyms": "General Surgeon, Physician, Surgeon, Thoracic Surgeon"
+  },
+  {
+    "soc": "51-5111",
+    "synonyms": "Electronic Prepress Operator (EPP Operator), Plate Maker, Prepress Operator, Prepress Technician"
+  },
+  {
+    "soc": "49-3052",
+    "synonyms": "All Terrain Vehicle Technician (ATV Technician), Motorcycle Mechanic, Motorcycle Technician, Service Technician"
+  },
+  {
+    "soc": "29-1011",
+    "synonyms": "Chiropractic Doctor (DC), Chiropractic Neurologist, Chiropractic Physician, Chiropractor"
+  },
+  {
+    "soc": "29-1129",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-1131",
+    "synonyms": "Contract Grant Writer, Development Officer, Fundraising Consultant, Philanthropy Officer"
+  },
+  {
+    "soc": "25-2022",
+    "synonyms": "Language Arts Teacher (LA Teacher), Math Teacher (Mathematics Teacher), Science Teacher, Teacher"
+  },
+  {
+    "soc": "11-9179",
+    "synonyms": "Fitness and Wellness Coordinator, Fitness and Wellness Director, Fitness Coordinator, Fitness Director"
+  },
+  {
+    "soc": "43-4081",
+    "synonyms": "Front Desk Agent, Front Desk Clerk, Guest Services Agent (GSA), Night Auditor"
+  },
+  {
+    "soc": "19-2021",
+    "synonyms": "Forecaster, General Forecaster, Meteorologist, Research Meteorologist"
+  },
+  {
+    "soc": "27-3091",
+    "synonyms": "Interpreter, Medical Interpreter, Sign Language Interpreter, Translator"
+  },
+  {
+    "soc": "11-9033",
+    "synonyms": "Academic Affairs Vice President (Academic Affairs VP), Academic Dean, Dean, Registrar"
+  },
+  {
+    "soc": "51-7041",
+    "synonyms": "Resaw Operator, Rip Saw Operator, Saw Operator, Sawyer"
+  },
+  {
+    "soc": "51-4041",
+    "synonyms": "CNC Machinist (Computer Numeric Controlled Machinist), Machinist, Maintenance Machinist, Tool Room Machinist"
+  },
+  {
+    "soc": "47-2021",
+    "synonyms": "Block Layer, Brick and Block Mason, Bricklayer, Mason"
+  },
+  {
+    "soc": "51-4033",
+    "synonyms": "Centerless Grinder Operator, Grinder, Grinder Operator, Grinding Machine Operator"
+  },
+  {
+    "soc": "53-3051",
+    "synonyms": "Bus Driver, School Bus Driver, Shuttle Bus Driver, Special Education Bus Driver"
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Driver License Examiner, License Examiner, Motor Vehicle Clerk, Public Service Representative (PSR)"
+  },
+  {
+    "soc": "13-1161",
+    "synonyms": "Market Analyst, Market Research Analyst, Market Research Consultant, Market Research Specialist"
+  },
+  {
+    "soc": "53-3033",
+    "synonyms": "Delivery Driver, Driver, Package Car Driver, Truck Driver"
+  },
+  {
+    "soc": "39-4012",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1141",
+    "synonyms": "Clinical Nurse Specialist, Critical Care Clinical Nurse Specialist, Emergency Clinical Nurse Specialist, ICU Clinical Nurse Specialist (Intensive Care Unit Clinical Nurse Specialist)"
+  },
+  {
+    "soc": "51-9192",
+    "synonyms": "Clean in Places Operator (CIP Operator), Sanitation Technician, Sanitation Worker, Sanitizer"
+  },
+  {
+    "soc": "31-2011",
+    "synonyms": "Certified Occupational Therapist Assistant (COTA), Certified Occupational Therapy Assistant (COTA), Licensed Occupational Therapy Assistant (LOTA), Occupational Therapy Assistant (OTA)"
+  },
+  {
+    "soc": "37-3019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "35-3023",
+    "synonyms": "Barista, Catering Barista"
+  },
+  {
+    "soc": "43-9071",
+    "synonyms": "Copy Center Operator, Copy Machine Operator, Key Operator, Machine Operator"
+  },
+  {
+    "soc": "11-3061",
+    "synonyms": "Materials Manager, Procurement Manager, Purchasing Director, Purchasing Manager"
+  },
+  {
+    "soc": "33-9094",
+    "synonyms": ""
+  },
+  {
+    "soc": "35-2014",
+    "synonyms": "Cook, Grill Cook, Line Cook, Prep Cook (Preparation Cook)"
+  },
+  {
+    "soc": "39-9011",
+    "synonyms": "Family Assistant, House Manager, Household Manager, Nanny"
+  },
+  {
+    "soc": "15-1252",
+    "synonyms": "Application Developer, Application Integration Engineer, Software Architect, Software Developer"
+  },
+  {
+    "soc": "47-4091",
+    "synonyms": "Cutter, Paver, Paver Installer, Paving Stone Installer"
+  },
+  {
+    "soc": "51-4111",
+    "synonyms": "Tool and Die Machinist, Tool and Die Maker, Tool and Fixture Specialist, Tool Maker"
+  },
+  {
+    "soc": "51-8013",
+    "synonyms": "Auxiliary Operator, Control Room Operator, Operations and Maintenance Technician (O and M Tech), Power Plant Operator"
+  },
+  {
+    "soc": "51-9196",
+    "synonyms": "Cup Room Technician, Folder Machine Operator, Paper Machine Backtender, Paper Machine Operator"
+  },
+  {
+    "soc": "51-8021",
+    "synonyms": "Boiler Operator, Operating Engineer, Stationary Engineer, Utilities Operator"
+  },
+  {
+    "soc": "51-6021",
+    "synonyms": "Ironing Worker, Pants Presser, Presser, Shirt Presser"
+  },
+  {
+    "soc": "47-4021",
+    "synonyms": "Elevator Mechanic, Elevator Service Mechanic, Elevator Service Technician (Elevator Service Tech), Elevator Technician (Elevator Tech)"
+  },
+  {
+    "soc": "35-9011",
+    "synonyms": "Barback, Bus Boy, Bus Person, Busser"
+  },
+  {
+    "soc": "51-6092",
+    "synonyms": "Designer, Pattern Designer, Pattern Maker, Production Pattern Maker"
+  },
+  {
+    "soc": "43-9022",
+    "synonyms": "Clerk Typist, Keyboard Specialist, Typist, Word Processor"
+  },
+  {
+    "soc": "41-3091",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-6099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "43-4151",
+    "synonyms": "Materials Specialist, Order Clerk, Warehouse Clerk, Warehouse Person"
+  },
+  {
+    "soc": "47-1011",
+    "synonyms": "Installation Manager, Solar Energy Installation Manager, Solar Installation Crew Foreman, Solar Installation Manager"
+  },
+  {
+    "soc": "25-4012",
+    "synonyms": "Collections Curator, Collections Manager, Curator, Museum Curator"
+  },
+  {
+    "soc": "49-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-2071",
+    "synonyms": "Certified Consumer Credit and Housing Counselor, Certified Credit Counselor, Credit Counselor, Housing Counselor"
+  },
+  {
+    "soc": "51-8099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-1066",
+    "synonyms": "Instructor, Professor, Psychology Instructor, Psychology Professor"
+  },
+  {
+    "soc": "51-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-2033",
+    "synonyms": "Account Supervisor, Annual Giving Director, Development Director"
+  },
+  {
+    "soc": "19-3033",
+    "synonyms": "Clinical Psychologist, Counseling Psychologist, Psychologist, Psychotherapist"
+  },
+  {
+    "soc": "47-3015",
+    "synonyms": "Plumber's Helper"
+  },
+  {
+    "soc": "51-7032",
+    "synonyms": "Mold Maker, Pattern Maker, Patternmaker, Wood Pattern Maker"
+  },
+  {
+    "soc": "19-1099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-2058",
+    "synonyms": "High School Special Education Teacher, Special Education Resource Teacher, Special Education Teacher, Teacher"
+  },
+  {
+    "soc": "43-4199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-1021",
+    "synonyms": "Computer Information Systems Instructor (CIS Instructor), Computer Science Professor, Instructor, Professor"
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "Hospitalist, Hospitalist Medical Doctor (Hospitalist MD), MD (Medical Doctor), Physician"
+  },
+  {
+    "soc": "47-3013",
+    "synonyms": "Electrical Apprentice, Electrician Apprentice, Electrician Helper, Electrician's Helper"
+  },
+  {
+    "soc": "41-4011",
+    "synonyms": "Energy Consultant, Solar Consultant, Solar Sales Consultant, Solar Sales Representative (Solar Sales Rep)"
+  },
+  {
+    "soc": "47-3014",
+    "synonyms": "Painter Helper, Plaster Helper, Plaster Tender"
+  },
+  {
+    "soc": "29-2055",
+    "synonyms": "Certified Surgical Technologist (CST), Operating Room Technician (OR Tech), Surgical Technician, Surgical Technologist (Surgical Tech)"
+  },
+  {
+    "soc": "55-1013",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-1199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-2099",
+    "synonyms": "Certified Ophthalmic Medical Technologist (COMT), Ophthalmic Medical Technologist (Ophthalmic Medical Tech), Ophthalmic Technologist (Ophthalmic Tech), Surgical Coordinator"
+  },
+  {
+    "soc": "43-5041",
+    "synonyms": "Meter Reader, Meter Technician, Water Meter Reader, Water Use Inspector"
+  },
+  {
+    "soc": "11-9151",
+    "synonyms": "Child Welfare Services Director, Social Services Director, Transitional Care Director, Vocational Rehabilitation Administrator"
+  },
+  {
+    "soc": "47-2141",
+    "synonyms": "Facilities Painter, Industrial Painter, Maintenance Painter, Painter"
+  },
+  {
+    "soc": "17-2112",
+    "synonyms": "Manufacturing Engineer, Plant Engineer, Process Engineer, Process Improvement Engineer"
+  },
+  {
+    "soc": "53-5011",
+    "synonyms": "Able Bodied Seaman (AB Seaman), Able Seaman, Deck Hand, Deckhand"
+  },
+  {
+    "soc": "43-4031",
+    "synonyms": "City Clerk, Court Clerk, License Clerk, Town Clerk"
+  },
+  {
+    "soc": "15-1221",
+    "synonyms": "Computer Scientist, Computer Specialist, Control System Computer Scientist, Research Scientist"
+  },
+  {
+    "soc": "29-2091",
+    "synonyms": "Certified Orthotist (CO), Certified Prosthetist (CP), Certified Prosthetist Orthotist (CPO), Orthotist"
+  },
+  {
+    "soc": "55-3013",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "39-6011",
+    "synonyms": "Bell Captain, Bellman, Skycap, Valet"
+  },
+  {
+    "soc": "51-4035",
+    "synonyms": "CNC Licensed Mill Operator (Computer Numerical Control Licensed Mill Operator), CNC Mill Operator (Computerized Numerical Control Mill Operator), Machine Operator, Mill Operator"
+  },
+  {
+    "soc": "25-4022",
+    "synonyms": "Librarian, Library Media Specialist, Media Specialist, Reference Librarian"
+  },
+  {
+    "soc": "51-9194",
+    "synonyms": "Chemical Engraver, Engraver, Etcher, Photo Engraver"
+  },
+  {
+    "soc": "21-1011",
+    "synonyms": "Addictions Counselor, Chemical Dependency Counselor (CD Counselor), Counselor, Substance Abuse Counselor (SA Counselor)"
+  },
+  {
+    "soc": "17-2061",
+    "synonyms": "Design Engineer, Engineer, Hardware Engineer, Systems Integration Engineer"
+  },
+  {
+    "soc": "49-3023",
+    "synonyms": "Automotive Mechanic (Auto Mechanic), Automotive Technician (Auto Tech), Mechanic, Service Technician (Service Tech)"
+  },
+  {
+    "soc": "43-4071",
+    "synonyms": "File Clerk, Medical Records Clerk, Office Assistant, Records Clerk"
+  },
+  {
+    "soc": "17-3026",
+    "synonyms": "Engineering Technician, Nanofabrication Specialist, Research Associate, Research Scientist"
+  },
+  {
+    "soc": "19-4099",
+    "synonyms": "Digital Cartographic Technician, Geospatial Extractor, Meteorologist Liaison, Research Associate"
+  },
+  {
+    "soc": "49-9061",
+    "synonyms": "Camera Repair Technician, Camera Repairman, Camera Technician, Repair Technician"
+  },
+  {
+    "soc": "53-3052",
+    "synonyms": "Bus Driver, Bus Operator, Motor Coach Operator, Transit Bus Driver"
+  },
+  {
+    "soc": "19-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-3031",
+    "synonyms": ""
+  },
+  {
+    "soc": "19-4012",
+    "synonyms": "Agricultural Research Technician (Agricultural Research Tech), Agricultural Technician (Agricultural Tech), Agriculture Assistant, Seed Analyst"
+  },
+  {
+    "soc": "25-1121",
+    "synonyms": "Art Professor, Music Professor, Professor, Theater Professor"
+  },
+  {
+    "soc": "53-5031",
+    "synonyms": "Engineer, Ferry Engineer, Port Engineer, Tug Boat Engineer"
+  },
+  {
+    "soc": "11-9121",
+    "synonyms": "Clinical Program Manager, Clinical Research Coordinator, Clinical Trial Manager, Research Coordinator"
+  },
+  {
+    "soc": "49-9081",
+    "synonyms": "Field Service Technician, Wind Farm Support Specialist, Wind Technician, Wind Turbine Technician"
+  },
+  {
+    "soc": "29-2099",
+    "synonyms": "Case Manager, Medicaid Service Coordinator (MSC), Patient Advocate, Patient Service Representative"
+  },
+  {
+    "soc": "15-1251",
+    "synonyms": "Analyst Programmer, Computer Programmer, Programmer, Programmer Analyst"
+  },
+  {
+    "soc": "29-1212",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-2111",
+    "synonyms": "Product Safety Engineer, Safety and Health Consultant, Safety Engineer, System Safety Engineer"
+  },
+  {
+    "soc": "53-2022",
+    "synonyms": "Airport Operations Agent, Airport Operations Coordinator, Airport Operations Officer, Airport Operations Specialist"
+  },
+  {
+    "soc": "35-3031",
+    "synonyms": "Food Server, Server, Waiter, Waitress"
+  },
+  {
+    "soc": "45-2021",
+    "synonyms": "Animal Technician, Artificial Insemination Technician (AI Technician), Breeder, Dog Breeder"
+  },
+  {
+    "soc": "31-9011",
+    "synonyms": "Certified Massage Therapist (CMT), Licensed Massage Practitioner (LMP), Licensed Massage Therapist (LMT), Massage Therapist"
+  },
+  {
+    "soc": "15-2021",
+    "synonyms": "Computational Mathematician, Cryptographer, Mathematician, Research Scientist"
+  },
+  {
+    "soc": "25-1011",
+    "synonyms": "Business Instructor, Business Professor, Instructor, Professor"
+  },
+  {
+    "soc": "53-4099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "47-2121",
+    "synonyms": "Commercial Glazier, Field Glazier, Glazer, Glazier"
+  },
+  {
+    "soc": "41-2011",
+    "synonyms": "Cashier, Checker, Sales Associate, Store Clerk"
+  },
+  {
+    "soc": "17-2141",
+    "synonyms": "Engineer, Product Engineer, Project Engineer, Research Engineer"
+  },
+  {
+    "soc": "47-2161",
+    "synonyms": "Plaster Applicator, Plaster Mechanic, Plasterer, Plasterer Journeyman"
+  },
+  {
+    "soc": "11-3051",
+    "synonyms": "Quality Assurance Director (QA Director), Quality Assurance Manager (QA Manager), Quality Control Manager (QC Manager), Quality Manager"
+  },
+  {
+    "soc": "53-1043",
+    "synonyms": "Driver Manager, Fleet Manager, Trainmaster, Warehouse Supervisor"
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "41-9031",
+    "synonyms": "Business Development Engineer, Product Sales Engineer, Sales Engineer, Technical Marketing Engineer"
+  },
+  {
+    "soc": "19-1012",
+    "synonyms": "Food Scientist, Food Technologist, Research Food Technologist, Research Scientist"
+  },
+  {
+    "soc": "43-9021",
+    "synonyms": "Data Capture Specialist, Data Entry Clerk, Data Entry Operator, Data Transcriber"
+  },
+  {
+    "soc": "29-1141",
+    "synonyms": "Critical Care Nurse Practitioner, Critical Care Registered Nurse (CCRN), ICU Nurse (Intensive Care Unit Nurse), Staff Nurse"
+  },
+  {
+    "soc": "41-3011",
+    "synonyms": "Advertising Account Representative, Advertising Representative, Advertising Sales Representative (Ad Sales Representative), Sales Representative"
+  },
+  {
+    "soc": "41-3021",
+    "synonyms": "Insurance Agent, Insurance Broker, Sales Agent, Sales Representative"
+  },
+  {
+    "soc": "51-7042",
+    "synonyms": "Cabinet Maker, Machine Operator, Sander, Sander Operator"
+  },
+  {
+    "soc": "27-3092",
+    "synonyms": "Certified Shorthand Reporter (CSR), Court Reporter, Court Stenographer, Official Court Reporter"
+  },
+  {
+    "soc": "11-3121",
+    "synonyms": "Employee Relations Manager, HR Administration Director (Human Resources Administration Director), Human Resources Director (HR Director), Human Resources Manager (HR Manager)"
+  },
+  {
+    "soc": "17-3024",
+    "synonyms": "Electro-Mechanic, Electromechanical Technician (EM Technician), Electronics Technician (Electronics Tech), Mechanical Technician (Mechanical Tech)"
+  },
+  {
+    "soc": "29-1041",
+    "synonyms": "Optometrist, Optometry Doctor (OD), Therapeutic Optometrist"
+  },
+  {
+    "soc": "25-1111",
+    "synonyms": "Assistant Professor, Associate Professor, Criminal Justice Professor, Professor"
+  },
+  {
+    "soc": "19-2042",
+    "synonyms": "Geologist, Geophysicist, Geoscientist, Project Geologist"
+  },
+  {
+    "soc": "17-2011",
+    "synonyms": "Aerospace Engineer, Design Engineer, Flight Test Engineer, Systems Engineer"
+  },
+  {
+    "soc": "25-2051",
+    "synonyms": "Early Childhood Special Education Teacher (ECSE Teacher), Resource Teacher, Special Education Teacher, Teacher"
+  },
+  {
+    "soc": "43-1011",
+    "synonyms": "Accounting Manager, Customer Service Manager, Customer Service Supervisor, Office Manager"
+  },
+  {
+    "soc": "17-3027",
+    "synonyms": "Engineering Technician (Engineering Tech), Mechanical Designer, Mechanical Technician (Mechanical Tech), Research and Development Technician (R and D Tech)"
+  },
+  {
+    "soc": "25-2012",
+    "synonyms": "Bilingual Kindergarten Teacher, Classroom Teacher, Kinder Teacher, Teacher"
+  },
+  {
+    "soc": "33-9093",
+    "synonyms": "Security Screener, Transportation Security Officer (TSO)"
+  },
+  {
+    "soc": "33-1011",
+    "synonyms": "Correctional Officer Captain, Correctional Supervisor"
+  },
+  {
+    "soc": "37-3011",
+    "synonyms": "Grounds Maintenance Worker, Grounds Worker, Groundskeeper, Outside Maintenance Worker"
+  },
+  {
+    "soc": "15-1211",
+    "synonyms": "Business Systems Analyst, Computer Systems Analyst, Programmer Analyst, Systems Analyst"
+  },
+  {
+    "soc": "53-7051",
+    "synonyms": "Fork Truck Driver, Forklift Driver, Forklift Operator, Spotter Driver"
+  },
+  {
+    "soc": "49-9063",
+    "synonyms": "Banjo Repair Person, Luthier, Piano Technician, Piano Tuner"
+  },
+  {
+    "soc": "17-2131",
+    "synonyms": "Materials Engineer, Materials Research Engineer, Metallurgical Engineer, Metallurgist"
+  },
+  {
+    "soc": "29-1124",
+    "synonyms": "Dosimetrist, Radiation Therapist (RT), Registered Radiation Therapist, Staff Radiation Therapist"
+  },
+  {
+    "soc": "43-9031",
+    "synonyms": "Compositor, Computer Typesetter, Electronic Console Display Operator, Publisher"
+  },
+  {
+    "soc": "25-1122",
+    "synonyms": "Communication Instructor, Communication Professor, Instructor, Professor"
+  },
+  {
+    "soc": "13-1031",
+    "synonyms": "Claims Adjuster, Claims Analyst, Claims Examiner, Claims Representative"
+  },
+  {
+    "soc": "11-9031",
+    "synonyms": "Education Director, Preschool Director, Principal, Site Coordinator"
+  },
+  {
+    "soc": "49-9051",
+    "synonyms": "Electrical Lineman, Lineworker, Power Lineman, Service Man"
+  },
+  {
+    "soc": "39-3092",
+    "synonyms": "Costumer, Dresser, Wardrobe Assistant, Wardrobe Supervisor"
+  },
+  {
+    "soc": "53-5021",
+    "synonyms": "Boat Captain, Captain, First Mate, Mate"
+  },
+  {
+    "soc": "21-1094",
+    "synonyms": "Community Health Outreach Worker, Community Health Program Coordinator, Community Health Promoter, Community Nutrition Educator"
+  },
+  {
+    "soc": "27-4099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-4061",
+    "synonyms": "Graduate Research Assistant, Research Assistant, Research Associate, Social Research Assistant"
+  },
+  {
+    "soc": "49-9045",
+    "synonyms": "Cupola Repairer, Ladle Liner, Refractory Bricklayer, Refractory Technician"
+  },
+  {
+    "soc": "49-9052",
+    "synonyms": "Combination Technician, Installation and Repair Technician (I and R Technician), Lineman, Service Technician"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "Compliance Director, Compliance Manager, Environmental Manager, Environmental Program Manager"
+  },
+  {
+    "soc": "13-1041",
+    "synonyms": "Corporate Licensed Broker, Customs Broker"
+  },
+  {
+    "soc": "19-1011",
+    "synonyms": "Animal Nutritionist, Animal Scientist, Beef Cattle Nutritionist, Research Scientist"
+  },
+  {
+    "soc": "53-6051",
+    "synonyms": "Carman, Inspector, Smog Technician, Transit Vehicle Inspector"
+  },
+  {
+    "soc": "53-2021",
+    "synonyms": "Air Traffic Control Specialist (ATCS), Air Traffic Controller (ATC), Certified Professional Controller (CPC), Enroute Air Traffic Controller (Enroute ATC)"
+  },
+  {
+    "soc": "51-4021",
+    "synonyms": "Equipment Technician, Extruder Operator, Extrusion Press Operator, Machine Operator"
+  },
+  {
+    "soc": "51-3023",
+    "synonyms": "Boning Room Worker, Meat Packer, Meat Processor, Meat Wrapper"
+  },
+  {
+    "soc": "51-9151",
+    "synonyms": "Photo Lab Technician (Photographic Laboratory Technician), Photo Printer, Photo Specialist, Photo Technician"
+  },
+  {
+    "soc": "53-7081",
+    "synonyms": "Garbage Man, Roll Off Truck Driver, Sanitation Laborer, Trash Collector"
+  },
+  {
+    "soc": "49-3042",
+    "synonyms": "Equipment Mechanic, Heavy Equipment Mechanic, Heavy Equipment Technician, Mechanic"
+  },
+  {
+    "soc": "47-2221",
+    "synonyms": "Fitter, Iron Worker, Ironworker, Steel Worker"
+  },
+  {
+    "soc": "29-1151",
+    "synonyms": "Certified Registered Nurse Anesthetist (CRNA), Nurse Anesthetist, Staff Certified Registered Nurse Anesthetist (Staff CRNA), Staff Nurse Anesthetist"
+  },
+  {
+    "soc": "39-3021",
+    "synonyms": "Booth Operator, Movie Projectionist, Projectionist, Technical Projection Guide"
+  },
+  {
+    "soc": "19-4071",
+    "synonyms": "Forest Technician, Forestry Aide, Forestry Technician (Forestry Tech), Resource Technician"
+  },
+  {
+    "soc": "15-1253",
+    "synonyms": "Quality Assurance Analyst (QA Analyst), Software Quality Assurance Engineer (SQA Engineer), Software Quality Engineer, Software Test Engineer"
+  },
+  {
+    "soc": "25-1061",
+    "synonyms": "Anthropology Professor, Assistant Professor, Associate Professor, Professor"
+  },
+  {
+    "soc": "21-1021",
+    "synonyms": "Case Manager, Family Protection Specialist, Family Service Worker, School Social Worker"
+  },
+  {
+    "soc": "29-1126",
+    "synonyms": "Certified Respiratory Therapist (CRT), Registered Respiratory Therapist (RRT), Respiratory Care Practitioner (RCP), Respiratory Therapist (RT)"
+  },
+  {
+    "soc": "19-1022",
+    "synonyms": "Bacteriologist, Clinical Laboratory Scientist (Clinical Lab Scientist), Microbiological Analyst, Microbiologist"
+  },
+  {
+    "soc": "47-2152",
+    "synonyms": "Installer, Solar Installer, Solar Maintenance Technician, Solar Technician"
+  },
+  {
+    "soc": "39-9031",
+    "synonyms": "Aerobics Instructor, Fitness Instructor, Group Fitness Instructor, Personal Trainer"
+  },
+  {
+    "soc": "29-2031",
+    "synonyms": "Cardio Tech (Cardiovascular Technician), Cardiology Technician, Cardiovascular Technologist (CVT), Registered Cardiovascular Invasive Specialist (RCIS)"
+  },
+  {
+    "soc": "17-3028",
+    "synonyms": ""
+  },
+  {
+    "soc": "35-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "49-3031",
+    "synonyms": "Bus Mechanic, Diesel Mechanic, Diesel Technician (Diesel Tech), Truck Mechanic"
+  },
+  {
+    "soc": "13-1021",
+    "synonyms": "Buyer, Grain Buyer, Grain Merchandiser, Purchasing Agent"
+  },
+  {
+    "soc": "35-2015",
+    "synonyms": "Cook, Grill Cook, Line Cook, Short Order Cook"
+  },
+  {
+    "soc": "19-4043",
+    "synonyms": "Geological Technician, Geotechnician, Materials Technician, Physical Science Technician"
+  },
+  {
+    "soc": "13-2072",
+    "synonyms": "Commercial Loan Officer, Financial Aid Counselor, Loan Counselor, Loan Officer"
+  },
+  {
+    "soc": "43-9061",
+    "synonyms": "Clerk, Office Assistant, Office Clerk, Office Services Specialist"
+  },
+  {
+    "soc": "49-2094",
+    "synonyms": "Control Technician, Electrical and Instrument Technician (E and I Tech), Electronic Technician, I and C Tech (Instrument and Control Technician)"
+  },
+  {
+    "soc": "35-2021",
+    "synonyms": "Cook, Deli Clerk (Delicatessen Clerk), Dietary Aide, Food Service Worker (FSW)"
+  },
+  {
+    "soc": "53-7121",
+    "synonyms": "Loader, Loader Operator, Tankerman, Truck Loader"
+  },
+  {
+    "soc": "25-2057",
+    "synonyms": "Intervention Specialist, Middle School Special Education Teacher, Special Education Resource Teacher, Teacher"
+  },
+  {
+    "soc": "39-5093",
+    "synonyms": "Shampoo Assistant, Shampoo Technician, Shampooer, Stylist Assistant"
+  },
+  {
+    "soc": "49-2096",
+    "synonyms": "Automotive Technician, Car Audio Installer, Car Stereo Installer, Mobile Electronics Installation Specialist"
+  },
+  {
+    "soc": "25-1125",
+    "synonyms": "History Instructor, History Professor, Instructor, Professor"
+  },
+  {
+    "soc": "11-9141",
+    "synonyms": "Apartment Manager, Community Manager, Property Manager, Resident Manager"
+  },
+  {
+    "soc": "25-3021",
+    "synonyms": "Dance Instructor, Instructor, Martial Arts Instructor, Teacher"
+  },
+  {
+    "soc": "43-4051",
+    "synonyms": "Account Representative, Customer Service Representative (CSR), Customer Service Specialist, Member Services Representative (Member Services Rep)"
+  },
+  {
+    "soc": "23-1022",
+    "synonyms": "Alternative Dispute Resolution Coordinator (ADR Coordinator), Arbitrator, Labor Arbitrator, Mediator"
+  },
+  {
+    "soc": "51-8091",
+    "synonyms": "Chemical Operator, Loader Technician, Process Operator, Process Technician"
+  },
+  {
+    "soc": "29-1021",
+    "synonyms": "Dentist, Family Dentist, General Dentist, Pediatric Dentist"
+  },
+  {
+    "soc": "47-2043",
+    "synonyms": "Floor Finisher, Floor Mechanic, Floor Sander, Hardwood Floor Sander"
+  },
+  {
+    "soc": "15-1232",
+    "synonyms": "Computer Support Specialist, Computer Tech (Computer Technician), IS Tech (Information Systems Technician), IT Specialist (Information Technology Specialist)"
+  },
+  {
+    "soc": "49-2092",
+    "synonyms": "Electric Motor Winder, Maintenance Technician, Repair Technician, Service Technician"
+  },
+  {
+    "soc": "51-6093",
+    "synonyms": "Box Spring Upholsterer, Upholstered Goods Crafter, Upholsterer, Upholstery Cutter"
+  },
+  {
+    "soc": "51-4034",
+    "synonyms": "CNC Lathe Operator (Computer Numerical Control Lathe Operator), Lathe Operator, Machine Operator, Setup Operator"
+  },
+  {
+    "soc": "15-2011",
+    "synonyms": "Actuarial Analyst, Actuary, Consulting Actuary, Pricing Actuary"
+  },
+  {
+    "soc": "49-9031",
+    "synonyms": "Appliance Technician (Appliance Tech), Repair Technician, Service Technician (Service Tech), Vacuum Repairer"
+  },
+  {
+    "soc": "51-8092",
+    "synonyms": "Gas Controller, Gas Dispatcher, Gas Plant Operator, Plant Operator"
+  },
+  {
+    "soc": "33-9031",
+    "synonyms": "Surveillance Agent, Surveillance Observer, Surveillance Officer, Surveillance Operator"
+  },
+  {
+    "soc": "13-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "17-2112",
+    "synonyms": "Engineer, Industrial Engineer, Process Engineer, Project Engineer"
+  },
+  {
+    "soc": "15-2099",
+    "synonyms": "Bioinformatics Analyst, Bioinformatics Specialist, Biotechnician, Scientific Informatics Analyst"
+  },
+  {
+    "soc": "21-1015",
+    "synonyms": "Employment Specialist, Job Coach, Rehabilitation Counselor, Vocational Rehabilitation Counselor (VRC)"
+  },
+  {
+    "soc": "29-1241",
+    "synonyms": "Glaucoma Specialist, Ophthalmologist, Physician, Retina Specialist"
+  },
+  {
+    "soc": "25-2032",
+    "synonyms": "Family and Consumer Sciences Teacher (FACS Teacher), Instructor, Teacher, Technology Education Teacher"
+  },
+  {
+    "soc": "29-2043",
+    "synonyms": "First Responder, Flight Paramedic, Paramedic"
+  },
+  {
+    "soc": "47-2011",
+    "synonyms": "Boiler Maker, Boiler Mechanic, Boiler Technician, Boilermaker"
+  },
+  {
+    "soc": "35-3011",
+    "synonyms": "Banquet Bartender, Bar Captain, Bartender, Mixologist"
+  },
+  {
+    "soc": "45-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-1042",
+    "synonyms": "Clinical Research Scientist, Research Scientist, Scientist, Study Director"
+  },
+  {
+    "soc": "33-3051",
+    "synonyms": "Customs Inspector, Customs Officer, Special Agent, US Customs and Border Protection Officer (US CBPO)"
+  },
+  {
+    "soc": "17-2111",
+    "synonyms": "Consulting Engineer, Engineer, Fire Protection Consultant, Fire Protection Engineer (FP Engineer)"
+  },
+  {
+    "soc": "51-4122",
+    "synonyms": "Fabricator, Machine Operator, Mig Welder, Spot Welder"
+  },
+  {
+    "soc": "27-4015",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-3011",
+    "synonyms": "Bricklayer Helper, Hod Carrier, Marble Finisher Helper, Mason Tender"
+  },
+  {
+    "soc": "49-9043",
+    "synonyms": "Maintainer, Maintenance Mechanic, Maintenance Technician (Maintenance Tech), Maintenance Worker"
+  },
+  {
+    "soc": "25-4011",
+    "synonyms": "Archivist, Records Manager, Registrar, State Archivist"
+  },
+  {
+    "soc": "51-9083",
+    "synonyms": "Lab Technician (Laboratory Technician), Optical Lab Technician (Optical Laboratory Technician), Optical Technician, Surfacing Technician"
+  },
+  {
+    "soc": "11-9021",
+    "synonyms": "Concrete Foreman, Construction Area Manager, Construction Manager, Construction Superintendent"
+  },
+  {
+    "soc": "25-1043",
+    "synonyms": "Assistant Professor, Associate Professor, Forestry Professor, Professor"
+  },
+  {
+    "soc": "53-7062",
+    "synonyms": "Laborer, Loader, Material Handler, Warehouse Worker"
+  },
+  {
+    "soc": "27-1024",
+    "synonyms": "Artist, Designer, Graphic Artist, Graphic Designer"
+  },
+  {
+    "soc": "51-9031",
+    "synonyms": "Cloth Cutter, Leather Cutter, Offline Cutter, Trimmer"
+  },
+  {
+    "soc": "51-7021",
+    "synonyms": "Finisher, Furniture Finisher, Lacquer Sprayer, Sprayer"
+  },
+  {
+    "soc": "27-2041",
+    "synonyms": "Choir Director, Conductor, Music Composer, Music Director"
+  },
+  {
+    "soc": "45-2041",
+    "synonyms": "Apple Sorter, Grader, Potato Grader, Sorter"
+  },
+  {
+    "soc": "29-1141",
+    "synonyms": "Advanced Practice Psychiatric Nurse, PMHNP (Psychiatric-Mental Health Nurse Practitioner), Psychiatric Clinical Nurse Specialist (Psychiatric CNS), Psychiatric NP (Psychiatric Nurse Practitioner)"
+  },
+  {
+    "soc": "51-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-2061",
+    "synonyms": "Calibration Specialist, Clockmaker, Watch Technician, Watchmaker"
+  },
+  {
+    "soc": "53-1042",
+    "synonyms": "Heavy Equipment Supervisor, Route Supervisor, Solid Waste Division Supervisor, Waste Reduction Coordinator"
+  },
+  {
+    "soc": "19-2099",
+    "synonyms": "Geospatial Intelligence Analyst, Image Scientist, Remote Sensing Analyst, Remote Sensing Scientist"
+  },
+  {
+    "soc": "47-2211",
+    "synonyms": "HVAC Sheet Metal Installer (Heating, Ventilation, and Air Conditioning Sheet Metal Installer); Sheet Metal Fabricator; Sheet Metal Mechanic; Sheet Metal Worker"
+  },
+  {
+    "soc": "45-3031",
+    "synonyms": "Commercial Fisherman, Hunter, Trapper, Wildlife Control Operator"
+  },
+  {
+    "soc": "31-2012",
+    "synonyms": "Occupational Therapy Aide (OT Aide), Rehabilitation Aide (Rehab Aide), Rehabilitation Services Aide, Restorative Aide"
+  },
+  {
+    "soc": "33-1021",
+    "synonyms": "Engine Boss, Fire Battalion Chief, Fire Captain, Fire Chief"
+  },
+  {
+    "soc": "13-2041",
+    "synonyms": "Credit Administrator, Credit Analyst, Credit Officer, Credit Representative"
+  },
+  {
+    "soc": "53-5022",
+    "synonyms": "Boat Operator, Launch Operator, River Pilot, Water Taxi Business Operator"
+  },
+  {
+    "soc": "25-9043",
+    "synonyms": "Special Education Aide, Special Education Paraprofessional, Special Education Teacher Assistant"
+  },
+  {
+    "soc": "17-2121",
+    "synonyms": "Marine Engineer, Marine Engineering Consultant, Marine Surveyor, Naval Architect"
+  },
+  {
+    "soc": "29-1292",
+    "synonyms": "Dental Hygienist, Hygienist, Licensed Dental Hygienist, Registered Dental Hygienist (RDH)"
+  },
+  {
+    "soc": "29-1127",
+    "synonyms": "Bilingual Speech-Language Pathologist (Bilingual SLP), Speech and Language Specialist, Speech Pathologist, Speech-Language Pathologist (SLP)"
+  },
+  {
+    "soc": "19-3041",
+    "synonyms": "Demographer, Medical Sociologist, Social Scientist, Sociologist"
+  },
+  {
+    "soc": "11-2032",
+    "synonyms": "Communications Director, Community Relations Director, Public Affairs Director, Public Relations Director (PR Director)"
+  },
+  {
+    "soc": "49-3041",
+    "synonyms": "Farm Equipment Mechanic, Mechanic, Service Technician, Tractor Mechanic"
+  },
+  {
+    "soc": "43-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "47-4099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-3034",
+    "synonyms": "Bilingual School Psychologist, Consulting Psychologist, Psychologist, School Psychologist"
+  },
+  {
+    "soc": "41-4012",
+    "synonyms": "Outside Sales Representative, Sales Consultant, Sales Representative (Sales Rep), Salesman"
+  },
+  {
+    "soc": "49-9069",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "43-9111",
+    "synonyms": "Actuarial Analyst, Actuarial Assistant, Actuarial Technician, Research Assistant"
+  },
+  {
+    "soc": "55-2013",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "17-1011",
+    "synonyms": "Architect, Design Architect, Planner, Project Architect"
+  },
+  {
+    "soc": "39-5011",
+    "synonyms": "Barber, Barber Shop Operator, Barber Stylist, Stylist"
+  },
+  {
+    "soc": "25-9031",
+    "synonyms": "Curriculum and Instruction Director, Curriculum Coordinator, Instructional Designer, Instructional Technologist"
+  },
+  {
+    "soc": "19-4013",
+    "synonyms": "Central Laboratory Technician (CLT), Laboratory Technician (Lab Tech), QC Tech (Quality Control Technician), Quality Assurance Analyst (QA Analyst)"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Process Development Engineer, Research Engineer"
+  },
+  {
+    "soc": "17-3021",
+    "synonyms": "Engineering Technician, Instrumentation Technician, Systems Test Technician, Test Technician"
+  },
+  {
+    "soc": "25-2059",
+    "synonyms": "Adapted Physical Education Specialist (APE Specialist), Adapted Physical Education Teacher (Adapted PE Teacher), Adapted Physical Educator, DAPE Specialist (Developmental Adapted Physical Education Specialist)"
+  },
+  {
+    "soc": "19-4044",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-2095",
+    "synonyms": "Relay Technician, Substation Electrician, Substation Technician, Wireman"
+  },
+  {
+    "soc": "43-5011",
+    "synonyms": "Air Export Specialist, Drop Shipment Clerk, Logistics Coordinator, Logistics Service Representative"
+  },
+  {
+    "soc": "29-1071",
+    "synonyms": "Certified Physician Assistant (PA-C), Family Practice Physician Assistant, Physician Assistant (PA), Physician's Assistant"
+  },
+  {
+    "soc": "51-7031",
+    "synonyms": "Craftsman, Model Maker, Sample Builder, Sample Maker"
+  },
+  {
+    "soc": "47-5041",
+    "synonyms": "Continuous Miner Operator (CMO), Continuous Mining Machine Operator, Continuous Mining Operator (CMO), Miner Operator"
+  },
+  {
+    "soc": "47-2151",
+    "synonyms": "Pipelayer, Tailman, Waste Water Worker"
+  },
+  {
+    "soc": "19-1029",
+    "synonyms": "Bioinformaticist, Bioinformatics Scientist, Research Scientist, Scientist"
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "Athletic Team Physician, Physician, Sports Medicine Physician, Team Physician"
+  },
+  {
+    "soc": "29-2092",
+    "synonyms": "Hearing Aid Specialist, Hearing Instrument Dispenser, Hearing Instrument Specialist (HIS), Hearing Specialist"
+  },
+  {
+    "soc": "11-9131",
+    "synonyms": "Distribution Operation Supervisor (SDO), Distribution Operations Manager, Postmaster, Remote Encoding Center Manager"
+  },
+  {
+    "soc": "47-2061",
+    "synonyms": "Construction Laborer, Construction Worker, Equipment Operator (EO), Post Framer"
+  },
+  {
+    "soc": "39-5094",
+    "synonyms": "Aesthetician, Esthetician, Medical Esthetician, Skin Care Specialist"
+  },
+  {
+    "soc": "31-9093",
+    "synonyms": "Central Service Technician (CST), Central Sterile Supply Technician (CSS Technician), Certified Registered Central Service Technician (CRCST), Sterile Processing Technician (Sterile Processing Tech)"
+  },
+  {
+    "soc": "27-1029",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "49-2098",
+    "synonyms": "Alarm Technician, Fire Alarm Technician, Installation Technician, Service Technician"
+  },
+  {
+    "soc": "55-1014",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-9121",
+    "synonyms": "Chemical Process Exploration Manager, Environmental Program Manager, Natural Sciences Manager, Research and Development Director (R and D Director)"
+  },
+  {
+    "soc": "55-1015",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-9061",
+    "synonyms": "Inspector, Quality Control Inspector (QC Inspector), Quality Inspector, Quality Technician"
+  },
+  {
+    "soc": "11-9071",
+    "synonyms": "Casino Manager, Casino Shift Manager, Slot Manager, Table Games Manager"
+  },
+  {
+    "soc": "29-1029",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "41-4011",
+    "synonyms": "Inside Sales Representative, Marketing Representative, Sales Representative"
+  },
+  {
+    "soc": "19-1031",
+    "synonyms": "Conservationist, Land Resource Specialist, Research Soil Scientist, Resource Conservationist"
+  },
+  {
+    "soc": "53-3054",
+    "synonyms": "Cab Driver, Taxi Cab Driver, Taxi Driver"
+  },
+  {
+    "soc": "39-2021",
+    "synonyms": "Aquarist, Dog Groomer, Groomer, Kennel Technician (Kennel Tech)"
+  },
+  {
+    "soc": "47-2081",
+    "synonyms": "Drywall Finisher, Drywall Hanger, Drywall Installer, Metal Framer"
+  },
+  {
+    "soc": "23-2099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-4031",
+    "synonyms": "Machine Operator, Press Operator, Saw Operator, Set-Up Operator"
+  },
+  {
+    "soc": "47-4011",
+    "synonyms": "Energy Auditor, Energy Consultant, Energy Rater, Home Performance Consultant"
+  },
+  {
+    "soc": "51-9198",
+    "synonyms": "Helper, Material Handler, Press Helper"
+  },
+  {
+    "soc": "25-9044",
+    "synonyms": "Graduate Assistant, Graduate Teaching Assistant (GTA), Research Assistant (RA), Teaching Assistant (TA)"
+  },
+  {
+    "soc": "17-2151",
+    "synonyms": "Mine Engineer, Mining Consultant, Mining Engineer, Project Engineer"
+  },
+  {
+    "soc": "51-4062",
+    "synonyms": "Metal Pattern Maker, Pattern Maker, Patternmaker, Wax Molder"
+  },
+  {
+    "soc": "19-4042",
+    "synonyms": "Environmental Health Officer (EHO), Environmental Technician (Environmental Tech), Sanitarian, Soil Lab Technician (Soil Laboratory Technician)"
+  },
+  {
+    "soc": "29-1071",
+    "synonyms": "Anesthesia Assistant, Anesthesia Technician, Anesthesiologist Assistant, Certified Anesthesiologist Assistant"
+  },
+  {
+    "soc": "39-9011",
+    "synonyms": "Child Care Worker, Childcare Provider, Infant Teacher, Toddler Teacher"
+  },
+  {
+    "soc": "51-3021",
+    "synonyms": "Butcher, Meat Clerk, Meat Cutter, Meat Specialist"
+  },
+  {
+    "soc": "51-9011",
+    "synonyms": "Chemical Operator, Multiskill Operator, Outside Operator, Vessel Operator"
+  },
+  {
+    "soc": "53-6051",
+    "synonyms": "Cargo Surveyor, Marine Cargo Surveyor, Marine Surveyor, Petroleum Inspector"
+  },
+  {
+    "soc": "47-5081",
+    "synonyms": "Driller Helper, Driller's Assistant, Miner Helper, Powderman"
+  },
+  {
+    "soc": "35-3041",
+    "synonyms": "Food Service Worker, Room Server, Room Service Server, Tray Server"
+  },
+  {
+    "soc": "47-4041",
+    "synonyms": "Asbestos Abatement Worker, Asbestos Remover, Asbestos Worker, Waste Handling Technician"
+  },
+  {
+    "soc": "25-1124",
+    "synonyms": "French Professor, Professor, Spanish Instructor, Spanish Professor"
+  },
+  {
+    "soc": "33-3052",
+    "synonyms": "Patrolman, Railroad Police, Railroad Police Officer, Transit Police Officer"
+  },
+  {
+    "soc": "19-3039",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "55-3015",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "55-2012",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "21-2011",
+    "synonyms": "Minister, Pastor, Priest, Rector"
+  },
+  {
+    "soc": "13-1051",
+    "synonyms": "Construction Estimator, Cost Analyst, Cost Estimator, Estimator"
+  },
+  {
+    "soc": "43-4161",
+    "synonyms": "Human Resources Administrative Assistant (HR Administrative Assistant), Human Resources Assistant (HR Assistant), Human Resources Associate (HR Associate), Personnel Clerk"
+  },
+  {
+    "soc": "53-6011",
+    "synonyms": "Bridge Operator, Bridge Tender, Lock Tender"
+  },
+  {
+    "soc": "25-1071",
+    "synonyms": "Assistant Professor, Associate Professor, Clinical Professor, Professor"
+  },
+  {
+    "soc": "49-9099",
+    "synonyms": "I C and E Technician (Instrumentation, Control, and Electrical Technician); Operations and Maintenance Technician (O and M Technician); Operations Technician; Plant Technician"
+  },
+  {
+    "soc": "47-4051",
+    "synonyms": "Equipment Operator (EO), Highway Maintainer, Highway Maintenance Worker, Transportation Maintenance Specialist (TMS)"
+  },
+  {
+    "soc": "53-7031",
+    "synonyms": "Dredge Operator, Dredger"
+  },
+  {
+    "soc": "47-2073",
+    "synonyms": "Equipment Operator (EO), Heavy Equipment Operator (HEO), Machine Operator, Operating Engineer"
+  },
+  {
+    "soc": "43-5071",
+    "synonyms": "Receiver, Receiving Clerk, Shipper, Shipping Clerk"
+  },
+  {
+    "soc": "39-3099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "47-2231",
+    "synonyms": "PV Installer (Photovoltaic Installer), Solar Installer, Solar PV Installer (Solar Photovoltaic Installer), Solar PV Integrator (Solar Photovoltaic Integrator)"
+  },
+  {
+    "soc": "47-5049",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-1161",
+    "synonyms": "Digital Media Planner, Online Marketing Consultant, Paid Search Strategist, SEO Strategist (Search Engine Optimization Strategist)"
+  },
+  {
+    "soc": "17-3022",
+    "synonyms": "Civil Engineering Technician, Engineer Technician, Engineering Assistant, Engineering Technician"
+  },
+  {
+    "soc": "29-1141",
+    "synonyms": "Charge Nurse, Emergency Department RN (Emergency Department Registered Nurse), Operating Room Registered Nurse (OR RN), Staff Nurse"
+  },
+  {
+    "soc": "51-2021",
+    "synonyms": "Armature Winder, Coil Finisher, Coil Winder, Winder"
+  },
+  {
+    "soc": "15-1255",
+    "synonyms": "Web Architect, Web Design Specialist, Web Designer, Webmaster"
+  },
+  {
+    "soc": "19-3093",
+    "synonyms": "Historian, Historic Sites Registrar, Research Associate, Researcher"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "23-1021",
+    "synonyms": "Administrative Hearings Officer, Administrative Judge, Administrative Law Judge, Hearings Officer"
+  },
+  {
+    "soc": "49-3093",
+    "synonyms": "Service Technician, Tire Changer, Tire Shop Mechanic, Tire Technician"
+  },
+  {
+    "soc": "11-3051",
+    "synonyms": "Assembly Manager, Manufacturing Manager, Plant Manager, Production Manager"
+  },
+  {
+    "soc": "11-9179",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-9072",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "Occupational Medicine Physician, Physician, Public Health Officer, Public Health Physician"
+  },
+  {
+    "soc": "25-1042",
+    "synonyms": "Associate Professor, Biology Instructor, Biology Professor, Professor"
+  },
+  {
+    "soc": "51-9123",
+    "synonyms": "Decorator, Glazer, Painter, Pottery Decorator"
+  },
+  {
+    "soc": "25-1052",
+    "synonyms": "Assistant Professor, Chemistry Instructor, Chemistry Professor, Professor"
+  },
+  {
+    "soc": "13-1081",
+    "synonyms": "Client Services Administrator, Logistician, Production Planner, Supply Management Specialist"
+  },
+  {
+    "soc": "11-3013",
+    "synonyms": "Facilities Director, Facilities Maintenance Manager, Facilities Manager, Facilities Operations Manager (Facilities Ops Manager)"
+  },
+  {
+    "soc": "51-6031",
+    "synonyms": "Sample Maker, Seamstress, Sewer, Sewing Machine Operator"
+  },
+  {
+    "soc": "27-1027",
+    "synonyms": "Display Coordinator, Exhibit Designer, Scenic Designer, Set Designer"
+  },
+  {
+    "soc": "43-4021",
+    "synonyms": "Correspondence Clerk, Correspondence Coordinator, Correspondence Representative (Correspondence Rep), Dispute Resolution Analyst"
+  },
+  {
+    "soc": "21-1099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-2022",
+    "synonyms": "Assembler, Electrical Assembler, Electronics Assembler, Transformer Assembler"
+  },
+  {
+    "soc": "17-2199",
+    "synonyms": "Power Systems Engineer, Project Engineer, Solar Design Engineer, Solar Designer"
+  },
+  {
+    "soc": "17-2171",
+    "synonyms": "Drilling Engineer, Engineer, Petroleum Engineer, Reservoir Engineer"
+  },
+  {
+    "soc": "13-1141",
+    "synonyms": "Benefits Analyst, Benefits Specialist, Compensation Analyst, Compensation Specialist"
+  },
+  {
+    "soc": "29-2012",
+    "synonyms": "Histologic Technician, Histology Technician"
+  },
+  {
+    "soc": "45-2091",
+    "synonyms": "Equipment Operator, Farm Equipment Operator, Loader Operator, Rake Operator"
+  },
+  {
+    "soc": "25-1032",
+    "synonyms": "Assistant Professor, Associate Professor, Instructor, Professor"
+  },
+  {
+    "soc": "19-4099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "53-2031",
+    "synonyms": "Flight Attendant, In-Flight Crew Member, International Flight Attendant, Purser"
+  },
+  {
+    "soc": "37-2012",
+    "synonyms": "Environmental Services Aide, Environmental Services Worker, Housekeeper, Housekeeping Laundry Worker"
+  },
+  {
+    "soc": "19-2041",
+    "synonyms": "Coastal and Estuary Specialist, Habitat Restoration Specialist, Marine Habitat Resources Specialist, Restoration Ecologist"
+  },
+  {
+    "soc": "43-4121",
+    "synonyms": "Library Aide, Library Assistant, Library Circulation Assistant, Library Clerk"
+  },
+  {
+    "soc": "19-4031",
+    "synonyms": "Chemical Technician, Laboratory Analyst (Lab Analyst), Laboratory Technician (Lab Tech), Quality Control Technician (QC Tech)"
+  },
+  {
+    "soc": "11-9032",
+    "synonyms": "Elementary Principal, Middle School Principal, Principal, Superintendent"
+  },
+  {
+    "soc": "13-1151",
+    "synonyms": "Corporate Trainer, Job Training Specialist, Learning and Development Specialist (L and D Specialist), Training Specialist"
+  },
+  {
+    "soc": "25-1126",
+    "synonyms": "Assistant Professor, Philosophy Professor, Professor, Religion Professor"
+  },
+  {
+    "soc": "19-3032",
+    "synonyms": "I-O Psychologist (Industrial-Organizational Psychologist), Organizational Consultant, Organizational Psychologist, Research Scientist"
+  },
+  {
+    "soc": "29-1129",
+    "synonyms": "Art Psychotherapist, Art Therapist, Board Certified Art Therapist (ATR-BC), Registered Art Therapist (ATR)"
+  },
+  {
+    "soc": "53-7199",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "23-1011",
+    "synonyms": "Attorney, Attorney General, Counsel, Lawyer"
+  },
+  {
+    "soc": "51-6011",
+    "synonyms": "Laundry Aide, Laundry Attendant, Laundry Housekeeper, Laundry Worker"
+  },
+  {
+    "soc": "47-2071",
+    "synonyms": "Equipment Operator (EO), Paver Operator, Roller Operator, Screed Operator"
+  },
+  {
+    "soc": "43-2021",
+    "synonyms": "411 Directory Assistance Operator (411 Directory Assistance Op), Directory Assistance Operator (Directory Assistance Op), Phone Operator (Telephone Operator), TELECOM Op (Telecommunications Operator)"
+  },
+  {
+    "soc": "41-9021",
+    "synonyms": "Broker, Managing Broker, Real Estate Broker, Realtor"
+  },
+  {
+    "soc": "51-9081",
+    "synonyms": "Dental Ceramist, Dental Laboratory Technician (Dental Lab Tech), Dental Technician (Dental Tech), Denture Technician (Denture Tech)"
+  },
+  {
+    "soc": "13-1022",
+    "synonyms": "Buyer, Grocery Buyer, Procurement Specialist, Trader"
+  },
+  {
+    "soc": "53-1044",
+    "synonyms": "On Car Supervisor, Transportation Supervisor"
+  },
+  {
+    "soc": "43-5053",
+    "synonyms": "Automation Clerk, Distribution Clerk, Mail Handler, Mail Processor"
+  },
+  {
+    "soc": "33-1012",
+    "synonyms": "Lieutenant, Patrol Sergeant, Police Captain, Police Sergeant"
+  },
+  {
+    "soc": "17-3031",
+    "synonyms": "Mapping Technician, Photogrammetric Compilation Specialist, Photogrammetric Technician, Survey Technician"
+  },
+  {
+    "soc": "37-2011",
+    "synonyms": "Cleaner, Custodial Worker, Custodian, Janitor"
+  },
+  {
+    "soc": "45-1011",
+    "synonyms": "Farm Supervisor, Harvesting Supervisor, Hatchery Manager, Logging Supervisor"
+  },
+  {
+    "soc": "17-2051",
+    "synonyms": "Civil Engineer, Design Engineer, Project Engineer, Structural Engineer"
+  },
+  {
+    "soc": "19-3099",
+    "synonyms": "Planner, Program Officer, Transportation Data Programs Manager, Transportation Planner"
+  },
+  {
+    "soc": "29-1171",
+    "synonyms": "ACNP (Acute Care Nurse Practitioner), Family Nurse Practitioner (FNP), Gastroenterology Nurse Practitioner, Nurse Practitioner (NP)"
+  },
+  {
+    "soc": "33-9011",
+    "synonyms": "Animal Control Officer, Animal Enforcement Officer, Animal Park Code Enforcement Officer, Community Service Officer"
+  },
+  {
+    "soc": "45-2092",
+    "synonyms": "Greenhouse Worker, Grower, Harvester, Nursery Worker"
+  },
+  {
+    "soc": "25-9042",
+    "synonyms": "Instructional Assistant, Paraeducator, Paraprofessional, TA (Teacher Assistant)"
+  },
+  {
+    "soc": "19-2011",
+    "synonyms": "Astronomer, Astronomy Outreach Coordinator, Astrophysicist, Research Astrophysicist"
+  },
+  {
+    "soc": "13-2099",
+    "synonyms": "Investment Strategist, Portfolio Manager, Quantitative Analyst, Quantitative Equity Analyst"
+  },
+  {
+    "soc": "19-1029",
+    "synonyms": "Molecular Biologist, Research Scientist"
+  },
+  {
+    "soc": "27-2012",
+    "synonyms": "Artistic Director, Director, News Producer, Producer"
+  },
+  {
+    "soc": "29-1213",
+    "synonyms": "Board Certified Dermatologist, Dermatologist Physician, MD (Medical Doctor), Mohs Surgeon"
+  },
+  {
+    "soc": "19-1029",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "37-2019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-4061",
+    "synonyms": "Metal Model Maker, Model Builder, Model Maker, Molding Technician"
+  },
+  {
+    "soc": "11-9199",
+    "synonyms": "Compliance Director, Global RA Manager (Global Regulatory Affairs Manager), RA Director (Regulatory Affairs Director), RA Manager (Regulatory Affairs Manager)"
+  },
+  {
+    "soc": "31-9095",
+    "synonyms": "Certified Pharmacist Assistant, Pharmacy Aide, Pharmacy Assistant, Pharmacy Clerk"
+  },
+  {
+    "soc": "15-2051",
+    "synonyms": "Clinical Data Management Director (CDM Director), Clinical Data Management Manager (CDM Manager), Clinical Data Manager, Data Management Manager"
+  },
+  {
+    "soc": "17-3026",
+    "synonyms": "Industrial Engineering Technician, Manufacturing Technology Analyst, Quality Control Engineering Technician (QC Engineering Technician), Quality Technician"
+  },
+  {
+    "soc": "51-9124",
+    "synonyms": "Automotive Painter (Auto Painter), Coater Operator, Paint Technician (Paint Tech), Painter"
+  },
+  {
+    "soc": "55-1019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "MD (Medical Doctor), Physician, Urologist, Urology MD (Urology Medical Doctor)"
+  },
+  {
+    "soc": "29-1216",
+    "synonyms": "Internal Medicine Physician (IM Physician), Internist, Medical Doctor (MD), Physician"
+  },
+  {
+    "soc": "29-1299",
+    "synonyms": "Doctor (Dr), Naturopathic Doctor, Naturopathic Medicine Doctor, Physician"
+  },
+  {
+    "soc": "17-3013",
+    "synonyms": "Design Drafter, Drafter, Mechanical Designer, Mechanical Drafter"
+  },
+  {
+    "soc": "49-9021",
+    "synonyms": "HVAC Mechanic (Heating, Ventilation, and Air Conditioning Mechanic); Refrigeration Mechanic; Refrigeration Technician (Refrigeration Tech); Service Technician (Service Tech)"
+  },
+  {
+    "soc": "25-9049",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-1021",
+    "synonyms": "Analytical Research Chemist, Biochemist, Biophysics Researcher, Scientist"
+  },
+  {
+    "soc": "27-1021",
+    "synonyms": "Design Engineer, Designer, Industrial Designer, Product Designer"
+  },
+  {
+    "soc": "39-4021",
+    "synonyms": "Funeral Assistant, Funeral Attendant, Funeral Director, Funeral Home Assistant"
+  },
+  {
+    "soc": "25-1067",
+    "synonyms": "Assistant Professor, Professor, Sociology Instructor, Sociology Professor"
+  },
+  {
+    "soc": "47-2022",
+    "synonyms": "Mason, Stone Derrickman, Stone Mason, Stone Setter"
+  },
+  {
+    "soc": "25-1022",
+    "synonyms": "Instructor, Mathematics Instructor (Math Instructor), Mathematics Professor, Professor"
+  },
+  {
+    "soc": "33-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-1229",
+    "synonyms": "MD (Medical Doctor), Pain Management Physician, Physiatrist, Physician"
+  },
+  {
+    "soc": "47-1011",
+    "synonyms": "Construction Foreman, Construction Supervisor, Electrical Supervisor, Roustabout Field Supervisor"
+  },
+  {
+    "soc": "13-1011",
+    "synonyms": "Agent, Booking Agent, Talent Agent, Theatrical Agent"
+  },
+  {
+    "soc": "41-9099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "25-2011",
+    "synonyms": "Montessori Preschool Teacher, Pre-Kindergarten Teacher (Pre-K Teacher), Teacher, Toddler Teacher"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-2041",
+    "synonyms": "Fabricator, Fitter, Layout Man, Ship Fitter"
+  },
+  {
+    "soc": "31-1121",
+    "synonyms": "Certified Home Health Aide (CHHA), Certified Nurses Aide (CNA), Home Care Aide, Home Health Aide (HHA)"
+  },
+  {
+    "soc": "29-1122",
+    "synonyms": "Certified Orientation and Mobility Specialist (COMS), Orientation and Mobility Specialist (O and M Specialist), Vision Rehabilitation Therapist (VRT), Visually Impaired Teacher (TVI)"
+  },
+  {
+    "soc": "31-1132",
+    "synonyms": "Patient Care Assistant (PCA), Patient Care Technician (PCT), Patient Transporter, Transporter"
+  },
+  {
+    "soc": "53-6041",
+    "synonyms": "Traffic Control Technician, Traffic Signal Technician (TST), Traffic Technician, Transportation Technician"
+  },
+  {
+    "soc": "11-2021",
+    "synonyms": "Brand Manager, Business Development Manager, Marketing Director, Marketing Manager"
+  },
+  {
+    "soc": "29-1215",
+    "synonyms": "Family Physician, Family Practice Physician (FP Physician), Medical Doctor (MD), Physician"
+  },
+  {
+    "soc": "11-2022",
+    "synonyms": "District Sales Manager, Sales Director, Sales Manager, Sales Vice President (Sales VP)"
+  },
+  {
+    "soc": "51-8013",
+    "synonyms": "Auxiliary Operator, Fuel Handler, Operations Technician (Operations Tech), Plant Operator"
+  },
+  {
+    "soc": "13-1081",
+    "synonyms": "Logistics Engineer, Reliability Engineer, Supportability Engineer, Systems Engineer"
+  },
+  {
+    "soc": "49-2091",
+    "synonyms": "Aviation Electrical Technician, Avionics Electronics Technician, Avionics Installer, Avionics Technician"
+  },
+  {
+    "soc": "51-3022",
+    "synonyms": "Deboner, Meat Cutter, Trimmer, Wing Scorer"
+  },
+  {
+    "soc": "47-5022",
+    "synonyms": "Dragline Oiler, Dragline Operator, Heavy Equipment Operator, Loader Operator"
+  },
+  {
+    "soc": "29-1214",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-5111",
+    "synonyms": "Fluid Operator, Inventory Specialist, Quality Assurance Inspector (QA Inspector), Temperature Taker"
+  },
+  {
+    "soc": "49-9095",
+    "synonyms": "Mobile Home Installer, Mobile Home Laborer, Mobile Home Set-Up Person, Modular Set Crew Member"
+  },
+  {
+    "soc": "19-1013",
+    "synonyms": "Agronomist, Research Scientist, Research Soil Scientist, Scientist"
+  },
+  {
+    "soc": "15-1243",
+    "synonyms": "Database Analyst, Database Developer, Database Programmer, Information Architect"
+  },
+  {
+    "soc": "31-9094",
+    "synonyms": "Medical Scribe, Medical Transcriptionist, Radiology Transcriptionist, Transcriptionist"
+  },
+  {
+    "soc": "53-6099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "27-2031",
+    "synonyms": "Ballet Dancer, Company Dancer, Dancer, Soloist Dancer"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": "Infrastructure Engineer, IT Architect (Information Technology Architect), Solutions Architect, Systems Engineer"
+  },
+  {
+    "soc": "27-4011",
+    "synonyms": "Audio Visual Specialist (AV Specialist), AV Tech (Audio Visual Technician), Media Technician, Operations Technician"
+  },
+  {
+    "soc": "25-2059",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "55-2011",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "41-1012",
+    "synonyms": "Customer Service Supervisor, Reservations Supervisor, Sales Leader, Sales Supervisor"
+  },
+  {
+    "soc": "43-3041",
+    "synonyms": "Cage Cashier, Casino Cage Cashier, Casino Cashier, Vault Cashier"
+  },
+  {
+    "soc": "13-2054",
+    "synonyms": "Analyst, Risk Analyst, Risk Specialist, Securities Analyst"
+  },
+  {
+    "soc": "51-6051",
+    "synonyms": "Alteration Specialist, Couturier, Custom Clothier, Seamstress"
+  },
+  {
+    "soc": "29-1123",
+    "synonyms": "Doctor of Physical Therapy (DPT), Home Care Physical Therapist (Home Care PT), Inpatient Physical Therapist (Inpatient PT), Pediatric Physical Therapist (Pediatric PT)"
+  },
+  {
+    "soc": "53-1041",
+    "synonyms": "Cargo Supervisor, Line Service Supervisor (LSS), Loadmaster, Ramp Supervisor"
+  },
+  {
+    "soc": "39-3012",
+    "synonyms": "Casino Floor Runner, Casino Runner, Keno Writer, Racebook Writer"
+  },
+  {
+    "soc": "47-4099",
+    "synonyms": "Field Technician, Weatherization Installer, Weatherization Technician, Weatherization Worker"
+  },
+  {
+    "soc": "11-9121",
+    "synonyms": "Water Resources Planner"
+  },
+  {
+    "soc": "51-8099",
+    "synonyms": "Biofuels Processing Technician, Ethanol Operator, Process Operator, Production Operator"
+  },
+  {
+    "soc": "11-1011",
+    "synonyms": "CEO (Chief Executive Officer), Chief Financial Officer (CFO), Chief Operating Officer (COO), President"
+  },
+  {
+    "soc": "37-3012",
+    "synonyms": "Lawn Specialist, Lawn Technician, Licensed Pesticide Applicator, Spray Technician"
+  },
+  {
+    "soc": "51-4121",
+    "synonyms": "Brazer, Solderer, Welder, Wirer"
+  },
+  {
+    "soc": "33-1099",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-1032",
+    "synonyms": "Appraiser, Automobile Appraiser (Auto Appraiser), Automobile Damage Appraiser (Auto Damage Appraiser), Material Damage Appraiser"
+  },
+  {
+    "soc": "17-2021",
+    "synonyms": "Agricultural Engineer, Engineer, Project Engineer, Research Agricultural Engineer"
+  },
+  {
+    "soc": "11-1031",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-1131",
+    "synonyms": "Certified Nurses Aide (CNA), Certified Nursing Assistant (CNA), Nursing Assistant, Patient Care Assistant (PCA)"
+  },
+  {
+    "soc": "25-1194",
+    "synonyms": "Cosmetology Instructor; HVAC-R Instructor (Heating, Ventilation, Air Conditioning, And Refrigeration Instructor); Instructor; Professor"
+  },
+  {
+    "soc": "39-3019",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "41-1011",
+    "synonyms": "Department Manager, Meat Department Manager, Shift Manager, Store Manager"
+  },
+  {
+    "soc": "49-9011",
+    "synonyms": "Door Installer, Garage Door Installer, Garage Door Technician, Service Technician"
+  },
+  {
+    "soc": "13-2011",
+    "synonyms": "Accountant, Auditor, Certified Public Accountant (CPA), Financial Auditor"
+  },
+  {
+    "soc": "17-2051",
+    "synonyms": "Consulting Engineer, County Engineer, Engineer, Project Development Engineer"
+  },
+  {
+    "soc": "43-4181",
+    "synonyms": "Customer Service Agent, Reservation Agent, Reservations Agent, Ticket Agent"
+  },
+  {
+    "soc": "51-9082",
+    "synonyms": "Lab Technician, Orthotic and Prosthetic Technician (O and P Technician), Orthotic Technician, Prosthetics Technician"
+  },
+  {
+    "soc": "11-3013",
+    "synonyms": "Corporate Physical Security Supervisor, Corporate Security Manager, Security Director, Security Manager"
+  },
+  {
+    "soc": "29-1211",
+    "synonyms": "Medical Doctor (MD), Obstetrical Anesthesiologist, Staff Anesthesiologist, Staff Anesthetist"
+  },
+  {
+    "soc": "43-2011",
+    "synonyms": "CBX Operator (Computerized Branch Exchange Operator), Communications Specialist, PBX Operator (Private Branch Exchange Operator), Switchboard Operator (SB Operator)"
+  },
+  {
+    "soc": "29-2011",
+    "synonyms": "Histology Lab Manager (Histology Laboratory Manager), Histology Specialist, Histology Technologist, Histotechnologist"
+  },
+  {
+    "soc": "33-3021",
+    "synonyms": "Crime Scene Investigator, Crime Scene Technician, Criminalist, Forensic Specialist"
+  },
+  {
+    "soc": "15-1299",
+    "synonyms": "Corporate Webmaster, Web Site Manager, Web Technologies Administrator, Webmaster"
+  }
+]
