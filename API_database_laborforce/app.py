@@ -54,6 +54,12 @@ with AUTO_FILE.open(encoding="utf-8") as f:
 
 AUTO_INDEX: dict[str, dict] = {r["soc"]: r for r in auto_rows}
 
+with OCC_FOREIGN_FILE.open(encoding="utf-8") as f:
+    occ_rows = json.load(f)
+
+OCC_FOREIGN_INDEX: dict[str, dict] = {r["soc"]: r for r in occ_rows}
+
+
 # ── Lookup endpoint used by Qualtrics ───────────────────────────
 @app.get("/query")
 def query(
@@ -79,7 +85,6 @@ def foreign_rate(
     except KeyError:
         raise HTTPException(status_code=404, detail="State not found")
 
-
 @app.get("/automation_percentile")
 def automation_percentile(
     soc: str = Query(..., min_length=7, max_length=7, description="Six-digit SOC code, e.g. 15-1256")
@@ -89,3 +94,13 @@ def automation_percentile(
         return AUTO_INDEX[soc]
     except KeyError:
         raise HTTPException(status_code=404, detail="Occupation code not found")
+
+@app.get("/occ_foreign_rate")
+def occ_foreign_rate(
+    soc: str = Query(..., min_length=5, max_length=7, description="Six-digit SOC code, e.g. 11-1011")
+):
+    try:
+        return OCC_FOREIGN_INDEX[soc]
+    except KeyError:
+        raise HTTPException(status_code=404, detail="SOC code not found")
+
