@@ -16,10 +16,12 @@ computed for each occupation code and its three‑digit SOC aggregate.
    six‑digit code.
 5. Aggregate totals by this prefix to obtain `foreign_pct_soc3` for the
    three‑digit group.
-6. Save the records to `API_database_laborforce/data_occup_foreign.json`
-   with fields:
+6. Save the records to `API_database_laborforce/data_occup_foreign.json`.
+   Run `scripts/extend_foreign_data.py` to merge ONET synonyms and
+   produce `data_occup_foreign_extended.json` with fields like:
    `{ "soc": "11-1011", "occ_label": "Chief executives",
-     "foreign_pct": 17.1, "soc3": "11-1", "foreign_pct_soc3": 15.95 }`.
+     "foreign_pct": 17.1, "soc3": "11-1",
+     "foreign_pct_soc3": 15.95, "synonyms": "CEO, ..." }`.
 
 ## Usage
 Run the pipeline with:

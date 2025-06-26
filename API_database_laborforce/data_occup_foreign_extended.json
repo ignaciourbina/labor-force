@@ -1,0 +1,4691 @@
+[
+  {
+    "soc": "11-9199",
+    "occ_label": "Managers, all other",
+    "foreign_pct": 17.11,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Compliance Director, Global RA Manager (Global Regulatory Affairs Manager), RA Director (Regulatory Affairs Director), RA Manager (Regulatory Affairs Manager)"
+  },
+  {
+    "soc": "29-1141",
+    "occ_label": "Registered nurses",
+    "foreign_pct": 19.27,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Charge Nurse, Emergency Department RN (Emergency Department Registered Nurse), Operating Room Registered Nurse (OR RN), Staff Nurse"
+  },
+  {
+    "soc": "25-2020",
+    "occ_label": "Elementary and middle school teachers",
+    "foreign_pct": 8.11,
+    "soc3": "25-2",
+    "foreign_pct_soc3": 9.1,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-3030",
+    "occ_label": "Driver/sales workers and truck drivers",
+    "foreign_pct": 22.61,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "41-1011",
+    "occ_label": "First-Line supervisors of retail sales workers",
+    "foreign_pct": 15.46,
+    "soc3": "41-1",
+    "foreign_pct_soc3": 16.26,
+    "major": "41",
+    "synonyms": "Department Manager, Meat Department Manager, Shift Manager, Store Manager"
+  },
+  {
+    "soc": "43-4051",
+    "occ_label": "Customer service representatives",
+    "foreign_pct": 13.32,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Account Representative, Customer Service Representative (CSR), Customer Service Specialist, Member Services Representative (Member Services Rep)"
+  },
+  {
+    "soc": "41-2010",
+    "occ_label": "Cashiers",
+    "foreign_pct": 14.05,
+    "soc3": "41-2",
+    "foreign_pct_soc3": 13.03,
+    "major": "41",
+    "synonyms": ""
+  },
+  {
+    "soc": "41-2031",
+    "occ_label": "Retail salespersons",
+    "foreign_pct": 12.07,
+    "soc3": "41-2",
+    "foreign_pct_soc3": 13.03,
+    "major": "41",
+    "synonyms": "Sales Associate, Sales Clerk, Sales Consultant, Sales Person"
+  },
+  {
+    "soc": "47-2061",
+    "occ_label": "Construction laborers",
+    "foreign_pct": 47.53,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Construction Laborer, Construction Worker, Equipment Operator (EO), Post Framer"
+  },
+  {
+    "soc": "37-201X",
+    "occ_label": "Janitors and building cleaners",
+    "foreign_pct": 34.26,
+    "soc3": "37-2",
+    "foreign_pct_soc3": 43.1,
+    "major": "37",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-7062",
+    "occ_label": "Laborers and freight, stock, and material movers, hand",
+    "foreign_pct": 19.52,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Laborer, Loader, Material Handler, Warehouse Worker"
+  },
+  {
+    "soc": "35-2010",
+    "occ_label": "Cooks",
+    "foreign_pct": 30.74,
+    "soc3": "35-2",
+    "foreign_pct_soc3": 30.23,
+    "major": "35",
+    "synonyms": ""
+  },
+  {
+    "soc": "15-1252",
+    "occ_label": "Software developers",
+    "foreign_pct": 39.91,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Application Developer, Application Integration Engineer, Software Architect, Software Developer"
+  },
+  {
+    "soc": "31-1122",
+    "occ_label": "Personal care aides",
+    "foreign_pct": 22.48,
+    "soc3": "31-1",
+    "foreign_pct_soc3": 26.2,
+    "major": "31",
+    "synonyms": "Caregiver, Home Care Aide, Personal Care Aide, Personal Care Attendant (PCA)"
+  },
+  {
+    "soc": "53-7065",
+    "occ_label": "Stockers and order fillers",
+    "foreign_pct": 18.54,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Checker Stocker, Order Filler, Stock Clerk, Stocker"
+  },
+  {
+    "soc": "13-2011",
+    "occ_label": "Accountants and auditors",
+    "foreign_pct": 18.47,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Accountant, Auditor, Certified Public Accountant (CPA), Financial Auditor"
+  },
+  {
+    "soc": "35-3031",
+    "occ_label": "Waiters and waitresses",
+    "foreign_pct": 20.7,
+    "soc3": "35-3",
+    "foreign_pct_soc3": 15.67,
+    "major": "35",
+    "synonyms": "Food Server, Server, Waiter, Waitress"
+  },
+  {
+    "soc": "11-1011",
+    "occ_label": "Chief executives",
+    "foreign_pct": 14.91,
+    "soc3": "11-1",
+    "foreign_pct_soc3": 12.68,
+    "major": "11",
+    "synonyms": "CEO (Chief Executive Officer), Chief Financial Officer (CFO), Chief Operating Officer (COO), President"
+  },
+  {
+    "soc": "37-2012",
+    "occ_label": "Maids and housekeeping cleaners",
+    "foreign_pct": 58.6,
+    "soc3": "37-2",
+    "foreign_pct_soc3": 43.1,
+    "major": "37",
+    "synonyms": "Environmental Services Aide, Environmental Services Worker, Housekeeper, Housekeeping Laundry Worker"
+  },
+  {
+    "soc": "25-9040",
+    "occ_label": "Teaching assistants",
+    "foreign_pct": 16.52,
+    "soc3": "25-9",
+    "foreign_pct_soc3": 16.05,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-6014",
+    "occ_label": "Secretaries and administrative assistants, except legal, medical, and executive",
+    "foreign_pct": 7.63,
+    "soc3": "43-6",
+    "foreign_pct_soc3": 7.65,
+    "major": "43",
+    "synonyms": "Administrative Assistant (Admin Assistant), Administrative Secretary (Admin Secretary), Office Assistant, Secretary"
+  },
+  {
+    "soc": "31-1131",
+    "occ_label": "Nursing assistants",
+    "foreign_pct": 21.11,
+    "soc3": "31-1",
+    "foreign_pct_soc3": 26.2,
+    "major": "31",
+    "synonyms": "Certified Nurses Aide (CNA), Certified Nursing Assistant (CNA), Nursing Assistant, Patient Care Assistant (PCA)"
+  },
+  {
+    "soc": "11-3031",
+    "occ_label": "Financial managers",
+    "foreign_pct": 15.68,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Banking Center Manager (BCM), Branch Manager, Credit Administration Manager, Financial Center Manager"
+  },
+  {
+    "soc": "11-1021",
+    "occ_label": "General and operations managers",
+    "foreign_pct": 10.06,
+    "soc3": "11-1",
+    "foreign_pct_soc3": 12.68,
+    "major": "11",
+    "synonyms": "General Manager (GM), Operations Director, Operations Manager, Store Manager"
+  },
+  {
+    "soc": "43-1011",
+    "occ_label": "First-Line supervisors of office and administrative support workers",
+    "foreign_pct": 10.22,
+    "soc3": "43-1",
+    "foreign_pct_soc3": 10.22,
+    "major": "43",
+    "synonyms": "Accounting Manager, Customer Service Manager, Customer Service Supervisor, Office Manager"
+  },
+  {
+    "soc": "43-9061",
+    "occ_label": "Office clerks, general",
+    "foreign_pct": 11.23,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Clerk, Office Assistant, Office Clerk, Office Services Specialist"
+  },
+  {
+    "soc": "37-3011",
+    "occ_label": "Landscaping and groundskeeping workers",
+    "foreign_pct": 38.66,
+    "soc3": "37-3",
+    "foreign_pct_soc3": 37.08,
+    "major": "37",
+    "synonyms": "Grounds Maintenance Worker, Grounds Worker, Groundskeeper, Outside Maintenance Worker"
+  },
+  {
+    "soc": "43-4171",
+    "occ_label": "Receptionists and information clerks",
+    "foreign_pct": 12.39,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Front Desk Receptionist, Greeter, Office Assistant, Receptionist"
+  },
+  {
+    "soc": "11-9051",
+    "occ_label": "Food service managers",
+    "foreign_pct": 23.89,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Food and Beverage Manager, Food Service Director, Food Service Manager, Restaurant Manager"
+  },
+  {
+    "soc": "11-9021",
+    "occ_label": "Construction managers",
+    "foreign_pct": 16.25,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Concrete Foreman, Construction Area Manager, Construction Manager, Construction Superintendent"
+  },
+  {
+    "soc": "51-91XX",
+    "occ_label": "Other production workers",
+    "foreign_pct": 26.56,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-3031",
+    "occ_label": "Bookkeeping, accounting, and auditing clerks",
+    "foreign_pct": 14.71,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "Account Clerk, Accounting Assistant, Accounting Clerk, Accounts Payables Clerk"
+  },
+  {
+    "soc": "47-2031",
+    "occ_label": "Carpenters",
+    "foreign_pct": 36.33,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Cabinet Maker, Carpenter, Form Carpenter, Scaffold Builder"
+  },
+  {
+    "soc": "15-1299",
+    "occ_label": "Computer occupations, all other",
+    "foreign_pct": 20.57,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Corporate Webmaster, Web Site Manager, Web Technologies Administrator, Webmaster"
+  },
+  {
+    "soc": "23-1011",
+    "occ_label": "Lawyers",
+    "foreign_pct": 9.01,
+    "soc3": "23-1",
+    "foreign_pct_soc3": 8.93,
+    "major": "23",
+    "synonyms": "Attorney, Attorney General, Counsel, Lawyer"
+  },
+  {
+    "soc": "11-9030",
+    "occ_label": "Education and childcare administrators",
+    "foreign_pct": 12.13,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-1082",
+    "occ_label": "Project management specialists",
+    "foreign_pct": 14.87,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": ""
+  },
+  {
+    "soc": "41-9020",
+    "occ_label": "Real estate brokers and sales agents",
+    "foreign_pct": 18.35,
+    "soc3": "41-9",
+    "foreign_pct_soc3": 17.83,
+    "major": "41",
+    "synonyms": ""
+  },
+  {
+    "soc": "39-9011",
+    "occ_label": "Childcare workers",
+    "foreign_pct": 32.76,
+    "soc3": "39-9",
+    "foreign_pct_soc3": 25.32,
+    "major": "39",
+    "synonyms": "Child Care Worker, Childcare Provider, Infant Teacher, Toddler Teacher"
+  },
+  {
+    "soc": "41-4010",
+    "occ_label": "Sales representatives, wholesale and manufacturing",
+    "foreign_pct": 12.56,
+    "soc3": "41-4",
+    "foreign_pct_soc3": 12.56,
+    "major": "41",
+    "synonyms": ""
+  },
+  {
+    "soc": "25-30XX",
+    "occ_label": "Other teachers and instructors",
+    "foreign_pct": 15.81,
+    "soc3": "25-3",
+    "foreign_pct_soc3": 14.65,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "35-3023",
+    "occ_label": "Fast food and counter workers",
+    "foreign_pct": 10.1,
+    "soc3": "35-3",
+    "foreign_pct_soc3": 15.67,
+    "major": "35",
+    "synonyms": "Barista, Catering Barista"
+  },
+  {
+    "soc": "47-2111",
+    "occ_label": "Electricians",
+    "foreign_pct": 16.07,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Electrician, Industrial Electrician, Inside Wireman, Maintenance Electrician"
+  },
+  {
+    "soc": "25-1000",
+    "occ_label": "Postsecondary teachers",
+    "foreign_pct": 27.86,
+    "soc3": "25-1",
+    "foreign_pct_soc3": 27.86,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "35-2021",
+    "occ_label": "Food preparation workers",
+    "foreign_pct": 29.14,
+    "soc3": "35-2",
+    "foreign_pct_soc3": 30.23,
+    "major": "35",
+    "synonyms": "Cook, Deli Clerk (Delicatessen Clerk), Dietary Aide, Food Service Worker (FSW)"
+  },
+  {
+    "soc": "33-9030",
+    "occ_label": "Security guards and gambling surveillance officers",
+    "foreign_pct": 12.16,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-1111",
+    "occ_label": "Management analysts",
+    "foreign_pct": 15.04,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Business Analyst, Business Consultant, Management Analyst, Management Consultant"
+  },
+  {
+    "soc": "41-1012",
+    "occ_label": "First-Line supervisors of non-retail sales workers",
+    "foreign_pct": 18.66,
+    "soc3": "41-1",
+    "foreign_pct_soc3": 16.26,
+    "major": "41",
+    "synonyms": "Customer Service Supervisor, Reservations Supervisor, Sales Leader, Sales Supervisor"
+  },
+  {
+    "soc": "51-20XX",
+    "occ_label": "Other assemblers and fabricators",
+    "foreign_pct": 18.67,
+    "soc3": "51-2",
+    "foreign_pct_soc3": 19.08,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "11-9111",
+    "occ_label": "Medical and health services managers",
+    "foreign_pct": 14.51,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Clinical Director, Health Information Management Director (HIM Director), Health Information Manager (HIM Manager), Nursing Director"
+  },
+  {
+    "soc": "43-5021",
+    "occ_label": "Couriers and messengers",
+    "foreign_pct": 21.69,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Courier, Driver, Laboratory Courier, Messenger"
+  },
+  {
+    "soc": "29-12XX",
+    "occ_label": "Other physicians",
+    "foreign_pct": 22.85,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "45-2090",
+    "occ_label": "Miscellaneous agricultural workers",
+    "foreign_pct": 49.93,
+    "soc3": "45-2",
+    "foreign_pct_soc3": 49.19,
+    "major": "45",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-1070",
+    "occ_label": "Human resources workers",
+    "foreign_pct": 11.29,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-9199",
+    "occ_label": "Office and administrative support workers, all other",
+    "foreign_pct": 12.08,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "11-9141",
+    "occ_label": "Property, real estate, and community association managers",
+    "foreign_pct": 12.51,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Apartment Manager, Community Manager, Property Manager, Resident Manager"
+  },
+  {
+    "soc": "47-1011",
+    "occ_label": "First-line supervisors of construction trades and extraction workers",
+    "foreign_pct": 21.74,
+    "soc3": "47-1",
+    "foreign_pct_soc3": 21.74,
+    "major": "47",
+    "synonyms": "Construction Foreman, Construction Supervisor, Electrical Supervisor, Roustabout Field Supervisor"
+  },
+  {
+    "soc": "51-9061",
+    "occ_label": "Inspectors, testers, sorters, samplers, and weighers",
+    "foreign_pct": 19.99,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Inspector, Quality Control Inspector (QC Inspector), Quality Inspector, Quality Technician"
+  },
+  {
+    "soc": "25-2030",
+    "occ_label": "Secondary school teachers",
+    "foreign_pct": 9.68,
+    "soc3": "25-2",
+    "foreign_pct_soc3": 9.1,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-1121",
+    "occ_label": "Home health aides",
+    "foreign_pct": 46.98,
+    "soc3": "31-1",
+    "foreign_pct_soc3": 26.2,
+    "major": "31",
+    "synonyms": "Certified Home Health Aide (CHHA), Certified Nurses Aide (CNA), Home Care Aide, Home Health Aide (HHA)"
+  },
+  {
+    "soc": "39-5012",
+    "occ_label": "Hairdressers, hairstylists, and cosmetologists",
+    "foreign_pct": 17.89,
+    "soc3": "39-5",
+    "foreign_pct_soc3": 29.29,
+    "major": "39",
+    "synonyms": "Cosmetologist, Hair Stylist, Hairdresser, Hairstylist"
+  },
+  {
+    "soc": "49-9071",
+    "occ_label": "Maintenance and repair workers, general",
+    "foreign_pct": 16.49,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Facilities Technician, Maintenance Engineer, Maintenance Mechanic, Maintenance Technician"
+  },
+  {
+    "soc": "49-3023",
+    "occ_label": "Automotive service technicians and mechanics",
+    "foreign_pct": 17.11,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": "Automotive Mechanic (Auto Mechanic), Automotive Technician (Auto Tech), Mechanic, Service Technician (Service Tech)"
+  },
+  {
+    "soc": "25-2010",
+    "occ_label": "Preschool and kindergarten teachers",
+    "foreign_pct": 14.14,
+    "soc3": "25-2",
+    "foreign_pct_soc3": 9.1,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-2199",
+    "occ_label": "Engineers, all other",
+    "foreign_pct": 30.0,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Power Systems Engineer, Project Engineer, Solar Design Engineer, Solar Designer"
+  },
+  {
+    "soc": "11-9013",
+    "occ_label": "Farmers, ranchers, and other agricultural managers",
+    "foreign_pct": 1.87,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Aquaculture Director, Farm Manager, Greenhouse Manager, Ranch Manager"
+  },
+  {
+    "soc": "51-1011",
+    "occ_label": "First-line supervisors of production and operating workers",
+    "foreign_pct": 17.99,
+    "soc3": "51-1",
+    "foreign_pct_soc3": 17.99,
+    "major": "51",
+    "synonyms": "Assembly Supervisor, Manufacturing Supervisor, Production Manager, Production Supervisor"
+  },
+  {
+    "soc": "11-3021",
+    "occ_label": "Computer and information systems managers",
+    "foreign_pct": 23.98,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Information Systems Director (IS Director), Information Systems Manager (IS Manager), Information Technology Director (IT Director), Information Technology Manager (IT Manager)"
+  },
+  {
+    "soc": "15-1230",
+    "occ_label": "Computer support specialists",
+    "foreign_pct": 16.71,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-2152",
+    "occ_label": "Plumbers, pipefitters, and steamfitters",
+    "foreign_pct": 14.75,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Installer, Solar Installer, Solar Maintenance Technician, Solar Technician"
+  },
+  {
+    "soc": "53-7051",
+    "occ_label": "Industrial truck and tractor operators",
+    "foreign_pct": 27.42,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Fork Truck Driver, Forklift Driver, Forklift Operator, Spotter Driver"
+  },
+  {
+    "soc": "31-9092",
+    "occ_label": "Medical assistants",
+    "foreign_pct": 13.95,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Certified Medical Assistant (CMA), Chiropractor Assistant, Doctor's Assistant, Registered Medical Assistant (RMA)"
+  },
+  {
+    "soc": "11-2021",
+    "occ_label": "Marketing managers",
+    "foreign_pct": 13.11,
+    "soc3": "11-2",
+    "foreign_pct_soc3": 12.62,
+    "major": "11",
+    "synonyms": "Brand Manager, Business Development Manager, Marketing Director, Marketing Manager"
+  },
+  {
+    "soc": "41-3021",
+    "occ_label": "Insurance sales agents",
+    "foreign_pct": 19.32,
+    "soc3": "41-3",
+    "foreign_pct_soc3": 15.81,
+    "major": "41",
+    "synonyms": "Insurance Agent, Insurance Broker, Sales Agent, Sales Representative"
+  },
+  {
+    "soc": "33-3050",
+    "occ_label": "Police officers",
+    "foreign_pct": 3.09,
+    "soc3": "33-3",
+    "foreign_pct_soc3": 5.65,
+    "major": "33",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-5071",
+    "occ_label": "Shipping, receiving, and inventory clerks",
+    "foreign_pct": 21.38,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Receiver, Receiving Clerk, Shipper, Shipping Clerk"
+  },
+  {
+    "soc": "47-2140",
+    "occ_label": "Painters and paperhangers",
+    "foreign_pct": 53.5,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-3054",
+    "occ_label": "Taxi drivers",
+    "foreign_pct": 62.27,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": "Cab Driver, Taxi Cab Driver, Taxi Driver"
+  },
+  {
+    "soc": "13-1199",
+    "occ_label": "Business operations specialists, all other",
+    "foreign_pct": 12.37,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "49-9021",
+    "occ_label": "Heating, air conditioning, and refrigeration mechanics and installers",
+    "foreign_pct": 20.79,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "HVAC Mechanic (Heating, Ventilation, and Air Conditioning Mechanic); Refrigeration Mechanic; Refrigeration Technician (Refrigeration Tech); Service Technician (Service Tech)"
+  },
+  {
+    "soc": "29-2061",
+    "occ_label": "Licensed practical and licensed vocational nurses",
+    "foreign_pct": 14.73,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Charge Nurse, Clinic Nurse, Licensed Vocational Nurse (LVN), Pediatric LPN (Pediatric Licensed Practical Nurse)"
+  },
+  {
+    "soc": "21-1029",
+    "occ_label": "Social workers, all other",
+    "foreign_pct": 11.26,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "41-3091",
+    "occ_label": "Sales representatives of services, except advertising, insurance, financial services, and travel",
+    "foreign_pct": 16.2,
+    "soc3": "41-3",
+    "foreign_pct_soc3": 15.81,
+    "major": "41",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-7064",
+    "occ_label": "Packers and packagers, hand",
+    "foreign_pct": 39.01,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Bagger, Packager, Packer, Selector Packer"
+  },
+  {
+    "soc": "13-2052",
+    "occ_label": "Personal financial advisors",
+    "foreign_pct": 8.73,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Certified Financial Planner (CFP), Financial Advisor, Financial Planner, Portfolio Manager"
+  },
+  {
+    "soc": "51-4120",
+    "occ_label": "Welding, soldering, and brazing workers",
+    "foreign_pct": 22.13,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "15-1211",
+    "occ_label": "Computer systems analysts",
+    "foreign_pct": 20.16,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Business Systems Analyst, Computer Systems Analyst, Programmer Analyst, Systems Analyst"
+  },
+  {
+    "soc": "35-1012",
+    "occ_label": "First-line supervisors of food preparation and serving workers",
+    "foreign_pct": 9.22,
+    "soc3": "35-1",
+    "foreign_pct_soc3": 25.19,
+    "major": "35",
+    "synonyms": "Cafeteria Manager, Dietary Supervisor, Food Service Supervisor, Kitchen Manager"
+  },
+  {
+    "soc": "15-20XX",
+    "occ_label": "Other mathematical science occupations",
+    "foreign_pct": 22.01,
+    "soc3": "15-2",
+    "foreign_pct_soc3": 19.16,
+    "major": "15",
+    "synonyms": ""
+  },
+  {
+    "soc": "11-2022",
+    "occ_label": "Sales managers",
+    "foreign_pct": 14.31,
+    "soc3": "11-2",
+    "foreign_pct_soc3": 12.62,
+    "major": "11",
+    "synonyms": "District Sales Manager, Sales Director, Sales Manager, Sales Vice President (Sales VP)"
+  },
+  {
+    "soc": "35-1011",
+    "occ_label": "Chefs and head cooks",
+    "foreign_pct": 41.43,
+    "soc3": "35-1",
+    "foreign_pct_soc3": 25.19,
+    "major": "35",
+    "synonyms": "Chef, Cook, Executive Chef (Ex Chef), Sous Chef"
+  },
+  {
+    "soc": "13-1161",
+    "occ_label": "Market research analysts and marketing specialists",
+    "foreign_pct": 19.42,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Digital Media Planner, Online Marketing Consultant, Paid Search Strategist, SEO Strategist (Search Engine Optimization Strategist)"
+  },
+  {
+    "soc": "17-2051",
+    "occ_label": "Civil engineers",
+    "foreign_pct": 20.7,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Consulting Engineer, County Engineer, Engineer, Project Development Engineer"
+  },
+  {
+    "soc": "11-9151",
+    "occ_label": "Social and community service managers",
+    "foreign_pct": 16.23,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Child Welfare Services Director, Social Services Director, Transitional Care Director, Vocational Rehabilitation Administrator"
+  },
+  {
+    "soc": "35-3011",
+    "occ_label": "Bartenders",
+    "foreign_pct": 10.58,
+    "soc3": "35-3",
+    "foreign_pct_soc3": 15.67,
+    "major": "35",
+    "synonyms": "Banquet Bartender, Bar Captain, Bartender, Mixologist"
+  },
+  {
+    "soc": "41-9099",
+    "occ_label": "Sales and related workers, all other",
+    "foreign_pct": 20.0,
+    "soc3": "41-9",
+    "foreign_pct_soc3": 17.83,
+    "major": "41",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "13-2070",
+    "occ_label": "Credit counselors and loan officers",
+    "foreign_pct": 7.24,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-2070",
+    "occ_label": "Construction equipment operators",
+    "foreign_pct": 5.9,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-7061",
+    "occ_label": "Cleaners of vehicles and equipment",
+    "foreign_pct": 32.16,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Automotive Detailer (Auto Detailer), Car Washer, Detailer, Reconditioner"
+  },
+  {
+    "soc": "23-2011",
+    "occ_label": "Paralegals and legal assistants",
+    "foreign_pct": 12.91,
+    "soc3": "23-2",
+    "foreign_pct_soc3": 10.66,
+    "major": "23",
+    "synonyms": "Legal Assistant, Legal Clerk, Paralegal, Paralegal Specialist"
+  },
+  {
+    "soc": "21-2011",
+    "occ_label": "Clergy",
+    "foreign_pct": 8.06,
+    "soc3": "21-2",
+    "foreign_pct_soc3": 6.53,
+    "major": "21",
+    "synonyms": "Minister, Pastor, Priest, Rector"
+  },
+  {
+    "soc": "43-5052",
+    "occ_label": "Postal service mail carriers",
+    "foreign_pct": 9.94,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "City Letter Carrier, Letter Carrier, Mail Carrier, Rural Carrier Associate (RCA)"
+  },
+  {
+    "soc": "39-2021",
+    "occ_label": "Animal caretakers",
+    "foreign_pct": 2.89,
+    "soc3": "39-2",
+    "foreign_pct_soc3": 5.36,
+    "major": "39",
+    "synonyms": "Aquarist, Dog Groomer, Groomer, Kennel Technician (Kennel Tech)"
+  },
+  {
+    "soc": "17-2141",
+    "occ_label": "Mechanical engineers",
+    "foreign_pct": 19.37,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Engineer, Product Engineer, Project Engineer, Research Engineer"
+  },
+  {
+    "soc": "11-3071",
+    "occ_label": "Transportation, storage, and distribution managers",
+    "foreign_pct": 23.88,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Distribution Center Manager, Fleet Manager, Logistics Operations Manager, Supply Chain Logistics Manager"
+  },
+  {
+    "soc": "19-2099",
+    "occ_label": "Physical scientists, all other",
+    "foreign_pct": 47.99,
+    "soc3": "19-2",
+    "foreign_pct_soc3": 34.52,
+    "major": "19",
+    "synonyms": "Geospatial Intelligence Analyst, Image Scientist, Remote Sensing Analyst, Remote Sensing Scientist"
+  },
+  {
+    "soc": "49-904X",
+    "occ_label": "Industrial and refractory machinery mechanics",
+    "foreign_pct": 18.35,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-302X",
+    "occ_label": "Other engineering technologists and technicians, except drafters",
+    "foreign_pct": 23.37,
+    "soc3": "17-3",
+    "foreign_pct_soc3": 22.25,
+    "major": "17",
+    "synonyms": ""
+  },
+  {
+    "soc": "35-9031",
+    "occ_label": "Hosts and hostesses, restaurant, lounge, and coffee shop",
+    "foreign_pct": 11.91,
+    "soc3": "35-9",
+    "foreign_pct_soc3": 24.64,
+    "major": "35",
+    "synonyms": "Buffet Hostess, Greeter, Host, Hostess"
+  },
+  {
+    "soc": "13-1030",
+    "occ_label": "Claims adjusters, appraisers, examiners, and investigators",
+    "foreign_pct": 8.62,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": ""
+  },
+  {
+    "soc": "25-2050",
+    "occ_label": "Special education teachers",
+    "foreign_pct": 7.86,
+    "soc3": "25-2",
+    "foreign_pct_soc3": 9.1,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-2051",
+    "occ_label": "Financial and investment analysts",
+    "foreign_pct": 19.65,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Analyst, Financial Analyst, Investment Analyst, Securities Analyst"
+  },
+  {
+    "soc": "43-3021",
+    "occ_label": "Billing and posting clerks",
+    "foreign_pct": 14.42,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "Billing Clerk, Billing Coordinator, Pre-Audit Clerk, Statement Clerk"
+  },
+  {
+    "soc": "33-2011",
+    "occ_label": "Firefighters",
+    "foreign_pct": 0.0,
+    "soc3": "33-2",
+    "foreign_pct_soc3": 0.0,
+    "major": "33",
+    "synonyms": "Fire Engineer, Fire Equipment Operator, Firefighter, Wildland Firefighter"
+  },
+  {
+    "soc": "49-3031",
+    "occ_label": "Bus and truck mechanics and diesel engine specialists",
+    "foreign_pct": 23.42,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": "Bus Mechanic, Diesel Mechanic, Diesel Technician (Diesel Tech), Truck Mechanic"
+  },
+  {
+    "soc": "27-2022",
+    "occ_label": "Coaches and scouts",
+    "foreign_pct": 4.39,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Basketball Coach, Coach, Football Coach, Track and Field Coach"
+  },
+  {
+    "soc": "19-40XX",
+    "occ_label": "Other life, physical, and social science technicians",
+    "foreign_pct": 14.48,
+    "soc3": "19-4",
+    "foreign_pct_soc3": 16.5,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "37-1011",
+    "occ_label": "First-line supervisors of housekeeping and janitorial workers",
+    "foreign_pct": 32.59,
+    "soc3": "37-1",
+    "foreign_pct_soc3": 30.2,
+    "major": "37",
+    "synonyms": "Environmental Services Supervisor (EVS), Executive Housekeeper, Housekeeping Supervisor, Maintenance Supervisor"
+  },
+  {
+    "soc": "29-1051",
+    "occ_label": "Pharmacists",
+    "foreign_pct": 17.78,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Clinical Pharmacist, Hospital Pharmacist, Pharm D (Pharmacy Doctor), Pharmacist in Charge (PIC)"
+  },
+  {
+    "soc": "21-1012",
+    "occ_label": "Educational, guidance, and career counselors and advisors",
+    "foreign_pct": 6.89,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Academic Advisor, Career Counselor, Guidance Counselor, School Counselor"
+  },
+  {
+    "soc": "37-1012",
+    "occ_label": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
+    "foreign_pct": 27.7,
+    "soc3": "37-1",
+    "foreign_pct_soc3": 30.2,
+    "major": "37",
+    "synonyms": "Golf Course Superintendent, Grounds Manager, Grounds Supervisor, Landscape Supervisor"
+  },
+  {
+    "soc": "27-102X",
+    "occ_label": "Other designers",
+    "foreign_pct": 14.52,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1123",
+    "occ_label": "Physical therapists",
+    "foreign_pct": 15.18,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Doctor of Physical Therapy (DPT), Home Care Physical Therapist (Home Care PT), Inpatient Physical Therapist (Inpatient PT), Pediatric Physical Therapist (Pediatric PT)"
+  },
+  {
+    "soc": "47-2181",
+    "occ_label": "Roofers",
+    "foreign_pct": 52.4,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Roof Mechanic, Roof Service Technician, Roofer, Roofing Technician"
+  },
+  {
+    "soc": "27-1024",
+    "occ_label": "Graphic designers",
+    "foreign_pct": 11.87,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": "Artist, Designer, Graphic Artist, Graphic Designer"
+  },
+  {
+    "soc": "35-3041",
+    "occ_label": "Food servers, nonrestaurant",
+    "foreign_pct": 13.94,
+    "soc3": "35-3",
+    "foreign_pct_soc3": 15.67,
+    "major": "35",
+    "synonyms": "Food Service Worker, Room Server, Room Service Server, Tray Server"
+  },
+  {
+    "soc": "29-2052",
+    "occ_label": "Pharmacy technicians",
+    "foreign_pct": 12.6,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Certified Pharmacy Technician (CPhT), Chemotherapy Pharmacy Technician (Chemo Pharmacy Technician), OR Pharmacy Tech (Operating Room Pharmacy Tech), RPhT (Registered Pharmacy Technician)"
+  },
+  {
+    "soc": "27-1010",
+    "occ_label": "Artists and related workers",
+    "foreign_pct": 9.35,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": ""
+  },
+  {
+    "soc": "11-3051",
+    "occ_label": "Industrial production managers",
+    "foreign_pct": 14.3,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Assembly Manager, Manufacturing Manager, Plant Manager, Production Manager"
+  },
+  {
+    "soc": "13-1023",
+    "occ_label": "Purchasing agents, except wholesale, retail, and farm products",
+    "foreign_pct": 12.02,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Buyer, Procurement Official, Procurement Specialist, Purchasing Agent"
+  },
+  {
+    "soc": "15-1251",
+    "occ_label": "Computer programmers",
+    "foreign_pct": 25.79,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Analyst Programmer, Computer Programmer, Programmer, Programmer Analyst"
+  },
+  {
+    "soc": "13-1041",
+    "occ_label": "Compliance officers",
+    "foreign_pct": 16.34,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Corporate Licensed Broker, Customs Broker"
+  },
+  {
+    "soc": "11-3121",
+    "occ_label": "Human resources managers",
+    "foreign_pct": 10.72,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Employee Relations Manager, HR Administration Director (Human Resources Administration Director), Human Resources Director (HR Director), Human Resources Manager (HR Manager)"
+  },
+  {
+    "soc": "43-9021",
+    "occ_label": "Data entry keyers",
+    "foreign_pct": 9.97,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Data Capture Specialist, Data Entry Clerk, Data Entry Operator, Data Transcriber"
+  },
+  {
+    "soc": "51-4041",
+    "occ_label": "Machinists",
+    "foreign_pct": 16.71,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": "CNC Machinist (Computer Numeric Controlled Machinist), Machinist, Maintenance Machinist, Tool Room Machinist"
+  },
+  {
+    "soc": "33-3012",
+    "occ_label": "Correctional officers and jailers",
+    "foreign_pct": 7.71,
+    "soc3": "33-3",
+    "foreign_pct_soc3": 5.65,
+    "major": "33",
+    "synonyms": "Correctional Officer, Corrections Officer (CO), Detention Officer, Jailer"
+  },
+  {
+    "soc": "53-1000",
+    "occ_label": "Supervisors of transportation and material moving workers",
+    "foreign_pct": 11.75,
+    "soc3": "53-1",
+    "foreign_pct_soc3": 11.75,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-3011",
+    "occ_label": "Bakers",
+    "foreign_pct": 29.5,
+    "soc3": "51-3",
+    "foreign_pct_soc3": 27.13,
+    "major": "51",
+    "synonyms": "Baker, Dough Mixer, Mixer, Pastry Chef"
+  },
+  {
+    "soc": "29-2010",
+    "occ_label": "Clinical laboratory technologists and technicians",
+    "foreign_pct": 25.04,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "35-9011",
+    "occ_label": "Dining room and cafeteria attendants and bartender helpers",
+    "foreign_pct": 35.55,
+    "soc3": "35-9",
+    "foreign_pct_soc3": 24.64,
+    "major": "35",
+    "synonyms": "Barback, Bus Boy, Bus Person, Busser"
+  },
+  {
+    "soc": "53-3052",
+    "occ_label": "Bus drivers, transit and intercity",
+    "foreign_pct": 31.96,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": "Bus Driver, Bus Operator, Motor Coach Operator, Transit Bus Driver"
+  },
+  {
+    "soc": "43-9041",
+    "occ_label": "Insurance claims and policy processing clerks",
+    "foreign_pct": 4.15,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Claims Processor, Claims Representative (Claims Rep), Claims Technician (Claims Tech), Underwriting Assistant"
+  },
+  {
+    "soc": "17-1011",
+    "occ_label": "Architects, except landscape and naval",
+    "foreign_pct": 16.6,
+    "soc3": "17-1",
+    "foreign_pct_soc3": 14.35,
+    "major": "17",
+    "synonyms": "Architect, Design Architect, Planner, Project Architect"
+  },
+  {
+    "soc": "15-1212",
+    "occ_label": "Information security analysts",
+    "foreign_pct": 17.42,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Information Security Officer, Information Systems Security Officer (ISSO), Information Technology Security Analyst (IT Security Analyst), Network Security Analyst"
+  },
+  {
+    "soc": "21-1019",
+    "occ_label": "Counselors, all other",
+    "foreign_pct": 5.12,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "39-9031",
+    "occ_label": "Exercise trainers and group fitness instructors",
+    "foreign_pct": 13.16,
+    "soc3": "39-9",
+    "foreign_pct_soc3": 25.32,
+    "major": "39",
+    "synonyms": "Aerobics Instructor, Fitness Instructor, Group Fitness Instructor, Personal Trainer"
+  },
+  {
+    "soc": "51-9111",
+    "occ_label": "Packaging and filling machine operators and tenders",
+    "foreign_pct": 54.49,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Bundler, Filler Operator, Machine Operator, Packaging Operator"
+  },
+  {
+    "soc": "29-1171",
+    "occ_label": "Nurse practitioners",
+    "foreign_pct": 7.96,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "ACNP (Acute Care Nurse Practitioner), Family Nurse Practitioner (FNP), Gastroenterology Nurse Practitioner, Nurse Practitioner (NP)"
+  },
+  {
+    "soc": "49-1011",
+    "occ_label": "First-line supervisors of mechanics, installers, and repairers",
+    "foreign_pct": 5.88,
+    "soc3": "49-1",
+    "foreign_pct_soc3": 5.88,
+    "major": "49",
+    "synonyms": "Maintenance Foreman, Maintenance Manager, Maintenance Supervisor, Service Manager"
+  },
+  {
+    "soc": "41-9091",
+    "occ_label": "Door-to-door sales workers, news and street vendors, and related workers",
+    "foreign_pct": 18.7,
+    "soc3": "41-9",
+    "foreign_pct_soc3": 17.83,
+    "major": "41",
+    "synonyms": "Direct Sales Coach, Door-to-Door Sales Trainer, Independent Sales Associate, Independent Sales Representative"
+  },
+  {
+    "soc": "17-2070",
+    "occ_label": "Electrical and electronics engineers",
+    "foreign_pct": 22.42,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-909X",
+    "occ_label": "Other healthcare support workers",
+    "foreign_pct": 18.51,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": ""
+  },
+  {
+    "soc": "39-5092",
+    "occ_label": "Manicurists and pedicurists",
+    "foreign_pct": 70.19,
+    "soc3": "39-5",
+    "foreign_pct_soc3": 29.29,
+    "major": "39",
+    "synonyms": "Manicurist, Nail Technician (Nail Tech), Pedicurist"
+  },
+  {
+    "soc": "27-2012",
+    "occ_label": "Producers and directors",
+    "foreign_pct": 16.28,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Artistic Director, Director, News Producer, Producer"
+  },
+  {
+    "soc": "51-4XXX",
+    "occ_label": "Other metal workers and plastic workers",
+    "foreign_pct": 23.89,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-909X",
+    "occ_label": "Other installation, maintenance, and repair workers",
+    "foreign_pct": 23.06,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-6011",
+    "occ_label": "Executive secretaries and executive administrative assistants",
+    "foreign_pct": 2.46,
+    "soc3": "43-6",
+    "foreign_pct_soc3": 7.65,
+    "major": "43",
+    "synonyms": "Administrative Assistant, Administrative Secretary, Executive Assistant, Executive Secretary"
+  },
+  {
+    "soc": "53-3051",
+    "occ_label": "Bus drivers, school",
+    "foreign_pct": 26.03,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": "Bus Driver, School Bus Driver, Shuttle Bus Driver, Special Education Bus Driver"
+  },
+  {
+    "soc": "39-30XX",
+    "occ_label": "Other entertainment attendants and related workers",
+    "foreign_pct": 3.25,
+    "soc3": "39-3",
+    "foreign_pct_soc3": 10.62,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "33-909X",
+    "occ_label": "Other protective service workers",
+    "foreign_pct": 0.0,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1129",
+    "occ_label": "Therapists, all other",
+    "foreign_pct": 9.17,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Art Psychotherapist, Art Therapist, Board Certified Art Therapist (ATR-BC), Registered Art Therapist (ATR)"
+  },
+  {
+    "soc": "21-1014",
+    "occ_label": "Mental health counselors",
+    "foreign_pct": 10.81,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Clinician, Counselor, Mental Health Specialist, Mental Health Therapist"
+  },
+  {
+    "soc": "27-3043",
+    "occ_label": "Writers and authors",
+    "foreign_pct": 13.66,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Advertisement Agency Copywriter (Ad Agency Copywriter), Advertising Copywriter, Copywriter, Freelance Copywriter"
+  },
+  {
+    "soc": "13-1151",
+    "occ_label": "Training and development specialists",
+    "foreign_pct": 3.58,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Corporate Trainer, Job Training Specialist, Learning and Development Specialist (L and D Specialist), Training Specialist"
+  },
+  {
+    "soc": "31-9091",
+    "occ_label": "Dental assistants",
+    "foreign_pct": 20.9,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Certified Dental Assistant (CDA), Dental Assistant (DA), Expanded Duty Dental Assistant (EDDA), Registered Dental Assistant (RDA)"
+  },
+  {
+    "soc": "17-2110",
+    "occ_label": "Industrial engineers, including health and safety",
+    "foreign_pct": 8.73,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1292",
+    "occ_label": "Dental hygienists",
+    "foreign_pct": 11.11,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Dental Hygienist, Hygienist, Licensed Dental Hygienist, Registered Dental Hygienist (RDH)"
+  },
+  {
+    "soc": "29-2034",
+    "occ_label": "Radiologic technologists and technicians",
+    "foreign_pct": 12.18,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Computed Tomography Technologist (CT Tech), Radiographer, Radiologic Technologist (RT), X-Ray Technologist (X-Ray Tech)"
+  },
+  {
+    "soc": "27-4021",
+    "occ_label": "Photographers",
+    "foreign_pct": 11.58,
+    "soc3": "27-4",
+    "foreign_pct_soc3": 7.89,
+    "major": "27",
+    "synonyms": "Commercial Photographer, Photographer, Photojournalist, Portrait Photographer"
+  },
+  {
+    "soc": "43-5061",
+    "occ_label": "Production, planning, and expediting clerks",
+    "foreign_pct": 11.82,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Expeditor, Materials Planner, Production Planner, Production Scheduler"
+  },
+  {
+    "soc": "35-9021",
+    "occ_label": "Dishwashers",
+    "foreign_pct": 29.68,
+    "soc3": "35-9",
+    "foreign_pct_soc3": 24.64,
+    "major": "35",
+    "synonyms": "Dish Machine Operator (DMO), Dishwasher, Kitchen Steward, Steward"
+  },
+  {
+    "soc": "29-1127",
+    "occ_label": "Speech-language pathologists",
+    "foreign_pct": 10.85,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Bilingual Speech-Language Pathologist (Bilingual SLP), Speech and Language Specialist, Speech Pathologist, Speech-Language Pathologist (SLP)"
+  },
+  {
+    "soc": "49-3040",
+    "occ_label": "Heavy vehicle and mobile equipment service technicians and mechanics",
+    "foreign_pct": 13.9,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "11-3061",
+    "occ_label": "Purchasing managers",
+    "foreign_pct": 10.14,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Materials Manager, Procurement Manager, Purchasing Director, Purchasing Manager"
+  },
+  {
+    "soc": "51-3020",
+    "occ_label": "Butchers and other meat, poultry, and fish processing workers",
+    "foreign_pct": 29.14,
+    "soc3": "51-3",
+    "foreign_pct_soc3": 27.13,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1020",
+    "occ_label": "Dentists",
+    "foreign_pct": 27.51,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-1022",
+    "occ_label": "Wholesale and retail buyers, except farm products",
+    "foreign_pct": 9.53,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Buyer, Grocery Buyer, Procurement Specialist, Trader"
+  },
+  {
+    "soc": "43-3071",
+    "occ_label": "Tellers",
+    "foreign_pct": 8.03,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "Bank Teller, Financial Services Representative (FSR), Member Services Representative, Teller"
+  },
+  {
+    "soc": "13-1081",
+    "occ_label": "Logisticians",
+    "foreign_pct": 12.95,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Logistics Engineer, Reliability Engineer, Supportability Engineer, Systems Engineer"
+  },
+  {
+    "soc": "21-1011",
+    "occ_label": "Substance abuse and behavioral disorder counselors",
+    "foreign_pct": 15.75,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Addictions Counselor, Chemical Dependency Counselor (CD Counselor), Counselor, Substance Abuse Counselor (SA Counselor)"
+  },
+  {
+    "soc": "13-1121",
+    "occ_label": "Meeting, convention, and event planners",
+    "foreign_pct": 6.36,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Conference Planning Manager, Conference Services Manager, Convention Services Manager (CSM), Events Manager"
+  },
+  {
+    "soc": "15-1244",
+    "occ_label": "Network and computer systems administrators",
+    "foreign_pct": 24.42,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Information Technology Specialist (IT Specialist), Local Area Network Administrator (LAN Administrator), Network Administrator, Systems Administrator"
+  },
+  {
+    "soc": "25-3041",
+    "occ_label": "Tutors",
+    "foreign_pct": 8.14,
+    "soc3": "25-3",
+    "foreign_pct_soc3": 14.65,
+    "major": "25",
+    "synonyms": "Academic Coach, Academic Guidance Specialist, Professional Tutor, Tutor"
+  },
+  {
+    "soc": "15-124X",
+    "occ_label": "Database administrators and architects",
+    "foreign_pct": 21.88,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-9011",
+    "occ_label": "Massage therapists",
+    "foreign_pct": 31.29,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Certified Massage Therapist (CMT), Licensed Massage Practitioner (LMP), Licensed Massage Therapist (LMT), Massage Therapist"
+  },
+  {
+    "soc": "33-9021",
+    "occ_label": "Private detectives and investigators",
+    "foreign_pct": 20.17,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": "Investigator, Loss Prevention Detective, Loss Prevention Officer, Private Investigator"
+  },
+  {
+    "soc": "25-4022",
+    "occ_label": "Librarians and media collections specialists",
+    "foreign_pct": 2.29,
+    "soc3": "25-4",
+    "foreign_pct_soc3": 1.35,
+    "major": "25",
+    "synonyms": "Librarian, Library Media Specialist, Media Specialist, Reference Librarian"
+  },
+  {
+    "soc": "11-9041",
+    "occ_label": "Architectural and engineering managers",
+    "foreign_pct": 29.72,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Engineering Director, Engineering Program Manager, Project Engineering Manager, Project Manager"
+  },
+  {
+    "soc": "41-3031",
+    "occ_label": "Securities, commodities, and financial services sales agents",
+    "foreign_pct": 9.08,
+    "soc3": "41-3",
+    "foreign_pct_soc3": 15.81,
+    "major": "41",
+    "synonyms": "Broker, Equity Trader, Financial Advisor, Financial Consultant"
+  },
+  {
+    "soc": "13-1051",
+    "occ_label": "Cost estimators",
+    "foreign_pct": 12.21,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Construction Estimator, Cost Analyst, Cost Estimator, Estimator"
+  },
+  {
+    "soc": "43-3051",
+    "occ_label": "Payroll and timekeeping clerks",
+    "foreign_pct": 6.78,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "Payroll Assistant, Payroll Clerk, Payroll Coordinator, Payroll Specialist"
+  },
+  {
+    "soc": "53-2010",
+    "occ_label": "Aircraft pilots and flight engineers",
+    "foreign_pct": 10.64,
+    "soc3": "53-2",
+    "foreign_pct_soc3": 9.87,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-3011",
+    "occ_label": "Aircraft mechanics and service technicians",
+    "foreign_pct": 14.5,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": "Aircraft Mechanic, Aircraft Technician, Airframe and Powerplant Mechanic (A and P Mechanic), Aviation Mechanic"
+  },
+  {
+    "soc": "27-2042",
+    "occ_label": "Musicians and singers",
+    "foreign_pct": 12.33,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Choir Member, Musician, Singer, Violinist"
+  },
+  {
+    "soc": "43-5032",
+    "occ_label": "Dispatchers, except police, fire, and ambulance",
+    "foreign_pct": 13.75,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "City Dispatcher, Dispatcher (Dispatch), Taxi Dispatcher, Train Dispatcher"
+  },
+  {
+    "soc": "43-4111",
+    "occ_label": "Interviewers, except eligibility and loan",
+    "foreign_pct": 4.43,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Admissions Clerk, Admissions Representative, Interviewer, Registration Clerk"
+  },
+  {
+    "soc": "53-7081",
+    "occ_label": "Refuse and recyclable material collectors",
+    "foreign_pct": 30.56,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Garbage Man, Roll Off Truck Driver, Sanitation Laborer, Trash Collector"
+  },
+  {
+    "soc": "25-90XX",
+    "occ_label": "Other educational instruction and library workers",
+    "foreign_pct": 11.65,
+    "soc3": "25-9",
+    "foreign_pct_soc3": 16.05,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-2031",
+    "occ_label": "Flight attendants",
+    "foreign_pct": 7.53,
+    "soc3": "53-2",
+    "foreign_pct_soc3": 9.87,
+    "major": "53",
+    "synonyms": "Flight Attendant, In-Flight Crew Member, International Flight Attendant, Purser"
+  },
+  {
+    "soc": "29-1071",
+    "occ_label": "Physician assistants",
+    "foreign_pct": 20.92,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Anesthesia Assistant, Anesthesia Technician, Anesthesiologist Assistant, Certified Anesthesiologist Assistant"
+  },
+  {
+    "soc": "39-9099",
+    "occ_label": "Personal care and service workers, all other",
+    "foreign_pct": 18.65,
+    "soc3": "39-9",
+    "foreign_pct_soc3": 25.32,
+    "major": "39",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-9120",
+    "occ_label": "Painting workers",
+    "foreign_pct": 23.9,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-2032",
+    "occ_label": "Diagnostic medical sonographers",
+    "foreign_pct": 1.72,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Diagnostic Medical Sonographer, Registered Diagnostic Medical Sonographer (RDMS), Sonographer, Ultrasonographer"
+  },
+  {
+    "soc": "17-2011",
+    "occ_label": "Aerospace engineers",
+    "foreign_pct": 12.56,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Aerospace Engineer, Design Engineer, Flight Test Engineer, Systems Engineer"
+  },
+  {
+    "soc": "53-3099",
+    "occ_label": "Motor vehicle operators, all other",
+    "foreign_pct": 14.04,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-6011",
+    "occ_label": "Laundry and dry-cleaning workers",
+    "foreign_pct": 45.19,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": "Laundry Aide, Laundry Attendant, Laundry Housekeeper, Laundry Worker"
+  },
+  {
+    "soc": "21-1022",
+    "occ_label": "Healthcare social workers",
+    "foreign_pct": 10.71,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Clinical Social Worker, Hospice Social Worker, Medical Social Worker, Social Worker"
+  },
+  {
+    "soc": "21-1093",
+    "occ_label": "Social and human service assistants",
+    "foreign_pct": 14.19,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Advocate, Clinical Assistant, Social Work Associate, Social Worker Assistant"
+  },
+  {
+    "soc": "51-8031",
+    "occ_label": "Water and wastewater treatment plant and system operators",
+    "foreign_pct": 4.06,
+    "soc3": "51-8",
+    "foreign_pct_soc3": 9.22,
+    "major": "51",
+    "synonyms": "Process Operator (Process Op), Wastewater Operator (WW Operator), Water Plant Operator, Water Treatment Plant Operator"
+  },
+  {
+    "soc": "41-3011",
+    "occ_label": "Advertising sales agents",
+    "foreign_pct": 13.0,
+    "soc3": "41-3",
+    "foreign_pct_soc3": 15.81,
+    "major": "41",
+    "synonyms": "Advertising Account Representative, Advertising Representative, Advertising Sales Representative (Ad Sales Representative), Sales Representative"
+  },
+  {
+    "soc": "29-9000",
+    "occ_label": "Other healthcare practitioners and technical occupations",
+    "foreign_pct": 4.45,
+    "soc3": "29-9",
+    "foreign_pct_soc3": 4.45,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1031",
+    "occ_label": "Dietitians and nutritionists",
+    "foreign_pct": 14.04,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Clinical Dietitian, Dietitian, Nutritionist, Registered Dietitian"
+  },
+  {
+    "soc": "19-303X",
+    "occ_label": "Other psychologists",
+    "foreign_pct": 15.07,
+    "soc3": "19-3",
+    "foreign_pct_soc3": 10.58,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-4081",
+    "occ_label": "Hotel, motel, and resort desk clerks",
+    "foreign_pct": 8.44,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Front Desk Agent, Front Desk Clerk, Guest Services Agent (GSA), Night Auditor"
+  },
+  {
+    "soc": "15-2031",
+    "occ_label": "Operations research analysts",
+    "foreign_pct": 7.22,
+    "soc3": "15-2",
+    "foreign_pct_soc3": 19.16,
+    "major": "15",
+    "synonyms": "Analytical Strategist, Operations Research Analyst (Ops Research Analyst), Operations Research Scientist (Ops Research Scientist), Researcher"
+  },
+  {
+    "soc": "47-2211",
+    "occ_label": "Sheet metal workers",
+    "foreign_pct": 8.9,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "HVAC Sheet Metal Installer (Heating, Ventilation, and Air Conditioning Sheet Metal Installer); Sheet Metal Fabricator; Sheet Metal Mechanic; Sheet Metal Worker"
+  },
+  {
+    "soc": "29-2042",
+    "occ_label": "Emergency medical technicians",
+    "foreign_pct": 0.0,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Emergency Medical Technician (EMT), First Responder"
+  },
+  {
+    "soc": "13-2053",
+    "occ_label": "Insurance underwriters",
+    "foreign_pct": 7.21,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Account Underwriter, Life Underwriter, Personal Lines Underwriter, Underwriter"
+  },
+  {
+    "soc": "41-2022",
+    "occ_label": "Parts salespersons",
+    "foreign_pct": 18.08,
+    "soc3": "41-2",
+    "foreign_pct_soc3": 13.03,
+    "major": "41",
+    "synonyms": "Parts Consultant, Parts Counterperson, Parts Salesman, Parts Salesperson"
+  },
+  {
+    "soc": "39-9032",
+    "occ_label": "Recreation workers",
+    "foreign_pct": 6.23,
+    "soc3": "39-9",
+    "foreign_pct_soc3": 25.32,
+    "major": "39",
+    "synonyms": "Activities Director, Activity Aide, Activity Director, Recreation Supervisor"
+  },
+  {
+    "soc": "13-20XX",
+    "occ_label": "Other financial specialists",
+    "foreign_pct": 34.96,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-5112",
+    "occ_label": "Printing press operators",
+    "foreign_pct": 10.87,
+    "soc3": "51-5",
+    "foreign_pct_soc3": 10.32,
+    "major": "51",
+    "synonyms": "Press Operator, Pressman, Printer, Printing Press Operator"
+  },
+  {
+    "soc": "43-4071",
+    "occ_label": "File clerks",
+    "foreign_pct": 16.6,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "File Clerk, Medical Records Clerk, Office Assistant, Records Clerk"
+  },
+  {
+    "soc": "13-2082",
+    "occ_label": "Tax preparers",
+    "foreign_pct": 19.86,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Enrolled Agent, Tax Advisor, Tax Consultant, Tax Preparer"
+  },
+  {
+    "soc": "29-2053",
+    "occ_label": "Psychiatric technicians",
+    "foreign_pct": 17.52,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Mental Health Associate, Mental Health Technician (MHT), MHW (Mental Health Worker), Psychiatric Technician (PT)"
+  },
+  {
+    "soc": "29-2090",
+    "occ_label": "Miscellaneous health technologists and technicians",
+    "foreign_pct": 8.42,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "19-2030",
+    "occ_label": "Chemists and materials scientists",
+    "foreign_pct": 25.81,
+    "soc3": "19-2",
+    "foreign_pct_soc3": 34.52,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1122",
+    "occ_label": "Occupational therapists",
+    "foreign_pct": 4.05,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Certified Orientation and Mobility Specialist (COMS), Orientation and Mobility Specialist (O and M Specialist), Vision Rehabilitation Therapist (VRT), Visually Impaired Teacher (TVI)"
+  },
+  {
+    "soc": "27-1025",
+    "occ_label": "Interior designers",
+    "foreign_pct": 9.97,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": "Designer, Interior Design Consultant, Interior Design Coordinator, Interior Designer"
+  },
+  {
+    "soc": "11-2030",
+    "occ_label": "Public relations and fundraising managers",
+    "foreign_pct": 0.42,
+    "soc3": "11-2",
+    "foreign_pct_soc3": 12.62,
+    "major": "11",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-2020",
+    "occ_label": "Brickmasons, blockmasons, and stonemasons",
+    "foreign_pct": 37.68,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "39-5011",
+    "occ_label": "Barbers",
+    "foreign_pct": 17.71,
+    "soc3": "39-5",
+    "foreign_pct_soc3": 29.29,
+    "major": "39",
+    "synonyms": "Barber, Barber Shop Operator, Barber Stylist, Stylist"
+  },
+  {
+    "soc": "47-2080",
+    "occ_label": "Drywall installers, ceiling tile installers, and tapers",
+    "foreign_pct": 56.67,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-2020",
+    "occ_label": "Physical therapist assistants and aides",
+    "foreign_pct": 7.02,
+    "soc3": "31-2",
+    "foreign_pct_soc3": 4.82,
+    "major": "31",
+    "synonyms": ""
+  },
+  {
+    "soc": "21-109X",
+    "occ_label": "Other community and social service specialists",
+    "foreign_pct": 22.18,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-6031",
+    "occ_label": "Sewing machine operators",
+    "foreign_pct": 43.45,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": "Sample Maker, Seamstress, Sewer, Sewing Machine Operator"
+  },
+  {
+    "soc": "51-2020",
+    "occ_label": "Electrical, electronics, and electromechanical assemblers",
+    "foreign_pct": 30.38,
+    "soc3": "51-2",
+    "foreign_pct_soc3": 19.08,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "33-3021",
+    "occ_label": "Detectives and criminal investigators",
+    "foreign_pct": 15.19,
+    "soc3": "33-3",
+    "foreign_pct_soc3": 5.65,
+    "major": "33",
+    "synonyms": "Crime Scene Investigator, Crime Scene Technician, Criminalist, Forensic Specialist"
+  },
+  {
+    "soc": "49-9052",
+    "occ_label": "Telecommunications line installers and repairers",
+    "foreign_pct": 9.47,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Combination Technician, Installation and Repair Technician (I and R Technician), Lineman, Service Technician"
+  },
+  {
+    "soc": "47-4011",
+    "occ_label": "Construction and building inspectors",
+    "foreign_pct": 13.15,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": "Energy Auditor, Energy Consultant, Energy Rater, Home Performance Consultant"
+  },
+  {
+    "soc": "49-3090",
+    "occ_label": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
+    "foreign_pct": 17.39,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-2072",
+    "occ_label": "Medical records specialists",
+    "foreign_pct": 0.0,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Health Information Technician (Health Information Tech), Medical Records Clerk, Medical Records Coordinator, Registered Health Information Technician (RHIT)"
+  },
+  {
+    "soc": "49-3021",
+    "occ_label": "Automotive body and related repairers",
+    "foreign_pct": 46.2,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": "Auto Body Man, Automotive Body Technician (Auto Body Tech), Body Man, Body Technician (Body Tech)"
+  },
+  {
+    "soc": "49-2011",
+    "occ_label": "Computer, automated teller, and office machine repairers",
+    "foreign_pct": 13.85,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": "ATM Technician (Automated Teller Machine Technician), Computer Technician, Copier Technician, Service Technician"
+  },
+  {
+    "soc": "49-2020",
+    "occ_label": "Radio and telecommunications equipment installers and repairers",
+    "foreign_pct": 25.21,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-9051",
+    "occ_label": "Electrical power-line installers and repairers",
+    "foreign_pct": 4.46,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Electrical Lineman, Lineworker, Power Lineman, Service Man"
+  },
+  {
+    "soc": "43-3099",
+    "occ_label": "Financial clerks, all other",
+    "foreign_pct": 14.3,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "51-8021",
+    "occ_label": "Stationary engineers and boiler operators",
+    "foreign_pct": 12.13,
+    "soc3": "51-8",
+    "foreign_pct_soc3": 9.22,
+    "major": "51",
+    "synonyms": "Boiler Operator, Operating Engineer, Stationary Engineer, Utilities Operator"
+  },
+  {
+    "soc": "29-2043",
+    "occ_label": "Paramedics",
+    "foreign_pct": 23.6,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "First Responder, Flight Paramedic, Paramedic"
+  },
+  {
+    "soc": "39-3010",
+    "occ_label": "Gambling services workers",
+    "foreign_pct": 19.32,
+    "soc3": "39-3",
+    "foreign_pct_soc3": 10.62,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-2041",
+    "occ_label": "Chemical engineers",
+    "foreign_pct": 31.26,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Chemical Engineer, Engineer, Process Engineer, Scientist"
+  },
+  {
+    "soc": "27-4030",
+    "occ_label": "Television, video, and film camera operators and editors",
+    "foreign_pct": 7.41,
+    "soc3": "27-4",
+    "foreign_pct_soc3": 7.89,
+    "major": "27",
+    "synonyms": ""
+  },
+  {
+    "soc": "11-3013",
+    "occ_label": "Facilities managers",
+    "foreign_pct": 12.5,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Corporate Physical Security Supervisor, Corporate Security Manager, Security Director, Security Manager"
+  },
+  {
+    "soc": "39-5094",
+    "occ_label": "Skincare specialists",
+    "foreign_pct": 20.29,
+    "soc3": "39-5",
+    "foreign_pct_soc3": 29.29,
+    "major": "39",
+    "synonyms": "Aesthetician, Esthetician, Medical Esthetician, Skin Care Specialist"
+  },
+  {
+    "soc": "29-1126",
+    "occ_label": "Respiratory therapists",
+    "foreign_pct": 35.51,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Certified Respiratory Therapist (CRT), Registered Respiratory Therapist (RRT), Respiratory Care Practitioner (RCP), Respiratory Therapist (RT)"
+  },
+  {
+    "soc": "51-3092",
+    "occ_label": "Food batchmakers",
+    "foreign_pct": 26.33,
+    "soc3": "51-3",
+    "foreign_pct_soc3": 27.13,
+    "major": "51",
+    "synonyms": "Batching Operator, Blender, Mixer, Mixer Operator"
+  },
+  {
+    "soc": "31-9097",
+    "occ_label": "Phlebotomists",
+    "foreign_pct": 38.2,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Lab Liaison Technician, Mobile Examiner, Phlebotomist, Phlebotomy Technician"
+  },
+  {
+    "soc": "27-3031",
+    "occ_label": "Public relations specialists",
+    "foreign_pct": 3.77,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Communications Specialist, Public Affairs Specialist, Public Information Officer, Public Relations Specialist (PR Specialist)"
+  },
+  {
+    "soc": "11-3012",
+    "occ_label": "Administrative services managers",
+    "foreign_pct": 13.07,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Administrative Coordinator, Administrative Manager, Administrative Officer, Business Administrator"
+  },
+  {
+    "soc": "11-9081",
+    "occ_label": "Lodging managers",
+    "foreign_pct": 11.25,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Front Desk Manager, Front Office Manager, Hotel Manager, Resort Manager"
+  },
+  {
+    "soc": "43-4181",
+    "occ_label": "Reservation and transportation ticket agents and travel clerks",
+    "foreign_pct": 14.16,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Customer Service Agent, Reservation Agent, Reservations Agent, Ticket Agent"
+  },
+  {
+    "soc": "29-2055",
+    "occ_label": "Surgical technologists",
+    "foreign_pct": 15.99,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Certified Surgical Technologist (CST), Operating Room Technician (OR Tech), Surgical Technician, Surgical Technologist (Surgical Tech)"
+  },
+  {
+    "soc": "25-4010",
+    "occ_label": "Archivists, curators, and museum technicians",
+    "foreign_pct": 0.0,
+    "soc3": "25-4",
+    "foreign_pct_soc3": 1.35,
+    "major": "25",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-3053",
+    "occ_label": "Shuttle drivers and chauffeurs",
+    "foreign_pct": 30.93,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": "Chauffeur, Driver, Shuttle Bus Driver, Shuttle Driver"
+  },
+  {
+    "soc": "37-2021",
+    "occ_label": "Pest control workers",
+    "foreign_pct": 12.38,
+    "soc3": "37-2",
+    "foreign_pct_soc3": 43.1,
+    "major": "37",
+    "synonyms": "Exterminator, Pest Control Technician (Pest Control Tech), Pest Technician, Residential Pest Control Technician"
+  },
+  {
+    "soc": "51-3099",
+    "occ_label": "Food processing workers, all other",
+    "foreign_pct": 23.76,
+    "soc3": "51-3",
+    "foreign_pct_soc3": 27.13,
+    "major": "51",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-2056",
+    "occ_label": "Veterinary technologists and technicians",
+    "foreign_pct": 0.27,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Certified Veterinary Technician (CVT), Licensed Veterinary Technician (LVT), Registered Veterinary Technician (RVT), Veterinary Technician (Vet Tech)"
+  },
+  {
+    "soc": "37-3013",
+    "occ_label": "Tree trimmers and pruners",
+    "foreign_pct": 28.75,
+    "soc3": "37-3",
+    "foreign_pct_soc3": 37.08,
+    "major": "37",
+    "synonyms": "Arborist, Groundsman, Tree Climber, Tree Trimmer"
+  },
+  {
+    "soc": "27-4010",
+    "occ_label": "Broadcast, sound, and lighting technicians",
+    "foreign_pct": 0.0,
+    "soc3": "27-4",
+    "foreign_pct_soc3": 7.89,
+    "major": "27",
+    "synonyms": ""
+  },
+  {
+    "soc": "19-1040",
+    "occ_label": "Medical scientists",
+    "foreign_pct": 61.27,
+    "soc3": "19-1",
+    "foreign_pct_soc3": 29.74,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-6030",
+    "occ_label": "Transportation service attendants",
+    "foreign_pct": 12.17,
+    "soc3": "53-6",
+    "foreign_pct_soc3": 13.67,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-3041",
+    "occ_label": "Editors",
+    "foreign_pct": 6.37,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Editor, News Editor, Newspaper Copy Editor, Sports Editor"
+  },
+  {
+    "soc": "43-5111",
+    "occ_label": "Weighers, measurers, checkers, and samplers, recordkeeping",
+    "foreign_pct": 25.47,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Fluid Operator, Inventory Specialist, Quality Assurance Inspector (QA Inspector), Temperature Taker"
+  },
+  {
+    "soc": "27-3091",
+    "occ_label": "Interpreters and translators",
+    "foreign_pct": 50.92,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Interpreter, Medical Interpreter, Sign Language Interpreter, Translator"
+  },
+  {
+    "soc": "43-3011",
+    "occ_label": "Bill and account collectors",
+    "foreign_pct": 11.57,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "Collector, Debt Collector, Patient Access Specialist, Patient Account Representative"
+  },
+  {
+    "soc": "33-1012",
+    "occ_label": "First-line supervisors of police and detectives",
+    "foreign_pct": 4.81,
+    "soc3": "33-1",
+    "foreign_pct_soc3": 4.05,
+    "major": "33",
+    "synonyms": "Lieutenant, Patrol Sergeant, Police Captain, Police Sergeant"
+  },
+  {
+    "soc": "23-2093",
+    "occ_label": "Title examiners, abstractors, and searchers",
+    "foreign_pct": 8.1,
+    "soc3": "23-2",
+    "foreign_pct_soc3": 10.66,
+    "major": "23",
+    "synonyms": "Abstractor, Title Examiner, Title Officer, Title Searcher"
+  },
+  {
+    "soc": "27-3023",
+    "occ_label": "News analysts, reporters, and journalists",
+    "foreign_pct": 0.96,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Anchor, News Anchor, News Reporter, Reporter"
+  },
+  {
+    "soc": "43-5031",
+    "occ_label": "Public safety telecommunicators",
+    "foreign_pct": 5.95,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Communications Officer, Communications Operator, Public Safety Dispatcher, Telecommunicator"
+  },
+  {
+    "soc": "13-2031",
+    "occ_label": "Budget analysts",
+    "foreign_pct": 30.12,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Budget Analyst, Budget and Policy Analyst, Budget Officer, Budget Planning Analyst"
+  },
+  {
+    "soc": "15-1241",
+    "occ_label": "Computer network architects",
+    "foreign_pct": 7.18,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Communications Engineer, Engineer, Infrastructure Engineer, Telecommunications Consultant (Telecom Consultant)"
+  },
+  {
+    "soc": "33-9093",
+    "occ_label": "Transportation security screeners",
+    "foreign_pct": 10.0,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": "Security Screener, Transportation Security Officer (TSO)"
+  },
+  {
+    "soc": "43-4061",
+    "occ_label": "Eligibility interviewers, government programs",
+    "foreign_pct": 9.05,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Eligibility Specialist, Eligibility Worker, Social Welfare Examiner (SWEX), Workforce Services Representative (WSR)"
+  },
+  {
+    "soc": "17-2061",
+    "occ_label": "Computer hardware engineers",
+    "foreign_pct": 42.22,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Design Engineer, Engineer, Hardware Engineer, Systems Integration Engineer"
+  },
+  {
+    "soc": "43-4131",
+    "occ_label": "Loan interviewers and clerks",
+    "foreign_pct": 22.65,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Licensed Loan Officer Assistant, Loan Analyst, Loan Processor, Mortgage Loan Processor"
+  },
+  {
+    "soc": "43-5051",
+    "occ_label": "Postal service clerks",
+    "foreign_pct": 22.28,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Clerk, Postal Clerk, Sales and Service Associate (SSA), Window Clerk"
+  },
+  {
+    "soc": "47-4051",
+    "occ_label": "Highway maintenance workers",
+    "foreign_pct": 17.55,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": "Equipment Operator (EO), Highway Maintainer, Highway Maintenance Worker, Transportation Maintenance Specialist (TMS)"
+  },
+  {
+    "soc": "51-9160",
+    "occ_label": "Computer numerically controlled tool operators and programmers",
+    "foreign_pct": 14.53,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-9080",
+    "occ_label": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+    "foreign_pct": 15.74,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-9198",
+    "occ_label": "Helpers--production workers",
+    "foreign_pct": 44.27,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Helper, Material Handler, Press Helper"
+  },
+  {
+    "soc": "43-6013",
+    "occ_label": "Medical secretaries and administrative assistants",
+    "foreign_pct": 11.39,
+    "soc3": "43-6",
+    "foreign_pct_soc3": 7.65,
+    "major": "43",
+    "synonyms": "Medical Receptionist, Medical Secretary, Unit Clerk, Unit Support Representative"
+  },
+  {
+    "soc": "43-4161",
+    "occ_label": "Human resources assistants, except payroll and timekeeping",
+    "foreign_pct": 7.95,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Human Resources Administrative Assistant (HR Administrative Assistant), Human Resources Assistant (HR Assistant), Human Resources Associate (HR Associate), Personnel Clerk"
+  },
+  {
+    "soc": "27-2099",
+    "occ_label": "Entertainers and performers, sports and related workers, all other",
+    "foreign_pct": 0.0,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "21-2021",
+    "occ_label": "Directors, religious activities and education",
+    "foreign_pct": 0.0,
+    "soc3": "21-2",
+    "foreign_pct_soc3": 6.53,
+    "major": "21",
+    "synonyms": "Children's Ministries Director, Christian Education Director, Religious Education Director, Youth Pastor"
+  },
+  {
+    "soc": "21-2099",
+    "occ_label": "Religious workers, all other",
+    "foreign_pct": 5.18,
+    "soc3": "21-2",
+    "foreign_pct_soc3": 6.53,
+    "major": "21",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "41-3041",
+    "occ_label": "Travel agents",
+    "foreign_pct": 5.36,
+    "soc3": "41-3",
+    "foreign_pct_soc3": 15.81,
+    "major": "41",
+    "synonyms": "Destination Specialist, Travel Agent, Travel Consultant, Travel Counselor"
+  },
+  {
+    "soc": "33-1091",
+    "occ_label": "First-line supervisors of security workers",
+    "foreign_pct": 8.38,
+    "soc3": "33-1",
+    "foreign_pct_soc3": 4.05,
+    "major": "33",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-2131",
+    "occ_label": "Materials engineers",
+    "foreign_pct": 40.79,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Materials Engineer, Materials Research Engineer, Metallurgical Engineer, Metallurgist"
+  },
+  {
+    "soc": "53-7021",
+    "occ_label": "Crane and tower operators",
+    "foreign_pct": 7.55,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Crane Operator, Mobile Crane Operator, Overhead Crane Operator, Scrap Crane Operator"
+  },
+  {
+    "soc": "39-2011",
+    "occ_label": "Animal trainers",
+    "foreign_pct": 18.38,
+    "soc3": "39-2",
+    "foreign_pct_soc3": 5.36,
+    "major": "39",
+    "synonyms": "Dog Trainer, Guide Dog Mobility Instructor (GDMI), Horse Trainer, Trainer"
+  },
+  {
+    "soc": "51-4031",
+    "occ_label": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
+    "foreign_pct": 11.91,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": "Machine Operator, Press Operator, Saw Operator, Set-Up Operator"
+  },
+  {
+    "soc": "47-2040",
+    "occ_label": "Carpet, floor, and tile installers and finishers",
+    "foreign_pct": 39.72,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-9020",
+    "occ_label": "Crushing, grinding, polishing, mixing, and blending workers",
+    "foreign_pct": 38.35,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-4151",
+    "occ_label": "Order clerks",
+    "foreign_pct": 12.9,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Materials Specialist, Order Clerk, Warehouse Clerk, Warehouse Person"
+  },
+  {
+    "soc": "19-4031",
+    "occ_label": "Chemical technicians",
+    "foreign_pct": 8.69,
+    "soc3": "19-4",
+    "foreign_pct_soc3": 16.5,
+    "major": "19",
+    "synonyms": "Chemical Technician, Laboratory Analyst (Lab Analyst), Laboratory Technician (Lab Tech), Quality Control Technician (QC Tech)"
+  },
+  {
+    "soc": "19-5010",
+    "occ_label": "Occupational health and safety specialists and technicians",
+    "foreign_pct": 1.18,
+    "soc3": "19-5",
+    "foreign_pct_soc3": 1.18,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-3023",
+    "occ_label": "Electrical and electronic engineering technologists and technicians",
+    "foreign_pct": 31.66,
+    "soc3": "17-3",
+    "foreign_pct_soc3": 22.25,
+    "major": "17",
+    "synonyms": "Electronics Engineering Technician, Engineering Technician (Engineering Tech), Engineering Technologist, Technologist"
+  },
+  {
+    "soc": "29-1240",
+    "occ_label": "Surgeons",
+    "foreign_pct": 19.86,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-4199",
+    "occ_label": "Information and record clerks, all other",
+    "foreign_pct": 13.27,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "39-6010",
+    "occ_label": "Baggage porters, bellhops, and concierges",
+    "foreign_pct": 19.12,
+    "soc3": "39-6",
+    "foreign_pct_soc3": 19.12,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "39-7010",
+    "occ_label": "Tour and travel guides",
+    "foreign_pct": 0.0,
+    "soc3": "39-7",
+    "foreign_pct_soc3": 0.0,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-2151",
+    "occ_label": "Pipelayers",
+    "foreign_pct": 49.09,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Pipelayer, Tailman, Waste Water Worker"
+  },
+  {
+    "soc": "21-1021",
+    "occ_label": "Child, family, and school social workers",
+    "foreign_pct": 6.22,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Case Manager, Family Protection Specialist, Family Service Worker, School Social Worker"
+  },
+  {
+    "soc": "43-9022",
+    "occ_label": "Word processors and typists",
+    "foreign_pct": 37.62,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Clerk Typist, Keyboard Specialist, Typist, Word Processor"
+  },
+  {
+    "soc": "47-2221",
+    "occ_label": "Structural iron and steel workers",
+    "foreign_pct": 7.8,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Fitter, Iron Worker, Ironworker, Steel Worker"
+  },
+  {
+    "soc": "11-9070",
+    "occ_label": "Entertainment and recreation managers",
+    "foreign_pct": 17.37,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1011",
+    "occ_label": "Chiropractors",
+    "foreign_pct": 0.0,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Chiropractic Doctor (DC), Chiropractic Neurologist, Chiropractic Physician, Chiropractor"
+  },
+  {
+    "soc": "29-1131",
+    "occ_label": "Veterinarians",
+    "foreign_pct": 28.95,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Doctor of Veterinary Medicine (DVM), Emergency Veterinarian (Emergency Vet), Small Animal Veterinarian (Small Animal Vet), Veterinary Medicine Doctor (DVM)"
+  },
+  {
+    "soc": "19-1020",
+    "occ_label": "Biological scientists",
+    "foreign_pct": 2.08,
+    "soc3": "19-1",
+    "foreign_pct_soc3": 29.74,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "13-1131",
+    "occ_label": "Fundraisers",
+    "foreign_pct": 0.6,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Contract Grant Writer, Development Officer, Fundraising Consultant, Philanthropy Officer"
+  },
+  {
+    "soc": "53-71XX",
+    "occ_label": "Other material moving workers",
+    "foreign_pct": 14.55,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "41-2021",
+    "occ_label": "Counter and rental clerks",
+    "foreign_pct": 0.0,
+    "soc3": "41-2",
+    "foreign_pct_soc3": 13.03,
+    "major": "41",
+    "synonyms": "Counter Clerk, Rental Agent, Rental Sales Representative, Video Clerk"
+  },
+  {
+    "soc": "43-4121",
+    "occ_label": "Library assistants, clerical",
+    "foreign_pct": 29.8,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Library Aide, Library Assistant, Library Circulation Assistant, Library Clerk"
+  },
+  {
+    "soc": "15-1254",
+    "occ_label": "Web developers",
+    "foreign_pct": 14.1,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Web Architect, Web Design Specialist, Web Developer, Webmaster"
+  },
+  {
+    "soc": "13-1141",
+    "occ_label": "Compensation, benefits, and job analysis specialists",
+    "foreign_pct": 4.73,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Benefits Analyst, Benefits Specialist, Compensation Analyst, Compensation Specialist"
+  },
+  {
+    "soc": "23-2099",
+    "occ_label": "Legal support workers, all other",
+    "foreign_pct": 0.0,
+    "soc3": "23-2",
+    "foreign_pct_soc3": 10.66,
+    "major": "23",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "29-2035",
+    "occ_label": "Magnetic resonance imaging technologists",
+    "foreign_pct": 13.13,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "MRI Coordinator (Magnetic Resonance Imaging Coordinator), MRI QA Coordinator (Magnetic Resonance Imaging Quality Assurance Coordinator), MRI Tech (Magnetic Resonance Imaging Technician), MRI Technologist (Magnetic Resonance Imaging Technologist)"
+  },
+  {
+    "soc": "17-301X",
+    "occ_label": "Other drafters",
+    "foreign_pct": 15.01,
+    "soc3": "17-3",
+    "foreign_pct_soc3": 22.25,
+    "major": "17",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-6050",
+    "occ_label": "Tailors, dressmakers, and sewers",
+    "foreign_pct": 42.66,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "33-1011",
+    "occ_label": "First-line supervisors of correctional officers",
+    "foreign_pct": 0.0,
+    "soc3": "33-1",
+    "foreign_pct_soc3": 4.05,
+    "major": "33",
+    "synonyms": "Correctional Officer Captain, Correctional Supervisor"
+  },
+  {
+    "soc": "27-2041",
+    "occ_label": "Music directors and composers",
+    "foreign_pct": 24.49,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Choir Director, Conductor, Music Composer, Music Director"
+  },
+  {
+    "soc": "19-3034",
+    "occ_label": "School psychologists",
+    "foreign_pct": 6.15,
+    "soc3": "19-3",
+    "foreign_pct_soc3": 10.58,
+    "major": "19",
+    "synonyms": "Bilingual School Psychologist, Consulting Psychologist, Psychologist, School Psychologist"
+  },
+  {
+    "soc": "19-2041",
+    "occ_label": "Environmental scientists and specialists, including health",
+    "foreign_pct": 0.0,
+    "soc3": "19-2",
+    "foreign_pct_soc3": 34.52,
+    "major": "19",
+    "synonyms": "Coastal and Estuary Specialist, Habitat Restoration Specialist, Marine Habitat Resources Specialist, Restoration Ecologist"
+  },
+  {
+    "soc": "13-1011",
+    "occ_label": "Agents and business managers of artists, performers, and athletes",
+    "foreign_pct": 7.33,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Agent, Booking Agent, Talent Agent, Theatrical Agent"
+  },
+  {
+    "soc": "11-3131",
+    "occ_label": "Training and development managers",
+    "foreign_pct": 0.0,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "L and D Director (Learning and Development Director), Learning Manager, Training Director, Training Manager"
+  },
+  {
+    "soc": "53-6051",
+    "occ_label": "Transportation inspectors",
+    "foreign_pct": 10.36,
+    "soc3": "53-6",
+    "foreign_pct_soc3": 13.67,
+    "major": "53",
+    "synonyms": "Cargo Surveyor, Marine Cargo Surveyor, Marine Surveyor, Petroleum Inspector"
+  },
+  {
+    "soc": "31-113X",
+    "occ_label": "Orderlies and psychiatric aides",
+    "foreign_pct": 13.05,
+    "soc3": "31-1",
+    "foreign_pct_soc3": 26.2,
+    "major": "31",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-2050",
+    "occ_label": "Cement masons, concrete finishers, and terrazzo workers",
+    "foreign_pct": 48.59,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-4031",
+    "occ_label": "Court, municipal, and license clerks",
+    "foreign_pct": 8.11,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "City Clerk, Court Clerk, License Clerk, Town Clerk"
+  },
+  {
+    "soc": "51-4033",
+    "occ_label": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
+    "foreign_pct": 27.2,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": "Centerless Grinder Operator, Grinder, Grinder Operator, Grinding Machine Operator"
+  },
+  {
+    "soc": "11-9121",
+    "occ_label": "Natural sciences managers",
+    "foreign_pct": 8.15,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Water Resources Planner"
+  },
+  {
+    "soc": "29-2031",
+    "occ_label": "Cardiovascular technologists and technicians",
+    "foreign_pct": 23.18,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Cardio Tech (Cardiovascular Technician), Cardiology Technician, Cardiovascular Technologist (CVT), Registered Cardiovascular Invasive Specialist (RCIS)"
+  },
+  {
+    "soc": "19-4010",
+    "occ_label": "Agricultural and food science technicians",
+    "foreign_pct": 43.84,
+    "soc3": "19-4",
+    "foreign_pct_soc3": 16.5,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-9010",
+    "occ_label": "Chemical processing machine setters, operators, and tenders",
+    "foreign_pct": 12.36,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-1022",
+    "occ_label": "Fashion designers",
+    "foreign_pct": 8.22,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": "Apparel Designer, Costume Designer, Designer, Fashion Designer"
+  },
+  {
+    "soc": "29-1041",
+    "occ_label": "Optometrists",
+    "foreign_pct": 19.91,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Optometrist, Optometry Doctor (OD), Therapeutic Optometrist"
+  },
+  {
+    "soc": "15-1221",
+    "occ_label": "Computer and information research scientists",
+    "foreign_pct": 43.86,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Computer Scientist, Computer Specialist, Control System Computer Scientist, Research Scientist"
+  },
+  {
+    "soc": "13-2081",
+    "occ_label": "Tax examiners and collectors, and revenue agents",
+    "foreign_pct": 23.07,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Revenue Agent, Tax Collector, Tax Compliance Officer, Tax Examiner"
+  },
+  {
+    "soc": "31-2010",
+    "occ_label": "Occupational therapy assistants and aides",
+    "foreign_pct": 0.0,
+    "soc3": "31-2",
+    "foreign_pct_soc3": 4.82,
+    "major": "31",
+    "synonyms": ""
+  },
+  {
+    "soc": "17-2081",
+    "occ_label": "Environmental engineers",
+    "foreign_pct": 20.28,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Engineer, Environmental Engineer, Environmental Remediation Specialist, Sanitary Engineer"
+  },
+  {
+    "soc": "27-2011",
+    "occ_label": "Actors",
+    "foreign_pct": 13.6,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Actor, Actress, Comedian, Performer"
+  },
+  {
+    "soc": "39-4031",
+    "occ_label": "Morticians, undertakers, and funeral arrangers",
+    "foreign_pct": 0.0,
+    "soc3": "39-4",
+    "foreign_pct_soc3": 0.0,
+    "major": "39",
+    "synonyms": "Funeral Arranger, Funeral Counselor, Funeral Director, Mortician"
+  },
+  {
+    "soc": "15-1255",
+    "occ_label": "Web and digital interface designers",
+    "foreign_pct": 15.74,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Web Architect, Web Design Specialist, Web Designer, Webmaster"
+  },
+  {
+    "soc": "53-4031",
+    "occ_label": "Railroad conductors and yardmasters",
+    "foreign_pct": 0.0,
+    "soc3": "53-4",
+    "foreign_pct_soc3": 4.59,
+    "major": "53",
+    "synonyms": "Conductor, Freight Conductor, Railroad Conductor, Yardmaster"
+  },
+  {
+    "soc": "49-9043",
+    "occ_label": "Maintenance workers, machinery",
+    "foreign_pct": 22.25,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Maintainer, Maintenance Mechanic, Maintenance Technician (Maintenance Tech), Maintenance Worker"
+  },
+  {
+    "soc": "47-50XX",
+    "occ_label": "Other extraction workers",
+    "foreign_pct": 18.46,
+    "soc3": "47-5",
+    "foreign_pct_soc3": 15.31,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-6021",
+    "occ_label": "Parking attendants",
+    "foreign_pct": 35.81,
+    "soc3": "53-6",
+    "foreign_pct_soc3": 13.67,
+    "major": "53",
+    "synonyms": "Parking Attendant, Parking Lot Attendant, Valet Attendant, Valet Parker"
+  },
+  {
+    "soc": "49-9044",
+    "occ_label": "Millwrights",
+    "foreign_pct": 0.0,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Maintenance Millwright, Millwright, Millwright Foreman, Millwright Instructor"
+  },
+  {
+    "soc": "49-9031",
+    "occ_label": "Home appliance repairers",
+    "foreign_pct": 51.8,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Appliance Technician (Appliance Tech), Repair Technician, Service Technician (Service Tech), Vacuum Repairer"
+  },
+  {
+    "soc": "31-9094",
+    "occ_label": "Medical transcriptionists",
+    "foreign_pct": 0.0,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Medical Scribe, Medical Transcriptionist, Radiology Transcriptionist, Transcriptionist"
+  },
+  {
+    "soc": "11-2011",
+    "occ_label": "Advertising and promotions managers",
+    "foreign_pct": 20.12,
+    "soc3": "11-2",
+    "foreign_pct_soc3": 12.62,
+    "major": "11",
+    "synonyms": "Advertising Manager (Ad Manager), Communications Manager, Promotions Director, Promotions Manager"
+  },
+  {
+    "soc": "43-6012",
+    "occ_label": "Legal secretaries and administrative assistants",
+    "foreign_pct": 27.4,
+    "soc3": "43-6",
+    "foreign_pct_soc3": 7.65,
+    "major": "43",
+    "synonyms": "Legal Administrative Assistant (Legal Admin Assistant), Legal Office Support Assistant, Legal Practice Assistant, Legal Secretary"
+  },
+  {
+    "soc": "47-4021",
+    "occ_label": "Elevator and escalator installers and repairers",
+    "foreign_pct": 9.27,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": "Elevator Mechanic, Elevator Service Mechanic, Elevator Service Technician (Elevator Service Tech), Elevator Technician (Elevator Tech)"
+  },
+  {
+    "soc": "33-9091",
+    "occ_label": "Crossing guards and flaggers",
+    "foreign_pct": 16.92,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": "Adult Crossing Guard, Community Service Officer, Crossing Guard, School Crossing Guard"
+  },
+  {
+    "soc": "13-2020",
+    "occ_label": "Property appraisers and assessors",
+    "foreign_pct": 1.7,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-9060",
+    "occ_label": "Precision instrument and equipment repairers",
+    "foreign_pct": 16.74,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "39-3031",
+    "occ_label": "Ushers, lobby attendants, and ticket takers",
+    "foreign_pct": 27.31,
+    "soc3": "39-3",
+    "foreign_pct_soc3": 10.62,
+    "major": "39",
+    "synonyms": "Lobby Attendant, Ticket Taker, Usher, Visitor Services Representative"
+  },
+  {
+    "soc": "51-9071",
+    "occ_label": "Jewelers and precious stone and metal workers",
+    "foreign_pct": 12.16,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Bench Jeweler, Goldsmith, Jeweler, Silversmith"
+  },
+  {
+    "soc": "49-2098",
+    "occ_label": "Security and fire alarm systems installers",
+    "foreign_pct": 1.32,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": "Alarm Technician, Fire Alarm Technician, Installation Technician, Service Technician"
+  },
+  {
+    "soc": "17-1020",
+    "occ_label": "Surveyors, cartographers, and photogrammetrists",
+    "foreign_pct": 10.23,
+    "soc3": "17-1",
+    "foreign_pct_soc3": 14.35,
+    "major": "17",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-205X",
+    "occ_label": "Dietetic technicians and ophthalmic medical technicians",
+    "foreign_pct": 1.22,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-9094",
+    "occ_label": "Locksmiths and safe repairers",
+    "foreign_pct": 33.45,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Certified Master Locksmith (CML), Lock Technician, Locksmith, Safe Technician"
+  },
+  {
+    "soc": "51-9195",
+    "occ_label": "Molders, shapers, and casters, except metal and plastic",
+    "foreign_pct": 6.19,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Glass Bender, Glass Blower, Neon Glass Bender, Neon Tube Bender"
+  },
+  {
+    "soc": "41-9031",
+    "occ_label": "Sales engineers",
+    "foreign_pct": 0.0,
+    "soc3": "41-9",
+    "foreign_pct_soc3": 17.83,
+    "major": "41",
+    "synonyms": "Business Development Engineer, Product Sales Engineer, Sales Engineer, Technical Marketing Engineer"
+  },
+  {
+    "soc": "43-5053",
+    "occ_label": "Postal service mail sorters, processors, and processing machine operators",
+    "foreign_pct": 12.39,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Automation Clerk, Distribution Clerk, Mail Handler, Mail Processor"
+  },
+  {
+    "soc": "21-1013",
+    "occ_label": "Marriage and family therapists",
+    "foreign_pct": 6.66,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Clinical Therapist, Licensed Marriage and Family Therapist (LMFT), Marriage and Family Therapist (MFT), Outpatient Therapist"
+  },
+  {
+    "soc": "51-9030",
+    "occ_label": "Cutting workers",
+    "foreign_pct": 7.16,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-2021",
+    "occ_label": "Athletes and sports competitors",
+    "foreign_pct": 18.91,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Baseball Player, Golf Professional, Hockey Player, Race Car Driver"
+  },
+  {
+    "soc": "19-204X",
+    "occ_label": "Geoscientists and hydrologists, except geographers",
+    "foreign_pct": 1.53,
+    "soc3": "19-2",
+    "foreign_pct_soc3": 34.52,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-203X",
+    "occ_label": "Nuclear medicine technologists and medical dosimetrists",
+    "foreign_pct": 8.66,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-9051",
+    "occ_label": "Mail clerks and mail machine operators, except postal service",
+    "foreign_pct": 24.48,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Mail Clerk, Mail Handler, Mail Machine Operator, Postal Clerk"
+  },
+  {
+    "soc": "45-1011",
+    "occ_label": "First-line supervisors of farming, fishing, and forestry workers",
+    "foreign_pct": 36.29,
+    "soc3": "45-1",
+    "foreign_pct_soc3": 36.29,
+    "major": "45",
+    "synonyms": "Farm Supervisor, Harvesting Supervisor, Hatchery Manager, Logging Supervisor"
+  },
+  {
+    "soc": "31-9096",
+    "occ_label": "Veterinary assistants and laboratory animal caretakers",
+    "foreign_pct": 16.16,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Animal Care Provider, Animal Caregiver, Certified Veterinary Assistant, Veterinarian Assistant (Vet Assistant)"
+  },
+  {
+    "soc": "51-4070",
+    "occ_label": "Molders and molding machine setters, operators, and tenders, metal and plastic",
+    "foreign_pct": 23.03,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-1026",
+    "occ_label": "Merchandise displayers and window trimmers",
+    "foreign_pct": 12.29,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": "Display Associate, Merchandiser, Visual Merchandiser (VM), Visual Merchandising Specialist"
+  },
+  {
+    "soc": "29-2081",
+    "occ_label": "Opticians, dispensing",
+    "foreign_pct": 14.89,
+    "soc3": "29-2",
+    "foreign_pct_soc3": 12.77,
+    "major": "29",
+    "synonyms": "Dispensing Optician, Licensed Dispensing Optician (LDO), Licensed Optician, Optician"
+  },
+  {
+    "soc": "51-7011",
+    "occ_label": "Cabinetmakers and bench carpenters",
+    "foreign_pct": 43.48,
+    "soc3": "51-7",
+    "foreign_pct_soc3": 30.94,
+    "major": "51",
+    "synonyms": "Cabinet Assembler, Cabinet Installer, Cabinetmaker, Frame Builder"
+  },
+  {
+    "soc": "39-9041",
+    "occ_label": "Residential advisors",
+    "foreign_pct": 0.0,
+    "soc3": "39-9",
+    "foreign_pct_soc3": 25.32,
+    "major": "39",
+    "synonyms": "Residence Hall Director, Residence Life Director, Resident Assistant, Resident Director"
+  },
+  {
+    "soc": "13-2061",
+    "occ_label": "Financial examiners",
+    "foreign_pct": 15.98,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Bank Examiner, Bank Secrecy Act Anti-Money Laundering Officer (BSA/AML Officer), Credit Union Examiner, Examining Officer"
+  },
+  {
+    "soc": "15-1253",
+    "occ_label": "Software quality assurance analysts and testers",
+    "foreign_pct": 45.52,
+    "soc3": "15-1",
+    "foreign_pct_soc3": 27.72,
+    "major": "15",
+    "synonyms": "Quality Assurance Analyst (QA Analyst), Software Quality Assurance Engineer (SQA Engineer), Software Quality Engineer, Software Test Engineer"
+  },
+  {
+    "soc": "53-6061",
+    "occ_label": "Passenger attendants",
+    "foreign_pct": 0.0,
+    "soc3": "53-6",
+    "foreign_pct_soc3": 13.67,
+    "major": "53",
+    "synonyms": "Bus Aide, Bus Assistant, Bus Attendant, Bus Monitor"
+  },
+  {
+    "soc": "43-2021",
+    "occ_label": "Telephone operators",
+    "foreign_pct": 22.23,
+    "soc3": "43-2",
+    "foreign_pct_soc3": 19.72,
+    "major": "43",
+    "synonyms": "411 Directory Assistance Operator (411 Directory Assistance Op), Directory Assistance Operator (Directory Assistance Op), Phone Operator (Telephone Operator), TELECOM Op (Telecommunications Operator)"
+  },
+  {
+    "soc": "47-4090",
+    "occ_label": "Miscellaneous construction and related workers",
+    "foreign_pct": 14.94,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "45-4020",
+    "occ_label": "Logging workers",
+    "foreign_pct": 6.59,
+    "soc3": "45-4",
+    "foreign_pct_soc3": 4.14,
+    "major": "45",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-3061",
+    "occ_label": "Procurement clerks",
+    "foreign_pct": 12.27,
+    "soc3": "43-3",
+    "foreign_pct_soc3": 13.2,
+    "major": "43",
+    "synonyms": "Buyer, Procurement Specialist, Purchasing Clerk, Purchasing Specialist"
+  },
+  {
+    "soc": "17-3011",
+    "occ_label": "Architectural and civil drafters",
+    "foreign_pct": 14.06,
+    "soc3": "17-3",
+    "foreign_pct_soc3": 22.25,
+    "major": "17",
+    "synonyms": "Architectural Drafter, Civil Drafter, Computer-Aided Drafting Designer (CAD Designer), Draftsman"
+  },
+  {
+    "soc": "51-9151",
+    "occ_label": "Photographic process workers and processing machine operators",
+    "foreign_pct": 9.89,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Photo Lab Technician (Photographic Laboratory Technician), Photo Printer, Photo Specialist, Photo Technician"
+  },
+  {
+    "soc": "49-9091",
+    "occ_label": "Coin, vending, and amusement machine servicers and repairers",
+    "foreign_pct": 9.67,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Field Service Technician, Service Technician, Slot Technician, Vending Technician"
+  },
+  {
+    "soc": "51-8010",
+    "occ_label": "Power plant operators, distributors, and dispatchers",
+    "foreign_pct": 13.32,
+    "soc3": "51-8",
+    "foreign_pct_soc3": 9.22,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "31-9095",
+    "occ_label": "Pharmacy aides",
+    "foreign_pct": 23.79,
+    "soc3": "31-9",
+    "foreign_pct_soc3": 19.32,
+    "major": "31",
+    "synonyms": "Certified Pharmacist Assistant, Pharmacy Aide, Pharmacy Assistant, Pharmacy Clerk"
+  },
+  {
+    "soc": "17-2031",
+    "occ_label": "Bioengineers and biomedical engineers",
+    "foreign_pct": 14.12,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Biomedical Engineer, Biomedical Technician (Biomedical Tech), Process Engineer, Research Engineer"
+  },
+  {
+    "soc": "53-7063",
+    "occ_label": "Machine feeders and offbearers",
+    "foreign_pct": 11.38,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": "Dryer Feeder, Feeder, Machine Feeder, Offbearer"
+  },
+  {
+    "soc": "33-1021",
+    "occ_label": "First-line supervisors of firefighting and prevention workers",
+    "foreign_pct": 0.0,
+    "soc3": "33-1",
+    "foreign_pct_soc3": 4.05,
+    "major": "33",
+    "synonyms": "Engine Boss, Fire Battalion Chief, Fire Captain, Fire Chief"
+  },
+  {
+    "soc": "53-4010",
+    "occ_label": "Locomotive engineers and operators",
+    "foreign_pct": 0.0,
+    "soc3": "53-4",
+    "foreign_pct_soc3": 4.59,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-2041",
+    "occ_label": "Structural metal fabricators and fitters",
+    "foreign_pct": 5.86,
+    "soc3": "51-2",
+    "foreign_pct_soc3": 19.08,
+    "major": "51",
+    "synonyms": "Fabricator, Fitter, Layout Man, Ship Fitter"
+  },
+  {
+    "soc": "49-3050",
+    "occ_label": "Small engine mechanics",
+    "foreign_pct": 6.05,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-2020",
+    "occ_label": "Air traffic controllers and airfield operations specialists",
+    "foreign_pct": 16.13,
+    "soc3": "53-2",
+    "foreign_pct_soc3": 9.87,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-2097",
+    "occ_label": "Audiovisual equipment installers and repairers",
+    "foreign_pct": 26.98,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": "Electronic Tech (Electronic Technician), Home Theater Installer, Installer, Satellite Installer"
+  },
+  {
+    "soc": "51-8090",
+    "occ_label": "Miscellaneous plant and system operators",
+    "foreign_pct": 16.12,
+    "soc3": "51-8",
+    "foreign_pct_soc3": 9.22,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-9111",
+    "occ_label": "Statistical assistants",
+    "foreign_pct": 21.09,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Actuarial Analyst, Actuarial Assistant, Actuarial Technician, Research Assistant"
+  },
+  {
+    "soc": "17-3031",
+    "occ_label": "Surveying and mapping technicians",
+    "foreign_pct": 13.15,
+    "soc3": "17-3",
+    "foreign_pct_soc3": 22.25,
+    "major": "17",
+    "synonyms": "Mapping Technician, Photogrammetric Compilation Specialist, Photogrammetric Technician, Survey Technician"
+  },
+  {
+    "soc": "53-40XX",
+    "occ_label": "Other rail transportation workers",
+    "foreign_pct": 16.56,
+    "soc3": "53-4",
+    "foreign_pct_soc3": 4.59,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "19-3090",
+    "occ_label": "Miscellaneous social scientists and related workers",
+    "foreign_pct": 1.65,
+    "soc3": "19-3",
+    "foreign_pct_soc3": 10.58,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-5041",
+    "occ_label": "Meter readers, utilities",
+    "foreign_pct": 0.0,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Meter Reader, Meter Technician, Water Meter Reader, Water Use Inspector"
+  },
+  {
+    "soc": "47-4031",
+    "occ_label": "Fence erectors",
+    "foreign_pct": 34.09,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": "Fence Builder, Fence Erector, Fence Installer, Fence Laborer"
+  },
+  {
+    "soc": "27-3042",
+    "occ_label": "Technical writers",
+    "foreign_pct": 0.0,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Documentation Specialist, Information Developer, Technical Communicator, Technical Writer"
+  },
+  {
+    "soc": "21-1092",
+    "occ_label": "Probation officers and correctional treatment specialists",
+    "foreign_pct": 0.0,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Correctional Counselor, Juvenile Probation Officer, Parole Officer (PO), Probation Officer"
+  },
+  {
+    "soc": "53-5020",
+    "occ_label": "Ship and boat captains and operators",
+    "foreign_pct": 0.0,
+    "soc3": "53-5",
+    "foreign_pct_soc3": 0.0,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-70XX",
+    "occ_label": "Other woodworkers",
+    "foreign_pct": 19.1,
+    "soc3": "51-7",
+    "foreign_pct_soc3": 30.94,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-5040",
+    "occ_label": "Underground mining machine operators",
+    "foreign_pct": 0.0,
+    "soc3": "47-5",
+    "foreign_pct_soc3": 15.31,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-1023",
+    "occ_label": "Floral designers",
+    "foreign_pct": 15.24,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": "Designer, Floral Clerk, Floral Designer, Florist"
+  },
+  {
+    "soc": "45-2041",
+    "occ_label": "Graders and sorters, agricultural products",
+    "foreign_pct": 59.82,
+    "soc3": "45-2",
+    "foreign_pct_soc3": 49.19,
+    "major": "45",
+    "synonyms": "Apple Sorter, Grader, Potato Grader, Sorter"
+  },
+  {
+    "soc": "47-5023",
+    "occ_label": "Earth drillers, except oil and gas",
+    "foreign_pct": 41.96,
+    "soc3": "47-5",
+    "foreign_pct_soc3": 15.31,
+    "major": "47",
+    "synonyms": "Blast Hole Driller, Drill Operator, Driller, Well Driller"
+  },
+  {
+    "soc": "41-9041",
+    "occ_label": "Telemarketers",
+    "foreign_pct": 6.69,
+    "soc3": "41-9",
+    "foreign_pct_soc3": 17.83,
+    "major": "41",
+    "synonyms": "Telemarketer, Telephone Sales Representative (TSR), Telephone Service Representative (TSR), Telesales Representative (Telesales Rep)"
+  },
+  {
+    "soc": "41-9010",
+    "occ_label": "Models, demonstrators, and product promoters",
+    "foreign_pct": 0.0,
+    "soc3": "41-9",
+    "foreign_pct_soc3": 17.83,
+    "major": "41",
+    "synonyms": ""
+  },
+  {
+    "soc": "33-9094",
+    "occ_label": "School bus monitors",
+    "foreign_pct": 0.0,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": ""
+  },
+  {
+    "soc": "37-301X",
+    "occ_label": "Other grounds maintenance workers",
+    "foreign_pct": 0.0,
+    "soc3": "37-3",
+    "foreign_pct_soc3": 37.08,
+    "major": "37",
+    "synonyms": ""
+  },
+  {
+    "soc": "19-3051",
+    "occ_label": "Urban and regional planners",
+    "foreign_pct": 0.0,
+    "soc3": "19-3",
+    "foreign_pct_soc3": 10.58,
+    "major": "19",
+    "synonyms": "Community Development Planner, Planner, Planning Consultant, Planning Technician"
+  },
+  {
+    "soc": "13-2041",
+    "occ_label": "Credit analysts",
+    "foreign_pct": 17.14,
+    "soc3": "13-2",
+    "foreign_pct_soc3": 16.18,
+    "major": "13",
+    "synonyms": "Credit Administrator, Credit Analyst, Credit Officer, Credit Representative"
+  },
+  {
+    "soc": "29-1299",
+    "occ_label": "Healthcare diagnosing or treating practitioners, all other",
+    "foreign_pct": 5.33,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Doctor (Dr), Naturopathic Doctor, Naturopathic Medicine Doctor, Physician"
+  },
+  {
+    "soc": "17-1012",
+    "occ_label": "Landscape architects",
+    "foreign_pct": 0.0,
+    "soc3": "17-1",
+    "foreign_pct_soc3": 14.35,
+    "major": "17",
+    "synonyms": "Golf Course Architect, Land Planner, Landscape Architect, Landscape Planner"
+  },
+  {
+    "soc": "45-3031",
+    "occ_label": "Fishing and hunting workers",
+    "foreign_pct": 20.21,
+    "soc3": "45-3",
+    "foreign_pct_soc3": 20.21,
+    "major": "45",
+    "synonyms": "Commercial Fisherman, Hunter, Trapper, Wildlife Control Operator"
+  },
+  {
+    "soc": "49-3022",
+    "occ_label": "Automotive glass installers and repairers",
+    "foreign_pct": 0.0,
+    "soc3": "49-3",
+    "foreign_pct_soc3": 19.23,
+    "major": "49",
+    "synonyms": "Automotive Glass Installer (Auto Glass Installer), Automotive Glass Technician (Auto Glass Technician), Glass Installer Technician, Glass Technician"
+  },
+  {
+    "soc": "27-3092",
+    "occ_label": "Court reporters and simultaneous captioners",
+    "foreign_pct": 0.0,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Certified Shorthand Reporter (CSR), Court Reporter, Court Stenographer, Official Court Reporter"
+  },
+  {
+    "soc": "33-2020",
+    "occ_label": "Fire inspectors",
+    "foreign_pct": 0.0,
+    "soc3": "33-2",
+    "foreign_pct_soc3": 0.0,
+    "major": "33",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-9071",
+    "occ_label": "Office machine operators, except computer",
+    "foreign_pct": 39.09,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Copy Center Operator, Copy Machine Operator, Key Operator, Machine Operator"
+  },
+  {
+    "soc": "47-3010",
+    "occ_label": "Helpers, construction trades",
+    "foreign_pct": 31.14,
+    "soc3": "47-3",
+    "foreign_pct_soc3": 31.14,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-6021",
+    "occ_label": "Pressers, textile, garment, and related materials",
+    "foreign_pct": 51.91,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": "Ironing Worker, Pants Presser, Presser, Shirt Presser"
+  },
+  {
+    "soc": "19-1030",
+    "occ_label": "Conservation scientists and foresters",
+    "foreign_pct": 0.0,
+    "soc3": "19-1",
+    "foreign_pct_soc3": 29.74,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-9010",
+    "occ_label": "Control and valve installers and repairers",
+    "foreign_pct": 0.0,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "53-70XX",
+    "occ_label": "Conveyor, dredge, and hoist and winch operators",
+    "foreign_pct": 42.9,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-2031",
+    "occ_label": "Engine and other machine assemblers",
+    "foreign_pct": 0.0,
+    "soc3": "51-2",
+    "foreign_pct_soc3": 19.08,
+    "major": "51",
+    "synonyms": "Assembler, Assembly Line Worker, Engine Assembler, Machine Assembler"
+  },
+  {
+    "soc": "51-6060",
+    "occ_label": "Textile machine setters, operators, and tenders",
+    "foreign_pct": 52.91,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-4111",
+    "occ_label": "Tool and die makers",
+    "foreign_pct": 0.0,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": "Tool and Die Machinist, Tool and Die Maker, Tool and Fixture Specialist, Tool Maker"
+  },
+  {
+    "soc": "27-2091",
+    "occ_label": "Disc jockeys, except radio",
+    "foreign_pct": 0.0,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1125",
+    "occ_label": "Recreational therapists",
+    "foreign_pct": 0.0,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Certified Therapeutic Recreation Specialist (CTRS), Recreation Therapist, Recreational Therapist, Rehabilitation Therapist"
+  },
+  {
+    "soc": "25-4031",
+    "occ_label": "Library technicians",
+    "foreign_pct": 0.0,
+    "soc3": "25-4",
+    "foreign_pct_soc3": 1.35,
+    "major": "25",
+    "synonyms": "Library Assistant, Library Associate, Library Technical Assistant (LTA), Library Technician"
+  },
+  {
+    "soc": "39-1000",
+    "occ_label": "Supervisors of personal care and service workers",
+    "foreign_pct": 22.53,
+    "soc3": "39-1",
+    "foreign_pct_soc3": 22.53,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-2023",
+    "occ_label": "Umpires, referees, and other sports officials",
+    "foreign_pct": 0.0,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": "Horse Show Judge, Major League Baseball Umpire (MLB Umpire), Referee, Sports Official"
+  },
+  {
+    "soc": "15-2011",
+    "occ_label": "Actuaries",
+    "foreign_pct": 27.08,
+    "soc3": "15-2",
+    "foreign_pct_soc3": 19.16,
+    "major": "15",
+    "synonyms": "Actuarial Analyst, Actuary, Consulting Actuary, Pricing Actuary"
+  },
+  {
+    "soc": "51-7041",
+    "occ_label": "Sawing machine setters, operators, and tenders, wood",
+    "foreign_pct": 11.98,
+    "soc3": "51-7",
+    "foreign_pct_soc3": 30.94,
+    "major": "51",
+    "synonyms": "Resaw Operator, Rip Saw Operator, Saw Operator, Sawyer"
+  },
+  {
+    "soc": "21-1023",
+    "occ_label": "Mental health and substance abuse social workers",
+    "foreign_pct": 0.0,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Case Manager, Mental Health Therapist, Social Worker, Therapist"
+  },
+  {
+    "soc": "39-509X",
+    "occ_label": "Other personal appearance workers",
+    "foreign_pct": 26.0,
+    "soc3": "39-5",
+    "foreign_pct_soc3": 29.29,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "45-4011",
+    "occ_label": "Forest and conservation workers",
+    "foreign_pct": 0.0,
+    "soc3": "45-4",
+    "foreign_pct_soc3": 4.14,
+    "major": "45",
+    "synonyms": "Forest Ranger, Forestry Support Specialist, Tree Farmer, Tree Planter"
+  },
+  {
+    "soc": "53-60XX",
+    "occ_label": "Other transportation workers",
+    "foreign_pct": 0.0,
+    "soc3": "53-6",
+    "foreign_pct_soc3": 13.67,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-4050",
+    "occ_label": "Metal furnace operators, tenders, pourers, and casters",
+    "foreign_pct": 0.0,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "33-3041",
+    "occ_label": "Parking enforcement workers",
+    "foreign_pct": 0.0,
+    "soc3": "33-3",
+    "foreign_pct_soc3": 5.65,
+    "major": "33",
+    "synonyms": "Parking Control Officer, Parking Enforcement Officer (PEO), Parking Enforcer, Ticket Writer"
+  },
+  {
+    "soc": "27-2030",
+    "occ_label": "Dancers and choreographers",
+    "foreign_pct": 13.79,
+    "soc3": "27-2",
+    "foreign_pct_soc3": 10.33,
+    "major": "27",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-9051",
+    "occ_label": "Furnace, kiln, oven, drier, and kettle operators and tenders",
+    "foreign_pct": 3.96,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Dry Kiln Operator, Furnace Operator, Kiln Fireman, Kiln Operator"
+  },
+  {
+    "soc": "49-2091",
+    "occ_label": "Avionics technicians",
+    "foreign_pct": 45.82,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": "Aviation Electrical Technician, Avionics Electronics Technician, Avionics Installer, Avionics Technician"
+  },
+  {
+    "soc": "11-9161",
+    "occ_label": "Emergency management directors",
+    "foreign_pct": 0.0,
+    "soc3": "11-9",
+    "foreign_pct_soc3": 15.95,
+    "major": "11",
+    "synonyms": "Emergency Management Director, Emergency Management System Director (EMS Director), Emergency Planner, Public Safety Director"
+  },
+  {
+    "soc": "47-5010",
+    "occ_label": "Derrick, rotary drill, and service unit operators, oil and gas",
+    "foreign_pct": 0.0,
+    "soc3": "47-5",
+    "foreign_pct_soc3": 15.31,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-4041",
+    "occ_label": "Credit authorizers, checkers, and clerks",
+    "foreign_pct": 0.0,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Commercial Credit Reviewer, Credit Investigator, Credit Processor, Credit Representative"
+  },
+  {
+    "soc": "47-2161",
+    "occ_label": "Plasterers and stucco masons",
+    "foreign_pct": 66.08,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Plaster Applicator, Plaster Mechanic, Plasterer, Plasterer Journeyman"
+  },
+  {
+    "soc": "47-2130",
+    "occ_label": "Insulation workers",
+    "foreign_pct": 85.68,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-7021",
+    "occ_label": "Furniture finishers",
+    "foreign_pct": 47.74,
+    "soc3": "51-7",
+    "foreign_pct_soc3": 30.94,
+    "major": "51",
+    "synonyms": "Finisher, Furniture Finisher, Lacquer Sprayer, Sprayer"
+  },
+  {
+    "soc": "11-3111",
+    "occ_label": "Compensation and benefits managers",
+    "foreign_pct": 0.0,
+    "soc3": "11-3",
+    "foreign_pct_soc3": 16.72,
+    "major": "11",
+    "synonyms": "Benefits Manager, Compensation and Benefits Manager, Compensation Director, Compensation Manager"
+  },
+  {
+    "soc": "21-1015",
+    "occ_label": "Rehabilitation counselors",
+    "foreign_pct": 45.23,
+    "soc3": "21-1",
+    "foreign_pct_soc3": 10.71,
+    "major": "21",
+    "synonyms": "Employment Specialist, Job Coach, Rehabilitation Counselor, Vocational Rehabilitation Counselor (VRC)"
+  },
+  {
+    "soc": "29-1151",
+    "occ_label": "Nurse anesthetists",
+    "foreign_pct": 0.0,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Certified Registered Nurse Anesthetist (CRNA), Nurse Anesthetist, Staff Certified Registered Nurse Anesthetist (Staff CRNA), Staff Nurse Anesthetist"
+  },
+  {
+    "soc": "45-2011",
+    "occ_label": "Agricultural inspectors",
+    "foreign_pct": 0.0,
+    "soc3": "45-2",
+    "foreign_pct_soc3": 49.19,
+    "major": "45",
+    "synonyms": "Brand Inspector, Consumer Safety Inspector (CSI), Grain Inspector, Inspector"
+  },
+  {
+    "soc": "51-6093",
+    "occ_label": "Upholsterers",
+    "foreign_pct": 28.7,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": "Box Spring Upholsterer, Upholstered Goods Crafter, Upholsterer, Upholstery Cutter"
+  },
+  {
+    "soc": "49-209X",
+    "occ_label": "Electrical and electronics repairers, industrial and utility",
+    "foreign_pct": 0.0,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": ""
+  },
+  {
+    "soc": "29-1291",
+    "occ_label": "Acupuncturists",
+    "foreign_pct": 25.9,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Acupuncture Physician, Acupuncturist, Herbalist, Licensed Acupuncturist (LAC)"
+  },
+  {
+    "soc": "47-2121",
+    "occ_label": "Glaziers",
+    "foreign_pct": 61.38,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Commercial Glazier, Field Glazier, Glazer, Glazier"
+  },
+  {
+    "soc": "23-1012",
+    "occ_label": "Judicial law clerks",
+    "foreign_pct": 3.93,
+    "soc3": "23-1",
+    "foreign_pct_soc3": 8.93,
+    "major": "23",
+    "synonyms": "Judicial Assistant, Judicial Clerk, Judicial Law Clerk, Law Clerk"
+  },
+  {
+    "soc": "47-2231",
+    "occ_label": "Solar photovoltaic installers",
+    "foreign_pct": 0.0,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "PV Installer (Photovoltaic Installer), Solar Installer, Solar PV Installer (Solar Photovoltaic Installer), Solar PV Integrator (Solar Photovoltaic Integrator)"
+  },
+  {
+    "soc": "51-9041",
+    "occ_label": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
+    "foreign_pct": 0.0,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Extruder Operator, Extrusion Operator, Machine Operator, Press Operator"
+  },
+  {
+    "soc": "49-9096",
+    "occ_label": "Riggers",
+    "foreign_pct": 7.33,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Machinery Erector, Machinery Mover, Motor Rigger, Rigger"
+  },
+  {
+    "soc": "53-3011",
+    "occ_label": "Ambulance drivers and attendants, except emergency medical technicians",
+    "foreign_pct": 23.22,
+    "soc3": "53-3",
+    "foreign_pct_soc3": 28.13,
+    "major": "53",
+    "synonyms": "Ambulance Driver, Driver, EMS Driver (Emergency Medical Services Driver), First Responder"
+  },
+  {
+    "soc": "43-9081",
+    "occ_label": "Proofreaders and copy markers",
+    "foreign_pct": 29.78,
+    "soc3": "43-9",
+    "foreign_pct_soc3": 11.99,
+    "major": "43",
+    "synonyms": "Copy Editor, News Copy Editor, Proofreader, Typesetter"
+  },
+  {
+    "soc": "19-2010",
+    "occ_label": "Astronomers and physicists",
+    "foreign_pct": 27.21,
+    "soc3": "19-2",
+    "foreign_pct_soc3": 34.52,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "39-40XX",
+    "occ_label": "Embalmers, crematory operators and funeral attendants",
+    "foreign_pct": 0.0,
+    "soc3": "39-4",
+    "foreign_pct_soc3": 0.0,
+    "major": "39",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-3093",
+    "occ_label": "Food cooking machine operators and tenders",
+    "foreign_pct": 0.0,
+    "soc3": "51-3",
+    "foreign_pct_soc3": 27.13,
+    "major": "51",
+    "synonyms": "Fryer Operator, Kettle Fry Cook Operator, Machine Operator, Retort Operator"
+  },
+  {
+    "soc": "51-4020",
+    "occ_label": "Forming machine setters, operators, and tenders, metal and plastic",
+    "foreign_pct": 0.0,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-6040",
+    "occ_label": "Shoe and leather workers",
+    "foreign_pct": 62.97,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "43-5011",
+    "occ_label": "Cargo and freight agents",
+    "foreign_pct": 0.0,
+    "soc3": "43-5",
+    "foreign_pct_soc3": 17.53,
+    "major": "43",
+    "synonyms": "Air Export Specialist, Drop Shipment Clerk, Logistics Coordinator, Logistics Service Representative"
+  },
+  {
+    "soc": "19-4021",
+    "occ_label": "Biological technicians",
+    "foreign_pct": 0.0,
+    "soc3": "19-4",
+    "foreign_pct_soc3": 16.5,
+    "major": "19",
+    "synonyms": "Biological Technician, Laboratory Technician, Research Associate, Research Technician"
+  },
+  {
+    "soc": "33-3011",
+    "occ_label": "Bailiffs",
+    "foreign_pct": 0.0,
+    "soc3": "33-3",
+    "foreign_pct_soc3": 5.65,
+    "major": "33",
+    "synonyms": "Bailiff, Court Bailiff, Court Officer, Court Security Officer"
+  },
+  {
+    "soc": "49-2092",
+    "occ_label": "Electric motor, power tool, and related repairers",
+    "foreign_pct": 0.0,
+    "soc3": "49-2",
+    "foreign_pct_soc3": 17.76,
+    "major": "49",
+    "synonyms": "Electric Motor Winder, Maintenance Technician, Repair Technician, Service Technician"
+  },
+  {
+    "soc": "27-1021",
+    "occ_label": "Commercial and industrial designers",
+    "foreign_pct": 87.12,
+    "soc3": "27-1",
+    "foreign_pct_soc3": 12.47,
+    "major": "27",
+    "synonyms": "Design Engineer, Designer, Industrial Designer, Product Designer"
+  },
+  {
+    "soc": "17-2121",
+    "occ_label": "Marine engineers and naval architects",
+    "foreign_pct": 0.0,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Marine Engineer, Marine Engineering Consultant, Marine Surveyor, Naval Architect"
+  },
+  {
+    "soc": "47-5032",
+    "occ_label": "Explosives workers, ordnance handling experts, and blasters",
+    "foreign_pct": 0.0,
+    "soc3": "47-5",
+    "foreign_pct_soc3": 15.31,
+    "major": "47",
+    "synonyms": "Blast Hole Driller, Blaster, Explosive Technician, Powderman"
+  },
+  {
+    "soc": "53-5011",
+    "occ_label": "Sailors and marine oilers",
+    "foreign_pct": 0.0,
+    "soc3": "53-5",
+    "foreign_pct_soc3": 0.0,
+    "major": "53",
+    "synonyms": "Able Bodied Seaman (AB Seaman), Able Seaman, Deck Hand, Deckhand"
+  },
+  {
+    "soc": "17-2171",
+    "occ_label": "Petroleum engineers",
+    "foreign_pct": 0.0,
+    "soc3": "17-2",
+    "foreign_pct_soc3": 23.05,
+    "major": "17",
+    "synonyms": "Drilling Engineer, Engineer, Petroleum Engineer, Reservoir Engineer"
+  },
+  {
+    "soc": "29-1181",
+    "occ_label": "Audiologists",
+    "foreign_pct": 0.0,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Audiologist, Audiology Doctor (AUD), Clinical Audiologist, Educational Audiologist"
+  },
+  {
+    "soc": "47-4061",
+    "occ_label": "Rail-track laying and maintenance equipment operators",
+    "foreign_pct": 56.88,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": "Track Inspector, Track Laborer, Track Maintainer, Track Repairer"
+  },
+  {
+    "soc": "19-3011",
+    "occ_label": "Economists",
+    "foreign_pct": 40.06,
+    "soc3": "19-3",
+    "foreign_pct_soc3": 10.58,
+    "major": "19",
+    "synonyms": "Economic Analyst, Economic Consultant, Economist, Forensic Economist"
+  },
+  {
+    "soc": "47-4041",
+    "occ_label": "Hazardous materials removal workers",
+    "foreign_pct": 81.6,
+    "soc3": "47-4",
+    "foreign_pct_soc3": 19.66,
+    "major": "47",
+    "synonyms": "Asbestos Abatement Worker, Asbestos Remover, Asbestos Worker, Waste Handling Technician"
+  },
+  {
+    "soc": "33-9011",
+    "occ_label": "Animal control workers",
+    "foreign_pct": 0.0,
+    "soc3": "33-9",
+    "foreign_pct_soc3": 10.92,
+    "major": "33",
+    "synonyms": "Animal Control Officer, Animal Enforcement Officer, Animal Park Code Enforcement Officer, Community Service Officer"
+  },
+  {
+    "soc": "13-1021",
+    "occ_label": "Buyers and purchasing agents, farm products",
+    "foreign_pct": 0.0,
+    "soc3": "13-1",
+    "foreign_pct_soc3": 12.75,
+    "major": "13",
+    "synonyms": "Buyer, Grain Buyer, Grain Merchandiser, Purchasing Agent"
+  },
+  {
+    "soc": "19-3033",
+    "occ_label": "Clinical and counseling psychologists",
+    "foreign_pct": 3.71,
+    "soc3": "19-3",
+    "foreign_pct_soc3": 10.58,
+    "major": "19",
+    "synonyms": "Clinical Psychologist, Counseling Psychologist, Psychologist, Psychotherapist"
+  },
+  {
+    "soc": "51-9196",
+    "occ_label": "Paper goods machine setters, operators, and tenders",
+    "foreign_pct": 0.0,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Cup Room Technician, Folder Machine Operator, Paper Machine Backtender, Paper Machine Operator"
+  },
+  {
+    "soc": "29-1124",
+    "occ_label": "Radiation therapists",
+    "foreign_pct": 9.95,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Dosimetrist, Radiation Therapist (RT), Registered Radiation Therapist, Staff Radiation Therapist"
+  },
+  {
+    "soc": "51-609X",
+    "occ_label": "Other textile, apparel, and furnishings workers",
+    "foreign_pct": 41.95,
+    "soc3": "51-6",
+    "foreign_pct_soc3": 45.0,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "27-3099",
+    "occ_label": "Media and communication workers, all other",
+    "foreign_pct": 0.0,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "19-1010",
+    "occ_label": "Agricultural and food scientists",
+    "foreign_pct": 0.0,
+    "soc3": "19-1",
+    "foreign_pct_soc3": 29.74,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-3091",
+    "occ_label": "Food and tobacco roasting, baking, and drying machine operators and tenders",
+    "foreign_pct": 0.0,
+    "soc3": "51-3",
+    "foreign_pct_soc3": 27.13,
+    "major": "51",
+    "synonyms": "Coffee Roaster, Machine Operator, Roaster, Roasterman"
+  },
+  {
+    "soc": "53-7070",
+    "occ_label": "Pumping station operators",
+    "foreign_pct": 0.0,
+    "soc3": "53-7",
+    "foreign_pct_soc3": 22.88,
+    "major": "53",
+    "synonyms": ""
+  },
+  {
+    "soc": "49-9098",
+    "occ_label": "Helpers--installation, maintenance, and repair workers",
+    "foreign_pct": 40.69,
+    "soc3": "49-9",
+    "foreign_pct_soc3": 18.1,
+    "major": "49",
+    "synonyms": "Maintenance Aide, Maintenance Helper, Mechanic Helper, Technician's Helper"
+  },
+  {
+    "soc": "19-4040",
+    "occ_label": "Environmental  science and geoscience technicians",
+    "foreign_pct": 0.0,
+    "soc3": "19-4",
+    "foreign_pct_soc3": 16.5,
+    "major": "19",
+    "synonyms": ""
+  },
+  {
+    "soc": "47-2011",
+    "occ_label": "Boilermakers",
+    "foreign_pct": 0.0,
+    "soc3": "47-2",
+    "foreign_pct_soc3": 35.67,
+    "major": "47",
+    "synonyms": "Boiler Maker, Boiler Mechanic, Boiler Technician, Boilermaker"
+  },
+  {
+    "soc": "27-3011",
+    "occ_label": "Broadcast announcers and radio disc jockeys",
+    "foreign_pct": 0.0,
+    "soc3": "27-3",
+    "foreign_pct_soc3": 12.86,
+    "major": "27",
+    "synonyms": "Anchor, Announcer, News Anchor, Television News Anchor (TV News Anchor)"
+  },
+  {
+    "soc": "19-2021",
+    "occ_label": "Atmospheric and space scientists",
+    "foreign_pct": 0.0,
+    "soc3": "19-2",
+    "foreign_pct_soc3": 34.52,
+    "major": "19",
+    "synonyms": "Forecaster, General Forecaster, Meteorologist, Research Meteorologist"
+  },
+  {
+    "soc": "43-4141",
+    "occ_label": "New accounts clerks",
+    "foreign_pct": 28.34,
+    "soc3": "43-4",
+    "foreign_pct_soc3": 12.89,
+    "major": "43",
+    "synonyms": "Financial Services Representative, Member Service Representative, New Accounts Representative, Personal Banker"
+  },
+  {
+    "soc": "29-1081",
+    "occ_label": "Podiatrists",
+    "foreign_pct": 0.0,
+    "soc3": "29-1",
+    "foreign_pct_soc3": 17.98,
+    "major": "29",
+    "synonyms": "Doctor of Podiatric Medicine (DPM), Doctor Podiatric Medicine (DPM), Podiatric Surgeon, Podiatrist"
+  },
+  {
+    "soc": "51-5113",
+    "occ_label": "Print binding and finishing workers",
+    "foreign_pct": 0.0,
+    "soc3": "51-5",
+    "foreign_pct_soc3": 10.32,
+    "major": "51",
+    "synonyms": "Binder Operator, Bindery Operator, Bindery Worker, Book Binder"
+  },
+  {
+    "soc": "35-9099",
+    "occ_label": "Food preparation and serving related workers, all other",
+    "foreign_pct": 100.0,
+    "soc3": "35-9",
+    "foreign_pct_soc3": 24.64,
+    "major": "35",
+    "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
+  },
+  {
+    "soc": "43-2011",
+    "occ_label": "Switchboard operators, including answering service",
+    "foreign_pct": 0.0,
+    "soc3": "43-2",
+    "foreign_pct_soc3": 19.72,
+    "major": "43",
+    "synonyms": "CBX Operator (Computerized Branch Exchange Operator), Communications Specialist, PBX Operator (Private Branch Exchange Operator), Switchboard Operator (SB Operator)"
+  },
+  {
+    "soc": "51-5111",
+    "occ_label": "Prepress technicians and workers",
+    "foreign_pct": 0.0,
+    "soc3": "51-5",
+    "foreign_pct_soc3": 10.32,
+    "major": "51",
+    "synonyms": "Electronic Prepress Operator (EPP Operator), Plate Maker, Prepress Operator, Prepress Technician"
+  },
+  {
+    "soc": "51-403X",
+    "occ_label": "Other machine tool setters, operators, and tenders, metal and plastic",
+    "foreign_pct": 0.0,
+    "soc3": "51-4",
+    "foreign_pct_soc3": 19.83,
+    "major": "51",
+    "synonyms": ""
+  },
+  {
+    "soc": "51-9194",
+    "occ_label": "Etchers and engravers",
+    "foreign_pct": 0.0,
+    "soc3": "51-9",
+    "foreign_pct_soc3": 25.67,
+    "major": "51",
+    "synonyms": "Chemical Engraver, Engraver, Etcher, Photo Engraver"
+  }
+]
