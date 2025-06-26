@@ -5,7 +5,13 @@ from __future__ import annotations
 Reads ``data_tables/automation_risk_percentiles.csv`` and writes
 ``API_database_laborforce/data_occup_automation.json`` containing
 records of the form::
-    {"soc": "15-1256", "occupation": "Software Developers", "automation_pctile": 12.34}
+    {
+        "soc": "15-1256",
+        "occupation": "Software Developers",
+        "automation_pctile": 12.34,
+        "major": "15",
+        "minor": "15-1",
+    }
 """
 
 import json
@@ -31,6 +37,12 @@ def main() -> None:
     df = df.dropna(subset=["soc", "occupation", "automation_pctile"])
     df["automation_pctile"] = pd.to_numeric(df["automation_pctile"], errors="coerce")
     df = df.dropna(subset=["automation_pctile"])  # drop if percentile missing
+
+    # SOC major (two-digit) and minor (three-digit) prefixes
+    df["major"] = df["soc"].str.split("-").str[0]
+    df["minor"] = df["soc"].apply(
+        lambda c: f"{c.split('-')[0]}-{c.split('-')[1][0]}" if "-" in c else c[:3]
+    )
 
     df = df.drop_duplicates(subset="soc")
     rows = df.to_dict(orient="records")
