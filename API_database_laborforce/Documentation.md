@@ -12,6 +12,8 @@ This directory contains the code and dataset for the SOC lookup API used by the 
 - `data_occup_automation_extended.json` – Automation percentile data augmented with two‑digit major codes and synonyms from ONET.
 - `scripts/onet_synonyms_json.py` – Converts the scraped ONET CSV to JSON.
 - `scripts/extend_automation_data.py` – Generates `data_occup_automation_extended.json`.
+- `data_occup_foreign_extended.json` – Foreign-share percentages with ONET synonyms.
+- `scripts/extend_foreign_data.py` – Builds `data_occup_foreign_extended.json`.
 
 ## Running the API locally
 
