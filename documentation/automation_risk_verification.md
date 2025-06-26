@@ -21,4 +21,4 @@ Run the verification with:
 python scripts/verify_automation_risk.py
 ```
 
-The script writes a summary of the results to `docum/automation_risk_verification_results.md`.
+The script writes a summary of the results to `documentation/automation_risk_verification_results.md`.
