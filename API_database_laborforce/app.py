@@ -12,7 +12,8 @@ BASE_DIR = Path(__file__).resolve().parent
 
 DATA_FILE = BASE_DIR / "data.json"             # occupation dataset
 STATE_FILE = BASE_DIR / "data_state_foreign.json"
-CONSOLIDATED_FILE = BASE_DIR / "data_occup_consolidated.json"
+AUTO_FILE = BASE_DIR / "data_occup_automation_extended.json"
+FOREIGN_FILE = BASE_DIR / "data_occup_foreign_extended.json"
 # ────────────────────────────────────────────────────────────────
 
 app = FastAPI(
@@ -49,13 +50,17 @@ with STATE_FILE.open(encoding="utf-8") as f:
 
 STATE_INDEX: dict[str, float] = {r["state"]: r["foreign_pct"] for r in state_rows}
 
-with CONSOLIDATED_FILE.open(encoding="utf-8") as f:
-    occ_rows = json.load(f)
+with AUTO_FILE.open(encoding="utf-8") as f:
+    auto_rows = json.load(f)
 
-OCC_INDEX: dict[str, dict] = {r["soc"]: r for r in occ_rows}
+with FOREIGN_FILE.open(encoding="utf-8") as f:
+    foreign_rows = json.load(f)
+
+AUTO_INDEX: dict[str, dict] = {r["soc"]: r for r in auto_rows}
+FOREIGN_INDEX: dict[str, dict] = {r["soc"]: r for r in foreign_rows}
 
 AUTO_MAJOR_INDEX: dict[str, list[dict]] = {}
-for r in occ_rows:
+for r in auto_rows:
     AUTO_MAJOR_INDEX.setdefault(r["major"], []).append(r)
 
 
@@ -90,7 +95,7 @@ def automation_percentile(
 ):
     soc = soc.strip()
     try:
-        row = OCC_INDEX[soc]
+        row = AUTO_INDEX[soc]
         return {
             "soc": row["soc"],
             "occupation": row.get("occupation", ""),
@@ -106,7 +111,7 @@ def occ_foreign_rate(
     soc: str = Query(..., min_length=5, max_length=7, description="Six-digit SOC code, e.g. 11-1011")
 ):
     try:
-        row = OCC_INDEX[soc]
+        row = FOREIGN_INDEX[soc]
         return {
             "soc": row["soc"],
             "occ_label": row.get("occ_label", ""),
