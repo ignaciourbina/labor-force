@@ -1,9 +1,9 @@
 # Automation Risk Verification Results
 
-- Original unique SOC2010 codes: 702
-- Unique SOC2010 codes after crosswalk: 702
-- Count preserved: True
-- Rows without 2018 code: 17
-- 2018 codes missing from national employment table: 25
-- Rows with missing TOT_EMP: 44
+- Rows without 2010 code: 12
+- Row count matches original: True
+- Employment totals match original: True
+- 2010 codes missing from automation table: 127
+- Rows with missing TOT_EMP: 0
+- Rows without Probability: 158
 - Negative TOT_EMP values: 0
