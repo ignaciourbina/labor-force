@@ -19,11 +19,11 @@ OUT_FILE = Path("API_database_laborforce/data_occup_automation.json")
 
 def main() -> None:
     df = pd.read_csv(CSV_FILE, dtype=str)
-    df = df[["2018 SOC Code", "Occupation", "percentile_rank"]]
+    df = df[["OCC_CODE", "OCC_TITLE", "percentile_rank"]]
     df = df.rename(
         columns={
-            "2018 SOC Code": "soc",
-            "Occupation": "occupation",
+            "OCC_CODE": "soc",
+            "OCC_TITLE": "occupation",
             "percentile_rank": "automation_pctile",
         }
     )

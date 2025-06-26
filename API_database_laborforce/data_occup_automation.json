@@ -1,3372 +1,3367 @@
 [
   {
-    "soc": "29-1125",
-    "occupation": "Recreational therapists",
-    "automation_pctile": 0.0091801252117875
+    "soc": "11-1011",
+    "occupation": "Chief Executives",
+    "automation_pctile": 10.286347098449747
   },
   {
-    "soc": "49-1011",
-    "occupation": "First-line supervisors of mechanics, installers, and repairers",
-    "automation_pctile": 0.3753366731677314
+    "soc": "11-1021",
+    "occupation": "General and Operations Managers",
+    "automation_pctile": 27.36834362705911
   },
   {
-    "soc": "11-9161",
-    "occupation": "Emergency management directors",
-    "automation_pctile": 0.3829989689122314
+    "soc": "11-2011",
+    "occupation": "Advertising and Promotions Managers",
+    "automation_pctile": 15.653074546230464
   },
   {
-    "soc": "21-1023",
-    "occupation": "Mental health and substance abuse social workers",
-    "automation_pctile": 0.4597499360713392
+    "soc": "11-2021",
+    "occupation": "Marketing Managers",
+    "automation_pctile": 8.59645851189045
   },
   {
-    "soc": "29-1181",
-    "occupation": "Audiologists",
-    "automation_pctile": 0.468728903160956
+    "soc": "11-2022",
+    "occupation": "Sales Managers",
+    "automation_pctile": 7.9086134790839955
   },
   {
-    "soc": "21-1022",
-    "occupation": "Healthcare social workers",
-    "automation_pctile": 0.5820723614531054
+    "soc": "11-2032",
+    "occupation": "Public Relations Managers",
+    "automation_pctile": 10.066273271330708
   },
   {
-    "soc": "29-2091",
-    "occupation": "Orthotists and prosthetists",
-    "automation_pctile": 0.5881253922202401
+    "soc": "11-2033",
+    "occupation": "Fundraising Managers",
+    "automation_pctile": 9.905531174386924
   },
   {
-    "soc": "29-1122",
-    "occupation": "Occupational therapists",
-    "automation_pctile": 0.6809507220509838
+    "soc": "11-3012",
+    "occupation": "Administrative Services Managers",
+    "automation_pctile": 54.64870112727962
   },
   {
-    "soc": "29-1022",
-    "occupation": "Oral and maxillofacial surgeons",
-    "automation_pctile": 0.6841997305090732
+    "soc": "11-3013",
+    "occupation": "Facilities Managers",
+    "automation_pctile": 54.44046264333205
   },
   {
-    "soc": "33-1021",
-    "occupation": "First-line supervisors of fire fighting and prevention workers",
-    "automation_pctile": 0.7413042544028483
+    "soc": "11-3021",
+    "occupation": "Computer and Information Systems Managers",
+    "automation_pctile": 15.384411481166458
   },
   {
-    "soc": "29-1031",
-    "occupation": "Dietitians and nutritionists",
-    "automation_pctile": 0.7879790344471094
+    "soc": "11-3031",
+    "occupation": "Financial Managers",
+    "automation_pctile": 19.001833354337773
   },
   {
-    "soc": "11-9081",
-    "occupation": "Lodging managers",
-    "automation_pctile": 0.813184756725158
+    "soc": "11-3051",
+    "occupation": "Industrial Production Managers",
+    "automation_pctile": 13.788050783310602
   },
   {
-    "soc": "27-2032",
-    "occupation": "Choreographers",
-    "automation_pctile": 0.8152755820555981
+    "soc": "11-3061",
+    "occupation": "Purchasing Managers",
+    "automation_pctile": 14.15483016088781
   },
   {
-    "soc": "41-9031",
-    "occupation": "Sales engineers",
-    "automation_pctile": 0.8498321091642459
+    "soc": "11-3071",
+    "occupation": "Transportation, Storage, and Distribution Managers",
+    "automation_pctile": 41.29350457455003
   },
   {
-    "soc": "25-9031",
-    "occupation": "Instructional coordinators",
-    "automation_pctile": 0.9783599578299428
-  },
-  {
-    "soc": "19-3039",
-    "occupation": "Psychologists, all other",
-    "automation_pctile": 0.989204209325142
-  },
-  {
-    "soc": "29-1021",
-    "occupation": "Dentists, general",
-    "automation_pctile": 1.0583843162498274
-  },
-  {
-    "soc": "33-1012",
-    "occupation": "First-line supervisors of police and detectives",
-    "automation_pctile": 1.1517277806376771
-  },
-  {
-    "soc": "25-2021",
-    "occupation": "Elementary school teachers, except special education",
-    "automation_pctile": 2.001047850945489
-  },
-  {
-    "soc": "19-1042",
-    "occupation": "Medical scientists, except epidemiologists",
-    "automation_pctile": 2.096323652446312
-  },
-  {
-    "soc": "11-9032",
-    "occupation": "Education administrators, elementary and secondary school",
-    "automation_pctile": 2.2911605330202582
-  },
-  {
-    "soc": "29-1081",
-    "occupation": "Podiatrists",
-    "automation_pctile": 2.296963640059848
-  },
-  {
-    "soc": "19-3033",
-    "occupation": "Clinical, counseling, and school psychologists",
-    "automation_pctile": 2.3409685032098437
-  },
-  {
-    "soc": "19-3034",
-    "occupation": "Clinical, counseling, and school psychologists",
-    "automation_pctile": 2.3798773605981838
-  },
-  {
-    "soc": "51-6092",
-    "occupation": "Fabric and apparel patternmakers",
-    "automation_pctile": 2.381620730990329
-  },
-  {
-    "soc": "27-1027",
-    "occupation": "Set and exhibit designers",
-    "automation_pctile": 2.3882345662192725
+    "soc": "11-3111",
+    "occupation": "Compensation and Benefits Managers",
+    "automation_pctile": 91.41437698893058
   },
   {
     "soc": "11-3121",
-    "occupation": "Human resources managers",
-    "automation_pctile": 2.519609107098718
-  },
-  {
-    "soc": "39-9032",
-    "occupation": "Recreation workers",
-    "automation_pctile": 2.7083563827014987
+    "occupation": "Human Resources Managers",
+    "automation_pctile": 3.203696409418856
   },
   {
     "soc": "11-3131",
-    "occupation": "Training and development managers",
-    "automation_pctile": 2.735762652922081
+    "occupation": "Training and Development Managers",
+    "automation_pctile": 3.4785367950510757
   },
   {
-    "soc": "29-1127",
-    "occupation": "Speech-language pathologists",
-    "automation_pctile": 2.844747685233866
+    "soc": "11-9013",
+    "occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+    "automation_pctile": 17.33391029662455
   },
   {
-    "soc": "15-1211",
-    "occupation": "Computer systems analysts",
-    "automation_pctile": 3.148191664677944
+    "soc": "11-9021",
+    "occupation": "Construction Managers",
+    "automation_pctile": 19.28323859633295
   },
   {
-    "soc": "11-9151",
-    "occupation": "Social and community service managers",
-    "automation_pctile": 3.2673565171116983
+    "soc": "11-9031",
+    "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+    "automation_pctile": 10.007321326234296
   },
   {
-    "soc": "25-4012",
-    "occupation": "Curators",
-    "automation_pctile": 3.2748420375367155
-  },
-  {
-    "soc": "29-9091",
-    "occupation": "Athletic trainers",
-    "automation_pctile": 3.292489090981685
-  },
-  {
-    "soc": "11-9111",
-    "occupation": "Medical and health services managers",
-    "automation_pctile": 3.637408217796947
-  },
-  {
-    "soc": "25-2011",
-    "occupation": "Preschool reachers, except special education",
-    "automation_pctile": 3.908715663299097
-  },
-  {
-    "soc": "25-9021",
-    "occupation": "Farm and home management advisors",
-    "automation_pctile": 3.914969852188402
-  },
-  {
-    "soc": "19-3091",
-    "occupation": "Anthropologists and archeologists",
-    "automation_pctile": 3.9198890826305752
-  },
-  {
-    "soc": "25-2058",
-    "occupation": "Special education teachers, secondary school",
-    "automation_pctile": 4.019114898166749
-  },
-  {
-    "soc": "25-2031",
-    "occupation": "Secondary school teachers, except special and career/technical education",
-    "automation_pctile": 4.672903178024024
-  },
-  {
-    "soc": "21-2011",
-    "occupation": "Clergy",
-    "automation_pctile": 4.708307007526057
-  },
-  {
-    "soc": "19-1032",
-    "occupation": "Foresters",
-    "automation_pctile": 4.71418935867438
-  },
-  {
-    "soc": "21-1012",
-    "occupation": "Educational, guidance, school, and vocational counselors",
-    "automation_pctile": 4.922875671174742
-  },
-  {
-    "soc": "25-2032",
-    "occupation": "Career/technical education teachers, secondary school",
-    "automation_pctile": 4.986545264692087
-  },
-  {
-    "soc": "21-1015",
-    "occupation": "Rehabilitation counselors",
-    "automation_pctile": 5.040754330766738
-  },
-  {
-    "soc": "19-4092",
-    "occupation": "Forensic science technicians",
-    "automation_pctile": 5.052610468573463
-  },
-  {
-    "soc": "39-5091",
-    "occupation": "Makeup artists, theatrical and performance",
-    "automation_pctile": 5.054634241196513
+    "soc": "11-9032",
+    "occupation": "Education Administrators, Kindergarten through Secondary",
+    "automation_pctile": 2.913222829826677
   },
   {
     "soc": "11-9033",
-    "occupation": "Education administrators, postsecondary",
-    "automation_pctile": 5.162174592449072
+    "occupation": "Education Administrators, Postsecondary",
+    "automation_pctile": 6.570274113368481
   },
   {
-    "soc": "17-2121",
-    "occupation": "Marine engineers and naval architects",
-    "automation_pctile": 5.167319363816104
+    "soc": "11-9041",
+    "occupation": "Architectural and Engineering Managers",
+    "automation_pctile": 11.50899927871838
   },
   {
-    "soc": "17-2141",
-    "occupation": "Mechanical engineers",
-    "automation_pctile": 5.342119676281721
+    "soc": "11-9051",
+    "occupation": "Food Service Managers",
+    "automation_pctile": 20.317416618185938
   },
   {
-    "soc": "19-3032",
-    "occupation": "Industrial-organizational psychologists",
-    "automation_pctile": 5.342759724852264
+    "soc": "11-9071",
+    "occupation": "Gambling Managers",
+    "automation_pctile": 20.95950142434906
   },
   {
-    "soc": "29-1051",
-    "occupation": "Pharmacists",
-    "automation_pctile": 5.543229032846988
+    "soc": "11-9072",
+    "occupation": "Entertainment and Recreation Managers, Except Gambling",
+    "automation_pctile": 30.784781686360464
   },
   {
-    "soc": "19-1022",
-    "occupation": "Microbiologists",
-    "automation_pctile": 5.555274137374539
+    "soc": "11-9081",
+    "occupation": "Lodging Managers",
+    "automation_pctile": 1.0339687525238268
+  },
+  {
+    "soc": "11-9111",
+    "occupation": "Medical and Health Services Managers",
+    "automation_pctile": 4.624983936641308
+  },
+  {
+    "soc": "11-9121",
+    "occupation": "Natural Sciences Managers",
+    "automation_pctile": 11.78645165560717
+  },
+  {
+    "soc": "11-9131",
+    "occupation": "Postmasters and Mail Superintendents",
+    "automation_pctile": 55.082438939472645
+  },
+  {
+    "soc": "11-9141",
+    "occupation": "Property, Real Estate, and Community Association Managers",
+    "automation_pctile": 59.30309128002608
+  },
+  {
+    "soc": "11-9151",
+    "occupation": "Social and Community Service Managers",
+    "automation_pctile": 4.154461226811215
+  },
+  {
+    "soc": "11-9161",
+    "occupation": "Emergency Management Directors",
+    "automation_pctile": 0.0214152280175358
+  },
+  {
+    "soc": "11-9179",
+    "occupation": "Personal Service Managers, All Other",
+    "automation_pctile": 30.75633655902628
+  },
+  {
+    "soc": "11-9199",
+    "occupation": "Managers, All Other",
+    "automation_pctile": 32.306944780954694
+  },
+  {
+    "soc": "13-1011",
+    "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+    "automation_pctile": 30.67122594778467
+  },
+  {
+    "soc": "13-1031",
+    "occupation": "Claims Adjusters, Examiners, and Investigators",
+    "automation_pctile": 97.36850019152018
+  },
+  {
+    "soc": "13-1032",
+    "occupation": "Insurance Appraisers, Auto Damage",
+    "automation_pctile": 97.37453799920227
+  },
+  {
+    "soc": "13-1041",
+    "occupation": "Compliance Officers",
+    "automation_pctile": 19.96205404512188
+  },
+  {
+    "soc": "13-1051",
+    "occupation": "Cost Estimators",
+    "automation_pctile": 40.38217539963079
+  },
+  {
+    "soc": "13-1074",
+    "occupation": "Farm Labor Contractors",
+    "automation_pctile": 92.15900376638288
   },
   {
     "soc": "13-1081",
     "occupation": "Logisticians",
-    "automation_pctile": 5.698913228005721
+    "automation_pctile": 6.991300751493911
   },
   {
-    "soc": "27-2022",
-    "occupation": "Coaches and scouts",
-    "automation_pctile": 5.851878740664816
-  },
-  {
-    "soc": "11-2022",
-    "occupation": "Sales managers",
-    "automation_pctile": 6.219882285924326
-  },
-  {
-    "soc": "11-2021",
-    "occupation": "Marketing managers",
-    "automation_pctile": 6.454554570388732
-  },
-  {
-    "soc": "43-1011",
-    "occupation": "First-line supervisors of office and administrative support workers",
-    "automation_pctile": 7.366215371467427
-  },
-  {
-    "soc": "19-2043",
-    "occupation": "Hydrologists",
-    "automation_pctile": 7.369702112251717
-  },
-  {
-    "soc": "17-2199",
-    "occupation": "Engineers, all other",
-    "automation_pctile": 7.461594799879672
-  },
-  {
-    "soc": "13-1151",
-    "occupation": "Training and development specialists",
-    "automation_pctile": 7.727739186912775
-  },
-  {
-    "soc": "21-1013",
-    "occupation": "Marriage and family therapists",
-    "automation_pctile": 7.767891567238169
-  },
-  {
-    "soc": "19-1029",
-    "occupation": "Biological scientists, all other",
-    "automation_pctile": 7.804288995949711
-  },
-  {
-    "soc": "27-1014",
-    "occupation": "Multimedia artists and animators",
-    "automation_pctile": 7.817260646979382
-  },
-  {
-    "soc": "27-2041",
-    "occupation": "Music directors and composers",
-    "automation_pctile": 7.824776645907757
-  },
-  {
-    "soc": "15-1221",
-    "occupation": "Computer and information research scientists",
-    "automation_pctile": 7.848232902092988
-  },
-  {
-    "soc": "11-2033",
-    "occupation": "Public relations and fundraising managers",
-    "automation_pctile": 7.870738228973415
-  },
-  {
-    "soc": "11-1011",
-    "occupation": "Chief executives",
-    "automation_pctile": 7.999875647706295
-  },
-  {
-    "soc": "11-9031",
-    "occupation": "Education administrators, preschool and childcare center/program",
-    "automation_pctile": 8.043533055917996
-  },
-  {
-    "soc": "11-2032",
-    "occupation": "Public relations and fundraising managers",
-    "automation_pctile": 8.089896955227992
-  },
-  {
-    "soc": "41-3031",
-    "occupation": "Securities, commodities, and financial services sales agents",
-    "automation_pctile": 8.377796897958884
-  },
-  {
-    "soc": "19-1031",
-    "occupation": "Conservation scientists",
-    "automation_pctile": 8.393395795978117
-  },
-  {
-    "soc": "51-1011",
-    "occupation": "First-line supervisors of production and operating workers",
-    "automation_pctile": 8.811036631808403
-  },
-  {
-    "soc": "25-2057",
-    "occupation": "Special education teachers, middle school",
-    "automation_pctile": 8.86914694631303
-  },
-  {
-    "soc": "17-2041",
-    "occupation": "Chemical engineers",
-    "automation_pctile": 8.881539505778877
-  },
-  {
-    "soc": "11-9041",
-    "occupation": "Architectural and engineering managers",
-    "automation_pctile": 9.00975647371031
-  },
-  {
-    "soc": "17-2011",
-    "occupation": "Aerospace engineers",
-    "automation_pctile": 9.051475449108366
-  },
-  {
-    "soc": "11-9121",
-    "occupation": "Natural sciences managers",
-    "automation_pctile": 9.112962781785193
-  },
-  {
-    "soc": "31-2021",
-    "occupation": "Physical therapist assistants",
-    "automation_pctile": 9.178802444741711
-  },
-  {
-    "soc": "17-1011",
-    "occupation": "Architects, except landscape and naval",
-    "automation_pctile": 9.246550062008517
-  },
-  {
-    "soc": "17-2081",
-    "occupation": "Environmental engineers",
-    "automation_pctile": 9.269683246058138
-  },
-  {
-    "soc": "17-2051",
-    "occupation": "Civil engineers",
-    "automation_pctile": 9.48633054363592
-  },
-  {
-    "soc": "29-1299",
-    "occupation": "Health diagnosing and treating practitioners, all other",
-    "automation_pctile": 9.505147971609883
-  },
-  {
-    "soc": "29-1291",
-    "occupation": "Health diagnosing and treating practitioners, all other",
-    "automation_pctile": 9.510292742976914
-  },
-  {
-    "soc": "19-1013",
-    "occupation": "Soil and plant scientists",
-    "automation_pctile": 9.520411606092164
-  },
-  {
-    "soc": "29-1123",
-    "occupation": "Physical therapists",
-    "automation_pctile": 9.671969011896064
-  },
-  {
-    "soc": "19-2032",
-    "occupation": "Materials scientists",
-    "automation_pctile": 9.677046730555706
-  },
-  {
-    "soc": "27-4021",
-    "occupation": "Photographers",
-    "automation_pctile": 9.70827500509753
-  },
-  {
-    "soc": "17-2131",
-    "occupation": "Materials engineers",
-    "automation_pctile": 9.722154915527303
-  },
-  {
-    "soc": "27-1022",
-    "occupation": "Fashion designers",
-    "automation_pctile": 9.734901025632118
-  },
-  {
-    "soc": "27-2012",
-    "occupation": "Producers and directors",
-    "automation_pctile": 9.823453269291903
-  },
-  {
-    "soc": "27-1025",
-    "occupation": "Interior designers",
-    "automation_pctile": 9.86586715456655
-  },
-  {
-    "soc": "29-1023",
-    "occupation": "Orthodontists",
-    "automation_pctile": 9.869006440412544
-  },
-  {
-    "soc": "27-1011",
-    "occupation": "Art directors",
-    "automation_pctile": 9.899710484696593
-  },
-  {
-    "soc": "17-2072",
-    "occupation": "Electronics engineers, except computer",
-    "automation_pctile": 9.956973496807834
-  },
-  {
-    "soc": "33-1011",
-    "occupation": "First-line supervisors of oorrectional officers",
-    "automation_pctile": 9.989518442694775
-  },
-  {
-    "soc": "21-2021",
-    "occupation": "Directors, religious activities and education",
-    "automation_pctile": 10.002599816336538
-  },
-  {
-    "soc": "19-1021",
-    "occupation": "Biochemists and biophysicists",
-    "automation_pctile": 10.023642175055722
-  },
-  {
-    "soc": "29-1011",
-    "occupation": "Chiropractors",
-    "automation_pctile": 10.046580296683848
-  },
-  {
-    "soc": "21-1021",
-    "occupation": "Child, family, and school social workers",
-    "automation_pctile": 10.280021249612542
-  },
-  {
-    "soc": "31-2011",
-    "occupation": "Occupational therapy assistants",
-    "automation_pctile": 10.309225751531317
-  },
-  {
-    "soc": "17-2111",
-    "occupation": "Health and safety engineers, except mining safety engineers and inspectors",
-    "automation_pctile": 10.323379968491324
-  },
-  {
-    "soc": "29-2056",
-    "occupation": "Veterinary technologists and technicians",
-    "automation_pctile": 10.403428709713896
-  },
-  {
-    "soc": "17-2112",
-    "occupation": "Industrial engineers",
-    "automation_pctile": 10.616918434343663
-  },
-  {
-    "soc": "11-3061",
-    "occupation": "Purchasing managers",
-    "automation_pctile": 10.666439906601674
-  },
-  {
-    "soc": "17-3026",
-    "occupation": "Industrial engineering technicians",
-    "automation_pctile": 10.711188445233637
-  },
-  {
-    "soc": "15-1242",
-    "occupation": "Database administrators",
-    "automation_pctile": 10.755796782750142
-  },
-  {
-    "soc": "15-1244",
-    "occupation": "Network and computer systems administrators",
-    "automation_pctile": 10.949987519052874
-  },
-  {
-    "soc": "15-1243",
-    "occupation": "Database administrators",
-    "automation_pctile": 10.989469372304368
-  },
-  {
-    "soc": "11-3051",
-    "occupation": "Industrial production managers",
-    "automation_pctile": 11.132340404650895
-  },
-  {
-    "soc": "19-2041",
-    "occupation": "Environmental scientists and specialists, including health",
-    "automation_pctile": 11.184111190456814
-  },
-  {
-    "soc": "15-2031",
-    "occupation": "Operations research analysts",
-    "automation_pctile": 11.249798460896535
-  },
-  {
-    "soc": "11-3021",
-    "occupation": "Computer and information systems managers",
-    "automation_pctile": 11.643562437195234
-  },
-  {
-    "soc": "23-1011",
-    "occupation": "Lawyers",
-    "automation_pctile": 12.099368454931897
-  },
-  {
-    "soc": "27-1012",
-    "occupation": "Craft artists",
-    "automation_pctile": 12.102032276125488
-  },
-  {
-    "soc": "13-1121",
-    "occupation": "Meeting, convention, and event planners",
-    "automation_pctile": 12.184123077073124
-  },
-  {
-    "soc": "27-1021",
-    "occupation": "Commercial and industrial designers",
-    "automation_pctile": 12.202562571605434
-  },
-  {
-    "soc": "17-2031",
-    "occupation": "Biomedical engineers",
-    "automation_pctile": 12.215887773274073
-  },
-  {
-    "soc": "27-3043",
-    "occupation": "Writers and authors",
-    "automation_pctile": 12.245025222485454
-  },
-  {
-    "soc": "29-1131",
-    "occupation": "Veterinarians",
-    "automation_pctile": 12.29417485700248
-  },
-  {
-    "soc": "11-2011",
-    "occupation": "Advertising and promotions managers",
-    "automation_pctile": 12.30703678542006
-  },
-  {
-    "soc": "19-3094",
-    "occupation": "Political scientists",
-    "automation_pctile": 12.310663727319804
-  },
-  {
-    "soc": "19-3099",
-    "occupation": "Social scientists and related workers, all other",
-    "automation_pctile": 12.333199532703588
-  },
-  {
-    "soc": "13-2071",
-    "occupation": "Credit counselors",
-    "automation_pctile": 12.35033454729212
-  },
-  {
-    "soc": "19-2011",
-    "occupation": "Astronomers",
-    "automation_pctile": 12.35128547659693
-  },
-  {
-    "soc": "53-5031",
-    "occupation": "Ship engineers",
-    "automation_pctile": 12.356515587773366
-  },
-  {
-    "soc": "15-1252",
-    "occupation": "Software developers, applications",
-    "automation_pctile": 13.365012689724873
-  },
-  {
-    "soc": "27-1013",
-    "occupation": "Fine artists, including painters, sculptors, and illustrators",
-    "automation_pctile": 13.37110839039671
-  },
-  {
-    "soc": "15-1253",
-    "occupation": "Software developers, applications",
-    "automation_pctile": 13.492900489820029
-  },
-  {
-    "soc": "29-2053",
-    "occupation": "Psychiatric technicians",
-    "automation_pctile": 13.575984889977176
-  },
-  {
-    "soc": "21-1091",
-    "occupation": "Health educators",
-    "automation_pctile": 13.615698379854196
-  },
-  {
-    "soc": "17-1012",
-    "occupation": "Landscape architects",
-    "automation_pctile": 13.627633761769657
-  },
-  {
-    "soc": "27-1023",
-    "occupation": "Floral designers",
-    "automation_pctile": 13.652114095667756
-  },
-  {
-    "soc": "11-9013",
-    "occupation": "Farmers, ranchers, and other agricultural managers",
-    "automation_pctile": 13.65571665476481
-  },
-  {
-    "soc": "15-2021",
-    "occupation": "Mathematicians",
-    "automation_pctile": 13.657069900313958
-  },
-  {
-    "soc": "33-2022",
-    "occupation": "Forest fire inspectors and prevention specialists",
-    "automation_pctile": 13.658764505100727
-  },
-  {
-    "soc": "29-2042",
-    "occupation": "Emergency medical technicians and paramedics",
-    "automation_pctile": 13.767255785658095
-  },
-  {
-    "soc": "29-2043",
-    "occupation": "Emergency medical technicians and paramedics",
-    "automation_pctile": 13.827926294444898
-  },
-  {
-    "soc": "29-1024",
-    "occupation": "Prosthodontists",
-    "automation_pctile": 13.828389567695956
-  },
-  {
-    "soc": "27-3041",
-    "occupation": "Editors",
-    "automation_pctile": 13.88659131771066
-  },
-  {
-    "soc": "29-2061",
-    "occupation": "Licensed practical and licensed vocational nurses",
-    "automation_pctile": 14.27210171529969
-  },
-  {
-    "soc": "19-3041",
-    "occupation": "Sociologists",
-    "automation_pctile": 14.273899946997885
-  },
-  {
-    "soc": "23-1022",
-    "occupation": "Arbitrators, mediators, and conciliators",
-    "automation_pctile": 14.278691167725944
-  },
-  {
-    "soc": "19-1011",
-    "occupation": "Animal scientists",
-    "automation_pctile": 14.280196805791892
-  },
-  {
-    "soc": "39-9041",
-    "occupation": "Residential advisors",
-    "automation_pctile": 14.33067530305538
-  },
-  {
-    "soc": "29-1126",
-    "occupation": "Respiratory therapists",
-    "automation_pctile": 14.413832851620588
-  },
-  {
-    "soc": "53-1041",
-    "occupation": "Aircraft cargo handling supervisors",
-    "automation_pctile": 14.420026083503174
-  },
-  {
-    "soc": "27-3023",
-    "occupation": "Broadcast news analysts",
-    "automation_pctile": 14.44535371979466
-  },
-  {
-    "soc": "11-3031",
-    "occupation": "Financial managers",
-    "automation_pctile": 14.944359968192632
-  },
-  {
-    "soc": "17-2161",
-    "occupation": "Nuclear engineers",
-    "automation_pctile": 14.953345030982923
-  },
-  {
-    "soc": "11-9021",
-    "occupation": "Construction managers",
-    "automation_pctile": 15.165676572485044
-  },
-  {
-    "soc": "27-2042",
-    "occupation": "Musicians and singers",
-    "automation_pctile": 15.18905358456154
-  },
-  {
-    "soc": "41-1012",
-    "occupation": "First-line supervisors of non-retail sales workers",
-    "automation_pctile": 15.322555524975456
-  },
-  {
-    "soc": "39-1022",
-    "occupation": "First-line supervisors of personal service workers",
-    "automation_pctile": 15.387816096368152
-  },
-  {
-    "soc": "39-1014",
-    "occupation": "First-line supervisors of personal service workers",
-    "automation_pctile": 15.44440248570482
-  },
-  {
-    "soc": "19-1012",
-    "occupation": "Food scientists and technologists",
-    "automation_pctile": 15.453162007570253
-  },
-  {
-    "soc": "33-3031",
-    "occupation": "Fish and game wardens",
-    "automation_pctile": 15.45707544740157
-  },
-  {
-    "soc": "13-1041",
-    "occupation": "Compliance officers",
-    "automation_pctile": 15.699544133025256
-  },
-  {
-    "soc": "27-1024",
-    "occupation": "Graphic designers",
-    "automation_pctile": 15.83015061562005
-  },
-  {
-    "soc": "11-9051",
-    "occupation": "Food service managers",
-    "automation_pctile": 15.979025913128345
-  },
-  {
-    "soc": "39-9011",
-    "occupation": "Childcare workers",
-    "automation_pctile": 16.296112070675992
-  },
-  {
-    "soc": "39-9031",
-    "occupation": "Fitness trainers and aerobics instructors",
-    "automation_pctile": 16.481189734474327
-  },
-  {
-    "soc": "11-9071",
-    "occupation": "Gaming managers",
-    "automation_pctile": 16.484005948184716
-  },
-  {
-    "soc": "49-9051",
-    "occupation": "Electrical power-line installers and repairers",
-    "automation_pctile": 16.559397574094003
-  },
-  {
-    "soc": "33-3051",
-    "occupation": "Police and sheriff\u2019s patrol officers",
-    "automation_pctile": 16.965974713204904
-  },
-  {
-    "soc": "41-3041",
-    "occupation": "Travel agents",
-    "automation_pctile": 17.002030782678823
-  },
-  {
-    "soc": "39-2011",
-    "occupation": "Animal trainers",
-    "automation_pctile": 17.014289236729887
-  },
-  {
-    "soc": "27-3011",
-    "occupation": "Radio and television announcers",
-    "automation_pctile": 17.028845769934236
-  },
-  {
-    "soc": "19-2012",
-    "occupation": "Physicists",
-    "automation_pctile": 17.041853995167937
-  },
-  {
-    "soc": "19-2031",
-    "occupation": "Chemists",
-    "automation_pctile": 17.092600703260988
-  },
-  {
-    "soc": "29-2099",
-    "occupation": "Respiratory therapy technicians",
-    "automation_pctile": 17.19870246915499
-  },
-  {
-    "soc": "35-1011",
-    "occupation": "Chefs and head cooks",
-    "automation_pctile": 17.30983928380394
-  },
-  {
-    "soc": "17-2071",
-    "occupation": "Electrical engineers",
-    "automation_pctile": 17.42492001678756
-  },
-  {
-    "soc": "39-5012",
-    "occupation": "Hairdressers, hairstylists, and cosmetologists",
-    "automation_pctile": 17.605023588837675
-  },
-  {
-    "soc": "53-2021",
-    "occupation": "Air traffic controllers",
-    "automation_pctile": 17.644005594634077
-  },
-  {
-    "soc": "19-3051",
-    "occupation": "Urban and regional planners",
-    "automation_pctile": 17.670241490325665
-  },
-  {
-    "soc": "27-4014",
-    "occupation": "Sound engineering technicians",
-    "automation_pctile": 17.678196379702413
-  },
-  {
-    "soc": "21-1093",
-    "occupation": "Social and human service assistants",
-    "automation_pctile": 17.93678819360311
-  },
-  {
-    "soc": "25-3021",
-    "occupation": "Self-enrichment education teachers",
-    "automation_pctile": 18.124852750730646
+    "soc": "13-1082",
+    "occupation": "Project Management Specialists",
+    "automation_pctile": 31.59007331712193
   },
   {
     "soc": "13-1111",
-    "occupation": "Management analysts",
-    "automation_pctile": 18.669747433786213
+    "occupation": "Management Analysts",
+    "automation_pctile": 23.464230523652315
   },
   {
-    "soc": "29-2033",
-    "occupation": "Nuclear medicine technologists",
-    "automation_pctile": 19.68858284407716
+    "soc": "13-1121",
+    "occupation": "Meeting, Convention, and Event Planners",
+    "automation_pctile": 15.492177434968784
   },
   {
-    "soc": "29-2051",
-    "occupation": "Dietetic technicians",
-    "automation_pctile": 19.70683946758931
+    "soc": "13-1141",
+    "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+    "automation_pctile": 36.62518638534048
   },
   {
-    "soc": "27-2031",
-    "occupation": "Dancers",
-    "automation_pctile": 19.834154271821312
+    "soc": "13-1151",
+    "occupation": "Training and Development Specialists",
+    "automation_pctile": 8.247017485770074
   },
   {
-    "soc": "17-2151",
-    "occupation": "Mining and geological engineers, including mining safety engineers",
-    "automation_pctile": 19.838281061176147
+    "soc": "13-1161",
+    "occupation": "Market Research Analysts and Marketing Specialists",
+    "automation_pctile": 42.686222962983976
   },
   {
-    "soc": "29-1071",
-    "occupation": "Physician assistants",
-    "automation_pctile": 19.93309358942591
+    "soc": "13-1199",
+    "occupation": "Business Operations Specialists, All Other",
+    "automation_pctile": 30.237379625569115
   },
   {
-    "soc": "29-1041",
-    "occupation": "Optometrists",
-    "automation_pctile": 19.95862847954024
+    "soc": "13-2011",
+    "occupation": "Accountants and Auditors",
+    "automation_pctile": 83.81685399371914
   },
   {
-    "soc": "25-2012",
-    "occupation": "Kindergarten teachers, except special education",
-    "automation_pctile": 20.02836939092673
+    "soc": "13-2031",
+    "occupation": "Budget Analysts",
+    "automation_pctile": 82.69432556138048
   },
   {
-    "soc": "47-2111",
-    "occupation": "Electricians",
-    "automation_pctile": 20.48102393141605
+    "soc": "13-2041",
+    "occupation": "Credit Analysts",
+    "automation_pctile": 99.49262263608978
   },
   {
-    "soc": "11-1021",
-    "occupation": "General and operations managers",
-    "automation_pctile": 22.66597907163089
+    "soc": "13-2051",
+    "occupation": "Financial and Investment Analysts",
+    "automation_pctile": 30.59242441928149
   },
   {
-    "soc": "43-9031",
-    "occupation": "Desktop publishers",
-    "automation_pctile": 22.66841735189962
+    "soc": "13-2052",
+    "occupation": "Personal Financial Advisors",
+    "automation_pctile": 40.59181676315533
   },
   {
-    "soc": "17-2171",
-    "occupation": "Petroleum engineers",
-    "automation_pctile": 22.679980896074092
+    "soc": "13-2053",
+    "occupation": "Insurance Underwriters",
+    "automation_pctile": 100.0
   },
   {
-    "soc": "25-2022",
-    "occupation": "Middle school teachers, except special and career/technical education",
-    "automation_pctile": 23.058139878652888
-  },
-  {
-    "soc": "19-5011",
-    "occupation": "Occupational health and safety specialists",
-    "automation_pctile": 23.1364269623813
-  },
-  {
-    "soc": "47-1011",
-    "occupation": "First-line supervisors of construction trades and extraction workers",
-    "automation_pctile": 23.627789202136785
-  },
-  {
-    "soc": "33-2011",
-    "occupation": "Firefighters",
-    "automation_pctile": 23.83031276125792
+    "soc": "13-2054",
+    "occupation": "Financial Risk Specialists",
+    "automation_pctile": 30.32845053733388
   },
   {
     "soc": "13-2061",
-    "occupation": "Financial examiners",
-    "automation_pctile": 23.86861204857908
+    "occupation": "Financial Examiners",
+    "automation_pctile": 28.15538232188816
   },
   {
-    "soc": "49-9092",
-    "occupation": "Commercial divers",
-    "automation_pctile": 23.870702873909515
+    "soc": "13-2071",
+    "occupation": "Credit Counselors",
+    "automation_pctile": 15.674861808610952
   },
   {
-    "soc": "53-2011",
-    "occupation": "Airline pilots, copilots, and flight engineers",
-    "automation_pctile": 23.931233181580865
+    "soc": "13-2072",
+    "occupation": "Loan Officers",
+    "automation_pctile": 97.12039977572528
   },
   {
-    "soc": "49-9095",
-    "occupation": "Manufactured building and mobile home installers",
-    "automation_pctile": 23.932824159456214
+    "soc": "13-2081",
+    "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+    "automation_pctile": 78.51565109811368
   },
   {
-    "soc": "27-3031",
-    "occupation": "Public relations specialists",
-    "automation_pctile": 24.103863424607308
+    "soc": "13-2082",
+    "occupation": "Tax Preparers",
+    "automation_pctile": 99.91643178122148
   },
   {
-    "soc": "25-3011",
-    "occupation": "Adult basic and secondary education and literacy teachers and instructors",
-    "automation_pctile": 24.12596643524339
+    "soc": "13-2099",
+    "occupation": "Financial Specialists, All Other",
+    "automation_pctile": 34.1929109782225
   },
   {
-    "soc": "19-1041",
-    "occupation": "Epidemiologists",
-    "automation_pctile": 24.13295210821332
+    "soc": "15-1211",
+    "occupation": "Computer Systems Analysts",
+    "automation_pctile": 4.00294248178233
   },
   {
-    "soc": "33-9011",
-    "occupation": "Animal control workers",
-    "automation_pctile": 24.14013893930541
+    "soc": "15-1221",
+    "occupation": "Computer and Information Research Scientists",
+    "automation_pctile": 10.10565465879256
   },
   {
-    "soc": "39-6012",
-    "occupation": "Concierges",
-    "automation_pctile": 24.167081936274936
+    "soc": "15-1242",
+    "occupation": "Database Administrators",
+    "automation_pctile": 13.606389504166552
+  },
+  {
+    "soc": "15-1243",
+    "occupation": "Database Architects",
+    "automation_pctile": 13.549669765247868
+  },
+  {
+    "soc": "15-1244",
+    "occupation": "Network and Computer Systems Administrators",
+    "automation_pctile": 14.091863344957858
+  },
+  {
+    "soc": "15-1251",
+    "occupation": "Computer Programmers",
+    "automation_pctile": 36.74828325518287
+  },
+  {
+    "soc": "15-1252",
+    "occupation": "Software Developers",
+    "automation_pctile": 17.00143558759805
+  },
+  {
+    "soc": "15-1253",
+    "occupation": "Software Quality Assurance Analysts and Testers",
+    "automation_pctile": 17.156294891177623
   },
   {
     "soc": "15-2011",
     "occupation": "Actuaries",
-    "automation_pctile": 24.18435715197893
+    "automation_pctile": 29.272027960862605
+  },
+  {
+    "soc": "15-2021",
+    "occupation": "Mathematicians",
+    "automation_pctile": 17.32932962353068
+  },
+  {
+    "soc": "15-2031",
+    "occupation": "Operations Research Analysts",
+    "automation_pctile": 14.883738486505308
   },
   {
     "soc": "15-2041",
     "occupation": "Statisticians",
-    "automation_pctile": 24.202522339981
+    "automation_pctile": 29.304263188269385
   },
   {
-    "soc": "17-2061",
-    "occupation": "Computer hardware engineers",
-    "automation_pctile": 24.248672889767484
+    "soc": "15-2099",
+    "occupation": "Mathematical Science Occupations, All Other",
+    "automation_pctile": 99.59248285967934
   },
   {
-    "soc": "29-2031",
-    "occupation": "Cardiovascular technologists and technicians",
-    "automation_pctile": 24.285966386477785
+    "soc": "17-1011",
+    "occupation": "Architects, Except Landscape and Naval",
+    "automation_pctile": 11.595140735174004
   },
   {
-    "soc": "13-1199",
-    "occupation": "Business operations specialists, all other",
-    "automation_pctile": 24.973683336274508
+    "soc": "17-1012",
+    "occupation": "Landscape Architects",
+    "automation_pctile": 17.277113050546912
   },
   {
-    "soc": "13-1082",
-    "occupation": "Business operations specialists, all other",
-    "automation_pctile": 25.58700835507213
-  },
-  {
-    "soc": "19-3022",
-    "occupation": "Survey researchers",
-    "automation_pctile": 25.591714235990786
-  },
-  {
-    "soc": "13-2051",
-    "occupation": "Financial analysts",
-    "automation_pctile": 25.79932160947223
-  },
-  {
-    "soc": "13-2054",
-    "occupation": "Financial analysts",
-    "automation_pctile": 25.83365259565602
-  },
-  {
-    "soc": "13-1011",
-    "occupation": "Agents and business managers of artists, performers, and athletes",
-    "automation_pctile": 25.842320682011373
-  },
-  {
-    "soc": "17-3029",
-    "occupation": "Engineering technicians, except drafters, all other",
-    "automation_pctile": 25.88158309003868
-  },
-  {
-    "soc": "17-3028",
-    "occupation": "Engineering technicians, except drafters, all other",
-    "automation_pctile": 25.89092170346793
-  },
-  {
-    "soc": "53-3011",
-    "occupation": "Ambulance drivers and attendants, except emergency medical technicians",
-    "automation_pctile": 25.898285309879515
-  },
-  {
-    "soc": "19-5012",
-    "occupation": "Occupational health and safety technicians",
-    "automation_pctile": 25.91745628849245
-  },
-  {
-    "soc": "41-4011",
-    "occupation": "Sales representatives, wholesale and manufacturing, technical and scientific products",
-    "automation_pctile": 26.09662721833977
-  },
-  {
-    "soc": "17-3025",
-    "occupation": "Environmental engineering technicians",
-    "automation_pctile": 26.104246844179567
-  },
-  {
-    "soc": "19-3092",
-    "occupation": "Geographers",
-    "automation_pctile": 26.10508805087228
-  },
-  {
-    "soc": "11-9072",
-    "occupation": "Managers, all other",
-    "automation_pctile": 26.127459272337923
-  },
-  {
-    "soc": "11-9179",
-    "occupation": "Managers, all other",
-    "automation_pctile": 26.13385366234268
-  },
-  {
-    "soc": "21-1092",
-    "occupation": "Probation officers and correctional treatment specialists",
-    "automation_pctile": 26.18677653557557
-  },
-  {
-    "soc": "11-9199",
-    "occupation": "Managers, all other",
-    "automation_pctile": 27.18472807536481
-  },
-  {
-    "soc": "25-2023",
-    "occupation": "Career/technical education teachers, middle school",
-    "automation_pctile": 27.193383970318813
-  },
-  {
-    "soc": "53-5021",
-    "occupation": "Captains, mates, and pilots of water vessels",
-    "automation_pctile": 27.21495665499645
-  },
-  {
-    "soc": "49-9062",
-    "occupation": "Medical equipment repairers",
-    "automation_pctile": 27.25203680218324
-  },
-  {
-    "soc": "31-2012",
-    "occupation": "Occupational therapy aides",
-    "automation_pctile": 27.25508465251916
-  },
-  {
-    "soc": "39-1013",
-    "occupation": "Gaming supervisors",
-    "automation_pctile": 27.270646976334355
-  },
-  {
-    "soc": "27-2021",
-    "occupation": "Athletes and sports competitors",
-    "automation_pctile": 27.279406498199787
-  },
-  {
-    "soc": "41-1011",
-    "occupation": "First-line supervisors of retail sales workers",
-    "automation_pctile": 27.957955514186068
-  },
-  {
-    "soc": "39-5094",
-    "occupation": "Skincare specialists",
-    "automation_pctile": 28.000771715705053
-  },
-  {
-    "soc": "19-1023",
-    "occupation": "Zoologists and wildlife biologists",
-    "automation_pctile": 28.01108564124181
-  },
-  {
-    "soc": "19-4021",
-    "occupation": "Biological technicians",
-    "automation_pctile": 28.057528784660533
-  },
-  {
-    "soc": "31-9092",
-    "occupation": "Medical assistants",
-    "automation_pctile": 28.541198250168165
-  },
-  {
-    "soc": "35-2013",
-    "occupation": "Cooks, private household",
-    "automation_pctile": 28.541746863228628
-  },
-  {
-    "soc": "27-4032",
-    "occupation": "Film and video editors",
-    "automation_pctile": 28.559339055367555
-  },
-  {
-    "soc": "33-9021",
-    "occupation": "Private detectives and investigators",
-    "automation_pctile": 28.582929416967566
-  },
-  {
-    "soc": "13-2099",
-    "occupation": "Financial specialists, all other",
-    "automation_pctile": 28.66061912203013
-  },
-  {
-    "soc": "33-3021",
-    "occupation": "Detectives and criminal investigators",
-    "automation_pctile": 28.76248437595721
-  },
-  {
-    "soc": "29-1124",
-    "occupation": "Radiation therapists",
-    "automation_pctile": 28.77388333621355
-  },
-  {
-    "soc": "29-2055",
-    "occupation": "Surgical technologists",
-    "automation_pctile": 28.84330727116511
-  },
-  {
-    "soc": "53-2031",
-    "occupation": "Flight attendants",
-    "automation_pctile": 28.922618432606388
-  },
-  {
-    "soc": "29-2032",
-    "occupation": "Diagnostic medical sonographers",
-    "automation_pctile": 28.9753218606151
-  },
-  {
-    "soc": "47-2152",
-    "occupation": "Plumbers, pipefitters, and steamfitters",
-    "automation_pctile": 29.253249237046862
-  },
-  {
-    "soc": "33-3011",
-    "occupation": "Bailiffs",
-    "automation_pctile": 29.263557066882942
-  },
-  {
-    "soc": "49-2022",
-    "occupation": "Telecommunications equipment installers and repairers, except line installers",
-    "automation_pctile": 29.357363804521853
-  },
-  {
-    "soc": "51-9162",
-    "occupation": "Computer numerically controlled machine tool programmers, metal and plastic",
-    "automation_pctile": 29.37457196751845
-  },
-  {
-    "soc": "53-7061",
-    "occupation": "Cleaners of vehicles and equipment",
-    "automation_pctile": 29.602526789842493
-  },
-  {
-    "soc": "47-5081",
-    "occupation": "Helpers\u2013extraction workers",
-    "automation_pctile": 29.60662310069396
-  },
-  {
-    "soc": "27-2011",
-    "occupation": "Actors",
-    "automation_pctile": 29.630274419300694
-  },
-  {
-    "soc": "51-9051",
-    "occupation": "Furnace, kiln, oven, drier, and kettle operators and tenders",
-    "automation_pctile": 29.640125071586382
-  },
-  {
-    "soc": "47-5044",
-    "occupation": "Mine shuttle car operators",
-    "automation_pctile": 29.64386173609822
-  },
-  {
-    "soc": "39-4021",
-    "occupation": "Funeral attendants",
-    "automation_pctile": 29.662490197351357
-  },
-  {
-    "soc": "49-2095",
-    "occupation": "Electrical and electronics repairers, powerhouse, substation, and relay",
-    "automation_pctile": 29.67653469169927
+    "soc": "17-1021",
+    "occupation": "Cartographers and Photogrammetrists",
+    "automation_pctile": 67.78795498446215
   },
   {
     "soc": "17-1022",
     "occupation": "Surveyors",
-    "automation_pctile": 29.708890670865383
+    "automation_pctile": 36.013933927007166
   },
   {
-    "soc": "53-7064",
-    "occupation": "Packers and packagers, hand",
-    "automation_pctile": 30.07551049207239
+    "soc": "17-2011",
+    "occupation": "Aerospace Engineers",
+    "automation_pctile": 11.345970720585608
+  },
+  {
+    "soc": "17-2021",
+    "occupation": "Agricultural Engineers",
+    "automation_pctile": 37.13204445128574
+  },
+  {
+    "soc": "17-2031",
+    "occupation": "Bioengineers and Biomedical Engineers",
+    "automation_pctile": 15.509120499914976
+  },
+  {
+    "soc": "17-2041",
+    "occupation": "Chemical Engineers",
+    "automation_pctile": 11.292924821001092
+  },
+  {
+    "soc": "17-2051",
+    "occupation": "Civil Engineers",
+    "automation_pctile": 12.061919849226872
+  },
+  {
+    "soc": "17-2061",
+    "occupation": "Computer Hardware Engineers",
+    "automation_pctile": 29.36294385830947
+  },
+  {
+    "soc": "17-2071",
+    "occupation": "Electrical Engineers",
+    "automation_pctile": 22.13736996817711
+  },
+  {
+    "soc": "17-2072",
+    "occupation": "Electronics Engineers, Except Computer",
+    "automation_pctile": 12.7183589812273
+  },
+  {
+    "soc": "17-2081",
+    "occupation": "Environmental Engineers",
+    "automation_pctile": 11.62455470199505
+  },
+  {
+    "soc": "17-2111",
+    "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+    "automation_pctile": 13.089098974626792
+  },
+  {
+    "soc": "17-2112",
+    "occupation": "Industrial Engineers",
+    "automation_pctile": 13.49946837839677
+  },
+  {
+    "soc": "17-2121",
+    "occupation": "Marine Engineers and Naval Architects",
+    "automation_pctile": 6.433535983551121
+  },
+  {
+    "soc": "17-2131",
+    "occupation": "Materials Engineers",
+    "automation_pctile": 12.37797854198803
+  },
+  {
+    "soc": "17-2141",
+    "occupation": "Mechanical Engineers",
+    "automation_pctile": 6.792533642369877
+  },
+  {
+    "soc": "17-2151",
+    "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+    "automation_pctile": 23.75510714047103
+  },
+  {
+    "soc": "17-2161",
+    "occupation": "Nuclear Engineers",
+    "automation_pctile": 19.013257909566818
+  },
+  {
+    "soc": "17-2171",
+    "occupation": "Petroleum Engineers",
+    "automation_pctile": 24.58706123391087
+  },
+  {
+    "soc": "17-2199",
+    "occupation": "Engineers, All Other",
+    "automation_pctile": 8.71330055400567
+  },
+  {
+    "soc": "17-3011",
+    "occupation": "Architectural and Civil Drafters",
+    "automation_pctile": 37.578601947568885
+  },
+  {
+    "soc": "17-3012",
+    "occupation": "Electrical and Electronics Drafters",
+    "automation_pctile": 59.07317404372054
+  },
+  {
+    "soc": "17-3013",
+    "occupation": "Mechanical Drafters",
+    "automation_pctile": 50.99353326770027
+  },
+  {
+    "soc": "17-3021",
+    "occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+    "automation_pctile": 36.90449118332815
+  },
+  {
+    "soc": "17-3022",
+    "occupation": "Civil Engineering Technologists and Technicians",
+    "automation_pctile": 55.01312428722479
+  },
+  {
+    "soc": "17-3023",
+    "occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+    "automation_pctile": 62.31411264301428
+  },
+  {
+    "soc": "17-3024",
+    "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+    "automation_pctile": 58.413758636816496
+  },
+  {
+    "soc": "17-3025",
+    "occupation": "Environmental Engineering Technologists and Technicians",
+    "automation_pctile": 30.748206058052556
+  },
+  {
+    "soc": "17-3026",
+    "occupation": "Industrial Engineering Technologists and Technicians",
+    "automation_pctile": 13.84494878869487
   },
   {
     "soc": "17-3027",
-    "occupation": "Mechanical engineering technicians",
-    "automation_pctile": 30.09833889108842
+    "occupation": "Mechanical Engineering Technologists and Technicians",
+    "automation_pctile": 35.97279312703718
   },
   {
-    "soc": "27-3091",
-    "occupation": "Interpreters and translators",
-    "automation_pctile": 30.13086554987335
+    "soc": "17-3028",
+    "occupation": "Calibration Technologists and Technicians",
+    "automation_pctile": 30.61028206870328
   },
   {
-    "soc": "43-3041",
-    "occupation": "Gaming cage workers",
-    "automation_pctile": 30.139088650079653
+    "soc": "17-3029",
+    "occupation": "Engineering Technologists and Technicians, Except Drafters, All Other",
+    "automation_pctile": 30.660204429782155
   },
   {
-    "soc": "47-4021",
-    "occupation": "Elevator installers and repairers",
-    "automation_pctile": 30.15331601544772
+    "soc": "17-3031",
+    "occupation": "Surveying and Mapping Technicians",
+    "automation_pctile": 87.15414949301791
   },
   {
-    "soc": "25-4022",
-    "occupation": "Audio-visual and multimedia collections specialists",
-    "automation_pctile": 30.233675637404563
+    "soc": "19-1011",
+    "occupation": "Animal Scientists",
+    "automation_pctile": 18.15734635329592
   },
   {
-    "soc": "51-6093",
-    "occupation": "Upholsterers",
-    "automation_pctile": 30.246470513114748
+    "soc": "19-1012",
+    "occupation": "Food Scientists and Technologists",
+    "automation_pctile": 19.64877785936698
   },
   {
-    "soc": "23-1023",
-    "occupation": "Judges, magistrate judges, and magistrates",
-    "automation_pctile": 30.26206331543331
+    "soc": "19-1013",
+    "occupation": "Soil and Plant Scientists",
+    "automation_pctile": 12.105254101795111
   },
   {
-    "soc": "49-3042",
-    "occupation": "Mobile heavy equipment mechanics, except engines",
-    "automation_pctile": 30.371950511444524
+    "soc": "19-1021",
+    "occupation": "Biochemists and Biophysicists",
+    "automation_pctile": 12.745114452496406
   },
   {
-    "soc": "23-1012",
-    "occupation": "Judicial law clerks",
-    "automation_pctile": 30.380009027732697
+    "soc": "19-1022",
+    "occupation": "Microbiologists",
+    "automation_pctile": 6.807849056978148
   },
   {
-    "soc": "49-2094",
-    "occupation": "Electrical and electronics repairers, commercial and industrial equipment",
-    "automation_pctile": 30.41657713606305
+    "soc": "19-1023",
+    "occupation": "Zoologists and Wildlife Biologists",
+    "automation_pctile": 34.041066703126035
   },
   {
-    "soc": "45-2041",
-    "occupation": "Graders and sorters, agricultural products",
-    "automation_pctile": 30.43295628376828
+    "soc": "19-1029",
+    "occupation": "Biological Scientists, All Other",
+    "automation_pctile": 9.951810698995214
   },
   {
-    "soc": "51-2041",
-    "occupation": "Structural metal fabricators and fitters",
-    "automation_pctile": 30.465495133954544
+    "soc": "19-1031",
+    "occupation": "Conservation Scientists",
+    "automation_pctile": 10.30618118042473
   },
   {
-    "soc": "19-4071",
-    "occupation": "Forest and conservation technicians",
-    "automation_pctile": 30.48444057164262
+    "soc": "19-1032",
+    "occupation": "Foresters",
+    "automation_pctile": 5.994116896607156
   },
   {
-    "soc": "39-3093",
-    "occupation": "Locker room, coatroom, and dressing room attendants",
-    "automation_pctile": 30.493559739847687
+    "soc": "19-1041",
+    "occupation": "Epidemiologists",
+    "automation_pctile": 29.215804267761197
+  },
+  {
+    "soc": "19-1042",
+    "occupation": "Medical Scientists, Except Epidemiologists",
+    "automation_pctile": 2.665486697678831
+  },
+  {
+    "soc": "19-2011",
+    "occupation": "Astronomers",
+    "automation_pctile": 15.7113754311917
+  },
+  {
+    "soc": "19-2012",
+    "occupation": "Physicists",
+    "automation_pctile": 21.699237500071693
+  },
+  {
+    "soc": "19-2021",
+    "occupation": "Atmospheric and Space Scientists",
+    "automation_pctile": 50.28886918140194
+  },
+  {
+    "soc": "19-2031",
+    "occupation": "Chemists",
+    "automation_pctile": 21.682697472352032
+  },
+  {
+    "soc": "19-2032",
+    "occupation": "Materials Scientists",
+    "automation_pctile": 12.111710448135542
+  },
+  {
+    "soc": "19-2041",
+    "occupation": "Environmental Scientists and Specialists, Including Health",
+    "automation_pctile": 14.220656990982972
+  },
+  {
+    "soc": "19-2042",
+    "occupation": "Geoscientists, Except Hydrologists and Geographers",
+    "automation_pctile": 43.83842113576821
+  },
+  {
+    "soc": "19-2043",
+    "occupation": "Hydrologists",
+    "automation_pctile": 8.717733963497539
+  },
+  {
+    "soc": "19-2099",
+    "occupation": "Physical Scientists, All Other",
+    "automation_pctile": 36.402733088441714
   },
   {
     "soc": "19-3011",
     "occupation": "Economists",
-    "automation_pctile": 30.503239712514564
+    "automation_pctile": 36.385231971951086
   },
   {
-    "soc": "19-2099",
-    "occupation": "Physical scientists, all other",
-    "automation_pctile": 30.51700380463157
+    "soc": "19-3022",
+    "occupation": "Survey Researchers",
+    "automation_pctile": 30.59840797195233
+  },
+  {
+    "soc": "19-3032",
+    "occupation": "Industrial-Organizational Psychologists",
+    "automation_pctile": 6.808662882147109
+  },
+  {
+    "soc": "19-3033",
+    "occupation": "Clinical and Counseling Psychologists",
+    "automation_pctile": 2.976553929403689
+  },
+  {
+    "soc": "19-3034",
+    "occupation": "School Psychologists",
+    "automation_pctile": 3.026026748960668
+  },
+  {
+    "soc": "19-3039",
+    "occupation": "Psychologists, All Other",
+    "automation_pctile": 1.257778424704198
+  },
+  {
+    "soc": "19-3041",
+    "occupation": "Sociologists",
+    "automation_pctile": 18.14933986377652
+  },
+  {
+    "soc": "19-3051",
+    "occupation": "Urban and Regional Planners",
+    "automation_pctile": 23.49758960486385
+  },
+  {
+    "soc": "19-3091",
+    "occupation": "Anthropologists and Archeologists",
+    "automation_pctile": 4.984159861925646
+  },
+  {
+    "soc": "19-3092",
+    "occupation": "Geographers",
+    "automation_pctile": 30.785851285153957
   },
   {
     "soc": "19-3093",
     "occupation": "Historians",
-    "automation_pctile": 30.51891785464253
+    "automation_pctile": 36.405166813232704
   },
   {
-    "soc": "51-9082",
-    "occupation": "Medical appliance technicians",
-    "automation_pctile": 30.525921814714472
+    "soc": "19-3094",
+    "occupation": "Political Scientists",
+    "automation_pctile": 15.63672053569228
   },
   {
-    "soc": "43-4031",
-    "occupation": "Court, municipal, and license clerks",
-    "automation_pctile": 30.629554821836383
+    "soc": "19-3099",
+    "occupation": "Social Scientists and Related Workers, All Other",
+    "automation_pctile": 15.7035162052743
   },
   {
-    "soc": "31-1133",
-    "occupation": "Psychiatric aides",
-    "automation_pctile": 30.650828817181097
+    "soc": "19-4012",
+    "occupation": "Agricultural Technicians",
+    "automation_pctile": 95.15823629049495
   },
   {
-    "soc": "13-1141",
-    "occupation": "Compensation, benefits, and job analysis specialists",
-    "automation_pctile": 30.713230504958695
+    "soc": "19-4013",
+    "occupation": "Food Science Technicians",
+    "automation_pctile": 95.085906609764
   },
   {
-    "soc": "17-3021",
-    "occupation": "Aerospace engineering and operations technicians",
-    "automation_pctile": 30.718753209767385
-  },
-  {
-    "soc": "27-1026",
-    "occupation": "Merchandise displayers and window trimmers",
-    "automation_pctile": 30.83608325629892
-  },
-  {
-    "soc": "47-5032",
-    "occupation": "Explosives workers, ordnance handling experts, and blasters",
-    "automation_pctile": 30.83954561428052
-  },
-  {
-    "soc": "15-1251",
-    "occupation": "Computer programmers",
-    "automation_pctile": 30.906519077562
-  },
-  {
-    "soc": "33-2021",
-    "occupation": "Fire inspectors and investigators",
-    "automation_pctile": 30.91508353700593
-  },
-  {
-    "soc": "33-9091",
-    "occupation": "Crossing guards",
-    "automation_pctile": 30.97005456566456
-  },
-  {
-    "soc": "47-5043",
-    "occupation": "Roof bolters, mining",
-    "automation_pctile": 30.971413906914385
-  },
-  {
-    "soc": "17-2021",
-    "occupation": "Agricultural engineers",
-    "automation_pctile": 30.972437984627256
-  },
-  {
-    "soc": "43-5031",
-    "occupation": "Police, fire, and ambulance dispatchers",
-    "automation_pctile": 31.034089901222217
-  },
-  {
-    "soc": "49-9052",
-    "occupation": "Telecommunications line installers and repairers",
-    "automation_pctile": 31.09404721303041
-  },
-  {
-    "soc": "27-3092",
-    "occupation": "Court reporters",
-    "automation_pctile": 31.105482747490782
-  },
-  {
-    "soc": "31-9091",
-    "occupation": "Dental assistants",
-    "automation_pctile": 31.334333637813582
-  },
-  {
-    "soc": "41-9011",
-    "occupation": "Demonstrators and product promoters",
-    "automation_pctile": 31.37381549106508
-  },
-  {
-    "soc": "17-3011",
-    "occupation": "Architectural and civil drafters",
-    "automation_pctile": 31.44059389192505
-  },
-  {
-    "soc": "51-6041",
-    "occupation": "Shoe and leather workers and repairers",
-    "automation_pctile": 31.44525100723834
-  },
-  {
-    "soc": "47-4041",
-    "occupation": "Hazardous materials removal workers",
-    "automation_pctile": 31.47607696553582
-  },
-  {
-    "soc": "47-5012",
-    "occupation": "Rotary drill operators, oil and gas",
-    "automation_pctile": 31.484056237715254
-  },
-  {
-    "soc": "39-4011",
-    "occupation": "Embalmers",
-    "automation_pctile": 31.486140967345023
-  },
-  {
-    "soc": "41-3011",
-    "occupation": "Advertising sales agents",
-    "automation_pctile": 31.545555761793427
-  },
-  {
-    "soc": "31-9011",
-    "occupation": "Massage therapists",
-    "automation_pctile": 31.61966119486096
-  },
-  {
-    "soc": "47-5041",
-    "occupation": "Continuous mining machine operators",
-    "automation_pctile": 31.628402429624376
-  },
-  {
-    "soc": "53-2012",
-    "occupation": "Commercial pilots",
-    "automation_pctile": 31.659996446206502
-  },
-  {
-    "soc": "49-3022",
-    "occupation": "Automotive glass installers and repairers",
-    "automation_pctile": 31.67154170327897
-  },
-  {
-    "soc": "43-4051",
-    "occupation": "Customer service representatives",
-    "automation_pctile": 33.33318703651721
-  },
-  {
-    "soc": "27-4011",
-    "occupation": "Audio and video equipment technicians",
-    "automation_pctile": 33.37590570682545
-  },
-  {
-    "soc": "13-1051",
-    "occupation": "Cost estimators",
-    "automation_pctile": 33.509724623674295
-  },
-  {
-    "soc": "47-3015",
-    "occupation": "Helpers\u2013pipelayers, plumbers, pipefitters, and steamfitters",
-    "automation_pctile": 33.536326261406195
+    "soc": "19-4021",
+    "occupation": "Biological Technicians",
+    "automation_pctile": 34.02795249183191
   },
   {
     "soc": "19-4031",
-    "occupation": "Chemical technicians",
-    "automation_pctile": 33.570242739944305
+    "occupation": "Chemical Technicians",
+    "automation_pctile": 40.11348908241909
   },
   {
-    "soc": "45-1011",
-    "occupation": "First-line supervisors of farming, fishing, and forestry workers",
-    "automation_pctile": 33.58824334402824
+    "soc": "19-4042",
+    "occupation": "Environmental Science and Protection Technicians, Including Health",
+    "automation_pctile": 56.225847800432085
   },
   {
-    "soc": "33-3052",
-    "occupation": "Transit and railroad police",
-    "automation_pctile": 33.59007205422979
-  },
-  {
-    "soc": "37-1012",
-    "occupation": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
-    "automation_pctile": 33.66573798666931
-  },
-  {
-    "soc": "13-2052",
-    "occupation": "Personal financial advisors",
-    "automation_pctile": 33.83061449844117
-  },
-  {
-    "soc": "25-4013",
-    "occupation": "Museum technicians and conservators",
-    "automation_pctile": 33.838581579219266
-  },
-  {
-    "soc": "49-9044",
-    "occupation": "Millwrights",
-    "automation_pctile": 33.86336669815096
-  },
-  {
-    "soc": "49-3092",
-    "occupation": "Recreational vehicle service technicians",
-    "automation_pctile": 33.87477175410797
-  },
-  {
-    "soc": "11-3071",
-    "occupation": "Transportation, storage, and distribution managers",
-    "automation_pctile": 34.00461017841811
-  },
-  {
-    "soc": "47-5049",
-    "occupation": "Mine cutting and channeling machine operators",
-    "automation_pctile": 34.006731482251915
-  },
-  {
-    "soc": "49-3023",
-    "occupation": "Automotive service technicians and mechanics",
-    "automation_pctile": 34.426627727330775
-  },
-  {
-    "soc": "51-3023",
-    "occupation": "Slaughterers and meat packers",
-    "automation_pctile": 34.46777370686568
-  },
-  {
-    "soc": "33-3012",
-    "occupation": "Correctional officers and jailers",
-    "automation_pctile": 34.690498418013284
-  },
-  {
-    "soc": "27-4031",
-    "occupation": "Camera operators, television, video, and motion picture",
-    "automation_pctile": 34.7054085018566
-  },
-  {
-    "soc": "39-3092",
-    "occupation": "Costume attendants",
-    "automation_pctile": 34.709242697579185
-  },
-  {
-    "soc": "51-8031",
-    "occupation": "Water and wastewater treatment plant and system operators",
-    "automation_pctile": 34.78650570359473
-  },
-  {
-    "soc": "51-4122",
-    "occupation": "Welding, soldering, and brazing machine setters, operators, and tenders",
-    "automation_pctile": 34.80862700133282
-  },
-  {
-    "soc": "51-3093",
-    "occupation": "Food cooking machine operators and tenders",
-    "automation_pctile": 34.825487709391126
-  },
-  {
-    "soc": "43-4181",
-    "occupation": "Reservation and transportation ticket agents and travel clerks",
-    "automation_pctile": 34.90317131875303
+    "soc": "19-4043",
+    "occupation": "Geological Technicians, Except Hydrologic Technicians",
+    "automation_pctile": 70.3011401148067
   },
   {
     "soc": "19-4044",
-    "occupation": "Life, physical, and social science technicians, all other",
-    "automation_pctile": 34.90496345475055
+    "occupation": "Hydrologic Technicians",
+    "automation_pctile": 70.45117072238376
   },
   {
-    "soc": "49-2096",
-    "occupation": "Electronic equipment installers and repairers, motor vehicles",
-    "automation_pctile": 34.91114449523179
-  },
-  {
-    "soc": "31-2022",
-    "occupation": "Physical therapist aides",
-    "automation_pctile": 34.93797167388855
-  },
-  {
-    "soc": "19-4099",
-    "occupation": "Life, physical, and social science technicians, all other",
-    "automation_pctile": 34.98149497668547
-  },
-  {
-    "soc": "13-1161",
-    "occupation": "Market research analysts and marketing specialists",
-    "automation_pctile": 35.5064201443401
-  },
-  {
-    "soc": "47-2151",
-    "occupation": "Pipelayers",
-    "automation_pctile": 35.526889507196124
-  },
-  {
-    "soc": "47-2082",
-    "occupation": "Tapers",
-    "automation_pctile": 35.534509133035925
-  },
-  {
-    "soc": "53-5022",
-    "occupation": "Motorboat operators",
-    "automation_pctile": 35.53595990979582
-  },
-  {
-    "soc": "19-2042",
-    "occupation": "Geoscientists, except hydrologists and geographers",
-    "automation_pctile": 35.54968133200813
-  },
-  {
-    "soc": "49-9012",
-    "occupation": "Control and valve installers and repairers, except mechanical door",
-    "automation_pctile": 35.57828235956039
-  },
-  {
-    "soc": "35-1012",
-    "occupation": "First-line supervisors of food preparation and serving workers",
-    "automation_pctile": 36.30212243153842
-  },
-  {
-    "soc": "47-4011",
-    "occupation": "Construction and building inspectors",
-    "automation_pctile": 36.38576154045671
-  },
-  {
-    "soc": "23-1021",
-    "occupation": "Administrative law judges, adjudicators, and hearing officers",
-    "automation_pctile": 36.39565486264711
-  },
-  {
-    "soc": "49-9071",
-    "occupation": "Maintenance and repair workers, general",
-    "automation_pctile": 37.32933333455247
-  },
-  {
-    "soc": "47-2132",
-    "occupation": "Insulation workers, mechanical",
-    "automation_pctile": 37.34496271107506
-  },
-  {
-    "soc": "51-8012",
-    "occupation": "Power distributors and dispatchers",
-    "automation_pctile": 37.350558564291816
-  },
-  {
-    "soc": "51-9031",
-    "occupation": "Cutters and trimmers, hand",
-    "automation_pctile": 37.3548682246668
-  },
-  {
-    "soc": "53-7065",
-    "occupation": "Stock clerks and order fillers",
-    "automation_pctile": 39.04918651350609
+    "soc": "19-4051",
+    "occupation": "Nuclear Technicians",
+    "automation_pctile": 62.3563927982208
   },
   {
     "soc": "19-4061",
-    "occupation": "Social science research assistants",
-    "automation_pctile": 39.069265751519126
+    "occupation": "Social Science Research Assistants",
+    "automation_pctile": 47.57721921985324
   },
   {
-    "soc": "49-2097",
-    "occupation": "Electronic home entertainment equipment installers and repairers",
-    "automation_pctile": 39.08277991990859
+    "soc": "19-4071",
+    "occupation": "Forest and Conservation Technicians",
+    "automation_pctile": 36.3613287641313
   },
   {
-    "soc": "51-4041",
-    "occupation": "Machinists",
-    "automation_pctile": 39.26491336028243
+    "soc": "19-4092",
+    "occupation": "Forensic Science Technicians",
+    "automation_pctile": 6.424421141658749
   },
   {
-    "soc": "53-7041",
-    "occupation": "Hoist and winch operators",
-    "automation_pctile": 39.26642509404904
+    "soc": "19-4099",
+    "occupation": "Life, Physical, and Social Science Technicians, All Other",
+    "automation_pctile": 41.80902794086576
   },
   {
-    "soc": "49-9021",
-    "occupation": "Heating, air conditioning, and refrigeration mechanics and installers",
-    "automation_pctile": 39.588704788569096
+    "soc": "19-5011",
+    "occupation": "Occupational Health and Safety Specialists",
+    "automation_pctile": 28.879694472979995
   },
   {
-    "soc": "37-2011",
-    "occupation": "Janitors and cleaners, except maids and housekeeping cleaners",
-    "automation_pctile": 40.929697979366665
+    "soc": "19-5012",
+    "occupation": "Occupational Health and Safety Technicians",
+    "automation_pctile": 30.81022728664333
   },
   {
-    "soc": "37-2021",
-    "occupation": "Pest control workers",
-    "automation_pctile": 40.9882837585237
+    "soc": "21-1012",
+    "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+    "automation_pctile": 6.259462655268154
   },
   {
-    "soc": "51-9198",
-    "occupation": "Helpers\u2013production workers",
-    "automation_pctile": 41.0903806490763
+    "soc": "21-1013",
+    "occupation": "Marriage and Family Therapists",
+    "automation_pctile": 8.298071451369605
   },
   {
-    "soc": "43-9111",
-    "occupation": "Statistical assistants",
-    "automation_pctile": 41.093977112472686
+    "soc": "21-1015",
+    "occupation": "Rehabilitation Counselors",
+    "automation_pctile": 6.40934599924322
   },
   {
-    "soc": "49-3051",
-    "occupation": "Motorboat mechanics and service technicians",
-    "automation_pctile": 41.10875918660189
+    "soc": "21-1021",
+    "occupation": "Child, Family, and School Social Workers",
+    "automation_pctile": 13.071101812318894
   },
   {
-    "soc": "51-9196",
-    "occupation": "Paper goods machine setters, operators, and tenders",
-    "automation_pctile": 41.16785700461536
+    "soc": "21-1022",
+    "occupation": "Healthcare Social Workers",
+    "automation_pctile": 0.8581360117327236
   },
   {
-    "soc": "51-4071",
-    "occupation": "Foundry mold and coremakers",
-    "automation_pctile": 41.17561073586994
+    "soc": "21-1023",
+    "occupation": "Mental Health and Substance Abuse Social Workers",
+    "automation_pctile": 0.584574494223159
   },
   {
-    "soc": "49-9041",
-    "occupation": "Industrial machinery mechanics",
-    "automation_pctile": 41.43281273001745
+    "soc": "21-1091",
+    "occupation": "Health Education Specialists",
+    "automation_pctile": 17.327608964602014
   },
   {
-    "soc": "19-2021",
-    "occupation": "Atmospheric and space scientists",
-    "automation_pctile": 41.43816475520733
+    "soc": "21-1092",
+    "occupation": "Probation Officers and Correctional Treatment Specialists",
+    "automation_pctile": 30.738517663183963
   },
   {
-    "soc": "33-9092",
-    "occupation": "Lifeguards, ski patrol, and other recreational protective service workers",
-    "automation_pctile": 41.525692921154246
+    "soc": "21-1093",
+    "occupation": "Social and Human Service Assistants",
+    "automation_pctile": 22.73104380286085
   },
   {
-    "soc": "53-3052",
-    "occupation": "Bus drivers, transit and intercity",
-    "automation_pctile": 41.61650666976328
+    "soc": "21-2011",
+    "occupation": "Clergy",
+    "automation_pctile": 5.986637455768602
   },
   {
-    "soc": "43-5052",
-    "occupation": "Postal service mail carriers",
-    "automation_pctile": 41.82134659513972
+    "soc": "21-2021",
+    "occupation": "Directors, Religious Activities and Education",
+    "automation_pctile": 12.604167683948129
   },
   {
-    "soc": "47-2011",
-    "occupation": "Boilermakers",
-    "automation_pctile": 41.827545922722976
+    "soc": "23-1011",
+    "occupation": "Lawyers",
+    "automation_pctile": 14.800216772022148
   },
   {
-    "soc": "47-5071",
-    "occupation": "Roustabouts, oil and gas",
-    "automation_pctile": 41.855177733868416
+    "soc": "23-1012",
+    "occupation": "Judicial Law Clerks",
+    "automation_pctile": 36.228543499420326
   },
   {
-    "soc": "17-3013",
-    "occupation": "Mechanical drafters",
-    "automation_pctile": 41.87949957954905
+    "soc": "23-1021",
+    "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+    "automation_pctile": 43.87635313935772
   },
   {
-    "soc": "29-1292",
-    "occupation": "Dental hygienists",
-    "automation_pctile": 42.013038094166994
+    "soc": "23-1022",
+    "occupation": "Arbitrators, Mediators, and Conciliators",
+    "automation_pctile": 18.155431926469888
   },
   {
-    "soc": "37-2012",
-    "occupation": "Maids and housekeeping cleaners",
-    "automation_pctile": 42.534165640303065
+    "soc": "23-1023",
+    "occupation": "Judges, Magistrate Judges, and Magistrates",
+    "automation_pctile": 36.07857489757041
   },
   {
-    "soc": "53-3033",
-    "occupation": "Light truck or delivery services drivers",
-    "automation_pctile": 43.14032821081128
+    "soc": "23-2011",
+    "occupation": "Paralegals and Legal Assistants",
+    "automation_pctile": 80.15829132057782
   },
   {
-    "soc": "51-9124",
-    "occupation": "Painters, transportation equipment",
-    "automation_pctile": 43.237554636527086
+    "soc": "23-2093",
+    "occupation": "Title Examiners, Abstractors, and Searchers",
+    "automation_pctile": 99.58887102607233
   },
   {
-    "soc": "49-3093",
-    "occupation": "Tire repairers and changers",
-    "automation_pctile": 43.30254699709022
+    "soc": "25-2011",
+    "occupation": "Preschool Teachers, Except Special Education",
+    "automation_pctile": 4.969952799690343
   },
   {
-    "soc": "49-2091",
-    "occupation": "Avionics technicians",
-    "automation_pctile": 43.31528701149436
+    "soc": "25-2012",
+    "occupation": "Kindergarten Teachers, Except Special Education",
+    "automation_pctile": 24.57235812585829
   },
   {
-    "soc": "43-4061",
-    "occupation": "Eligibility interviewers, government programs",
-    "automation_pctile": 43.41053843019249
+    "soc": "25-2021",
+    "occupation": "Elementary School Teachers, Except Special Education",
+    "automation_pctile": 2.425656295743756
   },
   {
-    "soc": "51-3092",
-    "occupation": "Food batchmakers",
-    "automation_pctile": 43.51517722792526
+    "soc": "25-2022",
+    "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+    "automation_pctile": 27.84917478902939
   },
   {
-    "soc": "51-6011",
-    "occupation": "Laundry and dry-cleaning workers",
-    "automation_pctile": 43.63426283625028
+    "soc": "25-2023",
+    "occupation": "Career/Technical Education Teachers, Middle School",
+    "automation_pctile": 32.327313662326425
   },
   {
-    "soc": "51-8093",
-    "occupation": "Petroleum pump system operators, refinery operators, and gaugers",
-    "automation_pctile": 43.65551244879231
+    "soc": "25-2031",
+    "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "automation_pctile": 5.941621297851176
   },
   {
-    "soc": "49-3011",
-    "occupation": "Aircraft mechanics and service technicians",
-    "automation_pctile": 43.738651710255496
+    "soc": "25-2032",
+    "occupation": "Career/Technical Education Teachers, Secondary School",
+    "automation_pctile": 6.340418882790109
   },
   {
-    "soc": "29-2081",
-    "occupation": "Opticians, dispensing",
-    "automation_pctile": 43.78722834890937
+    "soc": "25-2057",
+    "occupation": "Special Education Teachers, Middle School",
+    "automation_pctile": 10.38006875505056
   },
   {
-    "soc": "53-2022",
-    "occupation": "Airfield operations specialists",
-    "automation_pctile": 43.79737159482731
+    "soc": "25-2058",
+    "occupation": "Special Education Teachers, Secondary School",
+    "automation_pctile": 5.110326015262399
   },
   {
-    "soc": "47-2031",
-    "occupation": "Carpenters",
-    "automation_pctile": 44.22269301350411
+    "soc": "25-3011",
+    "occupation": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+    "automation_pctile": 29.206921947345663
   },
   {
-    "soc": "49-9031",
-    "occupation": "Home appliance repairers",
-    "automation_pctile": 44.24216268144996
-  },
-  {
-    "soc": "31-9095",
-    "occupation": "Pharmacy aides",
-    "automation_pctile": 44.26721601121121
-  },
-  {
-    "soc": "27-3099",
-    "occupation": "Public address system and other announcers",
-    "automation_pctile": 44.28159576909608
-  },
-  {
-    "soc": "47-3016",
-    "occupation": "Helpers\u2013roofers",
-    "automation_pctile": 44.28474724634342
-  },
-  {
-    "soc": "53-7121",
-    "occupation": "Tank car, truck, and ship loaders",
-    "automation_pctile": 44.29140375147706
-  },
-  {
-    "soc": "39-3091",
-    "occupation": "Amusement and recreation attendants",
-    "automation_pctile": 44.51791389274188
-  },
-  {
-    "soc": "49-3031",
-    "occupation": "Bus and truck mechanics and diesel engine specialists",
-    "automation_pctile": 44.69300070313908
-  },
-  {
-    "soc": "51-6063",
-    "occupation": "Textile knitting and weaving machine setters, operators, and tenders",
-    "automation_pctile": 44.70185775621525
-  },
-  {
-    "soc": "47-2121",
-    "occupation": "Glaziers",
-    "automation_pctile": 44.73660325004472
-  },
-  {
-    "soc": "11-3013",
-    "occupation": "Administrative services managers",
-    "automation_pctile": 44.822607490823685
-  },
-  {
-    "soc": "11-3012",
-    "occupation": "Administrative services managers",
-    "automation_pctile": 44.97752362769777
-  },
-  {
-    "soc": "51-2021",
-    "occupation": "Coil winders, tapers, and finishers",
-    "automation_pctile": 44.98494209541539
-  },
-  {
-    "soc": "49-2011",
-    "occupation": "Computer, automated teller, and office machine repairers",
-    "automation_pctile": 45.02944680602048
-  },
-  {
-    "soc": "47-3013",
-    "occupation": "Helpers\u2013electricians",
-    "automation_pctile": 45.0687275011498
-  },
-  {
-    "soc": "27-4012",
-    "occupation": "Broadcast technicians",
-    "automation_pctile": 45.081577238166034
-  },
-  {
-    "soc": "53-6061",
-    "occupation": "Transportation attendants, except flight attendants",
-    "automation_pctile": 45.09702374366847
-  },
-  {
-    "soc": "47-2141",
-    "occupation": "Painters, construction and maintenance",
-    "automation_pctile": 45.23367716132973
-  },
-  {
-    "soc": "17-3022",
-    "occupation": "Civil engineering technicians",
-    "automation_pctile": 45.27154974960386
-  },
-  {
-    "soc": "47-2044",
-    "occupation": "Tile and marble setters",
-    "automation_pctile": 45.29516449400656
-  },
-  {
-    "soc": "49-3041",
-    "occupation": "Farm equipment mechanics and service technicians",
-    "automation_pctile": 45.31764543808429
-  },
-  {
-    "soc": "11-9131",
-    "occupation": "Postmasters and mail superintendents",
-    "automation_pctile": 45.3260636007121
-  },
-  {
-    "soc": "51-9011",
-    "occupation": "Chemical equipment operators and tenders",
-    "automation_pctile": 45.40372892297198
-  },
-  {
-    "soc": "45-4021",
-    "occupation": "Fallers",
-    "automation_pctile": 45.40623425594811
-  },
-  {
-    "soc": "49-2092",
-    "occupation": "Electric motor, power tool, and related repairers",
-    "automation_pctile": 45.41633483196134
+    "soc": "25-3021",
+    "occupation": "Self-Enrichment Teachers",
+    "automation_pctile": 23.73671469165249
   },
   {
     "soc": "25-4011",
     "occupation": "Archivists",
-    "automation_pctile": 45.42063230093499
+    "automation_pctile": 55.19949800163292
   },
   {
-    "soc": "19-4042",
-    "occupation": "Environmental science and protection technicians, including health",
-    "automation_pctile": 45.44464326588135
+    "soc": "25-4012",
+    "occupation": "Curators",
+    "automation_pctile": 4.163979105930119
   },
   {
-    "soc": "49-9094",
-    "occupation": "Locksmiths and safe repairers",
-    "automation_pctile": 45.45412208042606
+    "soc": "25-4013",
+    "occupation": "Museum Technicians and Conservators",
+    "automation_pctile": 41.31813634966394
   },
   {
-    "soc": "35-9021",
-    "occupation": "Dishwashers",
-    "automation_pctile": 45.74163799401463
+    "soc": "25-4022",
+    "occupation": "Librarians and Media Collections Specialists",
+    "automation_pctile": 47.67939690749536
+  },
+  {
+    "soc": "25-4031",
+    "occupation": "Library Technicians",
+    "automation_pctile": 99.55153582760671
+  },
+  {
+    "soc": "25-9021",
+    "occupation": "Farm and Home Management Educators",
+    "automation_pctile": 4.977905034198484
+  },
+  {
+    "soc": "25-9031",
+    "occupation": "Instructional Coordinators",
+    "automation_pctile": 1.2439899011272175
+  },
+  {
+    "soc": "27-1011",
+    "occupation": "Art Directors",
+    "automation_pctile": 12.58753464763773
+  },
+  {
+    "soc": "27-1012",
+    "occupation": "Craft Artists",
+    "automation_pctile": 15.38779854401252
+  },
+  {
+    "soc": "27-1013",
+    "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+    "automation_pctile": 15.719126147086577
+  },
+  {
+    "soc": "27-1014",
+    "occupation": "Special Effects Artists and Animators",
+    "automation_pctile": 10.12214818221685
+  },
+  {
+    "soc": "27-1021",
+    "occupation": "Commercial and Industrial Designers",
+    "automation_pctile": 15.532566415496968
+  },
+  {
+    "soc": "27-1022",
+    "occupation": "Fashion Designers",
+    "automation_pctile": 12.360330161895403
+  },
+  {
+    "soc": "27-1023",
+    "occupation": "Floral Designers",
+    "automation_pctile": 17.365037171658358
+  },
+  {
+    "soc": "27-1024",
+    "occupation": "Graphic Designers",
+    "automation_pctile": 20.12812088388544
+  },
+  {
+    "soc": "27-1025",
+    "occupation": "Interior Designers",
+    "automation_pctile": 12.544502672989392
+  },
+  {
+    "soc": "27-1026",
+    "occupation": "Merchandise Displayers and Window Trimmers",
+    "automation_pctile": 36.89746903472739
+  },
+  {
+    "soc": "27-1027",
+    "occupation": "Set and Exhibit Designers",
+    "automation_pctile": 3.0366529804525397
+  },
+  {
+    "soc": "27-2011",
+    "occupation": "Actors",
+    "automation_pctile": 35.12854639818807
+  },
+  {
+    "soc": "27-2012",
+    "occupation": "Producers and Directors",
+    "automation_pctile": 12.49057319179286
+  },
+  {
+    "soc": "27-2021",
+    "occupation": "Athletes and Sports Competitors",
+    "automation_pctile": 32.43669176503487
+  },
+  {
+    "soc": "27-2022",
+    "occupation": "Coaches and Scouts",
+    "automation_pctile": 7.440695009794579
+  },
+  {
+    "soc": "27-2023",
+    "occupation": "Umpires, Referees, and Other Sports Officials",
+    "automation_pctile": 97.13208785529476
+  },
+  {
+    "soc": "27-2031",
+    "occupation": "Dancers",
+    "automation_pctile": 22.738065951461607
+  },
+  {
+    "soc": "27-2032",
+    "occupation": "Choreographers",
+    "automation_pctile": 1.0366272480757686
+  },
+  {
+    "soc": "27-2041",
+    "occupation": "Music Directors and Composers",
+    "automation_pctile": 10.075829904029083
+  },
+  {
+    "soc": "27-2042",
+    "occupation": "Musicians and Singers",
+    "automation_pctile": 19.31296259178979
+  },
+  {
+    "soc": "27-3011",
+    "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+    "automation_pctile": 22.15587867773407
+  },
+  {
+    "soc": "27-3023",
+    "occupation": "News Analysts, Reporters, and Journalists",
+    "automation_pctile": 18.36734424975163
+  },
+  {
+    "soc": "27-3031",
+    "occupation": "Public Relations Specialists",
+    "automation_pctile": 29.174136419110354
+  },
+  {
+    "soc": "27-3041",
+    "occupation": "Editors",
+    "automation_pctile": 17.656285822840026
+  },
+  {
+    "soc": "27-3042",
+    "occupation": "Technical Writers",
+    "automation_pctile": 69.0166139695493
+  },
+  {
+    "soc": "27-3043",
+    "occupation": "Writers and Authors",
+    "automation_pctile": 15.632108859734831
+  },
+  {
+    "soc": "27-3091",
+    "occupation": "Interpreters and Translators",
+    "automation_pctile": 35.92590904658909
+  },
+  {
+    "soc": "27-3092",
+    "occupation": "Court Reporters and Simultaneous Captioners",
+    "automation_pctile": 37.14183360546097
+  },
+  {
+    "soc": "27-3099",
+    "occupation": "Media and Communication Workers, All Other",
+    "automation_pctile": 54.05487227827799
+  },
+  {
+    "soc": "27-4011",
+    "occupation": "Audio and Video Technicians",
+    "automation_pctile": 37.90086121304594
+  },
+  {
+    "soc": "27-4012",
+    "occupation": "Broadcast Technicians",
+    "automation_pctile": 54.77157322636105
+  },
+  {
+    "soc": "27-4014",
+    "occupation": "Sound Engineering Technicians",
+    "automation_pctile": 22.74818063570442
+  },
+  {
+    "soc": "27-4021",
+    "occupation": "Photographers",
+    "automation_pctile": 12.344123414959222
+  },
+  {
+    "soc": "27-4031",
+    "occupation": "Camera Operators, Television, Video, and Film",
+    "automation_pctile": 41.70412200122865
+  },
+  {
+    "soc": "27-4032",
+    "occupation": "Film and Video Editors",
+    "automation_pctile": 34.06413283362918
+  },
+  {
+    "soc": "29-1011",
+    "occupation": "Chiropractors",
+    "automation_pctile": 12.774280396408813
+  },
+  {
+    "soc": "29-1021",
+    "occupation": "Dentists, General",
+    "automation_pctile": 1.3457412993951186
+  },
+  {
+    "soc": "29-1022",
+    "occupation": "Oral and Maxillofacial Surgeons",
+    "automation_pctile": 0.869963604188301
+  },
+  {
+    "soc": "29-1023",
+    "occupation": "Orthodontists",
+    "automation_pctile": 12.548494291675247
+  },
+  {
+    "soc": "29-1024",
+    "occupation": "Prosthodontists",
+    "automation_pctile": 17.65687487724804
+  },
+  {
+    "soc": "29-1031",
+    "occupation": "Dietitians and Nutritionists",
+    "automation_pctile": 1.0019195422985243
+  },
+  {
+    "soc": "29-1041",
+    "occupation": "Optometrists",
+    "automation_pctile": 23.78757488935465
+  },
+  {
+    "soc": "29-1051",
+    "occupation": "Pharmacists",
+    "automation_pctile": 7.246198545128621
+  },
+  {
+    "soc": "29-1071",
+    "occupation": "Physician Assistants",
+    "automation_pctile": 23.90812952438352
+  },
+  {
+    "soc": "29-1081",
+    "occupation": "Podiatrists",
+    "automation_pctile": 2.9206015113585964
+  },
+  {
+    "soc": "29-1122",
+    "occupation": "Occupational Therapists",
+    "automation_pctile": 0.7140192003834435
+  },
+  {
+    "soc": "29-1123",
+    "occupation": "Physical Therapists",
+    "automation_pctile": 12.304416497429784
+  },
+  {
+    "soc": "29-1124",
+    "occupation": "Radiation Therapists",
+    "automation_pctile": 34.20740481694592
+  },
+  {
+    "soc": "29-1125",
+    "occupation": "Recreational Therapists",
+    "automation_pctile": 0.0116725781376796
+  },
+  {
+    "soc": "29-1126",
+    "occupation": "Respiratory Therapists",
+    "automation_pctile": 18.327265297859235
+  },
+  {
+    "soc": "29-1127",
+    "occupation": "Speech-Language Pathologists",
+    "automation_pctile": 3.6171118445355206
+  },
+  {
+    "soc": "29-1131",
+    "occupation": "Veterinarians",
+    "automation_pctile": 15.595060437757333
+  },
+  {
+    "soc": "29-1181",
+    "occupation": "Audiologists",
+    "automation_pctile": 0.5959912987363079
+  },
+  {
+    "soc": "29-1291",
+    "occupation": "Acupuncturists",
+    "automation_pctile": 12.092387913409622
+  },
+  {
+    "soc": "29-1292",
+    "occupation": "Dental Hygienists",
+    "automation_pctile": 50.962607911279726
+  },
+  {
+    "soc": "29-1299",
+    "occupation": "Healthcare Diagnosing or Treating Practitioners, All Other",
+    "automation_pctile": 12.08584630919435
+  },
+  {
+    "soc": "29-2031",
+    "occupation": "Cardiovascular Technologists and Technicians",
+    "automation_pctile": 30.284798505413956
+  },
+  {
+    "soc": "29-2032",
+    "occupation": "Diagnostic Medical Sonographers",
+    "automation_pctile": 34.549405155807214
+  },
+  {
+    "soc": "29-2033",
+    "occupation": "Nuclear Medicine Technologists",
+    "automation_pctile": 23.7498599058102
+  },
+  {
+    "soc": "29-2042",
+    "occupation": "Emergency Medical Technicians",
+    "automation_pctile": 17.505139112174096
+  },
+  {
+    "soc": "29-2043",
+    "occupation": "Paramedics",
+    "automation_pctile": 17.582281987475774
+  },
+  {
+    "soc": "29-2051",
+    "occupation": "Dietetic Technicians",
+    "automation_pctile": 22.771394029809564
+  },
+  {
+    "soc": "29-2052",
+    "occupation": "Pharmacy Technicians",
+    "automation_pctile": 78.08506782728986
+  },
+  {
+    "soc": "29-2053",
+    "occupation": "Psychiatric Technicians",
+    "automation_pctile": 17.261937148824753
+  },
+  {
+    "soc": "29-2055",
+    "occupation": "Surgical Technologists",
+    "automation_pctile": 34.29567772027264
+  },
+  {
+    "soc": "29-2056",
+    "occupation": "Veterinary Technologists and Technicians",
+    "automation_pctile": 13.228015055610612
+  },
+  {
+    "soc": "29-2061",
+    "occupation": "Licensed Practical and Licensed Vocational Nurses",
+    "automation_pctile": 18.147053402587527
+  },
+  {
+    "soc": "29-2072",
+    "occupation": "Medical Records Specialists",
+    "automation_pctile": 70.66285052418867
+  },
+  {
+    "soc": "29-2081",
+    "occupation": "Opticians, Dispensing",
+    "automation_pctile": 53.13869890592444
+  },
+  {
+    "soc": "29-2091",
+    "occupation": "Orthotists and Prosthetists",
+    "automation_pctile": 0.8658324726163333
+  },
+  {
+    "soc": "29-2099",
+    "occupation": "Health Technologists and Technicians, All Other",
+    "automation_pctile": 21.99104420279779
+  },
+  {
+    "soc": "29-9021",
+    "occupation": "Health Information Technologists and Medical Registrars",
+    "automation_pctile": 71.1972468837084
+  },
+  {
+    "soc": "29-9091",
+    "occupation": "Athletic Trainers",
+    "automation_pctile": 4.186417428445778
+  },
+  {
+    "soc": "31-1133",
+    "occupation": "Psychiatric Aides",
+    "automation_pctile": 36.6522363838136
+  },
+  {
+    "soc": "31-2011",
+    "occupation": "Occupational Therapy Assistants",
+    "automation_pctile": 13.12623265447913
+  },
+  {
+    "soc": "31-2012",
+    "occupation": "Occupational Therapy Aides",
+    "automation_pctile": 32.35861880382582
+  },
+  {
+    "soc": "31-2021",
+    "occupation": "Physical Therapist Assistants",
+    "automation_pctile": 11.70827018437558
+  },
+  {
+    "soc": "31-2022",
+    "occupation": "Physical Therapist Aides",
+    "automation_pctile": 42.72033386363732
+  },
+  {
+    "soc": "31-9011",
+    "occupation": "Massage Therapists",
+    "automation_pctile": 37.79169237966665
+  },
+  {
+    "soc": "31-9091",
+    "occupation": "Dental Assistants",
+    "automation_pctile": 37.48777130799687
+  },
+  {
+    "soc": "31-9092",
+    "occupation": "Medical Assistants",
+    "automation_pctile": 33.96889978742886
+  },
+  {
+    "soc": "31-9093",
+    "occupation": "Medical Equipment Preparers",
+    "automation_pctile": 56.429769135626216
+  },
+  {
+    "soc": "31-9094",
+    "occupation": "Medical Transcriptionists",
+    "automation_pctile": 69.23475786841051
+  },
+  {
+    "soc": "31-9095",
+    "occupation": "Pharmacy Aides",
+    "automation_pctile": 54.03658833948197
+  },
+  {
+    "soc": "31-9096",
+    "occupation": "Veterinary Assistants and Laboratory Animal Caretakers",
+    "automation_pctile": 66.58597396348513
+  },
+  {
+    "soc": "33-1011",
+    "occupation": "First-Line Supervisors of Correctional Officers",
+    "automation_pctile": 12.64554875611086
+  },
+  {
+    "soc": "33-1012",
+    "occupation": "First-Line Supervisors of Police and Detectives",
+    "automation_pctile": 2.5443430082419565
+  },
+  {
+    "soc": "33-1021",
+    "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+    "automation_pctile": 0.9425723106914772
+  },
+  {
+    "soc": "33-2011",
+    "occupation": "Firefighters",
+    "automation_pctile": 28.10668457392067
+  },
+  {
+    "soc": "33-2021",
+    "occupation": "Fire Inspectors and Investigators",
+    "automation_pctile": 36.66312613964589
+  },
+  {
+    "soc": "33-2022",
+    "occupation": "Forest Fire Inspectors and Prevention Specialists",
+    "automation_pctile": 17.367191870677136
+  },
+  {
+    "soc": "33-3011",
+    "occupation": "Bailiffs",
+    "automation_pctile": 35.03517352380253
+  },
+  {
+    "soc": "33-3012",
+    "occupation": "Correctional Officers and Jailers",
+    "automation_pctile": 41.68516375014978
+  },
+  {
+    "soc": "33-3021",
+    "occupation": "Detectives and Criminal Investigators",
+    "automation_pctile": 34.38154790167194
+  },
+  {
+    "soc": "33-3031",
+    "occupation": "Fish and Game Wardens",
+    "automation_pctile": 19.653753818971488
+  },
+  {
+    "soc": "33-3041",
+    "occupation": "Parking Enforcement Workers",
+    "automation_pctile": 61.185205371494135
+  },
+  {
+    "soc": "33-3051",
+    "occupation": "Police and Sheriff's Patrol Officers",
+    "automation_pctile": 21.57232727800903
+  },
+  {
+    "soc": "33-3052",
+    "occupation": "Transit and Railroad Police",
+    "automation_pctile": 40.11581429718756
+  },
+  {
+    "soc": "33-9011",
+    "occupation": "Animal Control Workers",
+    "automation_pctile": 29.281166054902663
+  },
+  {
+    "soc": "33-9021",
+    "occupation": "Private Detectives and Investigators",
+    "automation_pctile": 34.09412810414234
+  },
+  {
+    "soc": "33-9031",
+    "occupation": "Gambling Surveillance Officers and Gambling Investigators",
+    "automation_pctile": 85.53959011424091
+  },
+  {
+    "soc": "33-9032",
+    "occupation": "Security Guards",
+    "automation_pctile": 62.2422557559529
+  },
+  {
+    "soc": "33-9091",
+    "occupation": "Crossing Guards and Flaggers",
+    "automation_pctile": 36.97438713926812
+  },
+  {
+    "soc": "33-9092",
+    "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+    "automation_pctile": 49.955030346377946
+  },
+  {
+    "soc": "35-1011",
+    "occupation": "Chefs and Head Cooks",
+    "automation_pctile": 21.84054855226703
+  },
+  {
+    "soc": "35-1012",
+    "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "automation_pctile": 43.7846079153101
+  },
+  {
+    "soc": "35-2011",
+    "occupation": "Cooks, Fast Food",
+    "automation_pctile": 59.84181253901517
+  },
+  {
+    "soc": "35-2012",
+    "occupation": "Cooks, Institution and Cafeteria",
+    "automation_pctile": 60.90009528730121
+  },
+  {
+    "soc": "35-2013",
+    "occupation": "Cooks, Private Household",
+    "automation_pctile": 34.04176426755657
+  },
+  {
+    "soc": "35-2014",
+    "occupation": "Cooks, Restaurant",
+    "automation_pctile": 87.1101874324622
+  },
+  {
+    "soc": "35-2015",
+    "occupation": "Cooks, Short Order",
+    "automation_pctile": 79.87366953148629
+  },
+  {
+    "soc": "35-2021",
+    "occupation": "Food Preparation Workers",
+    "automation_pctile": 67.4608515215508
   },
   {
     "soc": "35-3011",
     "occupation": "Bartenders",
-    "automation_pctile": 46.19613953180752
+    "automation_pctile": 56.19531773052218
+  },
+  {
+    "soc": "35-3023",
+    "occupation": "Fast Food and Counter Workers",
+    "automation_pctile": 77.34301428751466
+  },
+  {
+    "soc": "35-3031",
+    "occupation": "Waiters and Waitresses",
+    "automation_pctile": 82.65776543450436
+  },
+  {
+    "soc": "35-3041",
+    "occupation": "Food Servers, Nonrestaurant",
+    "automation_pctile": 66.44825924346503
+  },
+  {
+    "soc": "35-9011",
+    "occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+    "automation_pctile": 71.06744564461697
+  },
+  {
+    "soc": "35-9021",
+    "occupation": "Dishwashers",
+    "automation_pctile": 55.617416602684514
+  },
+  {
+    "soc": "35-9031",
+    "occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+    "automation_pctile": 92.5096073998875
+  },
+  {
+    "soc": "37-1011",
+    "occupation": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "automation_pctile": 79.66234626261254
+  },
+  {
+    "soc": "37-1012",
+    "occupation": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+    "automation_pctile": 40.21202393359062
+  },
+  {
+    "soc": "37-2011",
+    "occupation": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "automation_pctile": 49.61606053743154
+  },
+  {
+    "soc": "37-2012",
+    "occupation": "Maids and Housekeeping Cleaners",
+    "automation_pctile": 51.65614972026892
+  },
+  {
+    "soc": "37-2021",
+    "occupation": "Pest Control Workers",
+    "automation_pctile": 49.69055266789717
+  },
+  {
+    "soc": "37-3011",
+    "occupation": "Landscaping and Groundskeeping Workers",
+    "automation_pctile": 85.53183939834604
+  },
+  {
+    "soc": "37-3012",
+    "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+    "automation_pctile": 92.17853557043796
   },
   {
     "soc": "37-3013",
-    "occupation": "Tree trimmers and pruners",
-    "automation_pctile": 46.22531965092361
+    "occupation": "Tree Trimmers and Pruners",
+    "automation_pctile": 55.251838586071
   },
   {
-    "soc": "15-1299",
-    "occupation": "Computer operators",
-    "automation_pctile": 46.49315254704281
+    "soc": "39-1013",
+    "occupation": "First-Line Supervisors of Gambling Services Workers",
+    "automation_pctile": 32.42555398629394
   },
   {
-    "soc": "31-9093",
-    "occupation": "Medical equipment preparers",
-    "automation_pctile": 46.5375048651311
+    "soc": "39-1014",
+    "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+    "automation_pctile": 19.63764008062605
   },
   {
-    "soc": "51-8092",
-    "occupation": "Gas plant operators",
-    "automation_pctile": 46.5472031249
+    "soc": "39-1022",
+    "occupation": "First-Line Supervisors of Personal Service Workers",
+    "automation_pctile": 19.56569018497393
   },
   {
-    "soc": "51-4031",
-    "occupation": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 46.653530431718856
+    "soc": "39-2011",
+    "occupation": "Animal Trainers",
+    "automation_pctile": 21.85613524193162
   },
   {
-    "soc": "53-3032",
-    "occupation": "Heavy and tractor-trailer truck drivers",
-    "automation_pctile": 47.9156330644215
+    "soc": "39-2021",
+    "occupation": "Animal Caretakers",
+    "automation_pctile": 60.05673989078001
   },
   {
-    "soc": "45-4022",
-    "occupation": "Logging equipment operators",
-    "automation_pctile": 47.92936058233448
+    "soc": "39-3011",
+    "occupation": "Gambling Dealers",
+    "automation_pctile": 91.47869242942625
   },
   {
-    "soc": "49-3052",
-    "occupation": "Motorcycle mechanics",
-    "automation_pctile": 47.93790065897572
+    "soc": "39-3012",
+    "occupation": "Gambling and Sports Book Writers and Runners",
+    "automation_pctile": 70.44889201191069
   },
   {
-    "soc": "39-5093",
-    "occupation": "Shampooers",
-    "automation_pctile": 47.943319736872986
+    "soc": "39-3021",
+    "occupation": "Motion Picture Projectionists",
+    "automation_pctile": 92.02776864485088
   },
   {
-    "soc": "47-2081",
-    "occupation": "Drywall and ceiling tile installers",
-    "automation_pctile": 47.99385309544252
+    "soc": "39-3031",
+    "occupation": "Ushers, Lobby Attendants, and Ticket Takers",
+    "automation_pctile": 85.98468272521991
   },
   {
-    "soc": "43-5053",
-    "occupation": "Postal service mail sorters, processors, and processing machine operators",
-    "automation_pctile": 48.0620822730624
+    "soc": "39-3091",
+    "occupation": "Amusement and Recreation Attendants",
+    "automation_pctile": 53.42670775786205
   },
   {
-    "soc": "51-2011",
-    "occupation": "Aircraft structure, surfaces, rigging, and systems assemblers",
-    "automation_pctile": 48.08213103257207
+    "soc": "39-3092",
+    "occupation": "Costume Attendants",
+    "automation_pctile": 41.81390314116364
   },
   {
-    "soc": "49-9098",
-    "occupation": "Helpers\u2013installation, maintenance, and repair workers",
-    "automation_pctile": 48.14158849692517
+    "soc": "39-3093",
+    "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+    "automation_pctile": 36.37292383511003
   },
   {
-    "soc": "47-2042",
-    "occupation": "Floor layers, except carpet, wood, and hard tiles",
-    "automation_pctile": 48.1567363130947
+    "soc": "39-4011",
+    "occupation": "Embalmers",
+    "automation_pctile": 37.6305937497917
+  },
+  {
+    "soc": "39-4021",
+    "occupation": "Funeral Attendants",
+    "automation_pctile": 35.09847362051596
   },
   {
     "soc": "39-5011",
     "occupation": "Barbers",
-    "automation_pctile": 48.16776953131072
+    "automation_pctile": 58.36368901213561
   },
   {
-    "soc": "47-5011",
-    "occupation": "Derrick operators, oil and gas",
-    "automation_pctile": 48.17449918485243
+    "soc": "39-5012",
+    "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+    "automation_pctile": 22.384881329564006
   },
   {
-    "soc": "17-3024",
-    "occupation": "Electro-mechanical technicians",
-    "automation_pctile": 48.183447673438685
-  },
-  {
-    "soc": "17-3012",
-    "occupation": "Electrical and electronics drafters",
-    "automation_pctile": 48.1956512661837
-  },
-  {
-    "soc": "51-6021",
-    "occupation": "Pressers, textile, garment, and related materials",
-    "automation_pctile": 48.21200603108625
-  },
-  {
-    "soc": "11-9141",
-    "occupation": "Property, real estate, and community association managers",
-    "automation_pctile": 48.39282889581564
-  },
-  {
-    "soc": "35-2011",
-    "occupation": "Cooks, fast food",
-    "automation_pctile": 48.80016190180984
-  },
-  {
-    "soc": "43-9022",
-    "occupation": "Word processors and typists",
-    "automation_pctile": 48.82212471133048
-  },
-  {
-    "soc": "43-6013",
-    "occupation": "Medical secretaries",
-    "automation_pctile": 49.32853114034406
-  },
-  {
-    "soc": "51-9192",
-    "occupation": "Cleaning, washing, and metal pickling equipment operators and tenders",
-    "automation_pctile": 49.336998068577245
-  },
-  {
-    "soc": "47-2211",
-    "occupation": "Sheet metal workers",
-    "automation_pctile": 49.40860426436932
-  },
-  {
-    "soc": "49-2098",
-    "occupation": "Security and fire alarm systems installers",
-    "automation_pctile": 49.458290320545466
-  },
-  {
-    "soc": "49-9045",
-    "occupation": "Refractory materials repairers, except brickmasons",
-    "automation_pctile": 49.45896084761937
-  },
-  {
-    "soc": "47-2072",
-    "occupation": "Pile-driver operators",
-    "automation_pctile": 49.46081394062361
-  },
-  {
-    "soc": "39-2021",
-    "occupation": "Nonfarm animal caretakers",
-    "automation_pctile": 49.62984772025367
-  },
-  {
-    "soc": "51-2031",
-    "occupation": "Engine and other machine assemblers",
-    "automation_pctile": 49.65326740223487
-  },
-  {
-    "soc": "47-2021",
-    "occupation": "Brickmasons and blockmasons",
-    "automation_pctile": 49.68589159223054
-  },
-  {
-    "soc": "47-4071",
-    "occupation": "Septic tank servicers and sewer pipe cleaners",
-    "automation_pctile": 49.70359960268223
-  },
-  {
-    "soc": "41-2012",
-    "occupation": "Gaming change persons and booth cashiers",
-    "automation_pctile": 49.71696747425557
-  },
-  {
-    "soc": "47-2131",
-    "occupation": "Insulation workers, floor, ceiling, and wall",
-    "automation_pctile": 49.740502974549536
-  },
-  {
-    "soc": "51-5112",
-    "occupation": "Printing press operators",
-    "automation_pctile": 49.82895768699857
-  },
-  {
-    "soc": "47-2071",
-    "occupation": "Paving, surfacing, and tamping equipment operators",
-    "automation_pctile": 49.85680284766752
-  },
-  {
-    "soc": "47-2221",
-    "occupation": "Structural iron and steel workers",
-    "automation_pctile": 49.896254222415656
-  },
-  {
-    "soc": "35-2012",
-    "occupation": "Cooks, institution and cafeteria",
-    "automation_pctile": 50.169500100731454
-  },
-  {
-    "soc": "39-6011",
-    "occupation": "Baggage porters and bellhops",
-    "automation_pctile": 50.18853087822893
-  },
-  {
-    "soc": "51-4023",
-    "occupation": "Rolling machine setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 50.20215476923049
-  },
-  {
-    "soc": "51-9023",
-    "occupation": "Mixing and blending machine setters, operators, and tenders",
-    "automation_pctile": 50.2636238148053
-  },
-  {
-    "soc": "53-6031",
-    "occupation": "Automotive and watercraft service attendants",
-    "automation_pctile": 50.32352626530745
-  },
-  {
-    "soc": "53-5011",
-    "occupation": "Sailors and marine oilers",
-    "automation_pctile": 50.342642382614336
-  },
-  {
-    "soc": "53-4022",
-    "occupation": "Railroad brake, signal, and switch operators",
-    "automation_pctile": 50.35023762565144
-  },
-  {
-    "soc": "53-4031",
-    "occupation": "Railroad conductors and yardmasters",
-    "automation_pctile": 50.376272363220856
-  },
-  {
-    "soc": "47-3011",
-    "occupation": "Helpers\u2013brickmasons, blockmasons, stonemasons, and tile and marble setters",
-    "automation_pctile": 50.38581823047296
-  },
-  {
-    "soc": "53-7073",
-    "occupation": "Wellhead pumpers",
-    "automation_pctile": 50.39639427113859
-  },
-  {
-    "soc": "43-9081",
-    "occupation": "Proofreaders and copy markers",
-    "automation_pctile": 50.39953965268526
-  },
-  {
-    "soc": "47-2161",
-    "occupation": "Plasterers and stucco masons",
-    "automation_pctile": 50.41226747568805
-  },
-  {
-    "soc": "17-3023",
-    "occupation": "Electrical and electronics engineering technicians",
-    "automation_pctile": 50.46878071661667
-  },
-  {
-    "soc": "51-4034",
-    "occupation": "Lathe and turning machine tool setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 50.48034426079114
-  },
-  {
-    "soc": "51-4192",
-    "occupation": "Layout workers, metal and plastic",
-    "automation_pctile": 50.483763948868045
-  },
-  {
-    "soc": "33-3041",
-    "occupation": "Parking enforcement workers",
-    "automation_pctile": 50.488500308290064
-  },
-  {
-    "soc": "51-4111",
-    "occupation": "Tool and die makers",
-    "automation_pctile": 50.52210590609391
-  },
-  {
-    "soc": "51-6052",
-    "occupation": "Tailors, dressmakers, and custom sewers",
-    "automation_pctile": 50.53203580248833
-  },
-  {
-    "soc": "33-9032",
-    "occupation": "Security guards",
-    "automation_pctile": 51.28898162481511
-  },
-  {
-    "soc": "19-4051",
-    "occupation": "Nuclear technicians",
-    "automation_pctile": 51.29263294951754
-  },
-  {
-    "soc": "41-4012",
-    "occupation": "Sales representatives, wholesale and manufacturing, except technical and scientific products",
-    "automation_pctile": 52.06487288482996
-  },
-  {
-    "soc": "53-7062",
-    "occupation": "Labourers and freight, stock, and material movers, hand",
-    "automation_pctile": 53.88293389730756
-  },
-  {
-    "soc": "51-8013",
-    "occupation": "Power plant operators",
-    "automation_pctile": 53.901659889771445
-  },
-  {
-    "soc": "51-8091",
-    "occupation": "Chemical plant and system operators",
-    "automation_pctile": 53.91253461977
-  },
-  {
-    "soc": "43-5041",
-    "occupation": "Meter readers, utilities",
-    "automation_pctile": 53.92795674246975
-  },
-  {
-    "soc": "47-5023",
-    "occupation": "Earth drillers, except oil and gas",
-    "automation_pctile": 53.93856935733942
-  },
-  {
-    "soc": "43-6011",
-    "occupation": "Executive secretaries and executive administrative assistants",
-    "automation_pctile": 54.22675579800189
-  },
-  {
-    "soc": "51-9032",
-    "occupation": "Cutting and slicing machine setters, operators, and tenders",
-    "automation_pctile": 54.25573475899581
-  },
-  {
-    "soc": "31-9096",
-    "occupation": "Veterinary assistants and laboratory animal caretakers",
-    "automation_pctile": 54.32534156496752
-  },
-  {
-    "soc": "51-9161",
-    "occupation": "Computer-controlled machine tool operators, metal and plastic",
-    "automation_pctile": 54.43320498835569
-  },
-  {
-    "soc": "53-4041",
-    "occupation": "Subway and streetcar operators",
-    "automation_pctile": 54.438813032973776
-  },
-  {
-    "soc": "51-8099",
-    "occupation": "Plant and system operators, all other",
-    "automation_pctile": 54.448535675545365
-  },
-  {
-    "soc": "49-9043",
-    "occupation": "Maintenance workers, machinery",
-    "automation_pctile": 54.48300076714393
-  },
-  {
-    "soc": "41-9022",
-    "occupation": "Real estate sales agents",
-    "automation_pctile": 54.59918482194915
-  },
-  {
-    "soc": "43-4021",
-    "occupation": "Correspondence clerks",
-    "automation_pctile": 54.603000730569725
-  },
-  {
-    "soc": "35-3041",
-    "occupation": "Food servers, nonrestaurant",
-    "automation_pctile": 54.768669683428925
-  },
-  {
-    "soc": "51-7041",
-    "occupation": "Sawing machine setters, operators, and tenders, wood",
-    "automation_pctile": 54.794966536127234
-  },
-  {
-    "soc": "51-7021",
-    "occupation": "Furniture Finishers",
-    "automation_pctile": 54.80364071818327
-  },
-  {
-    "soc": "35-2021",
-    "occupation": "Food preparation workers",
-    "automation_pctile": 55.34540830679418
-  },
-  {
-    "soc": "45-4011",
-    "occupation": "Forest and conservation workers",
-    "automation_pctile": 55.34884018627242
-  },
-  {
-    "soc": "51-4052",
-    "occupation": "Pourers and casters, metal",
-    "automation_pctile": 55.3523939797641
-  },
-  {
-    "soc": "47-2043",
-    "occupation": "Floor sanders and finishers",
-    "automation_pctile": 55.354917599842246
-  },
-  {
-    "soc": "47-2041",
-    "occupation": "Carpet Installers",
-    "automation_pctile": 55.36404895944865
-  },
-  {
-    "soc": "47-2142",
-    "occupation": "Paperhangers",
-    "automation_pctile": 55.36497550595077
-  },
-  {
-    "soc": "53-6021",
-    "occupation": "Parking lot attendants",
-    "automation_pctile": 55.44705411549708
-  },
-  {
-    "soc": "47-4051",
-    "occupation": "Highway maintenance workers",
-    "automation_pctile": 55.5395563731922
-  },
-  {
-    "soc": "51-9012",
-    "occupation": "Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",
-    "automation_pctile": 55.572595070833565
-  },
-  {
-    "soc": "51-6091",
-    "occupation": "Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",
-    "automation_pctile": 55.58167766483461
-  },
-  {
-    "soc": "17-1021",
-    "occupation": "Cartographers and photogrammetrists",
-    "automation_pctile": 55.58947406599388
-  },
-  {
-    "soc": "47-2053",
-    "occupation": "Terrazzo workers and finishers",
-    "automation_pctile": 55.5903579425913
-  },
-  {
-    "soc": "51-4051",
-    "occupation": "Metal-refining furnace operators and tenders",
-    "automation_pctile": 55.60275050205714
-  },
-  {
-    "soc": "51-9141",
-    "occupation": "Semiconductor Processors",
-    "automation_pctile": 55.62234817971711
-  },
-  {
-    "soc": "49-3043",
-    "occupation": "Rail car repairers",
-    "automation_pctile": 55.63350331194656
-  },
-  {
-    "soc": "51-4194",
-    "occupation": "Tool grinders, filers, and sharpeners",
-    "automation_pctile": 55.63699614843153
-  },
-  {
-    "soc": "43-5061",
-    "occupation": "Production, planning, and expediting clerks",
-    "automation_pctile": 55.87168062429728
-  },
-  {
-    "soc": "47-2061",
-    "occupation": "Construction labourers",
-    "automation_pctile": 56.51639850155487
-  },
-  {
-    "soc": "53-3051",
-    "occupation": "Bus drivers, school or special client",
-    "automation_pctile": 56.75286292201679
-  },
-  {
-    "soc": "47-2022",
-    "occupation": "Stonemasons",
-    "automation_pctile": 56.758196660104645
-  },
-  {
-    "soc": "53-3054",
-    "occupation": "Taxi drivers and chauffeurs",
-    "automation_pctile": 56.76887023198103
-  },
-  {
-    "soc": "47-4061",
-    "occupation": "Rail-track laying and maintenance equipment operators",
-    "automation_pctile": 56.77891594668822
-  },
-  {
-    "soc": "27-3042",
-    "occupation": "Technical writers",
-    "automation_pctile": 56.81276537251894
-  },
-  {
-    "soc": "49-9096",
-    "occupation": "Riggers",
-    "automation_pctile": 56.82751087244411
-  },
-  {
-    "soc": "51-6031",
-    "occupation": "Sewing machine operators",
-    "automation_pctile": 56.894313656106775
-  },
-  {
-    "soc": "51-8021",
-    "occupation": "Stationary engineers and boiler operators",
-    "automation_pctile": 56.91307622277469
-  },
-  {
-    "soc": "53-3053",
-    "occupation": "Taxi drivers and chauffeurs",
-    "automation_pctile": 57.0530517973021
-  },
-  {
-    "soc": "51-3011",
-    "occupation": "Bakers",
-    "automation_pctile": 57.19440500018135
-  },
-  {
-    "soc": "31-9094",
-    "occupation": "Medical transcriptionists",
-    "automation_pctile": 57.36063475750236
-  },
-  {
-    "soc": "43-4161",
-    "occupation": "Human resources assistants, except payroll and timekeeping",
-    "automation_pctile": 57.41706875432223
-  },
-  {
-    "soc": "49-9097",
-    "occupation": "Signal and track switch repairers",
-    "automation_pctile": 57.42207332457381
-  },
-  {
-    "soc": "53-6041",
-    "occupation": "Traffic technicians",
-    "automation_pctile": 57.42669386568306
-  },
-  {
-    "soc": "47-2181",
-    "occupation": "Roofers",
-    "automation_pctile": 57.51004647666977
-  },
-  {
-    "soc": "51-4062",
-    "occupation": "Patternmakers, metal and plastic",
-    "automation_pctile": 57.51100350167525
-  },
-  {
-    "soc": "53-7021",
-    "occupation": "Crane and tower operators",
-    "automation_pctile": 57.53660544449697
-  },
-  {
-    "soc": "51-9195",
-    "occupation": "Molders, shapers, and casters, except metal and plastic",
-    "automation_pctile": 57.5577880043316
-  },
-  {
-    "soc": "53-6051",
-    "occupation": "Transportation inspectors",
-    "automation_pctile": 57.57200317829832
-  },
-  {
-    "soc": "53-7072",
-    "occupation": "Pump operators, except wellhead pumpers",
-    "automation_pctile": 57.57968376114485
-  },
-  {
-    "soc": "47-2171",
-    "occupation": "Reinforcing iron and rebar workers",
-    "automation_pctile": 57.58830308189482
-  },
-  {
-    "soc": "49-9011",
-    "occupation": "Mechanical door repairers",
-    "automation_pctile": 57.60535275667395
-  },
-  {
-    "soc": "19-4043",
-    "occupation": "Geological and petroleum technicians",
-    "automation_pctile": 57.61127168202631
-  },
-  {
-    "soc": "29-9021",
-    "occupation": "Medical records and health information technicians",
-    "automation_pctile": 57.63420370795376
-  },
-  {
-    "soc": "29-2072",
-    "occupation": "Medical records and health information technicians",
-    "automation_pctile": 57.74874801927826
-  },
-  {
-    "soc": "39-3012",
-    "occupation": "Gaming and sports book writers and runners",
-    "automation_pctile": 57.85060717750466
-  },
-  {
-    "soc": "35-9011",
-    "occupation": "Dining room and cafeteria attendants and bartender helpers",
-    "automation_pctile": 58.16880884827527
-  },
-  {
-    "soc": "51-4081",
-    "occupation": "Multiple machine tool setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 58.24796152149908
-  },
-  {
-    "soc": "51-7032",
-    "occupation": "Patternmakers, wood",
-    "automation_pctile": 58.24807124411117
-  },
-  {
-    "soc": "51-4021",
-    "occupation": "Extruding and drawing machine setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 58.28811999752514
-  },
-  {
-    "soc": "53-4013",
-    "occupation": "Rail yard engineers, dinkey operators, and hostlers",
-    "automation_pctile": 58.29013157874685
-  },
-  {
-    "soc": "49-3021",
-    "occupation": "Automotive body and related repairers",
-    "automation_pctile": 58.38474904457512
-  },
-  {
-    "soc": "49-2093",
-    "occupation": "Electrical and electronics installers and repairers, transportation equipment",
-    "automation_pctile": 58.38920500176623
-  },
-  {
-    "soc": "53-7071",
-    "occupation": "Gas compressor and gas pumping station operators",
-    "automation_pctile": 58.39411204080706
-  },
-  {
-    "soc": "51-4191",
-    "occupation": "Heat treating equipment setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 58.40300566808728
-  },
-  {
-    "soc": "49-9063",
-    "occupation": "Musical instrument repairers and tuners",
-    "automation_pctile": 58.40649850457224
-  },
-  {
-    "soc": "51-3091",
-    "occupation": "Food and tobacco roasting, baking, and drying machine operators and tenders",
-    "automation_pctile": 58.41838512088232
-  },
-  {
-    "soc": "53-7031",
-    "occupation": "Dredge operators",
-    "automation_pctile": 58.41901297805151
-  },
-  {
-    "soc": "41-2031",
-    "occupation": "Retail salespersons",
-    "automation_pctile": 60.73553162586662
-  },
-  {
-    "soc": "35-3023",
-    "occupation": "Combined food preparation and serving workers, including fast food",
-    "automation_pctile": 63.04027337998374
-  },
-  {
-    "soc": "41-3021",
-    "occupation": "Insurance sales agents",
-    "automation_pctile": 63.32645433512516
-  },
-  {
-    "soc": "51-7011",
-    "occupation": "Cabinetmakers and bench carpenters",
-    "automation_pctile": 63.37493953826896
-  },
-  {
-    "soc": "51-9123",
-    "occupation": "Painting, coating, and decorating workers",
-    "automation_pctile": 63.380102596738006
-  },
-  {
-    "soc": "29-2052",
-    "occupation": "Pharmacy technicians",
-    "automation_pctile": 63.67752402391831
-  },
-  {
-    "soc": "43-9071",
-    "occupation": "Office machine operators, except computer",
-    "automation_pctile": 63.69260478738043
-  },
-  {
-    "soc": "47-3012",
-    "occupation": "Helpers\u2013carpenters",
-    "automation_pctile": 63.70760630673383
-  },
-  {
-    "soc": "51-4193",
-    "occupation": "Plating and coating machine setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 63.72681385955079
-  },
-  {
-    "soc": "43-4131",
-    "occupation": "Loan interviewers and clerks",
-    "automation_pctile": 63.83233043818029
-  },
-  {
-    "soc": "47-4031",
-    "occupation": "Fence erectors",
-    "automation_pctile": 63.84613110450134
-  },
-  {
-    "soc": "51-4061",
-    "occupation": "Model makers, metal and plastic",
-    "automation_pctile": 63.848100015818346
-  },
-  {
-    "soc": "51-4022",
-    "occupation": "Forging machine setters, operators, and tenders, Metal and Plastic",
-    "automation_pctile": 63.85343984960687
-  },
-  {
-    "soc": "51-9193",
-    "occupation": "Cooling and freezing equipment operators and tenders",
-    "automation_pctile": 63.857456916349605
-  },
-  {
-    "soc": "53-7011",
-    "occupation": "Conveyor operators and tenders",
-    "automation_pctile": 63.873342312300416
-  },
-  {
-    "soc": "53-7063",
-    "occupation": "Machine feeders and offbearers",
-    "automation_pctile": 63.90180313873724
-  },
-  {
-    "soc": "53-7051",
-    "occupation": "Industrial truck and tractor operators",
-    "automation_pctile": 64.3929764117719
-  },
-  {
-    "soc": "47-5013",
-    "occupation": "Service unit operators, oil, gas, and mining",
-    "automation_pctile": 64.41987064313605
-  },
-  {
-    "soc": "49-3053",
-    "occupation": "Outdoor power equipment and other small engine mechanics",
-    "automation_pctile": 64.44074232223642
-  },
-  {
-    "soc": "49-2021",
-    "occupation": "Radio, cellular, and tower equipment installers and repairs",
-    "automation_pctile": 64.4476914210023
-  },
-  {
-    "soc": "51-2051",
-    "occupation": "Fiberglass laminators and fabricators",
-    "automation_pctile": 64.45898065864655
-  },
-  {
-    "soc": "51-3021",
-    "occupation": "Butchers and meat cutters",
-    "automation_pctile": 64.54434485085497
-  },
-  {
-    "soc": "51-9041",
-    "occupation": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
-    "automation_pctile": 64.58687455444237
-  },
-  {
-    "soc": "13-2081",
-    "occupation": "Tax examiners and collectors, and revenue agents",
-    "automation_pctile": 64.61950484013873
-  },
-  {
-    "soc": "53-7081",
-    "occupation": "Refuse and recyclable material collectors",
-    "automation_pctile": 64.70434480208937
-  },
-  {
-    "soc": "53-7199",
-    "occupation": "Excavating and loading machine and dragline operators",
-    "automation_pctile": 64.71969987208172
-  },
-  {
-    "soc": "13-2011",
-    "occupation": "Accountants and auditors",
-    "automation_pctile": 65.6025341046833
-  },
-  {
-    "soc": "13-2031",
-    "occupation": "Budget analysts",
-    "automation_pctile": 65.63128752475235
-  },
-  {
-    "soc": "51-9197",
-    "occupation": "Tire builders",
-    "automation_pctile": 65.6440702090612
-  },
-  {
-    "soc": "49-3091",
-    "occupation": "Bicycle repairers",
-    "automation_pctile": 65.65174469620703
-  },
-  {
-    "soc": "47-5022",
-    "occupation": "Excavating and loading machine and dragline operators",
-    "automation_pctile": 65.6725980882054
-  },
-  {
-    "soc": "47-3014",
-    "occupation": "Helpers\u2013painters, paperhangers, plasterers, and stucco masons",
-    "automation_pctile": 65.67699918409046
-  },
-  {
-    "soc": "23-2011",
-    "occupation": "Paralegals and legal assistants",
-    "automation_pctile": 65.90084550416168
-  },
-  {
-    "soc": "43-5021",
-    "occupation": "Couriers and messengers",
-    "automation_pctile": 65.94468578339354
-  },
-  {
-    "soc": "43-4081",
-    "occupation": "Hotel, motel, and resort desk clerks",
-    "automation_pctile": 66.1040456860574
-  },
-  {
-    "soc": "51-4032",
-    "occupation": "Drilling and boring machine tool setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 66.10728250311413
-  },
-  {
-    "soc": "43-4111",
-    "occupation": "Interviewers, except eligibility and loan",
-    "automation_pctile": 66.20317397038282
-  },
-  {
-    "soc": "49-9091",
-    "occupation": "Coin, vending, and amusement machine servicers and repairers",
-    "automation_pctile": 66.22040042048143
-  },
-  {
-    "soc": "51-3022",
-    "occupation": "Meat, poultry, and fish cutters and trimmers",
-    "automation_pctile": 66.30640466126039
-  },
-  {
-    "soc": "47-2051",
-    "occupation": "Cement masons and concrete finishers",
-    "automation_pctile": 66.43150672614851
-  },
-  {
-    "soc": "45-2011",
-    "occupation": "Agricultural inspectors",
-    "automation_pctile": 66.43887642826076
-  },
-  {
-    "soc": "35-2015",
-    "occupation": "Cooks, short order",
-    "automation_pctile": 66.53056795776655
-  },
-  {
-    "soc": "41-9091",
-    "occupation": "Door-to-door sales workers, news and street vendors, and related workers",
-    "automation_pctile": 66.53336588437492
-  },
-  {
-    "soc": "37-1011",
-    "occupation": "First-line Supervisors of housekeeping and janitorial workers",
-    "automation_pctile": 66.63983339230923
-  },
-  {
-    "soc": "35-3031",
-    "occupation": "Waiters and waitresses",
-    "automation_pctile": 68.04348429031262
-  },
-  {
-    "soc": "43-9051",
-    "occupation": "Mail clerks and mail machine operators, except postal service",
-    "automation_pctile": 68.08172262062706
-  },
-  {
-    "soc": "51-4121",
-    "occupation": "Welders, cutters, solderers, and brazers",
-    "automation_pctile": 68.34020471191566
-  },
-  {
-    "soc": "51-9071",
-    "occupation": "Jewelers and precious stone and metal workers",
-    "automation_pctile": 68.3544808428891
+    "soc": "39-5091",
+    "occupation": "Makeup Artists, Theatrical and Performance",
+    "automation_pctile": 6.426994379335847
   },
   {
     "soc": "39-5092",
-    "occupation": "Manicurists and pedicurists",
-    "automation_pctile": 68.44458749022021
+    "occupation": "Manicurists and Pedicurists",
+    "automation_pctile": 83.96412534643763
   },
   {
-    "soc": "43-5051",
-    "occupation": "Postal service clerks",
-    "automation_pctile": 68.49217052966458
+    "soc": "39-5093",
+    "occupation": "Shampooers",
+    "automation_pctile": 58.041429746658544
   },
   {
-    "soc": "43-3011",
-    "occupation": "Bill and account collectors",
-    "automation_pctile": 68.59276178215123
+    "soc": "39-5094",
+    "occupation": "Skincare Specialists",
+    "automation_pctile": 33.35391148403422
   },
   {
-    "soc": "51-5113",
-    "occupation": "Print binding and finishing workers",
-    "automation_pctile": 68.61499280250143
+    "soc": "39-6011",
+    "occupation": "Baggage Porters and Bellhops",
+    "automation_pctile": 60.34503551920574
   },
   {
-    "soc": "45-2021",
-    "occupation": "Animal breeders",
-    "automation_pctile": 68.61604735871765
+    "soc": "39-6012",
+    "occupation": "Concierges",
+    "automation_pctile": 29.25006243201653
   },
   {
-    "soc": "43-5111",
-    "occupation": "Weighers, measurers, checkers, and samplers, recordkeeping",
-    "automation_pctile": 68.64635518245804
+    "soc": "39-9011",
+    "occupation": "Childcare Workers",
+    "automation_pctile": 20.720593357605477
   },
   {
-    "soc": "51-4033",
-    "occupation": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 68.6890921398683
+    "soc": "39-9031",
+    "occupation": "Exercise Trainers and Group Fitness Instructors",
+    "automation_pctile": 20.95592059360563
   },
   {
-    "soc": "43-4121",
-    "occupation": "Library assistants, clerical",
-    "automation_pctile": 68.73790041514769
+    "soc": "39-9032",
+    "occupation": "Recreation Workers",
+    "automation_pctile": 3.443689576387723
   },
   {
-    "soc": "47-2073",
-    "occupation": "Operating engineers and other construction equipment operators",
-    "automation_pctile": 69.02395336057502
+    "soc": "39-9041",
+    "occupation": "Residential Advisors",
+    "automation_pctile": 18.221530031621374
   },
   {
-    "soc": "33-9031",
-    "occupation": "Gaming surveillance officers and gaming investigators",
-    "automation_pctile": 69.03004906124686
+    "soc": "41-1011",
+    "occupation": "First-Line Supervisors of Retail Sales Workers",
+    "automation_pctile": 33.29947045558863
   },
   {
-    "soc": "37-3011",
-    "occupation": "Landscaping and groundskeeping workers",
-    "automation_pctile": 69.60513574973004
-  },
-  {
-    "soc": "51-6062",
-    "occupation": "Textile cutting machine setters, operators, and tenders",
-    "automation_pctile": 69.610597497532
-  },
-  {
-    "soc": "51-9191",
-    "occupation": "Adhesive bonding machine operators and tenders",
-    "automation_pctile": 69.61801596524963
-  },
-  {
-    "soc": "51-4072",
-    "occupation": "Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 69.71238960305102
-  },
-  {
-    "soc": "51-8011",
-    "occupation": "Nuclear power reactor operators",
-    "automation_pctile": 69.71587634383532
-  },
-  {
-    "soc": "43-2011",
-    "occupation": "Switchboard operators, including answering service",
-    "automation_pctile": 69.73765628233579
-  },
-  {
-    "soc": "43-3021",
-    "occupation": "Billing and posting clerks",
-    "automation_pctile": 69.992151785385
-  },
-  {
-    "soc": "39-3031",
-    "occupation": "Ushers, lobby attendants, and ticket takers",
-    "automation_pctile": 70.06481863309398
-  },
-  {
-    "soc": "39-3011",
-    "occupation": "Gaming dealers",
-    "automation_pctile": 70.1154007572689
-  },
-  {
-    "soc": "51-6064",
-    "occupation": "Textile winding, twisting, and drawing out machine setters, operators, and tenders",
-    "automation_pctile": 72.43269965476999
-  },
-  {
-    "soc": "43-6014",
-    "occupation": "Secretaries and administrative assistants, except legal, medical, and executive",
-    "automation_pctile": 73.49202270892329
-  },
-  {
-    "soc": "43-9061",
-    "occupation": "Office clerks, general",
-    "automation_pctile": 75.02237884109148
-  },
-  {
-    "soc": "35-2014",
-    "occupation": "Cooks, restaurant",
-    "automation_pctile": 75.90755382275104
-  },
-  {
-    "soc": "51-7031",
-    "occupation": "Model makers, wood",
-    "automation_pctile": 75.90777326797523
-  },
-  {
-    "soc": "17-3031",
-    "occupation": "Surveying and mapping technicians",
-    "automation_pctile": 75.9423480821859
-  },
-  {
-    "soc": "49-9099",
-    "occupation": "Fabric menders, except garment",
-    "automation_pctile": 76.05432000782687
-  },
-  {
-    "soc": "53-4011",
-    "occupation": "Locomotive engineers",
-    "automation_pctile": 76.07382015427608
-  },
-  {
-    "soc": "47-5051",
-    "occupation": "Rock splitters, quarry",
-    "automation_pctile": 76.07569763008301
-  },
-  {
-    "soc": "11-3111",
-    "occupation": "Compensation and benefits managers",
-    "automation_pctile": 76.08793170133139
-  },
-  {
-    "soc": "43-4171",
-    "occupation": "Receptionists and information clerks",
-    "automation_pctile": 76.67588031823215
-  },
-  {
-    "soc": "43-5032",
-    "occupation": "Dispatchers, except police, fire, and ambulance",
-    "automation_pctile": 76.80449960240793
-  },
-  {
-    "soc": "49-9061",
-    "occupation": "Camera and photographic equipment repairers",
-    "automation_pctile": 76.80572483824297
-  },
-  {
-    "soc": "13-1074",
-    "occupation": "Farm labour contractors",
-    "automation_pctile": 76.8059747619705
-  },
-  {
-    "soc": "51-9081",
-    "occupation": "Dental laboratory technicians",
-    "automation_pctile": 76.82665137864937
-  },
-  {
-    "soc": "51-9022",
-    "occupation": "Grinding and polishing workers, hand",
-    "automation_pctile": 76.8338747839455
-  },
-  {
-    "soc": "51-9021",
-    "occupation": "Crushing, grinding, and polishing machine setters, operators, and tenders",
-    "automation_pctile": 76.85127800936361
-  },
-  {
-    "soc": "45-4023",
-    "occupation": "Log graders and scalers",
-    "automation_pctile": 76.85329568628599
-  },
-  {
-    "soc": "51-5111",
-    "occupation": "Prepress technicians and workers",
-    "automation_pctile": 76.86735846773591
-  },
-  {
-    "soc": "43-4071",
-    "occupation": "File clerks",
-    "automation_pctile": 76.91550231164209
-  },
-  {
-    "soc": "51-9083",
-    "occupation": "Ophthalmic laboratory technicians",
-    "automation_pctile": 76.92692565470111
-  },
-  {
-    "soc": "53-6011",
-    "occupation": "Bridge and lock tenders",
-    "automation_pctile": 76.92858368528384
-  },
-  {
-    "soc": "35-9031",
-    "occupation": "Hosts and hostesses, restaurant, lounge, and coffee shop",
-    "automation_pctile": 77.1889615394814
-  },
-  {
-    "soc": "37-3012",
-    "occupation": "Pesticide handlers, sprayers, and applicators, vegetation",
-    "automation_pctile": 77.20432270517442
-  },
-  {
-    "soc": "39-3021",
-    "occupation": "Motion picture projectionists",
-    "automation_pctile": 77.20551136680544
-  },
-  {
-    "soc": "51-7042",
-    "occupation": "Woodworking machine setters, operators, and tenders, except sawing",
-    "automation_pctile": 77.24412763056154
+    "soc": "41-1012",
+    "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+    "automation_pctile": 19.482711020603418
   },
   {
     "soc": "41-2011",
     "occupation": "Cashiers",
-    "automation_pctile": 79.16307248915804
+    "automation_pctile": 94.98086890795668
   },
   {
-    "soc": "19-4012",
-    "occupation": "Agricultural and food science technicians",
-    "automation_pctile": 79.17181372392145
-  },
-  {
-    "soc": "19-4013",
-    "occupation": "Agricultural and food science technicians",
-    "automation_pctile": 79.18046961887546
-  },
-  {
-    "soc": "43-4041",
-    "occupation": "Credit authorizers, checkers, and clerks",
-    "automation_pctile": 79.18776007687897
-  },
-  {
-    "soc": "41-9021",
-    "occupation": "Real estate brokers",
-    "automation_pctile": 79.21798865651061
-  },
-  {
-    "soc": "51-6061",
-    "occupation": "Textile bleaching and dyeing machine operators and tenders",
-    "automation_pctile": 79.22153635430162
-  },
-  {
-    "soc": "51-6042",
-    "occupation": "Shoe machine operators and tenders",
-    "automation_pctile": 79.22352964842132
-  },
-  {
-    "soc": "43-2021",
-    "occupation": "Telephone operators",
-    "automation_pctile": 79.2259374501867
+    "soc": "41-2012",
+    "occupation": "Gambling Change Persons and Booth Cashiers",
+    "automation_pctile": 60.36203283916319
   },
   {
     "soc": "41-2021",
-    "occupation": "Counter and rental clerks",
-    "automation_pctile": 79.4689242703675
-  },
-  {
-    "soc": "43-3051",
-    "occupation": "Payroll and timekeeping clerks",
-    "automation_pctile": 79.56459629241198
-  },
-  {
-    "soc": "43-3031",
-    "occupation": "Bookkeeping, accounting, and auditing clerks",
-    "automation_pctile": 80.4519901091161
-  },
-  {
-    "soc": "13-2041",
-    "occupation": "Credit analysts",
-    "automation_pctile": 80.49305684454227
-  },
-  {
-    "soc": "13-2072",
-    "occupation": "Loan officers",
-    "automation_pctile": 80.67015523616115
-  },
-  {
-    "soc": "51-9061",
-    "occupation": "Inspectors, testers, sorters, samplers, and weighers",
-    "automation_pctile": 81.03052086847886
-  },
-  {
-    "soc": "13-1031",
-    "occupation": "Claims adjusters, examiners, and investigators",
-    "automation_pctile": 81.21645193037125
-  },
-  {
-    "soc": "51-9111",
-    "occupation": "Packaging and filling machine operators and tenders",
-    "automation_pctile": 81.4504414963604
+    "occupation": "Counter and Rental Clerks",
+    "automation_pctile": 92.00837635368192
   },
   {
     "soc": "41-2022",
-    "occupation": "Parts salespersons",
-    "automation_pctile": 81.61201413836814
+    "occupation": "Parts Salespersons",
+    "automation_pctile": 98.97149550218208
   },
   {
-    "soc": "43-3071",
-    "occupation": "Tellers",
-    "automation_pctile": 81.81886564496628
+    "soc": "41-2031",
+    "occupation": "Retail Salespersons",
+    "automation_pctile": 74.41172453893704
   },
   {
-    "soc": "43-9041",
-    "occupation": "Insurance claims and policy processing clerks",
-    "automation_pctile": 81.95849986025607
+    "soc": "41-3011",
+    "occupation": "Advertising Sales Agents",
+    "automation_pctile": 37.70613997761904
   },
   {
-    "soc": "53-3031",
-    "occupation": "Driver/sales workers",
-    "automation_pctile": 82.21294659769991
+    "soc": "41-3021",
+    "occupation": "Insurance Sales Agents",
+    "automation_pctile": 77.70689489734718
   },
   {
-    "soc": "51-2061",
-    "occupation": "Timing device assemblers and adjusters",
-    "automation_pctile": 82.21308679881535
+    "soc": "41-3031",
+    "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+    "automation_pctile": 11.277167615586814
   },
   {
-    "soc": "13-1032",
-    "occupation": "Insurance appraisers, auto damage",
-    "automation_pctile": 82.21783534963872
+    "soc": "41-3041",
+    "occupation": "Travel Agents",
+    "automation_pctile": 21.61817276252721
   },
   {
-    "soc": "51-4035",
-    "occupation": "Milling and planing machine setters, operators, and tenders, metal and plastic",
-    "automation_pctile": 82.22625351226654
+    "soc": "41-4011",
+    "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+    "automation_pctile": 31.81789010941996
   },
   {
-    "soc": "43-4151",
-    "occupation": "Order clerks",
-    "automation_pctile": 82.27710384727101
+    "soc": "41-4012",
+    "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "automation_pctile": 65.68307756745952
   },
   {
-    "soc": "27-2023",
-    "occupation": "Umpires, referees, and other sports officials",
-    "automation_pctile": 82.28629616388413
-  },
-  {
-    "soc": "43-5071",
-    "occupation": "Shipping, receiving, and traffic clerks",
-    "automation_pctile": 82.80908174060293
-  },
-  {
-    "soc": "43-6012",
-    "occupation": "Legal secretaries",
-    "automation_pctile": 82.90328469878551
-  },
-  {
-    "soc": "43-2099",
-    "occupation": "Radio operators",
-    "automation_pctile": 82.90413200117891
-  },
-  {
-    "soc": "43-3061",
-    "occupation": "Procurement clerks",
-    "automation_pctile": 82.94064524820321
-  },
-  {
-    "soc": "51-9194",
-    "occupation": "Etchers and engravers",
-    "automation_pctile": 82.94575954106689
+    "soc": "41-9011",
+    "occupation": "Demonstrators and Product Promoters",
+    "automation_pctile": 37.19678618115562
   },
   {
     "soc": "41-9012",
     "occupation": "Models",
-    "automation_pctile": 82.94902074092631
+    "automation_pctile": 95.74892609955918
   },
   {
-    "soc": "43-4011",
-    "occupation": "Brokerage clerks",
-    "automation_pctile": 82.97345840491973
+    "soc": "41-9021",
+    "occupation": "Real Estate Brokers",
+    "automation_pctile": 95.07233510623207
   },
   {
-    "soc": "13-2053",
-    "occupation": "Insurance underwriters",
-    "automation_pctile": 83.03918224956347
+    "soc": "41-9022",
+    "occupation": "Real Estate Sales Agents",
+    "automation_pctile": 66.73370260844142
   },
   {
-    "soc": "25-4031",
-    "occupation": "Library technicians",
-    "automation_pctile": 83.08415023341962
-  },
-  {
-    "soc": "23-2093",
-    "occupation": "Title examiners, abstractors, and searchers",
-    "automation_pctile": 83.11351322355586
-  },
-  {
-    "soc": "43-5011",
-    "occupation": "Cargo and freight agents",
-    "automation_pctile": 83.17312917612644
-  },
-  {
-    "soc": "43-4141",
-    "occupation": "New accounts clerks",
-    "automation_pctile": 83.19631112578143
-  },
-  {
-    "soc": "49-9064",
-    "occupation": "Watch repairers",
-    "automation_pctile": 83.19710356686876
-  },
-  {
-    "soc": "13-2082",
-    "occupation": "Tax preparers",
-    "automation_pctile": 83.24194963671148
-  },
-  {
-    "soc": "51-9151",
-    "occupation": "Photographic process workers and processing machine operators",
-    "automation_pctile": 83.24533275058434
-  },
-  {
-    "soc": "15-2099",
-    "occupation": "Mathematical technicians",
-    "automation_pctile": 83.24817334709742
-  },
-  {
-    "soc": "43-9021",
-    "occupation": "Data entry keyers",
-    "automation_pctile": 83.33063598578605
+    "soc": "41-9031",
+    "occupation": "Sales Engineers",
+    "automation_pctile": 1.080566056483807
   },
   {
     "soc": "41-9041",
     "occupation": "Telemarketers",
-    "automation_pctile": 83.37112972534906
+    "automation_pctile": 99.77829852254304
+  },
+  {
+    "soc": "41-9091",
+    "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+    "automation_pctile": 80.8730158361077
+  },
+  {
+    "soc": "43-1011",
+    "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+    "automation_pctile": 9.876915531303048
+  },
+  {
+    "soc": "43-2011",
+    "occupation": "Switchboard Operators, Including Answering Service",
+    "automation_pctile": 91.50638573731862
+  },
+  {
+    "soc": "43-2021",
+    "occupation": "Telephone Operators",
+    "automation_pctile": 95.0338993061094
+  },
+  {
+    "soc": "43-2099",
+    "occupation": "Communications Equipment Operators, All Other",
+    "automation_pctile": 95.5475004948832
+  },
+  {
+    "soc": "43-3011",
+    "occupation": "Bill and Account Collectors",
+    "automation_pctile": 84.21202424361927
+  },
+  {
+    "soc": "43-3021",
+    "occupation": "Billing and Posting Clerks",
+    "automation_pctile": 85.89228644103713
+  },
+  {
+    "soc": "43-3031",
+    "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+    "automation_pctile": 98.76605502667252
+  },
+  {
+    "soc": "43-3041",
+    "occupation": "Gambling Cage Workers",
+    "automation_pctile": 36.024389642749355
+  },
+  {
+    "soc": "43-3051",
+    "occupation": "Payroll and Timekeeping Clerks",
+    "automation_pctile": 92.14941613082092
+  },
+  {
+    "soc": "43-3061",
+    "occupation": "Procurement Clerks",
+    "automation_pctile": 95.62499990311603
+  },
+  {
+    "soc": "43-3071",
+    "occupation": "Tellers",
+    "automation_pctile": 97.63772905884451
+  },
+  {
+    "soc": "43-4011",
+    "occupation": "Brokerage Clerks",
+    "automation_pctile": 95.57857311490577
+  },
+  {
+    "soc": "43-4021",
+    "occupation": "Correspondence Clerks",
+    "automation_pctile": 66.73855455659162
+  },
+  {
+    "soc": "43-4031",
+    "occupation": "Court, Municipal, and License Clerks",
+    "automation_pctile": 36.545842306724666
+  },
+  {
+    "soc": "43-4041",
+    "occupation": "Credit Authorizers, Checkers, and Clerks",
+    "automation_pctile": 92.1586859870312
+  },
+  {
+    "soc": "43-4051",
+    "occupation": "Customer Service Representatives",
+    "automation_pctile": 40.01365211097723
+  },
+  {
+    "soc": "43-4061",
+    "occupation": "Eligibility Interviewers, Government Programs",
+    "automation_pctile": 52.56420034236462
+  },
+  {
+    "soc": "43-4071",
+    "occupation": "File Clerks",
+    "automation_pctile": 95.14712176390172
+  },
+  {
+    "soc": "43-4081",
+    "occupation": "Hotel, Motel, and Resort Desk Clerks",
+    "automation_pctile": 80.47027313677827
+  },
+  {
+    "soc": "43-4111",
+    "occupation": "Interviewers, Except Eligibility and Loan",
+    "automation_pctile": 79.49108644419942
+  },
+  {
+    "soc": "43-4121",
+    "occupation": "Library Assistants, Clerical",
+    "automation_pctile": 84.7077367801077
+  },
+  {
+    "soc": "43-4131",
+    "occupation": "Loan Interviewers and Clerks",
+    "automation_pctile": 71.33537239167096
+  },
+  {
+    "soc": "43-4141",
+    "occupation": "New Accounts Clerks",
+    "automation_pctile": 99.7268105168534
+  },
+  {
+    "soc": "43-4151",
+    "occupation": "Order Clerks",
+    "automation_pctile": 95.54642314537382
+  },
+  {
+    "soc": "43-4161",
+    "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+    "automation_pctile": 69.97792751127457
+  },
+  {
+    "soc": "43-4171",
+    "occupation": "Receptionists and Information Clerks",
+    "automation_pctile": 89.84758527221366
+  },
+  {
+    "soc": "43-4181",
+    "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+    "automation_pctile": 41.920537490445305
+  },
+  {
+    "soc": "43-5011",
+    "occupation": "Cargo and Freight Agents",
+    "automation_pctile": 99.8541005239949
+  },
+  {
+    "soc": "43-5021",
+    "occupation": "Couriers and Messengers",
+    "automation_pctile": 79.74172909480785
+  },
+  {
+    "soc": "43-5031",
+    "occupation": "Public Safety Telecommunicators",
+    "automation_pctile": 37.05450628947343
+  },
+  {
+    "soc": "43-5032",
+    "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+    "automation_pctile": 91.35806028723844
+  },
+  {
+    "soc": "43-5041",
+    "occupation": "Meter Readers, Utilities",
+    "automation_pctile": 62.38509369917953
+  },
+  {
+    "soc": "43-5051",
+    "occupation": "Postal Service Clerks",
+    "automation_pctile": 84.27252633189465
+  },
+  {
+    "soc": "43-5052",
+    "occupation": "Postal Service Mail Carriers",
+    "automation_pctile": 50.75767898301928
+  },
+  {
+    "soc": "43-5053",
+    "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+    "automation_pctile": 58.15830279163736
+  },
+  {
+    "soc": "43-5061",
+    "occupation": "Production, Planning, and Expediting Clerks",
+    "automation_pctile": 68.14103884705311
+  },
+  {
+    "soc": "43-5071",
+    "occupation": "Shipping, Receiving, and Inventory Clerks",
+    "automation_pctile": 96.41365074685125
+  },
+  {
+    "soc": "43-5111",
+    "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+    "automation_pctile": 84.746273339537
+  },
+  {
+    "soc": "43-6011",
+    "occupation": "Executive Secretaries and Executive Administrative Assistants",
+    "automation_pctile": 66.04950816282145
+  },
+  {
+    "soc": "43-6012",
+    "occupation": "Legal Secretaries and Administrative Assistants",
+    "automation_pctile": 95.74477946655544
+  },
+  {
+    "soc": "43-6013",
+    "occupation": "Medical Secretaries and Administrative Assistants",
+    "automation_pctile": 59.05765711049901
+  },
+  {
+    "soc": "43-6014",
+    "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+    "automation_pctile": 91.1945201818566
+  },
+  {
+    "soc": "43-9021",
+    "occupation": "Data Entry Keyers",
+    "automation_pctile": 99.69733454430518
+  },
+  {
+    "soc": "43-9022",
+    "occupation": "Word Processors and Typists",
+    "automation_pctile": 58.39161484150483
+  },
+  {
+    "soc": "43-9031",
+    "occupation": "Desktop Publishers",
+    "automation_pctile": 24.59016152026882
+  },
+  {
+    "soc": "43-9041",
+    "occupation": "Insurance Claims and Policy Processing Clerks",
+    "automation_pctile": 96.88871537619572
+  },
+  {
+    "soc": "43-9051",
+    "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+    "automation_pctile": 80.86945825751195
+  },
+  {
+    "soc": "43-9061",
+    "occupation": "Office Clerks, General",
+    "automation_pctile": 89.10000547200542
+  },
+  {
+    "soc": "43-9071",
+    "occupation": "Office Machine Operators, Except Computer",
+    "automation_pctile": 71.37362217461217
+  },
+  {
+    "soc": "43-9081",
+    "occupation": "Proofreaders and Copy Markers",
+    "automation_pctile": 61.20538823568439
+  },
+  {
+    "soc": "43-9111",
+    "occupation": "Statistical Assistants",
+    "automation_pctile": 49.84373781684345
+  },
+  {
+    "soc": "45-1011",
+    "occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+    "automation_pctile": 40.03653997501479
+  },
+  {
+    "soc": "45-2011",
+    "occupation": "Agricultural Inspectors",
+    "automation_pctile": 79.52697225879268
+  },
+  {
+    "soc": "45-2021",
+    "occupation": "Animal Breeders",
+    "automation_pctile": 85.54093098809071
+  },
+  {
+    "soc": "45-2041",
+    "occupation": "Graders and Sorters, Agricultural Products",
+    "automation_pctile": 36.33723953913003
+  },
+  {
+    "soc": "45-4011",
+    "occupation": "Forest and Conservation Workers",
+    "automation_pctile": 67.5828322883043
+  },
+  {
+    "soc": "45-4021",
+    "occupation": "Fallers",
+    "automation_pctile": 55.20268354586572
+  },
+  {
+    "soc": "45-4022",
+    "occupation": "Logging Equipment Operators",
+    "automation_pctile": 58.24001083860111
+  },
+  {
+    "soc": "45-4023",
+    "occupation": "Log Graders and Scalers",
+    "automation_pctile": 95.07490059319328
+  },
+  {
+    "soc": "47-1011",
+    "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+    "automation_pctile": 28.780152028742133
+  },
+  {
+    "soc": "47-2011",
+    "occupation": "Boilermakers",
+    "automation_pctile": 50.49722392608793
+  },
+  {
+    "soc": "47-2021",
+    "occupation": "Brickmasons and Blockmasons",
+    "automation_pctile": 60.16460660388897
+  },
+  {
+    "soc": "47-2022",
+    "occupation": "Stonemasons",
+    "automation_pctile": 69.20137553505128
+  },
+  {
+    "soc": "47-2031",
+    "occupation": "Carpenters",
+    "automation_pctile": 53.99226199527919
+  },
+  {
+    "soc": "47-2041",
+    "occupation": "Carpet Installers",
+    "automation_pctile": 67.7031931554358
+  },
+  {
+    "soc": "47-2042",
+    "occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+    "automation_pctile": 58.06069027565732
+  },
+  {
+    "soc": "47-2043",
+    "occupation": "Floor Sanders and Finishers",
+    "automation_pctile": 67.69158258302528
+  },
+  {
+    "soc": "47-2044",
+    "occupation": "Tile and Stone Setters",
+    "automation_pctile": 55.043150560601525
+  },
+  {
+    "soc": "47-2051",
+    "occupation": "Cement Masons and Concrete Finishers",
+    "automation_pctile": 79.36915993245715
+  },
+  {
+    "soc": "47-2053",
+    "occupation": "Terrazzo Workers and Finishers",
+    "automation_pctile": 67.84263628510048
+  },
+  {
+    "soc": "47-2061",
+    "occupation": "Construction Laborers",
+    "automation_pctile": 68.96080106439031
+  },
+  {
+    "soc": "47-2071",
+    "occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+    "automation_pctile": 60.32083778418193
+  },
+  {
+    "soc": "47-2072",
+    "occupation": "Pile Driver Operators",
+    "automation_pctile": 60.1231247724196
+  },
+  {
+    "soc": "47-2073",
+    "occupation": "Operating Engineers and Other Construction Equipment Operators",
+    "automation_pctile": 84.63624417669338
+  },
+  {
+    "soc": "47-2081",
+    "occupation": "Drywall and Ceiling Tile Installers",
+    "automation_pctile": 58.22255622640585
+  },
+  {
+    "soc": "47-2082",
+    "occupation": "Tapers",
+    "automation_pctile": 42.75789383286387
+  },
+  {
+    "soc": "47-2111",
+    "occupation": "Electricians",
+    "automation_pctile": 24.48368218530505
+  },
+  {
+    "soc": "47-2121",
+    "occupation": "Glaziers",
+    "automation_pctile": 54.09905135887876
+  },
+  {
+    "soc": "47-2131",
+    "occupation": "Insulation Workers, Floor, Ceiling, and Wall",
+    "automation_pctile": 60.971649896442685
+  },
+  {
+    "soc": "47-2132",
+    "occupation": "Insulation Workers, Mechanical",
+    "automation_pctile": 43.863773727460334
+  },
+  {
+    "soc": "47-2141",
+    "occupation": "Painters, Construction and Maintenance",
+    "automation_pctile": 54.96496908936994
+  },
+  {
+    "soc": "47-2142",
+    "occupation": "Paperhangers",
+    "automation_pctile": 67.6883737866448
+  },
+  {
+    "soc": "47-2151",
+    "occupation": "Pipelayers",
+    "automation_pctile": 42.74820543799528
+  },
+  {
+    "soc": "47-2152",
+    "occupation": "Plumbers, Pipefitters, and Steamfitters",
+    "automation_pctile": 34.902791296318085
+  },
+  {
+    "soc": "47-2161",
+    "occupation": "Plasterers and Stucco Masons",
+    "automation_pctile": 61.20138886628264
+  },
+  {
+    "soc": "47-2171",
+    "occupation": "Reinforcing Iron and Rebar Workers",
+    "automation_pctile": 70.11882002481158
+  },
+  {
+    "soc": "47-2181",
+    "occupation": "Roofers",
+    "automation_pctile": 70.08391080042108
+  },
+  {
+    "soc": "47-2211",
+    "occupation": "Sheet Metal Workers",
+    "automation_pctile": 60.28543251397416
+  },
+  {
+    "soc": "47-2221",
+    "occupation": "Structural Iron and Steel Workers",
+    "automation_pctile": 61.0218125297143
+  },
+  {
+    "soc": "47-3011",
+    "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+    "automation_pctile": 61.03395015080568
+  },
+  {
+    "soc": "47-3012",
+    "occupation": "Helpers--Carpenters",
+    "automation_pctile": 71.35444690348824
+  },
+  {
+    "soc": "47-3013",
+    "occupation": "Helpers--Electricians",
+    "automation_pctile": 54.69864674050618
+  },
+  {
+    "soc": "47-3014",
+    "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+    "automation_pctile": 79.7570832629956
+  },
+  {
+    "soc": "47-3015",
+    "occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+    "automation_pctile": 40.070364099180026
+  },
+  {
+    "soc": "47-3016",
+    "occupation": "Helpers--Roofers",
+    "automation_pctile": 53.99626911539684
+  },
+  {
+    "soc": "47-4011",
+    "occupation": "Construction and Building Inspectors",
+    "automation_pctile": 42.86424140565743
+  },
+  {
+    "soc": "47-4021",
+    "occupation": "Elevator and Escalator Installers and Repairers",
+    "automation_pctile": 36.05874856631133
+  },
+  {
+    "soc": "47-4031",
+    "occupation": "Fence Erectors",
+    "automation_pctile": 78.10261544807587
+  },
+  {
+    "soc": "47-4041",
+    "occupation": "Hazardous Materials Removal Workers",
+    "automation_pctile": 37.62794300495565
+  },
+  {
+    "soc": "47-4051",
+    "occupation": "Highway Maintenance Workers",
+    "automation_pctile": 67.57846863525549
+  },
+  {
+    "soc": "47-4061",
+    "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+    "automation_pctile": 68.97357424418506
+  },
+  {
+    "soc": "47-4071",
+    "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "automation_pctile": 61.16573557316622
+  },
+  {
+    "soc": "47-5011",
+    "occupation": "Derrick Operators, Oil and Gas",
+    "automation_pctile": 58.34966021636588
+  },
+  {
+    "soc": "47-5012",
+    "occupation": "Rotary Drill Operators, Oil and Gas",
+    "automation_pctile": 37.58874763467528
+  },
+  {
+    "soc": "47-5013",
+    "occupation": "Service Unit Operators, Oil and Gas",
+    "automation_pctile": 79.19383873891512
+  },
+  {
+    "soc": "47-5022",
+    "occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+    "automation_pctile": 79.51760164327578
+  },
+  {
+    "soc": "47-5023",
+    "occupation": "Earth Drillers, Except Oil and Gas",
+    "automation_pctile": 62.36988679459379
+  },
+  {
+    "soc": "47-5032",
+    "occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+    "automation_pctile": 64.70117037360156
+  },
+  {
+    "soc": "47-5041",
+    "occupation": "Continuous Mining Machine Operators",
+    "automation_pctile": 37.717254504212285
+  },
+  {
+    "soc": "47-5043",
+    "occupation": "Roof Bolters, Mining",
+    "automation_pctile": 36.976115548912674
+  },
+  {
+    "soc": "47-5044",
+    "occupation": "Loading and Moving Machine Operators, Underground Mining",
+    "automation_pctile": 37.14658479430453
+  },
+  {
+    "soc": "47-5049",
+    "occupation": "Underground Mining Machine Operators, All Other",
+    "automation_pctile": 41.12841432598922
+  },
+  {
+    "soc": "47-5051",
+    "occupation": "Rock Splitters, Quarry",
+    "automation_pctile": 85.56869405242615
+  },
+  {
+    "soc": "47-5071",
+    "occupation": "Roustabouts, Oil and Gas",
+    "automation_pctile": 50.79281297817073
+  },
+  {
+    "soc": "47-5081",
+    "occupation": "Helpers--Extraction Workers",
+    "automation_pctile": 35.074787432741225
+  },
+  {
+    "soc": "49-1011",
+    "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "automation_pctile": 0.486985230390805
+  },
+  {
+    "soc": "49-2011",
+    "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+    "automation_pctile": 54.755234717254666
+  },
+  {
+    "soc": "49-2021",
+    "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+    "automation_pctile": 78.11145126419602
+  },
+  {
+    "soc": "49-2022",
+    "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+    "automation_pctile": 35.02206706322429
+  },
+  {
+    "soc": "49-2091",
+    "occupation": "Avionics Technicians",
+    "automation_pctile": 52.44308765579133
+  },
+  {
+    "soc": "49-2092",
+    "occupation": "Electric Motor, Power Tool, and Related Repairers",
+    "automation_pctile": 55.19403374692704
+  },
+  {
+    "soc": "49-2093",
+    "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "automation_pctile": 70.30680588812585
+  },
+  {
+    "soc": "49-2094",
+    "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+    "automation_pctile": 36.27504004407367
+  },
+  {
+    "soc": "49-2095",
+    "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+    "automation_pctile": 35.94376669601088
+  },
+  {
+    "soc": "49-2096",
+    "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+    "automation_pctile": 41.82176236708104
+  },
+  {
+    "soc": "49-2097",
+    "occupation": "Audiovisual Equipment Installers and Repairers",
+    "automation_pctile": 47.5497661841536
+  },
+  {
+    "soc": "49-2098",
+    "occupation": "Security and Fire Alarm Systems Installers",
+    "automation_pctile": 60.12076855478756
+  },
+  {
+    "soc": "49-3011",
+    "occupation": "Aircraft Mechanics and Service Technicians",
+    "automation_pctile": 52.925515465235954
+  },
+  {
+    "soc": "49-3021",
+    "occupation": "Automotive Body and Related Repairers",
+    "automation_pctile": 70.42711250024608
+  },
+  {
+    "soc": "49-3022",
+    "occupation": "Automotive Glass Installers and Repairers",
+    "automation_pctile": 37.80637223557154
+  },
+  {
+    "soc": "49-3023",
+    "occupation": "Automotive Service Technicians and Mechanics",
+    "automation_pctile": 41.1257170768578
+  },
+  {
+    "soc": "49-3031",
+    "occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+    "automation_pctile": 54.32167517152722
+  },
+  {
+    "soc": "49-3041",
+    "occupation": "Farm Equipment Mechanics and Service Technicians",
+    "automation_pctile": 55.07173520082183
+  },
+  {
+    "soc": "49-3042",
+    "occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+    "automation_pctile": 36.218297053007305
+  },
+  {
+    "soc": "49-3043",
+    "occupation": "Rail Car Repairers",
+    "automation_pctile": 67.7780418188326
+  },
+  {
+    "soc": "49-3051",
+    "occupation": "Motorboat Mechanics and Service Technicians",
+    "automation_pctile": 49.70934815394224
+  },
+  {
+    "soc": "49-3052",
+    "occupation": "Motorcycle Mechanics",
+    "automation_pctile": 58.07154902862602
+  },
+  {
+    "soc": "49-3053",
+    "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+    "automation_pctile": 78.3296416673526
+  },
+  {
+    "soc": "49-3091",
+    "occupation": "Bicycle Repairers",
+    "automation_pctile": 79.7514872461195
+  },
+  {
+    "soc": "49-3092",
+    "occupation": "Recreational Vehicle Service Technicians",
+    "automation_pctile": 41.30800616398933
+  },
+  {
+    "soc": "49-3093",
+    "occupation": "Tire Repairers and Changers",
+    "automation_pctile": 52.64683847523577
+  },
+  {
+    "soc": "49-9011",
+    "occupation": "Mechanical Door Repairers",
+    "automation_pctile": 70.29361416967278
+  },
+  {
+    "soc": "49-9012",
+    "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+    "automation_pctile": 43.82097427428885
+  },
+  {
+    "soc": "49-9021",
+    "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+    "automation_pctile": 47.532582847014666
+  },
+  {
+    "soc": "49-9031",
+    "occupation": "Home Appliance Repairers",
+    "automation_pctile": 53.45146354443028
+  },
+  {
+    "soc": "49-9041",
+    "occupation": "Industrial Machinery Mechanics",
+    "automation_pctile": 50.282064052846245
+  },
+  {
+    "soc": "49-9043",
+    "occupation": "Maintenance Workers, Machinery",
+    "automation_pctile": 66.23047962825086
+  },
+  {
+    "soc": "49-9044",
+    "occupation": "Millwrights",
+    "automation_pctile": 41.349650760492494
+  },
+  {
+    "soc": "49-9045",
+    "occupation": "Refractory Materials Repairers, Except Brickmasons",
+    "automation_pctile": 60.05759246952845
+  },
+  {
+    "soc": "49-9051",
+    "occupation": "Electrical Power-Line Installers and Repairers",
+    "automation_pctile": 21.055362278536855
+  },
+  {
+    "soc": "49-9052",
+    "occupation": "Telecommunications Line Installers and Repairers",
+    "automation_pctile": 37.130742331015405
+  },
+  {
+    "soc": "49-9061",
+    "occupation": "Camera and Photographic Equipment Repairers",
+    "automation_pctile": 91.69941731668044
+  },
+  {
+    "soc": "49-9062",
+    "occupation": "Medical Equipment Repairers",
+    "automation_pctile": 32.40576640861433
+  },
+  {
+    "soc": "49-9063",
+    "occupation": "Musical Instrument Repairers and Tuners",
+    "automation_pctile": 70.44300146783058
+  },
+  {
+    "soc": "49-9064",
+    "occupation": "Watch and Clock Repairers",
+    "automation_pctile": 99.85940976438287
+  },
+  {
+    "soc": "49-9071",
+    "occupation": "Maintenance and Repair Workers, General",
+    "automation_pctile": 47.217865028103326
+  },
+  {
+    "soc": "49-9091",
+    "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+    "automation_pctile": 80.4921766598972
+  },
+  {
+    "soc": "49-9092",
+    "occupation": "Commercial Divers",
+    "automation_pctile": 29.17679491466229
+  },
+  {
+    "soc": "49-9094",
+    "occupation": "Locksmiths and Safe Repairers",
+    "automation_pctile": 55.21473590908224
+  },
+  {
+    "soc": "49-9095",
+    "occupation": "Manufactured Building and Mobile Home Installers",
+    "automation_pctile": 29.178817851510853
+  },
+  {
+    "soc": "49-9096",
+    "occupation": "Riggers",
+    "automation_pctile": 69.54203500006278
+  },
+  {
+    "soc": "49-9097",
+    "occupation": "Signal and Track Switch Repairers",
+    "automation_pctile": 69.90495452112434
+  },
+  {
+    "soc": "49-9098",
+    "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+    "automation_pctile": 58.31561132143971
+  },
+  {
+    "soc": "49-9099",
+    "occupation": "Installation, Maintenance, and Repair Workers, All Other",
+    "automation_pctile": 91.64875863759156
+  },
+  {
+    "soc": "51-1011",
+    "occupation": "First-Line Supervisors of Production and Operating Workers",
+    "automation_pctile": 10.911101303871932
+  },
+  {
+    "soc": "51-2011",
+    "occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+    "automation_pctile": 58.34110342601795
+  },
+  {
+    "soc": "51-2021",
+    "occupation": "Coil Winders, Tapers, and Finishers",
+    "automation_pctile": 54.33110779277128
+  },
+  {
+    "soc": "51-2031",
+    "occupation": "Engine and Other Machine Assemblers",
+    "automation_pctile": 60.19438485435708
+  },
+  {
+    "soc": "51-2041",
+    "occupation": "Structural Metal Fabricators and Fitters",
+    "automation_pctile": 36.3164133655205
+  },
+  {
+    "soc": "51-2051",
+    "occupation": "Fiberglass Laminators and Fabricators",
+    "automation_pctile": 78.53000542395098
+  },
+  {
+    "soc": "51-2061",
+    "occupation": "Timing Device Assemblers and Adjusters",
+    "automation_pctile": 97.37471626566789
+  },
+  {
+    "soc": "51-3011",
+    "occupation": "Bakers",
+    "automation_pctile": 69.52328601831309
+  },
+  {
+    "soc": "51-3021",
+    "occupation": "Butchers and Meat Cutters",
+    "automation_pctile": 78.21999228958782
+  },
+  {
+    "soc": "51-3022",
+    "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+    "automation_pctile": 80.2676461711386
+  },
+  {
+    "soc": "51-3023",
+    "occupation": "Slaughterers and Meat Packers",
+    "automation_pctile": 41.401968092782894
+  },
+  {
+    "soc": "51-3091",
+    "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+    "automation_pctile": 70.46628461837877
+  },
+  {
+    "soc": "51-3092",
+    "occupation": "Food Batchmakers",
+    "automation_pctile": 52.77988726428716
+  },
+  {
+    "soc": "51-3093",
+    "occupation": "Food Cooking Machine Operators and Tenders",
+    "automation_pctile": 41.72556048139386
+  },
+  {
+    "soc": "51-4021",
+    "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 70.5172068218081
+  },
+  {
+    "soc": "51-4022",
+    "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 78.34608868648154
+  },
+  {
+    "soc": "51-4023",
+    "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 60.91741813732625
+  },
+  {
+    "soc": "51-4031",
+    "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 56.36104353778637
+  },
+  {
+    "soc": "51-4032",
+    "occupation": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 79.66646189275272
+  },
+  {
+    "soc": "51-4033",
+    "occupation": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 84.80061360867597
+  },
+  {
+    "soc": "51-4034",
+    "occupation": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 61.22009134373696
+  },
+  {
+    "soc": "51-4035",
+    "occupation": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 99.44040606310602
+  },
+  {
+    "soc": "51-4041",
+    "occupation": "Machinists",
+    "automation_pctile": 47.91098054771829
+  },
+  {
+    "soc": "51-4051",
+    "occupation": "Metal-Refining Furnace Operators and Tenders",
+    "automation_pctile": 67.73893945714295
+  },
+  {
+    "soc": "51-4052",
+    "occupation": "Pourers and Casters, Metal",
+    "automation_pctile": 67.71874109152091
+  },
+  {
+    "soc": "51-4061",
+    "occupation": "Model Makers, Metal and Plastic",
+    "automation_pctile": 78.22249577082188
+  },
+  {
+    "soc": "51-4062",
+    "occupation": "Patternmakers, Metal and Plastic",
+    "automation_pctile": 69.90617138351985
+  },
+  {
+    "soc": "51-4071",
+    "occupation": "Foundry Mold and Coremakers",
+    "automation_pctile": 50.48934144802285
+  },
+  {
+    "soc": "51-4072",
+    "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 84.08412192992206
+  },
+  {
+    "soc": "51-4081",
+    "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 71.1680886905119
+  },
+  {
+    "soc": "51-4111",
+    "occupation": "Tool and Die Makers",
+    "automation_pctile": 61.2628210404654
+  },
+  {
+    "soc": "51-4121",
+    "occupation": "Welders, Cutters, Solderers, and Brazers",
+    "automation_pctile": 80.8208380167034
+  },
+  {
+    "soc": "51-4122",
+    "occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+    "automation_pctile": 41.75368782937636
+  },
+  {
+    "soc": "51-4191",
+    "occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 70.43856030762281
+  },
+  {
+    "soc": "51-4192",
+    "occupation": "Layout Workers, Metal and Plastic",
+    "automation_pctile": 61.26716919208243
+  },
+  {
+    "soc": "51-4193",
+    "occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "automation_pctile": 71.3980446803969
+  },
+  {
+    "soc": "51-4194",
+    "occupation": "Tool Grinders, Filers, and Sharpeners",
+    "automation_pctile": 67.72318225172869
+  },
+  {
+    "soc": "51-5111",
+    "occupation": "Prepress Technicians and Workers",
+    "automation_pctile": 92.02625725525138
+  },
+  {
+    "soc": "51-5112",
+    "occupation": "Printing Press Operators",
+    "automation_pctile": 60.55266169659761
+  },
+  {
+    "soc": "51-5113",
+    "occupation": "Print Binding and Finishing Workers",
+    "automation_pctile": 83.8495542640796
+  },
+  {
+    "soc": "51-6011",
+    "occupation": "Laundry and Dry-Cleaning Workers",
+    "automation_pctile": 53.076933450958194
+  },
+  {
+    "soc": "51-6021",
+    "occupation": "Pressers, Textile, Garment, and Related Materials",
+    "automation_pctile": 59.32388645077202
+  },
+  {
+    "soc": "51-6031",
+    "occupation": "Sewing Machine Operators",
+    "automation_pctile": 69.31969796390244
+  },
+  {
+    "soc": "51-6041",
+    "occupation": "Shoe and Leather Workers and Repairers",
+    "automation_pctile": 37.49369285494055
+  },
+  {
+    "soc": "51-6042",
+    "occupation": "Shoe Machine Operators and Tenders",
+    "automation_pctile": 95.03083777333092
   },
   {
     "soc": "51-6051",
-    "occupation": "Sewers, hand",
-    "automation_pctile": 83.37249516229956
+    "occupation": "Sewers, Hand",
+    "automation_pctile": 99.49435879645024
+  },
+  {
+    "soc": "51-6052",
+    "occupation": "Tailors, Dressmakers, and Custom Sewers",
+    "automation_pctile": 61.27979510827518
+  },
+  {
+    "soc": "51-6061",
+    "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+    "automation_pctile": 95.0283032892333
+  },
+  {
+    "soc": "51-6062",
+    "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+    "automation_pctile": 85.56602780615832
+  },
+  {
+    "soc": "51-6063",
+    "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+    "automation_pctile": 54.4517244335273
+  },
+  {
+    "soc": "51-6064",
+    "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+    "automation_pctile": 91.39882130212958
+  },
+  {
+    "soc": "51-6091",
+    "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+    "automation_pctile": 67.84151243129571
+  },
+  {
+    "soc": "51-6092",
+    "occupation": "Fabric and Apparel Patternmakers",
+    "automation_pctile": 3.028243453706602
+  },
+  {
+    "soc": "51-6093",
+    "occupation": "Upholsterers",
+    "automation_pctile": 36.04065839541269
+  },
+  {
+    "soc": "51-7011",
+    "occupation": "Cabinetmakers and Bench Carpenters",
+    "automation_pctile": 71.46625873098769
+  },
+  {
+    "soc": "51-7021",
+    "occupation": "Furniture Finishers",
+    "automation_pctile": 67.7142224241542
+  },
+  {
+    "soc": "51-7031",
+    "occupation": "Model Makers, Wood",
+    "automation_pctile": 85.56630683193053
+  },
+  {
+    "soc": "51-7032",
+    "occupation": "Patternmakers, Wood",
+    "automation_pctile": 70.42725201313219
+  },
+  {
+    "soc": "51-7041",
+    "occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+    "automation_pctile": 66.7719911449621
+  },
+  {
+    "soc": "51-7042",
+    "occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+    "automation_pctile": 91.69785942278558
+  },
+  {
+    "soc": "51-8011",
+    "occupation": "Nuclear Power Reactor Operators",
+    "automation_pctile": 83.821287403211
+  },
+  {
+    "soc": "51-8012",
+    "occupation": "Power Distributors and Dispatchers",
+    "automation_pctile": 47.22498018529481
+  },
+  {
+    "soc": "51-8013",
+    "occupation": "Power Plant Operators",
+    "automation_pctile": 62.33792284224332
+  },
+  {
+    "soc": "51-8021",
+    "occupation": "Stationary Engineers and Boiler Operators",
+    "automation_pctile": 69.34355466742686
+  },
+  {
+    "soc": "51-8031",
+    "occupation": "Water and Wastewater Treatment Plant and System Operators",
+    "automation_pctile": 42.01877781441283
+  },
+  {
+    "soc": "51-8091",
+    "occupation": "Chemical Plant and System Operators",
+    "automation_pctile": 62.351750119399775
+  },
+  {
+    "soc": "51-8092",
+    "occupation": "Gas Plant Operators",
+    "automation_pctile": 56.37337492677512
+  },
+  {
+    "soc": "51-8093",
+    "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+    "automation_pctile": 52.80690625989669
+  },
+  {
+    "soc": "51-8099",
+    "occupation": "Plant and System Operators, All Other",
+    "automation_pctile": 66.46062163531734
+  },
+  {
+    "soc": "51-9011",
+    "occupation": "Chemical Equipment Operators and Tenders",
+    "automation_pctile": 55.18119081068923
+  },
+  {
+    "soc": "51-9012",
+    "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+    "automation_pctile": 67.82996386461235
+  },
+  {
+    "soc": "51-9021",
+    "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+    "automation_pctile": 92.53173569376736
+  },
+  {
+    "soc": "51-9022",
+    "occupation": "Grinding and Polishing Workers, Hand",
+    "automation_pctile": 92.54092029210278
+  },
+  {
+    "soc": "51-9023",
+    "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+    "automation_pctile": 60.440191058247095
+  },
+  {
+    "soc": "51-9031",
+    "occupation": "Cutters and Trimmers, Hand",
+    "automation_pctile": 43.84390089190588
+  },
+  {
+    "soc": "51-9032",
+    "occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+    "automation_pctile": 66.49746853868157
+  },
+  {
+    "soc": "51-9041",
+    "occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+    "automation_pctile": 78.26691512361539
+  },
+  {
+    "soc": "51-9051",
+    "occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+    "automation_pctile": 35.06957895165987
+  },
+  {
+    "soc": "51-9061",
+    "occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "automation_pctile": 99.4297023244552
+  },
+  {
+    "soc": "51-9071",
+    "occupation": "Jewelers and Precious Stone and Metal Workers",
+    "automation_pctile": 85.55908316471651
+  },
+  {
+    "soc": "51-9081",
+    "occupation": "Dental Laboratory Technicians",
+    "automation_pctile": 95.0071593362721
+  },
+  {
+    "soc": "51-9082",
+    "occupation": "Medical Appliance Technicians",
+    "automation_pctile": 36.41407238579591
+  },
+  {
+    "soc": "51-9083",
+    "occupation": "Ophthalmic Laboratory Technicians",
+    "automation_pctile": 95.02168417785909
+  },
+  {
+    "soc": "51-9111",
+    "occupation": "Packaging and Filling Machine Operators and Tenders",
+    "automation_pctile": 96.71116972719184
+  },
+  {
+    "soc": "51-9123",
+    "occupation": "Painting, Coating, and Decorating Workers",
+    "automation_pctile": 71.40460953675986
+  },
+  {
+    "soc": "51-9124",
+    "occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+    "automation_pctile": 70.26937768106951
+  },
+  {
+    "soc": "51-9141",
+    "occupation": "Semiconductor Processing Technicians",
+    "automation_pctile": 67.76385800874498
+  },
+  {
+    "soc": "51-9151",
+    "occupation": "Photographic Process Workers and Processing Machine Operators",
+    "automation_pctile": 99.85840217131656
+  },
+  {
+    "soc": "51-9161",
+    "occupation": "Computer Numerically Controlled Tool Operators",
+    "automation_pctile": 66.18665708058124
+  },
+  {
+    "soc": "51-9162",
+    "occupation": "Computer Numerically Controlled Tool Programmers",
+    "automation_pctile": 35.05705379477376
+  },
+  {
+    "soc": "51-9191",
+    "occupation": "Adhesive Bonding Machine Operators and Tenders",
+    "automation_pctile": 84.64567679793744
+  },
+  {
+    "soc": "51-9192",
+    "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+    "automation_pctile": 58.40238058588282
+  },
+  {
+    "soc": "51-9193",
+    "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+    "automation_pctile": 79.15964258038693
+  },
+  {
+    "soc": "51-9194",
+    "occupation": "Etchers and Engravers",
+    "automation_pctile": 96.89521822683152
+  },
+  {
+    "soc": "51-9195",
+    "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+    "automation_pctile": 70.14575376254628
+  },
+  {
+    "soc": "51-9196",
+    "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+    "automation_pctile": 50.36401237200274
+  },
+  {
+    "soc": "51-9197",
+    "occupation": "Tire Builders",
+    "automation_pctile": 79.21009199014667
+  },
+  {
+    "soc": "51-9198",
+    "occupation": "Helpers--Production Workers",
+    "automation_pctile": 49.83916489446548
+  },
+  {
+    "soc": "53-1041",
+    "occupation": "Aircraft Cargo Handling Supervisors",
+    "automation_pctile": 18.33514002520843
+  },
+  {
+    "soc": "53-2011",
+    "occupation": "Airline Pilots, Copilots, and Flight Engineers",
+    "automation_pctile": 28.956659081816092
+  },
+  {
+    "soc": "53-2012",
+    "occupation": "Commercial Pilots",
+    "automation_pctile": 37.84654419605467
+  },
+  {
+    "soc": "53-2021",
+    "occupation": "Air Traffic Controllers",
+    "automation_pctile": 22.402242933168523
+  },
+  {
+    "soc": "53-2022",
+    "occupation": "Airfield Operations Specialists",
+    "automation_pctile": 52.819803451145766
+  },
+  {
+    "soc": "53-2031",
+    "occupation": "Flight Attendants",
+    "automation_pctile": 34.48239246618014
+  },
+  {
+    "soc": "53-3011",
+    "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+    "automation_pctile": 32.3163076457557
+  },
+  {
+    "soc": "53-3031",
+    "occupation": "Driver/Sales Workers",
+    "automation_pctile": 95.4817666733788
+  },
+  {
+    "soc": "53-3032",
+    "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+    "automation_pctile": 58.03453936022801
+  },
+  {
+    "soc": "53-3033",
+    "occupation": "Light Truck Drivers",
+    "automation_pctile": 52.42688865957104
+  },
+  {
+    "soc": "53-3051",
+    "occupation": "Bus Drivers, School",
+    "automation_pctile": 69.84270077105673
+  },
+  {
+    "soc": "53-3052",
+    "occupation": "Bus Drivers, Transit and Intercity",
+    "automation_pctile": 50.47948253740456
+  },
+  {
+    "soc": "53-3053",
+    "occupation": "Shuttle Drivers and Chauffeurs",
+    "automation_pctile": 69.19459365864327
+  },
+  {
+    "soc": "53-3054",
+    "occupation": "Taxi Drivers",
+    "automation_pctile": 69.85627227458863
+  },
+  {
+    "soc": "53-4011",
+    "occupation": "Locomotive Engineers",
+    "automation_pctile": 91.38285482738613
+  },
+  {
+    "soc": "53-4013",
+    "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+    "automation_pctile": 70.27193541731482
+  },
+  {
+    "soc": "53-4022",
+    "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+    "automation_pctile": 78.33929905935761
+  },
+  {
+    "soc": "53-4031",
+    "occupation": "Railroad Conductors and Yardmasters",
+    "automation_pctile": 61.067053458392685
+  },
+  {
+    "soc": "53-4041",
+    "occupation": "Subway and Streetcar Operators",
+    "automation_pctile": 66.23761028687414
+  },
+  {
+    "soc": "53-5011",
+    "occupation": "Sailors and Marine Oilers",
+    "automation_pctile": 60.94172438237258
+  },
+  {
+    "soc": "53-5021",
+    "occupation": "Captains, Mates, and Pilots of Water Vessels",
+    "automation_pctile": 32.354743445878384
+  },
+  {
+    "soc": "53-5022",
+    "occupation": "Motorboat Operators",
+    "automation_pctile": 42.72217853402029
+  },
+  {
+    "soc": "53-5031",
+    "occupation": "Ship Engineers",
+    "automation_pctile": 15.7101663195121
+  },
+  {
+    "soc": "53-6011",
+    "occupation": "Bridge and Lock Tenders",
+    "automation_pctile": 95.02379237258248
+  },
+  {
+    "soc": "53-6021",
+    "occupation": "Parking Attendants",
+    "automation_pctile": 67.68719567782878
+  },
+  {
+    "soc": "53-6031",
+    "occupation": "Automotive and Watercraft Service Attendants",
+    "automation_pctile": 61.143219743491606
+  },
+  {
+    "soc": "53-6041",
+    "occupation": "Traffic Technicians",
+    "automation_pctile": 70.0897858430694
+  },
+  {
+    "soc": "53-6051",
+    "occupation": "Transportation Inspectors",
+    "automation_pctile": 70.10786051253623
+  },
+  {
+    "soc": "53-6061",
+    "occupation": "Passenger Attendants",
+    "automation_pctile": 54.79121354043867
+  },
+  {
+    "soc": "53-7011",
+    "occupation": "Conveyor Operators and Tenders",
+    "automation_pctile": 78.47416151592842
+  },
+  {
+    "soc": "53-7021",
+    "occupation": "Crane and Tower Operators",
+    "automation_pctile": 69.89859118337465
+  },
+  {
+    "soc": "53-7031",
+    "occupation": "Dredge Operators",
+    "automation_pctile": 74.41252286267421
+  },
+  {
+    "soc": "53-7041",
+    "occupation": "Hoist and Winch Operators",
+    "automation_pctile": 47.551688361695525
+  },
+  {
+    "soc": "53-7051",
+    "occupation": "Industrial Truck and Tractor Operators",
+    "automation_pctile": 79.15453485861221
+  },
+  {
+    "soc": "53-7061",
+    "occupation": "Cleaners of Vehicles and Equipment",
+    "automation_pctile": 35.41839216979276
+  },
+  {
+    "soc": "53-7062",
+    "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+    "automation_pctile": 64.69676796697327
+  },
+  {
+    "soc": "53-7063",
+    "occupation": "Machine Feeders and Offbearers",
+    "automation_pctile": 78.30310321612856
+  },
+  {
+    "soc": "53-7064",
+    "occupation": "Packers and Packagers, Hand",
+    "automation_pctile": 35.88455122657404
+  },
+  {
+    "soc": "53-7065",
+    "occupation": "Stockers and Order Fillers",
+    "automation_pctile": 46.03068787448553
+  },
+  {
+    "soc": "53-7071",
+    "occupation": "Gas Compressor and Gas Pumping Station Operators",
+    "automation_pctile": 71.2012074995307
+  },
+  {
+    "soc": "53-7072",
+    "occupation": "Pump Operators, Except Wellhead Pumpers",
+    "automation_pctile": 69.86603817661619
+  },
+  {
+    "soc": "53-7073",
+    "occupation": "Wellhead Pumpers",
+    "automation_pctile": 61.17918306524383
+  },
+  {
+    "soc": "53-7081",
+    "occupation": "Refuse and Recyclable Material Collectors",
+    "automation_pctile": 78.45396315030638
+  },
+  {
+    "soc": "53-7121",
+    "occupation": "Tank Car, Truck, and Ship Loaders",
+    "automation_pctile": 54.00473289715405
+  },
+  {
+    "soc": "53-7199",
+    "occupation": "Material Moving Workers, All Other",
+    "automation_pctile": 79.6859859460919
   }
 ]
