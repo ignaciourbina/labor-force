@@ -10,7 +10,7 @@ ALLOWED_ORIGINS = ["https://stonybrookuniversity.co1.qualtrics.com/"]
 # Base directory containing the JSON datasets
 BASE_DIR = Path(__file__).resolve().parent
 
-DATA_FILE = BASE_DIR / "data.json"             # occupation dataset
+DATA_FILE = BASE_DIR / "data.json"             # mock test data (not used in production)
 STATE_FILE = BASE_DIR / "data_state_foreign.json"
 AUTO_FILE = BASE_DIR / "data_occup_automation_extended.json"
 FOREIGN_FILE = BASE_DIR / "data_occup_foreign_extended.json"
