@@ -1,0 +1,13 @@
+Data mng Pipeline:
+- frontend: Capture 2 digit soc2018 (major) codes in qualtrics.
+- bakend (js): query the api endpoint to return the 6 digits soc 2018 codes for the selected 2 digit soc majorr code
+- frontend: Let the respondent select a 6 digit soc 2018 code.
+- bakend: query a second endpoint in which we retrieve:
+ -- Note: the backend has matched data:
+   for each 6 digit SOC we have computed the respective 4 digit occ CENSUS code data for native vs forgein
+     labor force participation. This is dataset "foreign_rate_per_occup"
+  a) % forgein born labor force for the census code associated with the 6 digit SOC.
+  b) Percentile rank automation risk for the 6 DIGIT SOC 2018 code.
+  Both (a) and (b) are fetched from the same query (since the query delivers to the endpoint
+    the 6 SOC code). 
+ - qualtrics backend: save the response into embedded data variables using javascript.
