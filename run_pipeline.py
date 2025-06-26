@@ -13,6 +13,7 @@ PIPELINE = [
     SCRIPT_DIR / "occupation_foreign_share.py",
     SCRIPT_DIR / "extend_foreign_data.py",
     SCRIPT_DIR / "state_foreign_share.py",
+    SCRIPT_DIR / "verify_foreign_share.py",
 ]
 
 
