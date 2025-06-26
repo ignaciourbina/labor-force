@@ -1,13 +1,18 @@
-"""Merge Frey-Osborne automation risk scores with SOC 2018 codes and employment.
+"""Merge automation risk scores with employment totals and compute percentiles.
 
-This script performs three steps:
-1. Join the automation risk table (indexed by SOC 2010) with a
-   SOC2010–SOC2018 crosswalk and save ``automation_risk_soc2018.csv``.
-2. Merge the result with ``national_employment_2024.csv`` to append ``TOT_EMP``
-   and save ``automation_risk_with_employment.csv``.
-3. Compute the employment-weighted percentile rank of the automation probability
-   and write ``automation_risk_percentiles.csv`` containing the SOC code,
-   occupation label, probability, employment count and percentile rank.
+This version of the pipeline starts with the national employment table indexed by
+SOC 2018 codes.  We attach the corresponding SOC 2010 codes, then merge in the
+Frey–Osborne automation probabilities (indexed by SOC 2010).  Finally we compute
+an employment‑weighted percentile rank of the automation risk.
+
+The script writes three intermediate files:
+
+1. ``employment_with_soc2010.csv`` – national employment totals annotated with
+   the matching 2010 SOC code(s).
+2. ``automation_risk_with_employment.csv`` – the above table merged with the
+   automation risk scores.
+3. ``automation_risk_percentiles.csv`` – final table containing the percentile
+   rank for each SOC 2018 occupation.
 """
 
 from pathlib import Path
@@ -24,56 +29,116 @@ FREY_FILE = FREY_DIR / "frey_osborne_automation_risk_index_clean.csv"
 CROSSWALK_FILE = FREY_DIR / "crosswalk_soc2010_to_soc2018.csv"
 EMP_FILE = DATA_DIR / "national_employment_2024.csv"
 
-OUT_SOC2018 = DATA_DIR / "automation_risk_soc2018.csv"
-OUT_EMPLOY = DATA_DIR / "automation_risk_with_employment.csv"
+OUT_EMP_SOC2010 = DATA_DIR / "employment_with_soc2010.csv"
+OUT_MERGED = DATA_DIR / "automation_risk_with_employment.csv"
 OUT_PERCENTILES = DATA_DIR / "automation_risk_percentiles.csv"
 
 
-def merge_soc2018() -> pd.DataFrame:
-    """Attach 2018 SOC codes to the automation risk table."""
-    frey = pd.read_csv(FREY_FILE, dtype={"SOC code": str})
+def attach_soc2010() -> pd.DataFrame:
+    """Attach SOC 2010 codes to the national employment table without altering
+    the original row count or employment totals."""
+
+    emp = pd.read_csv(
+        EMP_FILE,
+        dtype={"OCC_CODE": str, "OCC_TITLE": str, "TOT_EMP": "Int64"},
+    )
+
     cw = pd.read_csv(
         CROSSWALK_FILE,
         dtype={"2010 SOC Code": str, "2018 SOC Code": str},
     )
-    merged = frey.merge(cw, left_on="SOC code", right_on="2010 SOC Code", how="left")
-    merged.to_csv(OUT_SOC2018, index=False)
-    print(f"\u2713 Wrote {OUT_SOC2018}")
+
+    # Collapse duplicates so that each 2018 code appears once with all
+    # corresponding 2010 codes joined by ';'
+    grouped = cw.groupby("2018 SOC Code", as_index=False).agg({
+        "2010 SOC Code": lambda x: ";".join(sorted(set(x.dropna()))),
+        "2010 SOC Title": lambda x: "; ".join(sorted(set(x.dropna()))),
+    })
+
+    merged = emp.merge(grouped, left_on="OCC_CODE", right_on="2018 SOC Code", how="left")
+
+    # Flag rows lacking a 2010 mapping but keep them for auditing
+    merged["missing_soc2010"] = merged["2010 SOC Code"].isna()
+
+    merged.to_csv(OUT_EMP_SOC2010, index=False)
+    print(f"\u2713 Wrote {OUT_EMP_SOC2010}")
     return merged
 
 
-def merge_employment(df: pd.DataFrame) -> pd.DataFrame:
-    """Append national employment totals."""
-    emp = pd.read_csv(EMP_FILE, dtype={"OCC_CODE": str, "TOT_EMP": "Int64"})
-    result = df.merge(emp, left_on="2018 SOC Code", right_on="OCC_CODE", how="left")
-    result.to_csv(OUT_EMPLOY, index=False)
-    print(f"\u2713 Wrote {OUT_EMPLOY}")
-    return result
+def merge_frey(df: pd.DataFrame) -> pd.DataFrame:
+    """Merge the employment table with Frey–Osborne automation scores.
+
+    For 2018 codes that map to multiple 2010 codes, the automation
+    probability is averaged across the mapped codes."""
+
+    frey = pd.read_csv(FREY_FILE, dtype={"SOC code": str})
+
+    # Expand the table by individual 2010 codes and attach probabilities
+    expanded = (
+        df.assign(**{
+            "2010 SOC Code": df["2010 SOC Code"].str.split(";")
+        })
+        .explode("2010 SOC Code")
+        .merge(frey, left_on="2010 SOC Code", right_on="SOC code", how="left")
+    )
+
+    # Average probabilities for each 2018 occupation
+    grouped = expanded.groupby(["OCC_CODE", "OCC_TITLE", "TOT_EMP"], as_index=False).agg(
+        {
+            "Probability": "mean",
+            "Occupation": lambda x: "; ".join(sorted(set(x.dropna()))),
+            "2010 SOC Code": lambda x: ";".join(sorted(set(x.dropna()))),
+            "2010 SOC Title": lambda x: "; ".join(sorted(set(x.dropna()))),
+            "missing_soc2010": "first",
+        }
+    )
+
+    grouped.to_csv(OUT_MERGED, index=False)
+    print(f"\u2713 Wrote {OUT_MERGED}")
+    return grouped
 
 
 def add_percentile(df: pd.DataFrame) -> pd.DataFrame:
-    """Compute employment-weighted percentile ranks."""
+    """Compute employment-weighted percentile ranks.
+
+    Percentiles are calculated only for rows that have a probability
+    value. Unmatched occupations are kept with ``NaN`` percentiles."""
+
     df = df.copy()
+
     df["TOT_EMP"] = df["TOT_EMP"].fillna(0).astype("Int64")
-    df = df.sort_values("Probability").reset_index(drop=True)
-    df["cum_emp"] = df["TOT_EMP"].cumsum()
-    total_emp = df["TOT_EMP"].sum()
-    df["percentile_rank"] = df["cum_emp"] / total_emp * 100
-    final = df[[
-        "2018 SOC Code",
-        "Occupation",
-        "Probability",
-        "TOT_EMP",
-        "percentile_rank",
-    ]]
+
+    prob_df = df.dropna(subset=["Probability"]).sort_values("Probability")
+    prob_df["cum_emp"] = prob_df["TOT_EMP"].cumsum()
+    total_emp = prob_df["TOT_EMP"].sum()
+    prob_df["percentile_rank"] = prob_df["cum_emp"] / total_emp * 100
+
+    df = df.merge(
+        prob_df[["OCC_CODE", "percentile_rank"]],
+        on="OCC_CODE",
+        how="left",
+    )
+
+    final = df[
+        [
+            "OCC_CODE",
+            "OCC_TITLE",
+            "2010 SOC Code",
+            "2010 SOC Title",
+            "Probability",
+            "TOT_EMP",
+            "percentile_rank",
+            "missing_soc2010",
+        ]
+    ]
     final.to_csv(OUT_PERCENTILES, index=False)
     print(f"\u2713 Wrote {OUT_PERCENTILES}")
     return final
 
 
 def main() -> None:
-    step1 = merge_soc2018()
-    step2 = merge_employment(step1)
+    step1 = attach_soc2010()
+    step2 = merge_frey(step1)
     add_percentile(step2)
 
 
