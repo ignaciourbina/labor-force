@@ -19,6 +19,8 @@ These files are derived from the Current Population Survey (CPS) and other BLS r
   - `total_lf`, `native`, `foreign` – Same definitions as above.
 
 - **csv_crosswalk_census18codes_to_soc18codes.csv** – Crosswalk mapping 2018 Census occupation codes to 2018 SOC codes as published by the Census Bureau. Used by the scripts in `../scripts/` to merge SOC titles into the occupation totals.
+- **national_employment_2024.csv** – National employment totals by SOC code from the May 2024 OEWS release.
+- **employment_summary.md** – Quick summary statistics for the `TOT_EMP` column in the national employment table.
 
 ## How These Tables Fit In
 

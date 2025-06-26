@@ -10,3 +10,10 @@ This project implements a Qualtrics-based workflow to fetch labor force statisti
 4. **Store in Embedded Data** – The retrieved data are saved to Qualtrics embedded data fields so they can be used later in the survey.
 
 This pipeline allows the survey to display personalized labor force statistics to each respondent based on their occupation and location.
+
+## Repository Contents
+
+- `API_database_laborforce/` – FastAPI application and dataset powering the SOC lookup service.
+- `data_tables/` – Precomputed CSV tables consumed by the API, including national employment totals.
+- `oesem_may24_data/` – Raw BLS employment spreadsheets downloaded May 2024.
+- `frey_and_osborne18_data/` – Automation risk scores and crosswalks from Frey and Osborne (2018).
