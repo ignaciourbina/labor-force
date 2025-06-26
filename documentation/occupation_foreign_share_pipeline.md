@@ -4,8 +4,9 @@ This document explains how the percentage of foreign‑born workers is
 computed for each occupation code and its three‑digit SOC aggregate.
 
 ## Inputs
-1. `data_tables/cps_occ_labor_force_totals_soc2018_xwalk.csv` – CPS
-   labor‑force totals with a Census‑to‑SOC crosswalk.
+1. `data_tables/soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv` –
+   full SOC 2018 list merged with CPS labor‑force totals. This file is
+   produced by running `python scripts/merge_soc2018_with_cps.py`.
 
 ## Method
 1. Read the CSV file keeping occupation codes as strings.

@@ -25,18 +25,18 @@ assert totals['occ2018'].isin(cross['2018 Census Code']).all()
 
 ## 2. Check the Merged CPS Table
 
-Run `scripts/occtable_merge_soc2018codes.py` (or inspect the existing
+Run `scripts/merge_soc2018_with_cps.py` (or inspect the existing
 file) and confirm:
 
-- Row count remains 523 (matching the original CPS totals).
-- Exactly 521 rows contain a valid `2018 SOC Code`; the remaining two
-  correspond to "Occupation not reported" and "Armed Forces".
+- Row count is 867, matching the full list of detailed SOC codes.
+- Some rows may have missing labor‑force totals if the CPS table
+  lacks that Census code.
 - Summing `foreign` and `total_lf` columns before and after the merge
   yields the same totals.
 
 ```python
-merged = pd.read_csv("data_tables/cps_occ_labor_force_totals_soc2018_xwalk.csv")
-assert len(merged) == 523
+merged = pd.read_csv("data_tables/soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv")
+assert len(merged) == 867
 assert merged['foreign'].sum().round(2) == totals['foreign'].sum().round(2)
 ```
 
@@ -44,8 +44,8 @@ assert merged['foreign'].sum().round(2) == totals['foreign'].sum().round(2)
 
 Execute `python scripts/occupation_foreign_share.py` and ensure that:
 
-1. The script prints a confirmation message and writes exactly 521
-   records.
+1. The script prints a confirmation message and writes 867 records
+   corresponding to every detailed SOC code.
 2. Every `soc` value is unique and matches one of the codes from the
    merged CPS table.
 3. Recomputing `foreign_pct` from the CSV totals reproduces the values in

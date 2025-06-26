@@ -1,7 +1,7 @@
 from __future__ import annotations
 """Build foreign-born labor-force percentages by occupation.
 
-Reads ``data_tables/cps_occ_labor_force_totals_soc2018_xwalk.csv`` and
+Reads ``data_tables/soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv`` and
 writes ``API_database_laborforce/data_occup_foreign.json`` with records like::
     {
         "soc": "11-1011",
@@ -18,7 +18,9 @@ from pathlib import Path
 
 import pandas as pd
 
-DATA_FILE = Path("data_tables/cps_occ_labor_force_totals_soc2018_xwalk.csv")
+DATA_FILE = Path(
+    "data_tables/soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv"
+)
 OUT_FILE = Path("API_database_laborforce/data_occup_foreign.json")
 
 

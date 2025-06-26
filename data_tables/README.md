@@ -11,7 +11,7 @@ These files are derived from the Current Population Survey (CPS) and other BLS r
   - `native` – Native‑born share of the labor force.
   - `foreign` – Foreign‑born (non‑citizen) share of the labor force.
 
-- **cps_occ_labor_force_totals_soc2018_xwalk.csv** – The occupation totals table above merged with the 2018 Census→SOC crosswalk. Columns include the totals as well as the 2018 Census title, Census code, corresponding SOC code and SOC title. Special rows for "Occupation not reported" and "Armed Forces (military)" are preserved.
+- **soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv** – The full list of detailed 2018 SOC codes with CPS labor‑force totals attached via the Census crosswalk. Rows without CPS data have missing totals.
 
 - **cps_state_labor_force_totals.csv** – State‑level labor‑force totals. Columns:
   - `state_abbr` – Two‑letter USPS abbreviation.

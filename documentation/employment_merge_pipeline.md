@@ -4,7 +4,7 @@ This document outlines how national employment totals from the May 2024 OEWS rel
 
 ## Inputs
 1. `data_tables/national_employment_2024.csv` – employment counts by six‑digit SOC code. This file is generated from the OEWS Excel release if it does not already exist.
-2. `data_tables/cps_occ_labor_force_totals_soc2018_xwalk.csv` – CPS labor‑force totals with a Census‑to‑SOC crosswalk.
+2. `data_tables/soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv` – SOC‑2018 table with CPS labor‑force totals.
 3. `data_tables/csv_crosswalk_census18codes_to_soc18codes.csv` – Mapping from 2018 SOC codes (including wildcard values) to 2018 Census occupation codes.
 
 The CPS file contains about 500 rows because several SOC codes are collapsed under a single Census occupation code. Wildcard values such as `51-20XX` or `51-4XXX` denote that all six‑digit SOC codes sharing that prefix belong to the same Census occupation.

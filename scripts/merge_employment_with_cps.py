@@ -20,7 +20,7 @@ RAW_OEWS_FILE = (
 
 DATA_DIR = Path(__file__).resolve().parents[1] / "data_tables"
 OEWS_FILE = DATA_DIR / "national_employment_2024.csv"
-CPS_FILE = DATA_DIR / "cps_occ_labor_force_totals_soc2018_xwalk.csv"
+CPS_FILE = DATA_DIR / "soc2018_codes_mergedWith_cps_occ_labor_force_totals.csv"
 OUT_FILE = DATA_DIR / "cps_occ_labor_force_with_employment.csv"
 
 
