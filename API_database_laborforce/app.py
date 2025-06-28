@@ -14,6 +14,7 @@ DATA_FILE = BASE_DIR / "data.json"             # mock test data (not used in pro
 STATE_FILE = BASE_DIR / "data_state_foreign.json"
 AUTO_FILE = BASE_DIR / "data_occup_automation_extended.json"
 FOREIGN_FILE = BASE_DIR / "data_occup_foreign_extended.json"
+
 # ────────────────────────────────────────────────────────────────
 
 app = FastAPI(
@@ -124,7 +125,6 @@ def occ_foreign_rate(
         }
     except KeyError:
         raise HTTPException(status_code=404, detail="SOC code not found")
-
 
 @app.get("/automation_family")
 def automation_family(
