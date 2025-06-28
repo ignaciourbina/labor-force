@@ -67,6 +67,9 @@ def main() -> None:
         ]
     ].rename(columns={"2018 SOC Code": "soc"})
 
+    # Replace pandas NaN values with ``None`` so JSON contains ``null``
+    rows = rows.astype(object).where(pd.notnull(rows), None)
+
     OUT_FILE.write_text(json.dumps(rows.to_dict(orient="records"), indent=2))
     print(f"\u2713 Wrote {OUT_FILE}")
 

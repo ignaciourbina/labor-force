@@ -20,7 +20,7 @@
   {
     "soc": "11-1031",
     "occ_label": "Legislators",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "11-1",
     "foreign_pct_soc3": 12.68,
     "major": "11",
@@ -281,7 +281,7 @@
   {
     "soc": "11-9131",
     "occ_label": "Postmasters and Mail Superintendents",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "11-9",
     "foreign_pct_soc3": 15.15,
     "major": "11",
@@ -317,7 +317,7 @@
   {
     "soc": "11-9171",
     "occ_label": "Funeral Home Managers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "11-9",
     "foreign_pct_soc3": 15.15,
     "major": "11",
@@ -326,7 +326,7 @@
   {
     "soc": "11-9179",
     "occ_label": "Personal Service Managers, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "11-9",
     "foreign_pct_soc3": 15.15,
     "major": "11",
@@ -803,7 +803,7 @@
   {
     "soc": "15-2021",
     "occ_label": "Mathematicians",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "15-2",
     "foreign_pct_soc3": 20.39,
     "major": "15",
@@ -821,7 +821,7 @@
   {
     "soc": "15-2041",
     "occ_label": "Statisticians",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "15-2",
     "foreign_pct_soc3": 20.39,
     "major": "15",
@@ -893,7 +893,7 @@
   {
     "soc": "17-2021",
     "occ_label": "Agricultural Engineers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "17-2",
     "foreign_pct_soc3": 21.92,
     "major": "17",
@@ -1010,7 +1010,7 @@
   {
     "soc": "17-2151",
     "occ_label": "Mining and Geological Engineers, Including Mining Safety Engineers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "17-2",
     "foreign_pct_soc3": 21.92,
     "major": "17",
@@ -1019,7 +1019,7 @@
   {
     "soc": "17-2161",
     "occ_label": "Nuclear Engineers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "17-2",
     "foreign_pct_soc3": 21.92,
     "major": "17",
@@ -1271,7 +1271,7 @@
   {
     "soc": "19-1099",
     "occ_label": "Life Scientists, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "19-1",
     "foreign_pct_soc3": 22.29,
     "major": "19",
@@ -1370,7 +1370,7 @@
   {
     "soc": "19-3022",
     "occ_label": "Survey Researchers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "19-3",
     "foreign_pct_soc3": 9.48,
     "major": "19",
@@ -1415,7 +1415,7 @@
   {
     "soc": "19-3041",
     "occ_label": "Sociologists",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "19-3",
     "foreign_pct_soc3": 9.48,
     "major": "19",
@@ -1541,7 +1541,7 @@
   {
     "soc": "19-4051",
     "occ_label": "Nuclear Technicians",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "19-4",
     "foreign_pct_soc3": 14.26,
     "major": "19",
@@ -1550,7 +1550,7 @@
   {
     "soc": "19-4061",
     "occ_label": "Social Science Research Assistants",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "19-4",
     "foreign_pct_soc3": 14.26,
     "major": "19",
@@ -1784,7 +1784,7 @@
   {
     "soc": "23-1021",
     "occ_label": "Administrative Law Judges, Adjudicators, and Hearing Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "23-1",
     "foreign_pct_soc3": 8.93,
     "major": "23",
@@ -1793,7 +1793,7 @@
   {
     "soc": "23-1022",
     "occ_label": "Arbitrators, Mediators, and Conciliators",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "23-1",
     "foreign_pct_soc3": 8.93,
     "major": "23",
@@ -1802,7 +1802,7 @@
   {
     "soc": "23-1023",
     "occ_label": "Judges, Magistrate Judges, and Magistrates",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "23-1",
     "foreign_pct_soc3": 8.93,
     "major": "23",
@@ -2801,7 +2801,7 @@
   {
     "soc": "27-4099",
     "occ_label": "Media and Communication Equipment Workers, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "27-4",
     "foreign_pct_soc3": 5.09,
     "major": "27",
@@ -2963,7 +2963,7 @@
   {
     "soc": "29-1128",
     "occ_label": "Exercise Physiologists",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "29-1",
     "foreign_pct_soc3": 21.28,
     "major": "29",
@@ -3008,7 +3008,7 @@
   {
     "soc": "29-1161",
     "occ_label": "Nurse Midwives",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "29-1",
     "foreign_pct_soc3": 21.28,
     "major": "29",
@@ -3062,7 +3062,7 @@
   {
     "soc": "29-1214",
     "occ_label": "Emergency Medicine Physicians",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "29-1",
     "foreign_pct_soc3": 21.28,
     "major": "29",
@@ -3134,7 +3134,7 @@
   {
     "soc": "29-1224",
     "occ_label": "Radiologists",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "29-1",
     "foreign_pct_soc3": 21.28,
     "major": "29",
@@ -3656,7 +3656,7 @@
   {
     "soc": "33-1099",
     "occ_label": "First-Line Supervisors of Protective Service Workers, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "33-1",
     "foreign_pct_soc3": 4.05,
     "major": "33",
@@ -3719,7 +3719,7 @@
   {
     "soc": "33-3031",
     "occ_label": "Fish and Game Wardens",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "33-3",
     "foreign_pct_soc3": 4.72,
     "major": "33",
@@ -4601,7 +4601,7 @@
   {
     "soc": "43-2099",
     "occ_label": "Communications Equipment Operators, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "43-2",
     "foreign_pct_soc3": 19.72,
     "major": "43",
@@ -4637,7 +4637,7 @@
   {
     "soc": "43-3041",
     "occ_label": "Gambling Cage Workers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "43-3",
     "foreign_pct_soc3": 13.2,
     "major": "43",
@@ -4682,7 +4682,7 @@
   {
     "soc": "43-4011",
     "occ_label": "Brokerage Clerks",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "43-4",
     "foreign_pct_soc3": 12.89,
     "major": "43",
@@ -4691,7 +4691,7 @@
   {
     "soc": "43-4021",
     "occ_label": "Correspondence Clerks",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "43-4",
     "foreign_pct_soc3": 12.89,
     "major": "43",
@@ -4988,7 +4988,7 @@
   {
     "soc": "43-9031",
     "occ_label": "Desktop Publishers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "43-9",
     "foreign_pct_soc3": 11.99,
     "major": "43",
@@ -5078,7 +5078,7 @@
   {
     "soc": "45-2021",
     "occ_label": "Animal Breeders",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "45-2",
     "foreign_pct_soc3": 49.74,
     "major": "45",
@@ -5420,7 +5420,7 @@
   {
     "soc": "47-2171",
     "occ_label": "Reinforcing Iron and Rebar Workers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "47-2",
     "foreign_pct_soc3": 34.73,
     "major": "47",
@@ -5582,7 +5582,7 @@
   {
     "soc": "47-4071",
     "occ_label": "Septic Tank Servicers and Sewer Pipe Cleaners",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "47-4",
     "foreign_pct_soc3": 19.19,
     "major": "47",
@@ -5636,7 +5636,7 @@
   {
     "soc": "47-5022",
     "occ_label": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "47-5",
     "foreign_pct_soc3": 19.35,
     "major": "47",
@@ -5708,7 +5708,7 @@
   {
     "soc": "47-5071",
     "occ_label": "Roustabouts, Oil and Gas",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "47-5",
     "foreign_pct_soc3": 19.35,
     "major": "47",
@@ -5789,7 +5789,7 @@
   {
     "soc": "49-2093",
     "occ_label": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "49-2",
     "foreign_pct_soc3": 18.84,
     "major": "49",
@@ -5816,7 +5816,7 @@
   {
     "soc": "49-2096",
     "occ_label": "Electronic Equipment Installers and Repairers, Motor Vehicles",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "49-2",
     "foreign_pct_soc3": 18.84,
     "major": "49",
@@ -6113,7 +6113,7 @@
   {
     "soc": "49-9081",
     "occ_label": "Wind Turbine Service Technicians",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "49-9",
     "foreign_pct_soc3": 18.28,
     "major": "49",
@@ -6131,7 +6131,7 @@
   {
     "soc": "49-9092",
     "occ_label": "Commercial Divers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "49-9",
     "foreign_pct_soc3": 18.28,
     "major": "49",
@@ -6149,7 +6149,7 @@
   {
     "soc": "49-9095",
     "occ_label": "Manufactured Building and Mobile Home Installers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "49-9",
     "foreign_pct_soc3": 18.28,
     "major": "49",
@@ -6203,7 +6203,7 @@
   {
     "soc": "51-2011",
     "occ_label": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-2",
     "foreign_pct_soc3": 18.53,
     "major": "51",
@@ -6788,7 +6788,7 @@
   {
     "soc": "51-7042",
     "occ_label": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-7",
     "foreign_pct_soc3": 26.66,
     "major": "51",
@@ -7076,7 +7076,7 @@
   {
     "soc": "51-9191",
     "occ_label": "Adhesive Bonding Machine Operators and Tenders",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-9",
     "foreign_pct_soc3": 26.18,
     "major": "51",
@@ -7085,7 +7085,7 @@
   {
     "soc": "51-9192",
     "occ_label": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-9",
     "foreign_pct_soc3": 26.18,
     "major": "51",
@@ -7094,7 +7094,7 @@
   {
     "soc": "51-9193",
     "occ_label": "Cooling and Freezing Equipment Operators and Tenders",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-9",
     "foreign_pct_soc3": 26.18,
     "major": "51",
@@ -7130,7 +7130,7 @@
   {
     "soc": "51-9197",
     "occ_label": "Tire Builders",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-9",
     "foreign_pct_soc3": 26.18,
     "major": "51",
@@ -7148,7 +7148,7 @@
   {
     "soc": "51-9199",
     "occ_label": "Production Workers, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "51-9",
     "foreign_pct_soc3": 26.18,
     "major": "51",
@@ -7409,7 +7409,7 @@
   {
     "soc": "53-5031",
     "occ_label": "Ship Engineers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "53-5",
     "foreign_pct_soc3": 0.0,
     "major": "53",
@@ -7634,171 +7634,171 @@
   {
     "soc": "55-1011",
     "occ_label": "Air Crew Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1012",
     "occ_label": "Aircraft Launch and Recovery Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1013",
     "occ_label": "Armored Assault Vehicle Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1014",
     "occ_label": "Artillery and Missile Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1015",
     "occ_label": "Command and Control Center Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1016",
     "occ_label": "Infantry Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1017",
     "occ_label": "Special Forces Officers",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-1019",
     "occ_label": "Military Officer Special and Tactical Operations Leaders, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-1",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-2011",
     "occ_label": "First-Line Supervisors of Air Crew Members",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-2",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-2012",
     "occ_label": "First-Line Supervisors of Weapons Specialists/Crew Members",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-2",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-2013",
     "occ_label": "First-Line Supervisors of All Other Tactical Operations Specialists",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-2",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3011",
     "occ_label": "Air Crew Members",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3012",
     "occ_label": "Aircraft Launch and Recovery Specialists",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3013",
     "occ_label": "Armored Assault Vehicle Crew Members",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3014",
     "occ_label": "Artillery and Missile Crew Members",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3015",
     "occ_label": "Command and Control Center Specialists",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3016",
     "occ_label": "Infantry",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3018",
     "occ_label": "Special Forces",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   },
   {
     "soc": "55-3019",
     "occ_label": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",
-    "foreign_pct": NaN,
+    "foreign_pct": null,
     "soc3": "55-3",
-    "foreign_pct_soc3": NaN,
+    "foreign_pct_soc3": null,
     "major": "55",
     "synonyms": "We're sorry, the requested page could not be found. Please try the following:"
   }
