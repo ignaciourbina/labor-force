@@ -14,7 +14,8 @@ This pipeline allows the survey to display personalized labor force statistics t
 
 ## Repository Contents
 
- - `API_database_laborforce/` – FastAPI application and JSON datasets powering the SOC lookup service.
+- `API_database_laborforce/` – FastAPI application and JSON datasets powering the SOC lookup service.
+- `qualtrics_snippets/` – JavaScript helpers for calling the API from Qualtrics.
 - `ONET-Scrapped-Data/` – Raw occupation descriptions used to generate synonyms.
 - `data_tables/` – Precomputed CSV tables consumed by the API, including national employment totals.
 - `oesem_may24_data/` – Raw BLS employment spreadsheets downloaded May 2024.

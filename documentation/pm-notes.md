@@ -6,7 +6,7 @@ This document summarizes the data-management workflow for the labor-force projec
 
 The survey workflow relies on a custom API that returns labor‑force statistics based on the respondent's selected occupation and state. The key pieces are:
 
-1. **Qualtrics front end** – JavaScript snippets under `API_database_laborforce/qualtricsEngine_js_snippets/` capture the respondent's two‑digit SOC code and fetch the list of matching six‑digit codes. The chosen code is stored in embedded data.
+1. **Qualtrics front end** – JavaScript snippets under `qualtrics_snippets/` capture the respondent's two‑digit SOC code and fetch the list of matching six‑digit codes. The chosen code is stored in embedded data.
 2. **API back end** – `API_database_laborforce/app.py` serves the `/query` and `/foreign_rate` endpoints. It loads `data.json` (occupation records) and `data_state_foreign.json` (state foreign‑born percentages).
 3. **Precomputed tables** – CSV files in `data_tables/` provide occupation totals, state totals, national employment counts, and automation-risk percentiles. They are produced by the scripts in `scripts/` and notebooks in the repository.
 4. **Automation risk & employment** – `scripts/automation_risk_pipeline.py` merges employment totals with the Frey‑Osborne automation-risk scores, resulting in `automation_risk_percentiles.csv`.
